@@ -54,10 +54,10 @@
   <property __name="label" en="Express DCO File" zc="" />
  </Item>
  <Item type="Value" keyed_name="6750DF120824420BA7FA9943397A99B4" config_id="6750DF120824420BA7FA9943397A99B4">
-  <property __name="label" en="CAD Document" zc="" />
+  <property __name="label" en="CAD Document" zc="CAD文档" />
  </Item>
  <Item type="Value" keyed_name="67977223654441FCA1939E7D624199AB" config_id="67977223654441FCA1939E7D624199AB">
-  <property __name="label" en="Activity2 Comments" zc="" />
+  <property __name="label" en="Activity2 Comments" zc="任务描述" />
  </Item>
  <Item type="Value" keyed_name="6C7B6C0D3F824BE7810068930E85221E" config_id="6C7B6C0D3F824BE7810068930E85221E">
   <property __name="label" en="SecureMessageVideo" zc="" />
@@ -120,28 +120,28 @@
   <property __name="label" en="Existing" zc="" />
  </Item>
  <Item type="Value" keyed_name="0A158C5BE37C4BCBBBA3FC3AAF259AE0" config_id="0A158C5BE37C4BCBBBA3FC3AAF259AE0">
-  <property __name="label" en="Workflow Task" zc="" />
+  <property __name="label" en="Workflow Task" zc="工作流任务" />
  </Item>
  <Item type="Value" keyed_name="5B06792F3C7E491E8ABEEF2B09D0D8E1" config_id="5B06792F3C7E491E8ABEEF2B09D0D8E1">
-  <property __name="label" en="Project Task" zc="" />
+  <property __name="label" en="Project Task" zc="项目任务" />
  </Item>
  <Item type="Value" keyed_name="6673DF45F307459AAB6C266D5583F757" config_id="6673DF45F307459AAB6C266D5583F757">
-  <property __name="label" en="Finished" zc="" />
+  <property __name="label" en="Finished" zc="已完成" />
  </Item>
  <Item type="Value" keyed_name="B8BF078B410C4996967CEC10619EAE78" config_id="B8BF078B410C4996967CEC10619EAE78">
   <property __name="label" en="Preparing" zc="" />
  </Item>
  <Item type="Value" keyed_name="CE09F2B25EC449B59F505C5D6BD683BD" config_id="CE09F2B25EC449B59F505C5D6BD683BD">
-  <property __name="label" en="Not Started" zc="" />
+  <property __name="label" en="Not Started" zc="未开始" />
  </Item>
  <Item type="Value" keyed_name="EFB491F23CB14C4494D26B7FA586B030" config_id="EFB491F23CB14C4494D26B7FA586B030">
-  <property __name="label" en="In Progress" zc="" />
+  <property __name="label" en="In Progress" zc="处理中" />
  </Item>
  <Item type="Value" keyed_name="Change" config_id="D41FB2AE704145EDBD2B9449EE3511A5">
-  <property __name="label" en="Change" zc="" />
+  <property __name="label" en="Change" zc="变更" />
  </Item>
  <Item type="Value" keyed_name="Release" config_id="0064422177544CA78461969C6FDC7CC6">
-  <property __name="label" en="Release" zc="" />
+  <property __name="label" en="Release" zc="发布" />
  </Item>
  <Item type="Value" keyed_name="7B50A1C5399D4DA99D6393EC515477CA" config_id="7B50A1C5399D4DA99D6393EC515477CA">
   <property __name="label" en="OnStartTaskProcessing" zc="" />
@@ -411,10 +411,10 @@
   <property __name="label" en="Like" zc="" />
  </Item>
  <Item type="Value" keyed_name="All Assignments" config_id="8468E12B63B54452A8C691E418602F20">
-  <property __name="label" en="All Assignments" zc="" />
+  <property __name="label" en="All Assignments" zc="所有签审人员" />
  </Item>
  <Item type="Value" keyed_name="Alternate" config_id="8C9531C2CA78416CAFBE77698BF9CF26">
-  <property __name="label" en="Alternate" zc="" />
+  <property __name="label" en="Alternate" zc="替换" />
  </Item>
  <Item type="Value" keyed_name="Closed Assignments" config_id="D3E7EB52849F4C38A146000BA8008436">
   <property __name="label" en="Closed Assignments" zc="" />
@@ -447,13 +447,13 @@
   <property __name="label" en="Service" zc="服务" />
  </Item>
  <Item type="Value" keyed_name="1E7A9AD340314556B138FB9D47A13540" config_id="1E7A9AD340314556B138FB9D47A13540">
-  <property __name="label" en="Logout" zc="" />
+  <property __name="label" en="Logout" zc="注销" />
  </Item>
  <Item type="Value" keyed_name="4499E2AFD379407C91D30A39181914AC" config_id="4499E2AFD379407C91D30A39181914AC">
-  <property __name="label" en="FailedLogin" zc="" />
+  <property __name="label" en="FailedLogin" zc="登录失败" />
  </Item>
  <Item type="Value" keyed_name="48127F3865834B99903A65CF8400965D" config_id="48127F3865834B99903A65CF8400965D">
-  <property __name="label" en="SuccessfulLogin" zc="" />
+  <property __name="label" en="SuccessfulLogin" zc="登录成功" />
  </Item>
  <Item type="Value" keyed_name="Auto" config_id="FD978F27D9EB41A5ACA155494C91E9F2">
   <property __name="label" en="Auto" zc="" />
@@ -516,19 +516,19 @@
   <property __name="label" en="M" zc="" />
  </Item>
  <Item type="Value" keyed_name="378731F8522A4DA48F0BBC14909C347D" config_id="378731F8522A4DA48F0BBC14909C347D">
-  <property __name="label" en="Ascending" zc="" />
+  <property __name="label" en="Ascending" zc="升序" />
  </Item>
  <Item type="Value" keyed_name="FFAD3974CA4A4539B77D69B8561CE083" config_id="FFAD3974CA4A4539B77D69B8561CE083">
-  <property __name="label" en="Descending" zc="" />
+  <property __name="label" en="Descending" zc="倒序" />
  </Item>
  <Item type="Value" keyed_name="Database Table" config_id="82A544443FD6446D863543C01DA5EC0A">
-  <property __name="label" en="Database Table" zc="" />
+  <property __name="label" en="Database Table" zc="数据表" />
  </Item>
  <Item type="Value" keyed_name="Jabber Client" config_id="AEF56B57262C479E961102913F86ADAF">
   <property __name="label" en="Jabber Client" zc="" />
  </Item>
  <Item type="Value" keyed_name="Log File" config_id="BA587359D27247B389CAE2FBB49F2144">
-  <property __name="label" en="Log File" zc="" />
+  <property __name="label" en="Log File" zc="日志文件" />
  </Item>
  <Item type="Value" keyed_name="783AE3F8ACC540E38515BCADBB142AAD" config_id="783AE3F8ACC540E38515BCADBB142AAD">
   <property __name="label" en="Link to Server" zc="" />
@@ -2008,10 +2008,10 @@
   <property __name="label" en="From Item" zc="" />
  </Item>
  <Item type="Value" keyed_name="26DF2D0CD2554DA4A2A52BC74C8D3768" config_id="26DF2D0CD2554DA4A2A52BC74C8D3768">
-  <property __name="label" en="Relationships Grid" zc="" />
+  <property __name="label" en="Relationships Grid" zc="关系网格" />
  </Item>
  <Item type="Value" keyed_name="AE9471AC6438418C8059DC1FEF8351D5" config_id="AE9471AC6438418C8059DC1FEF8351D5">
-  <property __name="label" en="Search Dialog" zc="" />
+  <property __name="label" en="Search Dialog" zc="查询对话框" />
  </Item>
  <Item type="Value" keyed_name="BEB8188BA74B4BF1B27E9AAA7F38DD20" config_id="BEB8188BA74B4BF1B27E9AAA7F38DD20">
   <property __name="label" en="ProjectTree" zc="" />
@@ -2026,25 +2026,25 @@
   <property __name="label" en="CMF Property MyTextProp" zc="" />
  </Item>
  <Item type="Value" keyed_name="620358A1ADFE44B3BEB4CF83D2F22C89" config_id="620358A1ADFE44B3BEB4CF83D2F22C89">
-  <property __name="label" en="Search" zc="" />
+  <property __name="label" en="Search" zc="全文搜索" />
  </Item>
  <Item type="Value" keyed_name="7F4A11CF21FF49DCAEFF334A801F25E1" config_id="7F4A11CF21FF49DCAEFF334A801F25E1">
   <property __name="label" en="My Inbasket" zc="我的任务" />
  </Item>
  <Item type="Value" keyed_name="B14CB4E5D9084D6098BB52118A515A59" config_id="B14CB4E5D9084D6098BB52118A515A59">
-  <property __name="label" en="Search Center" zc="" />
+  <property __name="label" en="Search Center" zc="搜索中心" />
  </Item>
  <Item type="Value" keyed_name="B58CEA4291904BC79F2E0CCCC32F6B9E" config_id="B58CEA4291904BC79F2E0CCCC32F6B9E">
   <property __name="label" en="My Desktop" zc="我的桌面" />
  </Item>
  <Item type="Value" keyed_name="B9BF7EF7ED4E4F48B5A8312C732A314E" config_id="B9BF7EF7ED4E4F48B5A8312C732A314E">
-  <property __name="label" en="My Reports" zc="" />
+  <property __name="label" en="My Reports" zc="我的报表" />
  </Item>
  <Item type="Value" keyed_name="C07CBB90CFD641659B570CC5EAE63240" config_id="C07CBB90CFD641659B570CC5EAE63240">
   <property __name="label" en="Configurable InBasket" zc="" />
  </Item>
  <Item type="Value" keyed_name="E36D91D565B84562A80ECB4BA67C8E7A" config_id="E36D91D565B84562A80ECB4BA67C8E7A">
-  <property __name="label" en="My Discussion" zc="" />
+  <property __name="label" en="My Discussion" zc="我的讨论" />
  </Item>
  <Item type="Value" keyed_name="27CAD27C468747DBA5390861DB9A6103" config_id="27CAD27C468747DBA5390861DB9A6103">
   <property __name="label" en="Administrative Hierarchy" zc="" />
@@ -2665,10 +2665,10 @@
   <property __name="label" en="Red" zc="红" />
  </Item>
  <Item type="Value" keyed_name="0336D1D53C974E99B8325FB85E87449A" config_id="0336D1D53C974E99B8325FB85E87449A">
-  <property __name="label" en="Enterprise Search" zc="" />
+  <property __name="label" en="Enterprise Search" zc="企业搜索" />
  </Item>
  <Item type="Value" keyed_name="0E8F2BB2F4264532926626B6FBB40A8B" config_id="0E8F2BB2F4264532926626B6FBB40A8B">
-  <property __name="label" en="Watermarking" zc="" />
+  <property __name="label" en="Watermarking" zc="水印设置" />
  </Item>
  <Item type="Value" keyed_name="16B4152DEE0C4B5E8FF55C413437B321" config_id="16B4152DEE0C4B5E8FF55C413437B321">
   <property __name="label" en="Project Innovator" zc="" />
@@ -2677,7 +2677,7 @@
   <property __name="label" en="Training Innovator" zc="" />
  </Item>
  <Item type="Value" keyed_name="1C7079D7CCF24601A686945B53830263" config_id="1C7079D7CCF24601A686945B53830263">
-  <property __name="label" en="Content Modeling" zc="" />
+  <property __name="label" en="Content Modeling" zc="内容建模" />
  </Item>
  <Item type="Value" keyed_name="2AAC4694A39646F28F1DBEC8090CAC0E" config_id="2AAC4694A39646F28F1DBEC8090CAC0E">
   <property __name="label" en="Templates" zc="模板" />
@@ -2713,16 +2713,16 @@
   <property __name="label" en="Sales Innovator" zc="" />
  </Item>
  <Item type="Value" keyed_name="6A46876753A84E96BD6D710D34325453" config_id="6A46876753A84E96BD6D710D34325453">
-  <property __name="label" en="Notification" zc="" />
+  <property __name="label" en="Notification" zc="消息通知" />
  </Item>
  <Item type="Value" keyed_name="712769AD781040A68D235BA4C45019C9" config_id="712769AD781040A68D235BA4C45019C9">
-  <property __name="label" en="Configuration" zc="" />
+  <property __name="label" en="Configuration" zc="配置管理" />
  </Item>
  <Item type="Value" keyed_name="7EF0C11AF2A34E288C71DE7E3ACB39C0" config_id="7EF0C11AF2A34E288C71DE7E3ACB39C0">
-  <property __name="label" en="Cloud Services" zc="" />
+  <property __name="label" en="Cloud Services" zc="云服务" />
  </Item>
  <Item type="Value" keyed_name="7F439663C36244AF915AEBCF854BBD29" config_id="7F439663C36244AF915AEBCF854BBD29">
-  <property __name="label" en="Technical Documentation" zc="" />
+  <property __name="label" en="Technical Documentation" zc="技术文档" />
  </Item>
  <Item type="Value" keyed_name="80A3528A2BDB428D9C39439C34EB6993" config_id="80A3528A2BDB428D9C39439C34EB6993">
   <property __name="label" en="Dashboards" zc="仪表板" />
@@ -2731,13 +2731,13 @@
   <property __name="label" en="Change Management" zc="变更管理" />
  </Item>
  <Item type="Value" keyed_name="9134B607C0D7480EB4802BA5B30C7EF0" config_id="9134B607C0D7480EB4802BA5B30C7EF0">
-  <property __name="label" en="Extended Classification" zc="" />
+  <property __name="label" en="Extended Classification" zc="扩展类结构" />
  </Item>
  <Item type="Value" keyed_name="92FFE624FDEA44A0AA1A2525B216031E" config_id="92FFE624FDEA44A0AA1A2525B216031E">
-  <property __name="label" en="User Interface" zc="" />
+  <property __name="label" en="User Interface" zc="用户接口" />
  </Item>
  <Item type="Value" keyed_name="9C7E053938BC40CB918A40928DFDB3CD" config_id="9C7E053938BC40CB918A40928DFDB3CD">
-  <property __name="label" en="Document Center" zc="" />
+  <property __name="label" en="Document Center" zc="文档中心" />
  </Item>
  <Item type="Value" keyed_name="A1613B4ED40440518D5C2D6B2B130191" config_id="A1613B4ED40440518D5C2D6B2B130191">
   <property __name="label" en="File Exchange" zc="" />
@@ -2746,16 +2746,16 @@
   <property __name="label" en="Sourcing" zc="资源管理" />
  </Item>
  <Item type="Value" keyed_name="A4A9F520EBAC497B9B582765C74091C8" config_id="A4A9F520EBAC497B9B582765C74091C8">
-  <property __name="label" en="Process Flow" zc="" />
+  <property __name="label" en="Process Flow" zc="工艺流程" />
  </Item>
  <Item type="Value" keyed_name="A510887C079C49D0B6921AA3863316BC" config_id="A510887C079C49D0B6921AA3863316BC">
-  <property __name="label" en="Localization" zc="" />
+  <property __name="label" en="Localization" zc="区域和语言" />
  </Item>
  <Item type="Value" keyed_name="A7200431932C4D8598295BF54AA6D84F" config_id="A7200431932C4D8598295BF54AA6D84F">
   <property __name="label" en="Portfolio" zc="项目管理" />
  </Item>
  <Item type="Value" keyed_name="AE357A30B0D841BF93E1D5F7E96BCCD7" config_id="AE357A30B0D841BF93E1D5F7E96BCCD7">
-  <property __name="label" en="Access Control" zc="" />
+  <property __name="label" en="Access Control" zc="访问控制" />
  </Item>
  <Item type="Value" keyed_name="AECE6B52DFC6421EA019402BCBBCBFC5" config_id="AECE6B52DFC6421EA019402BCBBCBFC5">
   <property __name="label" en="Process" zc="过程管理" />
@@ -2764,10 +2764,10 @@
   <property __name="label" en="Design" zc="设计" />
  </Item>
  <Item type="Value" keyed_name="B414947279784DEB9F1203F70613106F" config_id="B414947279784DEB9F1203F70613106F">
-  <property __name="label" en="File Handling" zc="" />
+  <property __name="label" en="File Handling" zc="文件管理" />
  </Item>
  <Item type="Value" keyed_name="BB41246BD5CE4D3E8B21D75515FF0D9D" config_id="BB41246BD5CE4D3E8B21D75515FF0D9D">
-  <property __name="label" en="Quality Management" zc="" />
+  <property __name="label" en="Quality Management" zc="质量管理" />
  </Item>
  <Item type="Value" keyed_name="BC3CE8CF73EB49D5BFA6E771F9C76884" config_id="BC3CE8CF73EB49D5BFA6E771F9C76884">
   <property __name="label" en="Searchs And Reports" zc="" />
@@ -2782,7 +2782,7 @@
   <property __name="label" en="Business Logic" zc="业务逻辑" />
  </Item>
  <Item type="Value" keyed_name="ECA96A5C0D2D41B38DD608B9B7424A7F" config_id="ECA96A5C0D2D41B38DD608B9B7424A7F">
-  <property __name="label" en="Administration" zc="管理" />
+  <property __name="label" en="Administration" zc="系统管理" />
  </Item>
  <Item type="Value" keyed_name="F3D658B4392A40129C2AF0EFA0B04A98" config_id="F3D658B4392A40129C2AF0EFA0B04A98">
   <property __name="label" en="Quality Innovator" zc="质量管理" />
@@ -2794,7 +2794,7 @@
   <property __name="label" en="My Innovator" zc="我的Innovator" />
  </Item>
  <Item type="Value" keyed_name="FD3769B958A4498A88452CFB26E1212F" config_id="FD3769B958A4498A88452CFB26E1212F">
-  <property __name="label" en="Secure Social" zc="" />
+  <property __name="label" en="Secure Social" zc="内部社交" />
  </Item>
  <Item type="Value" keyed_name="3CAF419DAD4144A5A485FA8496EE0991" config_id="3CAF419DAD4144A5A485FA8496EE0991">
   <property __name="label" en="Part" zc="零部件" />
@@ -2839,13 +2839,13 @@
   <property __name="label" en="Select Item in TOC" zc="" />
  </Item>
  <Item type="Value" keyed_name="E-signature" config_id="F22865C96C1F4E6EA2908747AFE399BD">
-  <property __name="label" en="E-signature" zc="" />
+  <property __name="label" en="E-signature" zc="电子签名" />
  </Item>
  <Item type="Value" keyed_name="None" config_id="68B3BE4FFCE94BE2A0C9B5978DFBEE95">
   <property __name="label" en="None" zc="" />
  </Item>
  <Item type="Value" keyed_name="Password" config_id="A0E04129147D4583BA6469D4451E43FE">
-  <property __name="label" en="Password" zc="" />
+  <property __name="label" en="Password" zc="密码" />
  </Item>
  <Item type="Value" keyed_name="Main" config_id="8A0B42140F314F9E91A5D26B01D693D4">
   <property __name="label" en="Main" zc="" />
@@ -2866,13 +2866,13 @@
   <property __name="label" en="Notification Message" zc="" />
  </Item>
  <Item type="Value" keyed_name="53058F78F5FC4CFA832622E947454EAE" config_id="53058F78F5FC4CFA832622E947454EAE">
-  <property __name="label" en="Part" zc="" />
+  <property __name="label" en="Part" zc="零部件" />
  </Item>
  <Item type="Value" keyed_name="8229B1AAA0FD4EA29903580D3B498052" config_id="8229B1AAA0FD4EA29903580D3B498052">
-  <property __name="label" en="CAD Document" zc="" />
+  <property __name="label" en="CAD Document" zc="工程图" />
  </Item>
  <Item type="Value" keyed_name="96364371B4CE4805BD10A64CC7688C9C" config_id="96364371B4CE4805BD10A64CC7688C9C">
-  <property __name="label" en="Document" zc="" />
+  <property __name="label" en="Document" zc="文档" />
  </Item>
  <Item type="Value" keyed_name="634C47B2AC064DDFB302C1A19507F9BC" config_id="634C47B2AC064DDFB302C1A19507F9BC">
   <property __name="label" en="HTML" zc="" />
@@ -2902,7 +2902,7 @@
   <property __name="label" en="ESItemCrawler" zc="" />
  </Item>
  <Item type="Value" keyed_name="869ED208DEF747D383B2347142A1C691" config_id="869ED208DEF747D383B2347142A1C691">
-  <property __name="label" en="Item" zc="" />
+  <property __name="label" en="Item" zc="对象" />
  </Item>
  <Item type="Value" keyed_name="85584C1960784A6BB303AB70F4185754" config_id="85584C1960784A6BB303AB70F4185754">
   <property __name="label" en="OnTaskCreating" zc="" />
