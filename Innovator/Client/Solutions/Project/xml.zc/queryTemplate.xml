@@ -1,0 +1,17 @@
+﻿<Item type="WBS Element" select="name,keyed_name,expected_duration,work_est,deliv_required,deliv_type,prev_item,locked_by_id, wbs_index" action="GetItemRepeatConfig">
+	<Relationships>
+		<Item type="Sub WBS" select="related_id" repeatProp="related_id" repeatTimes="0"/>
+		<Item type="WBS Activity2" select="related_id">
+			<related_id>
+				<Item type="Activity2" select="is_milestone,expected_duration,work_est,name,deliv_required,deliv_type,is_required,prev_item,locked_by_id,managed_by_id,lead_role">
+					<Relationships>
+						<Item type="Predecessor" select="related_id,precedence_type,lead_lag" related_expand="0"/>
+						<Item type="Activity2 Assignment" select="related_id(keyed_name,name,description,is_alias),role,state"/>
+						<Item type="Activity2 Deliverable" select="related_id(keyed_name,itemtype)"/>
+					</Relationships>
+				</Item>
+			</related_id>
+		</Item>
+		<Item type="WBS Deliverable" select="related_id(keyed_name, itemtype)"/>
+	</Relationships>
+</Item>

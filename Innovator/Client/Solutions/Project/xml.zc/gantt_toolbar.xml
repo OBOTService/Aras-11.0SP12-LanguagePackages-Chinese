@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toolbarapplet buttonstyle="windows" buttonsize="26,25" font="Arial-8">
+	<toolbar id="tb1">
+    <button disabled="false" image="../images/Print.svg" id="print" tooltip="打印" statusmsg="Print">打印</button>
+    <separator />
+		<button image="../images/ProjectExpandAll.svg" id="expand_all" tooltip="全部展开" statusmsg="Expand All"> 全部展开</button>
+		<button image="../images/ProjectCollapseAll.svg" id="collapse_all" tooltip="全部折叠" statusmsg="Collapse All"> 全部折叠</button>
+	</toolbar>
+</toolbarapplet>

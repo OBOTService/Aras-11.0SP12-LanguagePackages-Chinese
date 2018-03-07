@@ -1,0 +1,9 @@
+﻿<Item type="WBS Element" select="rollup_percent_compl,rollup_status,prev_item" action="get">
+	<Relationships>
+		<Item type="Sub WBS" select="related_id">
+			<related_id>
+				<Item type="WBS Element" select="id"/>
+			</related_id>
+		</Item>
+	</Relationships>
+</Item>

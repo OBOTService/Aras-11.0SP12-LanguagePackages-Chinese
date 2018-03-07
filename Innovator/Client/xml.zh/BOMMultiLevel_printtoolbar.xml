@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toolbarapplet on_load="onToolbarLoad" on_click="onClickItem" on_change="onChoiceChanged" buttonstyle="windows" buttonsize="26,25">
+	<toolbar id="swtoolbar">
+		<button text="Print" id="print" image="../images/Print.svg" tooltip="Print Multi-Level BOM"/>
+	</toolbar>
+</toolbarapplet>

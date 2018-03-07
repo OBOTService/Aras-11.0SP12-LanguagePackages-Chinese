@@ -1,0 +1,35 @@
+﻿<export>
+ <Item type="SSVCPresentationConfiguration" keyed_name="18D6E3B2858341E6A0D43C87C62AA4C5" config_id="18D6E3B2858341E6A0D43C87C62AA4C5">
+  <property __name="form_tooltip_template" en="Form of ${ItemType:label} ${Item:keyed_name}" zc="" />
+ </Item>
+ <Item type="SSVCPresentationConfiguration" keyed_name="27D07CCDBA85451F858F73681B98657D" config_id="27D07CCDBA85451F858F73681B98657D">
+  <property __name="form_tooltip_template" en="Form of ${ItemType:label} ${Item:keyed_name}" zc="" />
+ </Item>
+ <Item type="SSVCPresentationConfiguration" keyed_name="45466D6EEE9A484FB99D6414A8A5181E" config_id="45466D6EEE9A484FB99D6414A8A5181E">
+  <property __name="form_tooltip_template" en="Form of ${ItemType:label} ${Item:keyed_name}" zc="" />
+ </Item>
+ <Item type="SSVCPresentationConfiguration" keyed_name="6A64D55E2B804775859BB7E1D1D15979" config_id="6A64D55E2B804775859BB7E1D1D15979">
+  <property __name="form_tooltip_template" en="Form of ${ItemType:label} ${Item:keyed_name}" zc="" />
+ </Item>
+ <Item type="SSVCPresentationConfiguration" keyed_name="7503DC81FF804266919CA80F0D3F74FA" config_id="7503DC81FF804266919CA80F0D3F74FA">
+  <property __name="form_tooltip_template" en="Form of ${ItemType:label} ${Item:keyed_name}" zc="" />
+ </Item>
+ <Item type="SSVCPresentationConfiguration" keyed_name="AD3D158EC3B341179D49B20ACE5E04DD" config_id="AD3D158EC3B341179D49B20ACE5E04DD">
+  <property __name="form_tooltip_template" en="Form of ${ItemType:label} ${Item:keyed_name}" zc="" />
+ </Item>
+ <Item type="SSVCPresentationConfiguration" keyed_name="B81B19CB2A81445CB1A64ED015E1A127" config_id="B81B19CB2A81445CB1A64ED015E1A127">
+  <property __name="form_tooltip_template" en="Form of ${ItemType:label} ${Item:keyed_name}" zc="" />
+ </Item>
+ <Item type="SSVCPresentationConfiguration" keyed_name="C5068A00EA5F42CD8FBAEBF06A00A5CC" config_id="C5068A00EA5F42CD8FBAEBF06A00A5CC">
+  <property __name="form_tooltip_template" en="Form of ${ItemType:label} ${Item:keyed_name}" zc="" />
+ </Item>
+ <Item type="SSVCPresentationConfiguration" keyed_name="DD6343BEDD7C4BCF87E080A459D69FD5" config_id="DD6343BEDD7C4BCF87E080A459D69FD5">
+  <property __name="form_tooltip_template" en="Form of ${ItemType:label} ${Item:keyed_name}" zc="" />
+ </Item>
+ <Item type="SSVCPresentationConfiguration" keyed_name="E62ADCF976674291A0B699826859237E" config_id="E62ADCF976674291A0B699826859237E">
+  <property __name="form_tooltip_template" en="Form of ${ItemType:label} ${Item:keyed_name}" zc="" />
+ </Item>
+ <Item type="SSVCPresentationConfiguration" keyed_name="F6AF0D642C0D4EA7B08F192A443A9432" config_id="F6AF0D642C0D4EA7B08F192A443A9432">
+  <property __name="form_tooltip_template" en="Form of ${ItemType:label} ${Item:keyed_name}" zc="" />
+ </Item>
+</export>

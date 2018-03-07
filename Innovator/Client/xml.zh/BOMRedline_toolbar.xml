@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toolbarapplet on_load="onToolbarLoad" on_click="onClickItem" on_change="onChoiceChanged" buttonstyle="windows" buttonsize="26,25">
+	<toolbar id="swtoolbar">
+		<button text="Add" id="add" image="../images/ExpandAll.svg" tooltip="Add a Part to the BOM"/>
+		<button text="Delete " id="delete" disabled="true" image="../images/Delete.svg" tooltip="Delete this Part from the BOM"/>
+		<button text="Change " id="change" disabled="true" image="../images/Copy.svg" tooltip="Change the values for this part"/>
+		<button text="Undo " id="undo" disabled="true" image="../images/Rollback.svg" tooltip="Undo the redlines for this entry"/>
+		<separator/>
+		<button text="Existing " id="view_existing" image="../images/ExistingView.svg" tooltip="View existing BOM"/>
+		<button text="Redline " id="view_redline" image="../images/RedlineView.svg" tooltip="Redline View"/>
+		<button text="Proposed " id="view_proposed" image="../images/ProposedView.svg" tooltip="View Proposed a BOM"/>
+		<separator/>
+		<button text="Save" id="save" image="../images/Save.svg" tooltip="Save Redlines"/>
+	</toolbar>
+</toolbarapplet>

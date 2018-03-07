@@ -1,0 +1,25 @@
+﻿<export>
+ <Item type="rb_QueryDefinitionParameterMap" keyed_name="item_numb" config_id="222C1E9290D74593B05F5F9642BA409E">
+  <property __name="label" en="Item Number for Related Parts" zc="" />
+ </Item>
+ <Item type="rb_QueryDefinitionParameterMap" keyed_name="par1" config_id="CE4834D873594D179979A426FFDB186B">
+  <property __name="label" en="Par1Label" zc="" />
+  <property __name="user_input_default_value" en="2017-05-11T00:00:00" zc="" />
+ </Item>
+ <Item type="rb_QueryDefinitionParameterMap" keyed_name="par2" config_id="D9961EEFC2FE4F05A1257333C12A3B36">
+  <property __name="label" en="Par2Label" zc="" />
+ </Item>
+ <Item type="rb_QueryDefinitionParameterMap" keyed_name="par3" config_id="79F40A956A98400B8DBDAEFC3FE9CA95">
+  <property __name="label" en="Par3Label" zc="" />
+  <property __name="user_input_default_value" en="someDefaultValue" zc="" />
+ </Item>
+ <Item type="rb_QueryDefinitionParameterMap" keyed_name="par4" config_id="87B93545387F4EC18BE30801B8762B55">
+  <property __name="label" en="Par4Label" zc="" />
+ </Item>
+ <Item type="rb_QueryDefinitionParameterMap" keyed_name="parColor" config_id="D0A17CB5DC8A45429A39CD51664D08DE">
+  <property __name="label" en="Par Color" zc="" />
+ </Item>
+ <Item type="rb_QueryDefinitionParameterMap" keyed_name="parDecimal" config_id="F27FD2DB2FDF440EA2092EDDD6286BCB">
+  <property __name="label" en="Par Decimal" zc="" />
+ </Item>
+</export>

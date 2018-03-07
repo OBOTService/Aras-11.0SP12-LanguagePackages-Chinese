@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toolbarapplet on_load="onToolbarAppletLoad" on_click="onButtonClick" buttonstyle="windows" buttonsize="26,25">
+	<toolbar id="main">
+		<button image="../images/Save.svg" id="save" tooltip="Save Selected Item"/>
+		<button image="../images/ViewItem.svg" id="view" tooltip="View Selected Item"/>
+		<button image="../images/Refresh.svg" id="refresh" tooltip="Refresh"/>
+		<button image="../images/SaveAll.svg" id="save_all" tooltip="Save All Items"/>
+		<separator/>
+		<button image="../images/Rollback.svg" id="return" tooltip="Stay Logged In"/>
+		<separator/>
+		<button image="../images/Exit.svg" id="logout" tooltip="Logout without Saving"/>
+	</toolbar>
+</toolbarapplet>

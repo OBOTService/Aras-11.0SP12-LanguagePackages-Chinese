@@ -1,0 +1,48 @@
+Version: 11.0 (build 6667)
+
+
+-----params------
+args[0]     database=InnovatorSolutions12
+args[1]     server=http://localhost/OBOTSP12/
+args[2]     login=root
+args[4]     release=9.0.2
+args[5]     mfFile=C:\Users\xing.fan\Desktop\ZH-CN_~1\ZH-CN_~1\SETUP-~1.CMD\..\\Imports\i18n.mf
+args[6]     import
+args[7]     verbose
+args[8]     merge
+args[9]     dir=C:\Users\xing.fan\Desktop\ZH-CN_~1\ZH-CN_~1\SETUP-~1.CMD\..\\Imports
+args[10]     log=C:\Users\xing.fan\Desktop\ZH-CN_~1\ZH-CN_~1\SETUP-~1.CMD\..\\logs\2018-03-07-周三--9-46-32-19-IMPORT-I18N-CHANGES.LOG
+args[11]     description=I18NChanges
+-----params------
+
+----parsed params----
+
+server      http://localhost/OBOTSP12/
+database    InnovatorSolutions12
+login       root
+Dir         C:\Users\xing.fan\Desktop\ZH-CN_~1\ZH-CN_~1\SETUP-~1.CMD\..\\Imports
+timeout     0
+Log file    C:\Users\xing.fan\Desktop\ZH-CN_~1\ZH-CN_~1\SETUP-~1.CMD\..\\logs\2018-03-07-周三--9-46-32-19-IMPORT-I18N-CHANGES.LOG
+Manifest    C:\Users\xing.fan\Desktop\ZH-CN_~1\ZH-CN_~1\SETUP-~1.CMD\..\\Imports\i18n.mf
+import      Import
+Fast mode   False
+merge       True
+verbose     True
+release     9.0.2
+vlog        False
+description I18NChanges
+
+----parsed params----
+Start of importing packages
+start of execution : 03/07/2018 09:47:03
+Updating com.aras.innovator.i18n to 'inprogress' release status
+       ****Import with merge option com.aras.innovator.i18n****
+Processing (add)   id : 6B139FED690B4694999095E32CC67755    keyed_name : Simplified Chinese    type : Language  
+********** Start of reference checking ************
+<Item type='ItemType' action='get' select='id'><name>Language</name><Relationships><Item type='Property' action='get' select='name'/><Item type='RelationshipType' action='get' select='name'/></Relationships></Item>
+  was obtained from server
+************* End of reference checking ************
+Item successfully applied(add)   id : 6B139FED690B4694999095E32CC67755    keyed_name : Simplified Chinese    type : Language  
+Adding item into PackageDefinition with id = 6B139FED690B4694999095E32CC67755 and type = Language
+Item successfully added in packdefinition  id  6B139FED690B4694999095E32CC67755 type Language
+Processing (add)   id : B8C549DA198545D5912F8CCFF703C58F    keyed

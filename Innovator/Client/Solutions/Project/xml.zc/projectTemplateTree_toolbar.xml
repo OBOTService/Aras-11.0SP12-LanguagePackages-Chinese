@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toolbarapplet on_click="onToolbarButtonClick" on_load="onToolbarLoad" buttonstyle="windows" buttonsize="26,25" font="Arial-8">
+	<toolbar id="tb1">
+    <drop_down_button image="" id="actions_menu" text="执行"/>
+		<separator/>
+		<button image="../images/ProjectExpandAll.svg" id="expand_all" tooltip="Expand All" text="Expand All"/>
+		<button image="../images/ProjectCollapseAll.svg" id="collapse_all" tooltip="Collapse All" text="Collapse All"/>
+		<separator/>
+		<button disabled="true" image="../images/AddWBSElement.svg" id="add_wbs_element" tooltip="添加 WBS 元素" text="添加 WBS 元素"/>
+		<button disabled="true" image="../images/AddActivity.svg" id="add_activity" tooltip="添加 任务" text="添加 任务"/>
+		<button disabled="true" image="../images/AddMilestone.svg" id="add_milestone" tooltip="添加 里程碑" text="添加 里程碑"/>
+		<separator/>
+		<button disabled="true" image="../images/UnIndent.svg" id="outdent" tooltip="减少缩进" text="减少缩进"/>
+		<button disabled="true" image="../images/Indent.svg" id="indent" tooltip="增加缩进" text="增加缩进"/>
+		<button disabled="true" image="../images/NextPage.svg" id="move_down" tooltip="向下移" text="向下移"/>
+		<button disabled="true" image="../images/PreviousPage.svg" id="move_up" tooltip="向上移" text="向上移"/>
+		<separator/>
+		<button disabled="true" image="../images/Copy.svg" id="copy" tooltip="Copy" text="Copy"/>
+		<button disabled="true" image="../images/Cut.svg" id="cut" tooltip="剪切" text="剪切"/>
+		<button disabled="true" image="../images/Paste.svg" id="paste" tooltip="粘贴" text="粘贴"/>
+		<separator/>
+		<button disabled="true" image="../images/Deliverable.svg" id="add_existing_deliverable" tooltip="Add Existing Deliverable" text="Add Existing Deliverable"/>
+		<separator/>
+		<button disabled="true" image="../images/EditItem.svg" id="view_edit_selected_item" tooltip="查看/编辑 选中的对象" text="查看/编辑 选中的对象"/>
+		<button disabled="true" image="../images/Delete.svg" id="delete_selected_item" tooltip="删除 选中的对象" text="删除 选中的对象"/>
+		<!--button image="../images/ProjectExpandAll.svg" id="expand_all" tooltip="全部展开" text="全部展开"/>
+		<button image="../images/ProjectCollapseAll.svg" id="collapse_all" tooltip="全部折叠" text="全部折叠"/-->
+		<button image="../images/ExecuteSearch.svg" id="execute_filter" tooltip="执行 过滤器" text="执行 过滤器"/>
+    <button image="../images/ClearSearchCriteria.svg" id="clear_filter" tooltip="清除 过滤器" text="清除 过滤器"/>
+	</toolbar>
+</toolbarapplet>

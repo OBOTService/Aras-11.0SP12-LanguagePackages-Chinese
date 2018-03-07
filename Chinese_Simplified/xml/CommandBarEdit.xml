@@ -1,0 +1,15 @@
+﻿<export>
+ <Item type="CommandBarEdit" keyed_name="com.aras.innovator.cui_default.twt_structure_select_toolbar_filterStructureItemsExpression" config_id="0593A2194759437598F8AC3970727318"></Item>
+ <Item type="CommandBarEdit" keyed_name="tbxZoomPercentage" config_id="1E193FD67ADB4368B6FF36145A5BB7CD">
+  <property __name="tooltip_template" en="Zoom Percentage" zc="" />
+ </Item>
+ <Item type="CommandBarEdit" keyed_name="com.aras.innovator.cui_default.twt_structure_view_toolbar_filterStructureItemsExpression" config_id="387CCA7F4AF446849CC067B669D24300"></Item>
+ <Item type="CommandBarEdit" keyed_name="com.aras.innovator.cui_default.twt_structure_edit_toolbar_filterStructureItemsExpression" config_id="438CB844ED114958B8399CD0CFD69B3B"></Item>
+ <Item type="CommandBarEdit" keyed_name="com.aras.innovator.mwt_es_edit_textbox" config_id="6319A5C13E93446797E7FF6105722DB2"></Item>
+ <Item type="CommandBarEdit" keyed_name="ntbPageNumber" config_id="BAD44EE53E704097A10E60F143C01188">
+  <property __name="tooltip_template" en="Current Page / Total Pages" zc="" />
+ </Item>
+ <Item type="CommandBarEdit" keyed_name="xClassTreeEditorSearchToolbar_Input" config_id="C7A0CC16011A476A92D9378DBE420302">
+  <property __name="tooltip_template" en="Find" zc="" />
+ </Item>
+</export>

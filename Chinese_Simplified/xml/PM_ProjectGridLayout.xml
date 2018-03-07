@@ -1,0 +1,35 @@
+﻿<export>
+ <Item type="PM_ProjectGridLayout" keyed_name="01CDC43C5C3A497CAA1F4E102E4BEE4B" config_id="01CDC43C5C3A497CAA1F4E102E4BEE4B">
+  <property __name="label" en="Lead Role" zc="" />
+ </Item>
+ <Item type="PM_ProjectGridLayout" keyed_name="01D3E81D628F4B4397BC8A299657FF35" config_id="01D3E81D628F4B4397BC8A299657FF35">
+  <property __name="label" en="Project Tree" zc="" />
+ </Item>
+ <Item type="PM_ProjectGridLayout" keyed_name="20A1FDB847E04CFDAE89002D68B060D2" config_id="20A1FDB847E04CFDAE89002D68B060D2">
+  <property __name="label" en="Duration" zc="" />
+ </Item>
+ <Item type="PM_ProjectGridLayout" keyed_name="3D26921235364C5EB079C1C838D31938" config_id="3D26921235364C5EB079C1C838D31938">
+  <property __name="label" en="Attach" zc="" />
+ </Item>
+ <Item type="PM_ProjectGridLayout" keyed_name="41C5E2D85DE14DC392281CAC5D1D47E6" config_id="41C5E2D85DE14DC392281CAC5D1D47E6">
+  <property __name="label" en="Plan Start" zc="" />
+ </Item>
+ <Item type="PM_ProjectGridLayout" keyed_name="84E72EFA22A64A6790624BD80FCFE6DE" config_id="84E72EFA22A64A6790624BD80FCFE6DE">
+  <property __name="label" en="N" zc="" />
+ </Item>
+ <Item type="PM_ProjectGridLayout" keyed_name="914E0A8E20F848F4AE8CB1D086F11575" config_id="914E0A8E20F848F4AE8CB1D086F11575">
+  <property __name="label" en="Status" zc="" />
+ </Item>
+ <Item type="PM_ProjectGridLayout" keyed_name="C8A47DA5F50F4450A16347A497D337E8" config_id="C8A47DA5F50F4450A16347A497D337E8">
+  <property __name="label" en="Plan Finish" zc="" />
+ </Item>
+ <Item type="PM_ProjectGridLayout" keyed_name="CA73D8D90D3C43059B6A527C5B9F1538" config_id="CA73D8D90D3C43059B6A527C5B9F1538">
+  <property __name="label" en="Leader [...]" zc="" />
+ </Item>
+ <Item type="PM_ProjectGridLayout" keyed_name="EA5168151834477C89AB7EF4576B700C" config_id="EA5168151834477C89AB7EF4576B700C">
+  <property __name="label" en="Predecessors" zc="" />
+ </Item>
+ <Item type="PM_ProjectGridLayout" keyed_name="FF10130AD74B4175A019C01CEB6A60C5" config_id="FF10130AD74B4175A019C01CEB6A60C5">
+  <property __name="label" en="Hours" zc="" />
+ </Item>
+</export>

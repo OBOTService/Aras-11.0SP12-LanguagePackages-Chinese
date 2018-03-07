@@ -1,0 +1,146 @@
+﻿<export>
+ <Item type="rb_ColumnDefinition" keyed_name="019D33108A074FF79E1BD93B0844B1D1" config_id="019D33108A074FF79E1BD93B0844B1D1">
+  <property __name="header" en="Example1 Column2" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="9CB1487963CD4667B65642F6C6CB6C3F" config_id="9CB1487963CD4667B65642F6C6CB6C3F">
+  <property __name="header" en="Tree Column" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="A3667480556E405AAE0A48585A6816F9" config_id="A3667480556E405AAE0A48585A6816F9">
+  <property __name="header" en="Example1 Column1" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="0D07C76ECCAE429F916048BFB82AA21B" config_id="0D07C76ECCAE429F916048BFB82AA21B">
+  <property __name="header" en="ID" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="74A7750B696C4AA6AED0C5642EE001C1" config_id="74A7750B696C4AA6AED0C5642EE001C1">
+  <property __name="header" en="Name" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="FE0B6A6942844863B14E01A51948EB47" config_id="FE0B6A6942844863B14E01A51948EB47">
+  <property __name="header" en="Tree Column" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="B8F54BDB764A4ADAB3F7EE0E0DC3DD75" config_id="B8F54BDB764A4ADAB3F7EE0E0DC3DD75">
+  <property __name="header" en="Part TGV" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="2DC0B8D563BB403597C8F8848931962E" config_id="2DC0B8D563BB403597C8F8848931962E">
+  <property __name="header" en="Top Part Owner/Related Part/Related Cad" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="64B9C4EF0BF048139558FB44FCD5EA29" config_id="64B9C4EF0BF048139558FB44FCD5EA29">
+  <property __name="header" en="CAD Cost" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="6F0065D88E6046E2A77B2CE526CD175D" config_id="6F0065D88E6046E2A77B2CE526CD175D">
+  <property __name="header" en="Initial Column" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="AD1B37471C584D5FB6D168B973AAD37C" config_id="AD1B37471C584D5FB6D168B973AAD37C">
+  <property __name="header" en="CAD View File" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="BB8D0C9585914EA6AAB4B4FDF25FBD87" config_id="BB8D0C9585914EA6AAB4B4FDF25FBD87">
+  <property __name="header" en="Name" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="CCC8E6FAA2134EFF84865BE84082CF00" config_id="CCC8E6FAA2134EFF84865BE84082CF00">
+  <property __name="header" en="ID" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="F2A62B5EE98F433092240DDE64BC9B71" config_id="F2A62B5EE98F433092240DDE64BC9B71">
+  <property __name="header" en="Top Part Manager/RB Parts Created On/CAD Creator" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="00699B1CAE6F411EB923F718B28DCEB4" config_id="00699B1CAE6F411EB923F718B28DCEB4">
+  <property __name="header" en="Name" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="0EA1A40534DA44FC8EBAC20A7D079567" config_id="0EA1A40534DA44FC8EBAC20A7D079567">
+  <property __name="header" en="Column 0" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="886B885B0ADD4CC3B1D6E9E699251FDA" config_id="886B885B0ADD4CC3B1D6E9E699251FDA">
+  <property __name="header" en="ID" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="3096891A8A904598A24C04F2C9BC1BAB" config_id="3096891A8A904598A24C04F2C9BC1BAB">
+  <property __name="header" en="Example3 Column1" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="4FA3815501214F95B7775522523E1250" config_id="4FA3815501214F95B7775522523E1250">
+  <property __name="header" en="Tree Column" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="9B3136CE90B2421C804A7332AD06CF63" config_id="9B3136CE90B2421C804A7332AD06CF63">
+  <property __name="header" en="Example3 Column2" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="00F27995842846C98F14DDE88DBD6EFE" config_id="00F27995842846C98F14DDE88DBD6EFE">
+  <property __name="header" en="Tree Column" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="1DDC7600306F4A6DB45FC5663FE172E4" config_id="1DDC7600306F4A6DB45FC5663FE172E4">
+  <property __name="header" en="ID" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="5BB9A67B4CC94CCA905306EBC4F6897B" config_id="5BB9A67B4CC94CCA905306EBC4F6897B">
+  <property __name="header" en="CAD Node 1 ID" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="60DB069A34D444FEB1C3B7B05FACFE0C" config_id="60DB069A34D444FEB1C3B7B05FACFE0C">
+  <property __name="header" en="Item Number" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="682BE2D0F53E48D5A130DB75883E696F" config_id="682BE2D0F53E48D5A130DB75883E696F">
+  <property __name="header" en="CAD Node 1 Name" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="15BC5E66FC48496597E175CA7265EF3B" config_id="15BC5E66FC48496597E175CA7265EF3B">
+  <property __name="header" en="Column 0" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="99DB90F344D7493F937FB9BFB12368D6" config_id="99DB90F344D7493F937FB9BFB12368D6">
+  <property __name="header" en="ID" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="A8063E29AF2749A8BDA87CFC60515FD6" config_id="A8063E29AF2749A8BDA87CFC60515FD6">
+  <property __name="header" en="Name" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="B490601807F4464098DFD5F21C23AD19" config_id="B490601807F4464098DFD5F21C23AD19">
+  <property __name="header" en="Example2 Column2" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="E62BD593A76E474C85B25C1F211D5620" config_id="E62BD593A76E474C85B25C1F211D5620">
+  <property __name="header" en="Example2 Column1" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="FB34601D4425447D8B38A76304EBE932" config_id="FB34601D4425447D8B38A76304EBE932">
+  <property __name="header" en="Tree Column" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="42C6C6D51FE74BF7B8D2FB39DA5C7976" config_id="42C6C6D51FE74BF7B8D2FB39DA5C7976">
+  <property __name="header" en="Name" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="508ACA004EBF4D8ABD00CEA889BD0AA4" config_id="508ACA004EBF4D8ABD00CEA889BD0AA4">
+  <property __name="header" en="ID" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="8CC281EDB1114A31BFE8ED7FF950148A" config_id="8CC281EDB1114A31BFE8ED7FF950148A">
+  <property __name="header" en="Name" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="8D1D7DD893DF46609BE8DB730AA6A887" config_id="8D1D7DD893DF46609BE8DB730AA6A887">
+  <property __name="header" en="ID" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="E46EA1D71EE141EF8B0362CFAEB5824B" config_id="E46EA1D71EE141EF8B0362CFAEB5824B">
+  <property __name="header" en="Initial" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="2CB96C72F9DF404A8A7E069D7BCDF79F" config_id="2CB96C72F9DF404A8A7E069D7BCDF79F">
+  <property __name="header" en="RelCad_File" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="56B8279EC01A44DD98ECD08115619B22" config_id="56B8279EC01A44DD98ECD08115619B22">
+  <property __name="header" en="Name" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="5AA1F7F82EE34FE4A44D7558DB18F746" config_id="5AA1F7F82EE34FE4A44D7558DB18F746">
+  <property __name="header" en="Initial Column" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="5F9A3EB096A146238F54960F95A18769" config_id="5F9A3EB096A146238F54960F95A18769">
+  <property __name="header" en="RelPart_CreatedOn" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="6943C748BE474A9EBFF9C3E8DE02EB54" config_id="6943C748BE474A9EBFF9C3E8DE02EB54">
+  <property __name="header" en="Related Part ID" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="7FD8B82986EF4F94BA22A0BB2F6CFC71" config_id="7FD8B82986EF4F94BA22A0BB2F6CFC71">
+  <property __name="header" en="CAD Cost" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="BB65E9A43E9F4C918FB3268D8D6D6D98" config_id="BB65E9A43E9F4C918FB3268D8D6D6D98">
+  <property __name="header" en="RelCad_Item" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="C02D54E146584EED8B98FA5DDC810B62" config_id="C02D54E146584EED8B98FA5DDC810B62">
+  <property __name="header" en="ID" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="CB0B01106C70421EAFD52427E3637616" config_id="CB0B01106C70421EAFD52427E3637616">
+  <property __name="header" en="Related Part Name" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="8A388299B41F4D3DAF31AEA2B4C9484C" config_id="8A388299B41F4D3DAF31AEA2B4C9484C">
+  <property __name="header" en="Example5 Column2" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="B2929F6A7D0A497387982F0D998FB83F" config_id="B2929F6A7D0A497387982F0D998FB83F">
+  <property __name="header" en="Tree Column" zc="" />
+ </Item>
+ <Item type="rb_ColumnDefinition" keyed_name="B3F5EEBB29604E23B7D5EE9CC32AF752" config_id="B3F5EEBB29604E23B7D5EE9CC32AF752">
+  <property __name="header" en="Example5 Column1" zc="" />
+ </Item>
+</export>

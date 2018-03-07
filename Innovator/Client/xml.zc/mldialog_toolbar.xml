@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toolbarapplet on_load="onToolbarAppletLoad" on_click="onClickItem" buttonstyle="windows" buttonsize="26,25">
+	<toolbar id="toolbar">
+		<button image="../images/Checkmark.svg" id="ready_btn" tooltip="选择"/>
+		<button image="../images/Delete.svg" id="set_nothing" tooltip="取消"/>
+	</toolbar>
+</toolbarapplet>

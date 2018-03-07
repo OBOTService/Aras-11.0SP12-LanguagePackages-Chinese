@@ -1,0 +1,107 @@
+﻿<export>
+ <Item type="Workflow Map Path" keyed_name="E6D3647CE40F4FEBB0BB9A353BC972AB" config_id="E6D3647CE40F4FEBB0BB9A353BC972AB"></Item>
+ <Item type="Workflow Map Path" keyed_name="FA82FCEEF06F4969AF67584B664FC3EA" config_id="FA82FCEEF06F4969AF67584B664FC3EA"></Item>
+ <Item type="Workflow Map Path" keyed_name="1FFF43BADE02432A8ACBEDC6604B9ABE" config_id="1FFF43BADE02432A8ACBEDC6604B9ABE"></Item>
+ <Item type="Workflow Map Path" keyed_name="1F4FA02B64A84EEA9B0052F62D45D4C1" config_id="1F4FA02B64A84EEA9B0052F62D45D4C1"></Item>
+ <Item type="Workflow Map Path" keyed_name="8F6A07BF14B242B785373D054C354606" config_id="8F6A07BF14B242B785373D054C354606"></Item>
+ <Item type="Workflow Map Path" keyed_name="67C7886A43C44EFB8E932CE8FB5C5A2B" config_id="67C7886A43C44EFB8E932CE8FB5C5A2B">
+  <property __name="label" en="Begin" zc="" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="6D436DE1E5F24E5CBD454DC67D0BC555" config_id="6D436DE1E5F24E5CBD454DC67D0BC555">
+  <property __name="label" en="Submit to Review" zc="" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="73BE566E1C934A509286AB2E4FDCC0E8" config_id="73BE566E1C934A509286AB2E4FDCC0E8">
+  <property __name="label" en="Close Change" zc="" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="A1AF2A08041D46728DF7167C786C4F8F" config_id="A1AF2A08041D46728DF7167C786C4F8F">
+  <property __name="label" en="Complete" zc="" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="55838B06DB904BAB835C680B3BE357FD" config_id="55838B06DB904BAB835C680B3BE357FD"></Item>
+ <Item type="Workflow Map Path" keyed_name="6BE835AB7C58435DA4AEC9FE87187CD6" config_id="6BE835AB7C58435DA4AEC9FE87187CD6"></Item>
+ <Item type="Workflow Map Path" keyed_name="98F562D261694F85A7F8866D16488C9C" config_id="98F562D261694F85A7F8866D16488C9C"></Item>
+ <Item type="Workflow Map Path" keyed_name="9F8C34E233FD4DD0A7ECBFDD65A4B204" config_id="9F8C34E233FD4DD0A7ECBFDD65A4B204"></Item>
+ <Item type="Workflow Map Path" keyed_name="FCFD4437A52B426A919A4DA910B6B64C" config_id="FCFD4437A52B426A919A4DA910B6B64C"></Item>
+ <Item type="Workflow Map Path" keyed_name="D09FD96164264F2484C7905DDD714162" config_id="D09FD96164264F2484C7905DDD714162"></Item>
+ <Item type="Workflow Map Path" keyed_name="F32B8AEF958246D3B176326CA7B3E462" config_id="F32B8AEF958246D3B176326CA7B3E462"></Item>
+ <Item type="Workflow Map Path" keyed_name="469A517705344D909DD5D5D7AFFBAFE1" config_id="469A517705344D909DD5D5D7AFFBAFE1"></Item>
+ <Item type="Workflow Map Path" keyed_name="135CC77E20C244169D7B099161147667" config_id="135CC77E20C244169D7B099161147667"></Item>
+ <Item type="Workflow Map Path" keyed_name="43DE8468729E496EAA057F2D632FCA3F" config_id="43DE8468729E496EAA057F2D632FCA3F"></Item>
+ <Item type="Workflow Map Path" keyed_name="4562879529864C2F91B0413FA1E7129D" config_id="4562879529864C2F91B0413FA1E7129D"></Item>
+ <Item type="Workflow Map Path" keyed_name="6EC1361B8EB54719B5936100C27CB6AF" config_id="6EC1361B8EB54719B5936100C27CB6AF">
+  <property __name="label" en="Approve Changes" zc="" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="C081FFE8E608408B8F3FEFA278555EE2" config_id="C081FFE8E608408B8F3FEFA278555EE2">
+  <property __name="label" en="Rework" zc="" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="FE0A87E628D249FCBE64DE05E2BAD263" config_id="FE0A87E628D249FCBE64DE05E2BAD263"></Item>
+ <Item type="Workflow Map Path" keyed_name="AD60C98C8F6944E69D096315F929B381" config_id="AD60C98C8F6944E69D096315F929B381"></Item>
+ <Item type="Workflow Map Path" keyed_name="3E8E377516F447F6A506C94B0B2835CB" config_id="3E8E377516F447F6A506C94B0B2835CB"></Item>
+ <Item type="Workflow Map Path" keyed_name="82756B76531E4A6080FBB5DCDC7E4D68" config_id="82756B76531E4A6080FBB5DCDC7E4D68"></Item>
+ <Item type="Workflow Map Path" keyed_name="89793601D68E41F8AC58D1121DA2BB94" config_id="89793601D68E41F8AC58D1121DA2BB94"></Item>
+ <Item type="Workflow Map Path" keyed_name="DC866CF49526419BB2B255744AD0EE49" config_id="DC866CF49526419BB2B255744AD0EE49"></Item>
+ <Item type="Workflow Map Path" keyed_name="55F1EB1C1CC547B6A0A6A9616C570EA4" config_id="55F1EB1C1CC547B6A0A6A9616C570EA4">
+  <property __name="label" en="Submit to Plan Review" zc="" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="C4F679ED632342AC945DFD9F37D025FE" config_id="C4F679ED632342AC945DFD9F37D025FE">
+  <property __name="label" en="Start Work" zc="" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="B4D22C58D9D543018D80AC31AB56F506" config_id="B4D22C58D9D543018D80AC31AB56F506">
+  <property __name="label" en="Approve Plan" zc="" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="CE3A78F7A03D433E92EAE3AA94388325" config_id="CE3A78F7A03D433E92EAE3AA94388325">
+  <property __name="label" en="Rework Plan" zc="" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="A1E33F2E25324076A24339715F4EF663" config_id="A1E33F2E25324076A24339715F4EF663">
+  <property __name="label" en="Submit to Planning" zc="" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="D6FB03BE40124BD998207AD6F9E66EC6" config_id="D6FB03BE40124BD998207AD6F9E66EC6">
+  <property __name="label" en="Cancel Change" zc="" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="423000CCBC0E48049A0EC9B9B33EEA86" config_id="423000CCBC0E48049A0EC9B9B33EEA86">
+  <property __name="label" en="Cancel" zc="" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="718DEDFAF63A43B98D3D2C2122E85A11" config_id="718DEDFAF63A43B98D3D2C2122E85A11">
+  <property __name="label" en="Submit to Authors" zc="" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="1F641E6A278A40498E04E9FDA4FF265B" config_id="1F641E6A278A40498E04E9FDA4FF265B"></Item>
+ <Item type="Workflow Map Path" keyed_name="04B03604F6FE47B887897DD1A7CA22FD" config_id="04B03604F6FE47B887897DD1A7CA22FD"></Item>
+ <Item type="Workflow Map Path" keyed_name="23DAB34B76484C0EBEF58CF2148A44FA" config_id="23DAB34B76484C0EBEF58CF2148A44FA"></Item>
+ <Item type="Workflow Map Path" keyed_name="FC15C6BE237E469EA54E4FBA14CCBB8A" config_id="FC15C6BE237E469EA54E4FBA14CCBB8A">
+  <property __name="label" en="Begin" zc="" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="00CDCF98153841E9B5EAB8F01DBB0342" config_id="00CDCF98153841E9B5EAB8F01DBB0342">
+  <property __name="label" en="Fast Approve" zc="" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="83346AAFBB514FDBA9809C4827A8477A" config_id="83346AAFBB514FDBA9809C4827A8477A">
+  <property __name="label" en="Full Review" zc="" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="9DD243E878DD45309A145FCFA5B00BF2" config_id="9DD243E878DD45309A145FCFA5B00BF2">
+  <property __name="label" en="Rework" zc="" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="A1CF410B210647AE8E8DA2CD33E8A74A" config_id="A1CF410B210647AE8E8DA2CD33E8A74A"></Item>
+ <Item type="Workflow Map Path" keyed_name="0381B6B5D18943C9ADE7BDD7536370FF" config_id="0381B6B5D18943C9ADE7BDD7536370FF"></Item>
+ <Item type="Workflow Map Path" keyed_name="113EBDE15EFD4E73877F4629886747CA" config_id="113EBDE15EFD4E73877F4629886747CA"></Item>
+ <Item type="Workflow Map Path" keyed_name="18063BC2F86946D28FAB2E61155486AF" config_id="18063BC2F86946D28FAB2E61155486AF"></Item>
+ <Item type="Workflow Map Path" keyed_name="51ECBC73F4294E58BBD5F59800B5120C" config_id="51ECBC73F4294E58BBD5F59800B5120C"></Item>
+ <Item type="Workflow Map Path" keyed_name="DB4DE0067C53455796F117C13B58B05D" config_id="DB4DE0067C53455796F117C13B58B05D"></Item>
+ <Item type="Workflow Map Path" keyed_name="DDD258A7DEE94E2198DB339BEDD1F661" config_id="DDD258A7DEE94E2198DB339BEDD1F661"></Item>
+ <Item type="Workflow Map Path" keyed_name="574B42E92BE048A681840F945BA45ACB" config_id="574B42E92BE048A681840F945BA45ACB"></Item>
+ <Item type="Workflow Map Path" keyed_name="886FA7842C6C47A7BF3BACE5D1366550" config_id="886FA7842C6C47A7BF3BACE5D1366550"></Item>
+ <Item type="Workflow Map Path" keyed_name="DDFC09FC9A4F4EAB95256941FACBF034" config_id="DDFC09FC9A4F4EAB95256941FACBF034"></Item>
+ <Item type="Workflow Map Path" keyed_name="244503EB66A44D21A65F7EE0D369F8A5" config_id="244503EB66A44D21A65F7EE0D369F8A5"></Item>
+ <Item type="Workflow Map Path" keyed_name="D9B9E4E19F4B4ABDAED3193A8E72A7AA" config_id="D9B9E4E19F4B4ABDAED3193A8E72A7AA"></Item>
+ <Item type="Workflow Map Path" keyed_name="EDDBE9034D5743B8878BC843AF9961A7" config_id="EDDBE9034D5743B8878BC843AF9961A7"></Item>
+ <Item type="Workflow Map Path" keyed_name="62F1E6D09B67466ABAE176060F9A0208" config_id="62F1E6D09B67466ABAE176060F9A0208"></Item>
+ <Item type="Workflow Map Path" keyed_name="E2B44785867F415398F79EFE81145E00" config_id="E2B44785867F415398F79EFE81145E00"></Item>
+ <Item type="Workflow Map Path" keyed_name="75BAD2E720BD4981A13A10F37B6CC23C" config_id="75BAD2E720BD4981A13A10F37B6CC23C"></Item>
+ <Item type="Workflow Map Path" keyed_name="F4F122A8BC1B47D8B02B849F01645FBC" config_id="F4F122A8BC1B47D8B02B849F01645FBC"></Item>
+ <Item type="Workflow Map Path" keyed_name="27BD69F0D51A478284D4884F89ABA469" config_id="27BD69F0D51A478284D4884F89ABA469">
+  <property __name="label" en="Reject" zc="" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="9C4C8DBA74C749EC93832E106AB15A45" config_id="9C4C8DBA74C749EC93832E106AB15A45">
+  <property __name="label" en="Approve" zc="" />
+ </Item>
+ <Item type="Workflow Map Path" keyed_name="D215FD88BDED429387A267B7A516F9ED" config_id="D215FD88BDED429387A267B7A516F9ED"></Item>
+ <Item type="Workflow Map Path" keyed_name="80E6296119504792AD1D82D88F105ECB" config_id="80E6296119504792AD1D82D88F105ECB"></Item>
+ <Item type="Workflow Map Path" keyed_name="E0A762DA05284ECABA21EA1D3DB7FA48" config_id="E0A762DA05284ECABA21EA1D3DB7FA48"></Item>
+</export>

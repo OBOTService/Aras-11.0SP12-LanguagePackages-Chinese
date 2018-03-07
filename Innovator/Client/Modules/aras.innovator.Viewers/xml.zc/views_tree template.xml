@@ -1,0 +1,42 @@
+﻿<table enableHTML="false" treelines="1" thinBorder="true">
+	<tr level="0" id="standardViews" icon0="" icon1="">
+		<userdata key="className" value="ViewsTypeHead"/>
+		<td>Standard Views</td>
+		<tr level="1" id="isoView" icon0="../../../images/IsoView.svg\" icon1="../../../images/IsoView.svg">
+			<userdata key="viewDirectionType" value="IsoView"/>
+			<td>Iso View</td>
+		</tr>
+		<tr level="1" id="frontView" icon0="../../../images/FrontView.svg\" icon1="../../../images/FrontView.svg">
+			<userdata key="viewDirectionType" value="FrontView"/>
+			<td>Front View</td>
+		</tr>
+		<tr level="1" id="rightView" icon0="../../../images/RightView.svg\" icon1="../../../images/RightView.svg">
+			<userdata key="viewDirectionType" value="RightView"/>
+			<td>Right View</td>
+		</tr>
+		<tr level="1" id="leftView" icon0="../../../images/LeftView.svg\" icon1="../../../images/LeftView.svg">
+			<userdata key="viewDirectionType" value="LeftView"/>
+			<td>Left View</td>
+		</tr>
+		<tr level="1" id="topView" icon0="../../../images/TopView.svg\" icon1="../../../images/TopView.svg">
+			<userdata key="viewDirectionType" value="TopView"/>
+			<td>Top View</td>
+		</tr>
+		<tr level="1" id="backView" icon0="../../../images/BackView.svg\" icon1="../../../images/BackView.svg">
+			<userdata key="viewDirectionType" value="BackView"/>
+			<td>Back View</td>
+		</tr>
+		<tr level="1" id="bottomView" icon0="../../../images/BottomView.svg\" icon1="../../../images/BottomView.svg">
+			<userdata key="viewDirectionType" value="BottomView"/>
+			<td>Bottom View</td>
+		</tr>
+	</tr>
+	<tr level="0" id="cadViews" icon0="" icon1="">
+		<userdata key="className" value="ViewsTypeHead"/>
+		<td>CAD Views</td>
+	</tr>
+	<tr level="0" id="annotationViews" icon0="" icon1="">
+		<userdata key="className" value="ViewsTypeHead"/>
+		<td>Annotation Views</td>
+	</tr>
+</table>

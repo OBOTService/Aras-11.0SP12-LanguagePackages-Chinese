@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<menuapplet
+  on_select   = "onClickItem"
+  on_check    = "onCheckMenu"
+  show        = "main_menubar">
+
+  <menubar id="main_menubar">
+    <menu id="file_menu" name="档案">
+      <item id="exit" name="离开"/>
+    </menu>
+  </menubar>
+</menuapplet>

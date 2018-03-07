@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toolbarapplet buttonsize="26,25">
+	<toolbar id="swtoolbar">
+		<button text="Expand All" id="expand_all" image="../images/ExpandAll.svg" tooltip="Expand All" />
+		<button text="Collapse All" id="collapse_all" image="../images/CollapseAll.svg" tooltip="Collapse All" />
+		<separator/>
+		<button text="Side-by-Side with other Version" id="side_to_other_version" image="../images/ViewRevisions.svg" tooltip="Side-by-Side with other Version" />
+		<button text="Side-by-Side with other XXX" id="side_to_other_itemType" image="../images/ViewItem.svg" tooltip="Side-by-Side with other XXX" />
+		<separator/>
+		<button text="Highlight" id="highlight" image="../images/RedlineView.svg" tooltip="Highlight" disabled="true"/>
+		<separator/>
+		<!--<button state="0" image="../imagesLegacy/layout0.gif" id="ly0" />
+		<button state="0" image="../imagesLegacy/layout1.gif" id="ly1" />
+		<button state="0" image="../imagesLegacy/layout2.gif" id="ly2" />
+		<button state="0" image="../imagesLegacy/layout3.gif" id="ly3" />
+		<button state="0" image="../imagesLegacy/layout4.gif" id="ly4" />
+		<button state="0" image="../imagesLegacy/layout5.gif" id="ly5" />
+		<button state="0" image="../imagesLegacy/layout6.gif" id="ly6" />
+		<button state="0" image="../imagesLegacy/layout7.gif" id="ly7" />
+		<button state="0" image="../imagesLegacy/layout8.gif" id="ly8" />
+		<button state="0" image="../imagesLegacy/layout9.gif" id="ly9" />
+		<button state="0" image="../imagesLegacy/layout10.gif" id="ly10" />
+		<button state="0" image="../imagesLegacy/layout11.gif" id="ly11" />-->
+	</toolbar>
+</toolbarapplet>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<toolbarapplet
+  on_click        = "onToolbarButtonClick"
+  on_load         = "onToolbarLoad"
+  buttonstyle     = "windows"
+  buttonsize      = "26,25"
+  font            = "Arial-8">
+  <toolbar id="tasksTbl">    
+    <button disabled="false" image="../images/New.svg"         id="add"     tooltip="新建"     statusmsg="新建"/>
+    <button disabled="true" image="../images/Delete.svg"      id="del"    tooltip="删除"    statusmsg="删除"/>
+  </toolbar>
+</toolbarapplet>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menuapplet show="structure_view_menubar">
+
+  <menubar id="structure_view_menubar">
+    <menu id="structure_view" name="文件">
+		<item id="close" name="关闭"/>
+    </menu>
+  </menubar>
+  
+	<menubar id="structure_select_menubar">
+    <menu id="structure_select" name="文件">
+		<item id="return_selected" name="选择"/>
+        <item id="clear_selected" name="清除"/>
+        <separator/>  
+		<item id="close" name="关闭"/>
+    </menu>
+  </menubar>
+  
+	<menubar id="structure_edit_menubar">
+    <menu id="structure_edit" name="文件">
+		<item id="close" name="关闭"/>
+    </menu>       
+  </menubar>
+</menuapplet>

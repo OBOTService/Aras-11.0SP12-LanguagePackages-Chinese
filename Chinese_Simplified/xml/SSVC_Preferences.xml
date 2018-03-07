@@ -1,0 +1,20 @@
+﻿<export>
+ <Item type="SSVC_Preferences" keyed_name="860853CB7F3E44649AD4FC4F443F35A7" config_id="860853CB7F3E44649AD4FC4F443F35A7">
+  <property __name="subject_digest_notifications" en="[Aras] Visual Collaboration Notification – new messages" zc="" />
+  <property __name="subject_single_notifications" en="[Aras] Visual Collaboration Notification – new message" zc="" />
+  <property __name="desc_digest_notifications" en="The following new messages have posted in your discussions:" zc="" />
+  <property __name="desc_single_notifications" en="The following new message has posted in your discussions:" zc="" />
+ </Item>
+ <Item type="SSVC_Preferences" keyed_name="50DA85C0A9384AA7845E72932A3923E0" config_id="50DA85C0A9384AA7845E72932A3923E0">
+  <property __name="subject_digest_notifications" en="[Aras] Visual Collaboration Notification – new messages" zc="" />
+  <property __name="subject_single_notifications" en="[Aras] Visual Collaboration Notification – new message" zc="" />
+  <property __name="desc_digest_notifications" en="The following new messages have posted in your discussions:" zc="" />
+  <property __name="desc_single_notifications" en="The following new message has posted in your discussions:" zc="" />
+ </Item>
+ <Item type="SSVC_Preferences" keyed_name="50F35D1F4D0D45668CF03BE2C7D76DEF" config_id="50F35D1F4D0D45668CF03BE2C7D76DEF">
+  <property __name="subject_digest_notifications" en="[Aras] Visual Collaboration Notification – new messages" zc="" />
+  <property __name="subject_single_notifications" en="[Aras] Visual Collaboration Notification – new message" zc="" />
+  <property __name="desc_digest_notifications" en="The following new messages have posted in your discussions:" zc="" />
+  <property __name="desc_single_notifications" en="The following new message has posted in your discussions:" zc="" />
+ </Item>
+</export>

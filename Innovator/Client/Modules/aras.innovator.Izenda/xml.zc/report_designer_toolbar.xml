@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<toolbarapplet on_load="onToolbarAppletLoad" on_click="onButtonClick" buttonstyle="windows" buttonsize="26,25">
+    <toolbar id="viewerbar">
+        <button image="../images/New.svg" id="new_report" tooltip="Create a New Report"/>
+        <button image="../images/Save.svg" id="save_report" tooltip="Save Report" disabled="true"/>
+        <button image="../images/SaveAs.svg" id="save_as_report" tooltip="Save As" disabled="true"/>
+        <separator/>
+        <button image="../images/PDF.svg" id="export_pdf" tooltip="Export as PDF" disabled="true"/>
+        <separator/>
+        <button image="../images/Print.svg" id="print_report" tooltip="Export as HTML" disabled="true"/>
+        <button image="../images/SQL.svg" id="export_sql" tooltip="Export as SQL" disabled="true"/>
+        <button image="../images/CSV.svg" id="export_csv" tooltip="Export as CSV" disabled="true"/>
+        <button image="../images/ExportToExcel.svg" id="export_excel" tooltip="Export as Excel" disabled="true"/>
+        <button image="../images/ExportToWord.svg" id="export_word" tooltip="Export as Word" disabled="true"/>
+        <button image="../images/XML.svg" id="export_xml" tooltip="Export as Xml" disabled="true"/>
+        <separator/>
+        <button image="../Modules/aras.innovator.Izenda/images/UnlockAndClose.svg" id="unlock_close" tooltip="Unlock &amp; Close" disabled="true"/>
+        <separator/>
+        <button image="../images/Help.svg" id="help" tooltip="Help"/>
+        <separator/>
+        <button image="../images/SaveUnlockClose.svg" id="save_unlock_close" tooltip="Save, Unlock &amp; Close" disabled="true"/>
+    </toolbar>
+</toolbarapplet>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toolbarapplet buttonsize="26,25">
+  <toolbar id="tb1">
+    <button image="../images/ViewItem.svg" id="show_item" tooltip="View item" text="View item"/>
+    <separator/>
+    <button image="../images/ExecuteSearch.svg" id="search" tooltip="Run Search" text="Run Search"/>
+    <separator/>
+    <choice id="search_mode" tooltip="Search modes" text="Search Mode">
+    </choice>
+    <choice id="saved_search" tooltip="Saved searches" text="Saved searches">
+    </choice>
+    <separator/>
+    <edit id="page_size" tooltip="Page Size" text="" size="3"/>
+  </toolbar>
+</toolbarapplet>

@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ui_resources>
+  <!-- +++++ Common +++++ -->
+  <resource key="common.can_not_find_activity2_with_id" value="Can not find Activity2 with id= {0}"/>
+  <resource key="common.ctz_is_not_set" value="CorporateTimeZone Variable is not set."/>
+  <!--       Common       -->
+	<!-- +++++ Clone Project +++++ -->
+	<resource key="project.cannot_be_cloned" value="Please save the {0} before cloning"/>
+	<!--       Clone Project       -->
+  <!-- +++++ Project/Client/javascript/gantt_methods.js +++++ -->
+  <resource key="gantt_methods.wrong_columns_initialization" value="错误:332 初始化错误, 错误的列号: {0} = {1}"/>
+  <resource key="gantt_methods.no_activity_number_found_with_id" value="错误 790: 找不到Activity2： id= {0}"/>
+  <resource key="gantt_methods.wrong_rowtype_in_function" value="错误 670 : Wrong rowType='{0}' for scrPath='{1}' in getXPathForColumnSource function"/>
+  <resource key="gantt_methods.infinite_computational_loop" value="错误 338: infinite computational loop"/>
+  <resource key="gantt_methods.wrong_itemtypename_in_function" value="错误 776 : Wrong itemTypeName in function getParamsForColumnSource"/>
+  <resource key="gantt_methods.wrong_propname_in_function" value="Error 777 : Wrong propName in function getParamsForColumnSource"/>
+  <resource key="gantt_methods.wrong_row_type" value="错误 229 : 错误的行 = {0}"/>
+  <resource key="gantt_methods.close_chart_window_and_open_new" value="关闭此窗体，打开新窗体?"/>
+  <resource key="gantt_methods.no_activity_id_found_with_num" value="错误 799: 找不到Activity2： num = {0}"/>
+  <resource key="gantt.timeline_day" value="天"/>
+  <resource key="gantt.timeline_week" value="星期"/>
+  <resource key="gantt.timeline_month" value="月"/>
+  <resource key="gantt.timeline_quarter" value="季度"/>
+  <resource key="gantt.timeline_year" value="年"/>
+  <resource key="gantt.timeline" value="时间轴:"/>
+  <resource key="gantt.quarter_header_label" value="Qtr {0},{1}"/>
+  <resource key="gantt.halfyear_header_label" value="Half {0},{1}"/>
+  <!--       Project/Client/javascript/gantt_methods.js      -->
+  <!-- +++++ Project/Client/scripts/ProjectTree.htm +++++ -->
+  <resource key="project_tree.wrong_property_data_source" value="Error 344: 错误的属性 : {0}"/>
+  <resource key="project_tree.wrong_value_of_propshash" value="Error 332: 错误的属性值"/>
+  <resource key="project_tree.failed_get_wbs_with_id_and_level" value="Error 890 : 找不到Wbs元素：id= {0}，层次= {1}"/>
+  <resource key="project_tree.wbs_not_initialized" value="WBS元素沒有初始化"/>
+  <resource key="project_tree.can_not_find_item_of_type_with_id" value="无法找到： type= {0} ，id= {1} "/>
+  <resource key="project_tree.can_not_find_type_with_id" value="错误 450: 无法找到 {0} with id= {1}"/>
+  <resource key="project_tree.value_invalid_for_param" value="值 &quot;{0}&quot; 无效 for {1}. 使用F2调用搜索表单."/>
+  <resource key="project_tree.property_not_specified_for_cell" value="单元未指定属性."/>
+  <resource key="project_tree.remove_predecessor_or_cancel" value="是否取消前继?"/>
+  <resource key="project_tree.can_not_change_to_negative_duration" value="不能为负的跨度，再次编辑吗？"/>
+  <resource key="project_tree.can_not_get_deliverable" value="错误 990:  无法获得相关的交付件."/>
+  <resource key="project_tree.item_has_not_parent_relationship" value="错误: 对象无关联"/>
+  <resource key="project_tree.can_not_get_item_for_edit" value="错误 220: 找不到对象."/>
+  <resource key="project_tree.can_not_find_parent_of_wbs" value="找不到WBS元素的父：id= {0}"/>
+  <resource key="project_tree.can_not_outdent_to_root_level" value="不能缩进"/>
+  <resource key="project_tree.no_such_type_supported_for_deliverables" value="交付件不支持此类型: {0}"/>
+  <resource key="project_tree.fieled_value_must_be_positive_integer" value="此栏位的值必须为整数，再次编辑吗?"/>
+  <resource key="project_tree.status_value_must_be_nonnegative_integer" value="错误 133: 状态值必须为一个正整数并且在0和100之间. 再次编辑吗?"/>
+  <resource key="project_tree.value_invalid" value="值 {0}是无效的. 使用F2调用搜索表单?"/>
+  <resource key="project_tree.invalid_predecessor" value="错误 122:  无效的前继. 再次编辑吗?"/>
+  <resource key="project_tree.not_number_between_commas" value="错误 123: 不是数字. 再次编辑吗?"/>
+  <resource key="project_tree.number_of_predecessor_out_of_range_of_possible_values" value="错误 125: 前继的值超出了范围. 再次编辑吗?"/>
+  <resource key="project_tree.predecessor_can_not_link_activity_with_sel" value="错误 126: 前继不能为当前活动本身. 再次编辑吗?"/>
+  <resource key="project_tree.can_not_be_more_than_one_same_predecessors" value="错误 127: 不能有多个相同的前继. 再次编辑吗?"/>
+  <resource key="project_tree.trying_link_task_has_task_links_to_first_task" value="你试图将当前任务的前继设为另一个任务，但另一个任务的前继包含了当前任务，这造成了回圈，再次编辑吗?"/>
+  <resource key="project_tree.loading_deliverable_related_itemtypes" value="将交付件关联到对象..."/>
+  <resource key="project_tree.project_item_type_not_found" value="错误 558: 项目计划对象沒找到"/>
+  <resource key="project_tree.action_with_name_con_not_be_found" value="错误 559: 行为： name= {0} 沒有找到"/>
+  <resource key="project_tree.save_changes_in_project" value="请先保存项目计划. 完成窗体不能显示."/>
+  <resource key="project_tree.query_dom_invalid" value="错误 456: 查询无效"/>
+  <resource key="project_tree.query_node_can_not_be_found" value="错误 457: 查询节点未找到： type= {0}"/>
+  <resource key="project_tree.trying_initialize_tree_applet_by_not_xml" value="错误 530:  无XML情況下试图初始化树"/>
+  <resource key="project_tree.loading_data_for_opening_node" value="数据载入中..."/>
+  <resource key="project_tree.situation_inadmissible_can_not_find_TR" value="错误 120: 无法找到 id= {0}"/>
+  <resource key="project_tree.treeloadxml_not_initialized" value="错误: treeLoadXml沒有初始化."/>
+  <resource key="project_tree.error_applying_query_can_not_get_item" value="查询 : 查询错误. 无法找到对象： id= {0}"/>
+  <resource key="project_tree.can_not_find_item_with_id" value="无法找到对象： id= {0} "/>
+  <resource key="project_tree.iom_apply_gets_ fault" value="错误: IOM请求失敗."/>
+  <resource key="project_tree.error_can_not_find_item_with_id" value="错误 559: 无法找到对象： id= {0}"/>
+  <resource key="project_tree.wbs_and_children_will_be_ deleted" value="警告! 选中的WEB元素以及它的子资料都会被刪除. 确认吗?'"/>
+  <resource key="project_tree.activity_will_be_deleted" value="警告! 选中的活动将被刪除. 确定吗?"/>
+  <resource key="project_tree.can_not_delete_required" value="不能刪除, 因为 {0},编号= {1} 是必须的."/>
+  <resource key="project_tree.activity_for_deletion_has_successor" value="选中将被刪除的活动是一个前继活动. 确认需要刪除吗?"/>
+  <resource key="project_tree.can_not_find_item_it_should_be_in_tree" value="无法找到对象，但是它应该在书中，请查询活动: {0}"/>
+  <resource key="project_tree.can_not_find_item_with_id_removedFrom" value="无法找到对象：id= {0}"/>
+  <resource key="project_tree.wrong_call_of_addlinkrelationship" value="错误呼叫 addLinkRelationship."/>
+  <resource key="project_tree.can_not_get_item_of_type_for_edit" value="无法获得对象，类型为 {0} ，id= {1}"/>
+  <resource key="project_tree.wrong_type_of_relationship" value="错误的关系类型: {0}"/>
+  <resource key="project_tree.can_not_indent_wbs_not_has_not_root_wbs_above" value="无法缩进, 因为选中的WBS元素沒有上层元素."/>
+   <resource key="project_tree.can_not_find_seltype" value="无法找到 {0} ID= {1}."/>
+  <resource key="project_tree.can_not_find_parent_of_parent_of_WBS" value="无法找到WBS元素的上层的上层，id= {0}"/>
+	<resource key="project_tree.copy_with_deliverables" value="Copied items have attached Deliverables. Click 'OK' to attach the same Deliverables to the copied items or 'Cancel' to copy Items without attached Deliverables."/>
+	<resource key="project_tree.invalid_row_selection_not_all_rows_are_same_type" value="Invalid row selection, not all rows are the same type."/>
+	<resource key="project_tree.invalid_row_selection_not_same_parent" value="All selected WBS must have the same parent."/>
+	<resource key="project_tree.wbs_element_movement_within_itself_is_not_allowed" value="WBS element movement within itself is not allowed."/>
+	<resource key="project_tree.only_one_root_element_is_allowed" value="Only one Root element is allowed."/>
+	<resource key="project_tree.confirm_delete_all_items" value="Deleting items. Yes for all?"/>
+	<resource key="project_tree.save_before_search" value="Please save the {0} before running search/filter."/>
+  <!--       Project/Client/scripts/ProjectTree.htm     -->
+  <!-- +++++ Project/Client/scripts/addProjectDialog.html +++++ -->
+  <resource key="add_project_dialog.title" value="Add Project Plan"/>
+  <resource key="add_project_dialog.to_create_project_enter_target_finish" value="创建项目计划时必须输入目标完成日期."/>
+  <resource key="add_project_dialog.to_create_project_enter_target_start" value="创建项目计划时必须输入目标开始日期."/>
+  <resource key="add_project_dialog.to_create_project_enter_project_name" value="创建项目计划时必须输入项目计划名称."/>
+  <resource key="add_project_dialog.form_not_found" value="表单 {0} 无法找到."/>
+  <resource key="add_project_dialog.form_not_found_for_display" value="表单 {0} 未找到，无法显示."/>
+  <!--       Project/Client/scripts/addProjectDialog.html     -->
+  <!-- +++++ Project/Client/scripts/itemChoice.html +++++ -->
+  <resource key="item_choice.have_error" value="You have error:
+   {0}"/>
+  <!--       Project/Client/scripts/itemChoice.html      -->
+  <!-- +++++ Project/Client/scripts/ActivityCompletionWorksheet/ACWDialog.html +++++ -->
+  <resource key="acw_dialog.activity_item_not_specified" value="错误: 活动未指定"/>
+  <resource key="acw_dialog.acw_dialog_not_open_for_unsaved_activity" value="未保存的活动无法打开完成对话窗体. 请先保存."/>
+  <resource key="acw_dialog.failed_get_activity2" value="无法获得活动对象类"/>
+  <resource key="acw_dialog.activity_processed_successfully" value="活动已完成."/>
+  <resource key="acw_dialog.method_not_found" value="方法 {0} 未找到"/>
+  <resource key="acw_dialog.method_failed" value="方法 {0}失效: {1}"/>
+  <resource key="acw_dialog.changes_will_be_discarded" value="所有的修改都会丟失，
+  确定吗?"/>
+  <resource key="acw_dialog.activity_completion_form" value="活动完成对话方块"/>
+  <resource key="acw_dialog.updating_activity" value="更新活动..."/>
+  <resource key="acw_dialog.completing_activity" value="完成活动..."/>
+  <resource key="acw_dialog.new" value="新建"/>
+  <resource key="acw_dialog.delete" value="刪除"/>
+  <resource key="acw_dialog.view_deliverable" value="查看交付件"/>
+  <resource key="acw_dialog.add_existing_deliverable" value="添加已存在的交付件"/>
+  <resource key="acw_dialog.add_new_deliverable" value="添加新的交付件"/>
+  <!--       Project/Client/scripts/ActivityCompletionWorksheet/ACWDialog.htm     -->
+  <!-- +++++ Project/Client/scripts/itemChoice.html +++++ -->
+  <resource key="pr_methods.getting_result" value="获取結果 ..."/>
+  <resource key="pr_methods.ts_before_tf_warning" value="点击OK，设定目标开始日期是在目标完成日期的前一天."/>
+  <resource key="pr_methods.ts_after_tf_warning" value="点击OK，设定目标完成日期是在目标开始日期的后一天."/>
+  <resource key="pr_methods.must_int" value="请输入整数."/>
+  <resource key="pr_methods.creating_new_project" value="创建新的项目计划..."/>
+  <resource key="pr_methods.no_wbs_with_id" value="无法找到WBS元素：ID='{0}'."/>
+  <resource key="pr_methods.cannot_change_to_negative_duration" value="不能改为负的跨度. 再次编辑吗?"/>
+  <resource key="pr_methods.must_int_edit_again" value="必须为正整数. 再次编辑吗?"/>
+  <resource key="pr_methods.must_int_between_0_and_100_edit_again" value="必须为正整数，且在0和100 之间. 再次编辑吗?"/>
+  <resource key="pr_methods.scheduling_cannot_for_unsaved_item" value="未保存的项目不能进行排程. 请先保存."/>
+  <resource key="pr_methods.scheduling_is_not_success" value="排程失败"/>
+  <resource key="pr_methods." value="异常- PM_predecessorCGOnload: 活动： id={0}在项目中无法找到."/>
+  <resource key="pr_methods.method_for_rollup_fields_not_found" value="方法 {0} 无法找doa."/>
+  <resource key="pr_methods.tf_cannot_be_earlier_ts" value="目标完成日期不能早于目标开始日期"/>
+  <resource key="pr_methods.ts_cannot_be_later_tf" value="目标开始日期不能晚于目标完成日期"/>
+  <resource key="pr_methods.create_assignments_using_no_related" value="请分派执行人 &lt;BR&gt;(related identities are ignored when a Project is created from Project Template)."/>
+  <resource key="pr_methods.cannot_get_item_with_id" value="查询失败. 无法获得对象 id='{0}'"/>
+  <resource key="pr_methods.save_item_first" value="请先保存"/>
+  <resource key="pr_methods.run_scheduling_first" value="不能运行报表. 请先排程."/>
+  <resource key="pr_methods.no_activities_to_show" value="沒有活动显示"/>
+  <!--       Project/Client/scripts/itemChoice.html      -->
+</ui_resources>

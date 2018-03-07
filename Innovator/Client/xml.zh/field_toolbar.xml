@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toolbarapplet on_load="onToolbarAppletLoad" on_click="onButtonClick" buttonstyle="windows" buttonsize="26,25">
+  <toolbar id="fieldbar">
+    <button image="../images/Delete.svg" id="delete" tooltip="Delete Selected Field" text="Delete Field"/>
+    <separator/>
+    <button image="../images/TextField.svg" id="text" tooltip="New Text" text="New Text"/>
+    <button image="../images/Password.svg" id="password" tooltip="New Password" text="New Password"/>
+    <button image="../images/TextArea.svg" id="textarea" tooltip="New Textarea" text="New Textarea"/>
+    <button image="../images/Dropdown.svg" id="dropdown" tooltip="New Dropdown" text="New Dropdown"/>
+    <button image="../images/ListBox.svg" id="listbox single select" tooltip="New List Box" text="New List Box"/>
+    <button image="../images/ListBoxMulti.svg" id="listbox multi select" tooltip="New List Box Multi Select" text="New List box Multi Select"/>
+    <button image="../images/Checkbox.svg" id="checkbox" tooltip="New Checkbox" text="New Checkbox"/>
+    <button image="../images/RadioButton.svg" id="radio button list" tooltip="New Radio Button List" text="New Radio Button List"/>
+    <button image="../images/Button.svg" id="button" tooltip="New Button" text="New Button"/>
+    <button image="../images/BusinessCalendarYear.svg" id="date" tooltip="New Date" text="New Date"/>
+    <button image="../images/Color.svg" id="color" tooltip="New Color" text="New Color"/>
+    <button image="../images/Image.svg" id="html" tooltip="New HTML" text="New HTML"/>
+    <button image="../images/xClassification.svg" id="xclass" tooltip="New xClass" text="New xClass"/>
+    <separator/>
+    <drop_down_button id="unused_ds" tooltip="Properties Not Used as Data Sources" text="Unused Properties"/>
+    <drop_down_button id="snap-to-grid" tooltip="Snap-to-Grid" text="Snap:" singlecheck="true">
+      <checkitem id="snap-1" checked="true">Off</checkitem>
+      <checkitem id="snap-5">5</checkitem>
+      <checkitem id="snap-10">10</checkitem>
+    </drop_down_button>
+  </toolbar>
+</toolbarapplet>

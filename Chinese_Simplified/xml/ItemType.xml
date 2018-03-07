@@ -1,0 +1,1485 @@
+﻿<export>
+ <Item type="ItemType" keyed_name="Project" config_id="02184EDAA80D499CB6EC94B159966DBE">
+  <property __name="label" en="Project" zc="项目计划" />
+  <property __name="label_plural" en="Projects" zc="项目计划" />
+ </Item>
+ <Item type="ItemType" keyed_name="ConversionServer" config_id="02FA838247DF47C2BB85AAB299E646B2">
+  <property __name="label" en="Conversion Server" zc="" />
+  <property __name="label_plural" en="Conversion Servers" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Language" config_id="030019FA30FE40FEB5E32AD2FC9B1F20">
+  <property __name="label" en="Language" zc="语言" />
+  <property __name="label_plural" en="Languages" zc="语言" />
+ </Item>
+ <Item type="ItemType" keyed_name="ConversionTask" config_id="0300B828CBEE4610B77C41377209C900">
+  <property __name="label" en="Conversion Task" zc="" />
+  <property __name="label_plural" en="Conversion Tasks" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Permission_ExplicitDefine" config_id="03435AC2C3D844FC87DA9CAF1899C753">
+  <property __name="label" en="Explicit Permission" zc="" />
+  <property __name="label_plural" en="Explicit Permissions" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="qry_QueryDefinition" config_id="0421B558114B4B22886C0F4206C923EE">
+  <property __name="label" en="Query Definition" zc="" />
+  <property __name="label_plural" en="Query Definitions" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="CommandBarEdit" config_id="045614982D5A48F9AF9022A370B8F24A">
+  <property __name="label" en="Edit" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Document Changes" config_id="05163AFBF2FF498DAD1B56EF968EB0F6">
+  <property __name="label" en="Document Changes" zc="" />
+  <property __name="label_plural" en="Document Changes" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Activity Template Method" config_id="05A68B0BC74C47A6A2FD4404A73C815F">
+  <property __name="label" en="Activity Template Method" zc="Activity Template Method" />
+  <property __name="label_plural" en="Activity Template Methods" zc="Activity Template Methods" />
+ </Item>
+ <Item type="ItemType" keyed_name="Simple ECO" config_id="05C2AC1EB54742FF95CBB12FE12F5EDB">
+  <property __name="label" en="ECO" zc="ECO" />
+  <property __name="label_plural" en="ECOs" zc="ECOs" />
+ </Item>
+ <Item type="ItemType" keyed_name="ConversionRule" config_id="05DF56FF833542F98251528F3FFE2FA0">
+  <property __name="label" en="Conversion Rule" zc="" />
+  <property __name="label_plural" en="Conversion Rules" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="RB_Node_1" config_id="06A2AFA7A144407AA4D075C299A862A3"></Item>
+ <Item type="ItemType" keyed_name="Project Part" config_id="06BDA3A0ED4F4DA2935A431D82278A30">
+  <property __name="label" en="Project Part" zc="" />
+  <property __name="label_plural" en="Project Parts" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="History Container" config_id="06E0660816FE40A2BF1411B2280062B3">
+  <property __name="label" en="History" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Project Tree" config_id="07A4674D25524CE4B6E92662C2021105">
+  <property __name="label" en="Project Tree" zc="" />
+  <property __name="label_plural" en="Project Tree" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Part Submission Warrant" config_id="08320E6E05774E8EA3C90D7914411C45">
+  <property __name="label" en="Part Submission Warrant" zc="零件提交保证书" />
+  <property __name="label_plural" en="Part Submission Warrants" zc="零件提交保证书" />
+ </Item>
+ <Item type="ItemType" keyed_name="WMSet" config_id="08CC14292189425B9FBC68937CC5BD33">
+  <property __name="label" en="Watermark Set" zc="" />
+  <property __name="label_plural" en="Watermark Sets" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="DiscussionDefinition" config_id="09586A35D3534D5EAD92B94CB1036AEF">
+  <property __name="label" en="DiscussionDefinition" zc="" />
+  <property __name="label_plural" en="DiscussionDefinitions" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Simple ECO Signoff" config_id="09B095EED97743C58FD291041C67B944"></Item>
+ <Item type="ItemType" keyed_name="ForumMessageGroup" config_id="0A871CCD40364A03AD2F0FD24AEAB4E5">
+  <property __name="label" en="ForumMessageGroup" zc="" />
+  <property __name="label_plural" en="ForumMessageGroup" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="MyReports" config_id="0B9D641B40D24036A117D911558CBDCE">
+  <property __name="label" en="My Reports" zc="" />
+  <property __name="label_plural" en="My Reports" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="rb_QueryDefinitionParameterMap" config_id="0B9DE34ACEAE4C6FBB3341A8F33C9130">
+  <property __name="label" en="Parameter Map" zc="" />
+  <property __name="label_plural" en="Parameter Maps" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Field" config_id="0BB5B81FEB37475BB9C779408080DB61">
+  <property __name="label" en="Field" zc="" />
+  <property __name="label_plural" en="Fields" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Core_GlobalLayout" config_id="0BDF3A9BA8D94A18A016541653EA9097">
+  <property __name="label" en="General Settings" zc="常规设定" />
+  <property __name="label_plural" en="General Settings" zc="常规设定" />
+ </Item>
+ <Item type="ItemType" keyed_name="Activity2 Deliverable" config_id="0CCA05E05A104F2E88CF123EF4F5171E">
+  <property __name="label" en="Activity2 Deliverable" zc="" />
+  <property __name="label_plural" en="Activity2 Deliverables" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="cmf_ElementAllowedPermission" config_id="0CFC2324C1A141C59B2B4612442D0433"></Item>
+ <Item type="ItemType" keyed_name="ES_CrawlerState" config_id="0DD5AF6738394DD49769519447E631BF">
+  <property __name="label" en="ES_CrawlerState" zc="" />
+  <property __name="label_plural" en="ES_CrawlerState" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="WBS Deliverable" config_id="0DD81C6BBA094CB69A949CC26EE45664">
+  <property __name="label" en="WBS Deliverable" zc="" />
+  <property __name="label_plural" en="WBS Deliverables" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="ConverterType" config_id="0DE14E76AA794A039DA8D2CDC34E6B1D">
+  <property __name="label" en="Conversion Type" zc="" />
+  <property __name="label_plural" en="Conversion Types" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Column Event" config_id="0EA142227FAE40148A4BDD8CF1D450EF">
+  <property __name="label" en="Column Event" zc="Column Event" />
+  <property __name="label_plural" en="Column Events" zc="Column Events" />
+ </Item>
+ <Item type="ItemType" keyed_name="Predecessor" config_id="0EB9440796664EEBBAD9BE8B4DAE660F">
+  <property __name="label" en="Predecessors" zc="Predecessors" />
+  <property __name="label_plural" en="Predecessors" zc="Predecessors" />
+ </Item>
+ <Item type="ItemType" keyed_name="cmf_ContentTypeExportRel" config_id="103F7DC6DDEA415389587AC6D37C135C"></Item>
+ <Item type="ItemType" keyed_name="Allowed Workflow" config_id="10B8BB84EEE9413AAD071C8341BBAB04">
+  <property __name="label" en="Allowed Workflow" zc="Allowed Workflow" />
+  <property __name="label_plural" en="Allowed Workflows" zc="Allowed Workflows" />
+ </Item>
+ <Item type="ItemType" keyed_name="UserMessage" config_id="122BF06C8B8E423A9931604DD939172F">
+  <property __name="label" en="UserMessage" zc="" />
+  <property __name="label_plural" en="User Messages" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="SecureMessageMarkup" config_id="13558E4C883D4E1788160C87AB6F61BC"></Item>
+ <Item type="ItemType" keyed_name="Locale" config_id="137D24DFD9AC4D0CA2ABF8D90346AABB">
+  <property __name="label" en="Locale" zc="区域" />
+  <property __name="label_plural" en="Locales" zc="区域" />
+ </Item>
+ <Item type="ItemType" keyed_name="FileType" config_id="13EC84A626F1457BB5F60A13DA03580B">
+  <property __name="label" en="FileType" zc="文件类型" />
+  <property __name="label_plural" en="FileTypes" zc="文件类型" />
+ </Item>
+ <Item type="ItemType" keyed_name="WMSettings" config_id="14479E1ADA444096B3116018A0012EB3">
+  <property __name="label" en="Watermark Rule" zc="" />
+  <property __name="label_plural" en="Watermark Rules" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Vendor Part" config_id="144AA8E560464BFF80E55601188D009F">
+  <property __name="label" en="Vendor Part" zc="Vendor Part" />
+  <property __name="label_plural" en="Vendor Parts" zc="Vendor Parts" />
+ </Item>
+ <Item type="ItemType" keyed_name="Exclusion" config_id="1549FB139D6B4AD99FDC1ED4B8011DB9">
+  <property __name="label" en="Exclusion" zc="" />
+  <property __name="label_plural" en="Exclusions" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="FileSelectorTemplate" config_id="15FA7E0A9F2A41269B8B6CF7C52BD11D">
+  <property __name="label" en="FileSelectorTemplate" zc="" />
+  <property __name="label_plural" en="FileSelectorTemplate" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="CADFiles" config_id="15FF1A4262FA4164B45A8A97BCE20CD4"></Item>
+ <Item type="ItemType" keyed_name="cmf_ContentTypeExportSetting" config_id="1675E79E847F4D3E9408B57EE7DA69EF">
+  <property __name="label" en="Excel Export Settings" zc="" />
+  <property __name="label_plural" en="Excel Export Settings" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Help" config_id="1718DC9FB25043B9A3F0B76DB5DC6637">
+  <property __name="label" en="Help" zc="" />
+  <property __name="label_plural" en="Help Topics" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="ConversionRuleEventHandler" config_id="17F8471D9F0346379B33D94E3A90689B"></Item>
+ <Item type="ItemType" keyed_name="Affected Relationship Property" config_id="1871FDAF597D48E583F57671D853D254"></Item>
+ <Item type="ItemType" keyed_name="SavedSearch" config_id="18C15AB147F84834874F2E0CB6B8B4C0">
+  <property __name="label" en="Saved Search" zc="保存的搜索" />
+  <property __name="label_plural" en="Saved Searches" zc="保存的搜索" />
+ </Item>
+ <Item type="ItemType" keyed_name="CAD Part" config_id="19071A7D6CEC4CADAF612984813C37D4"></Item>
+ <Item type="ItemType" keyed_name="ForumWantViewBy" config_id="19193BC7942C41AEBA8147BD1778F35E"></Item>
+ <Item type="ItemType" keyed_name="Change Controlled Item" config_id="198BF0BCCC364EE29F56434D803D5F1E">
+  <property __name="label" en="Change Controlled Item" zc="" />
+  <property __name="label_plural" en="Change Controlled Item" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="WMConfiguration" config_id="1A38FEFD4F6640D097A9C247737DF528">
+  <property __name="label" en="Watermark Configuration" zc="" />
+  <property __name="label_plural" en="Watermark Configurations" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="RB_Part" config_id="1AF5424027D7496DBF3D80135E075530"></Item>
+ <Item type="ItemType" keyed_name="Program" config_id="1B3A68711AFE49AFB72121C592E27498">
+  <property __name="label" en="Program" zc="计划纲要" />
+  <property __name="label_plural" en="Programs" zc="计划纲要" />
+ </Item>
+ <Item type="ItemType" keyed_name="RB_CAD_Related" config_id="1BBCEAA765D54B62965C114FD064B6BC"></Item>
+ <Item type="ItemType" keyed_name="Metric" config_id="1C5BA0A1491843378E48FF481F6F1DF1">
+  <property __name="label" en="Metric" zc="系列" />
+  <property __name="label_plural" en="Metrics" zc="系列" />
+ </Item>
+ <Item type="ItemType" keyed_name="Express DCO Signoff" config_id="1D56825E695740CFAD8DD313F667AC3A"></Item>
+ <Item type="ItemType" keyed_name="Transition Distribution" config_id="1DA22B3D6F12458290F8549165B490EC">
+  <property __name="label" en="Transition Distribution" zc="" />
+  <property __name="label_plural" en="Transition Distributions" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Chart" config_id="1DD844998D3941D1BB8680612D9B4B0C">
+  <property __name="label" en="Chart" zc="图表" />
+  <property __name="label_plural" en="Charts" zc="图表" />
+ </Item>
+ <Item type="ItemType" keyed_name="Life Cycle Transition" config_id="1E764495A5134823B30060D83FD6A2F9">
+  <property __name="label" en="Life Cycle Transition" zc="生命周期转变" />
+  <property __name="label_plural" en="Life Cycle Transitions" zc="生命周期转变" />
+ </Item>
+ <Item type="ItemType" keyed_name="RB_CAD_Node_1" config_id="1F0D1B4A1F1E4E119991FD5C7A57B3A3"></Item>
+ <Item type="ItemType" keyed_name="qry_QueryParameter" config_id="1F23B91C84264C6D9DF614DF2833D99D"></Item>
+ <Item type="ItemType" keyed_name="cmf_TabularViewColumnGroups" config_id="1F5F9158F3ED435CAD9757BCFA3A4453"></Item>
+ <Item type="ItemType" keyed_name="PPAP Package" config_id="1FA09939CE8A4D828E37A0262E130A12">
+  <property __name="label" en="PPAP Package" zc="" />
+  <property __name="label_plural" en="PPAP Packages" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="xClass_xProperty_Flatten" config_id="1FA4DD86163C4BB8A23D9647634232C8"></Item>
+ <Item type="ItemType" keyed_name="rb_ParameterViewModel" config_id="2008D572928A4BEF9CE4ABE8B2C3EF4C"></Item>
+ <Item type="ItemType" keyed_name="xPropertyContainerItem" config_id="2073428E99384916938E3519AF1C0A44"></Item>
+ <Item type="ItemType" keyed_name="fr_RepresentationFile" config_id="21121ADEF2C64B2AB86C94371122DEFD"></Item>
+ <Item type="ItemType" keyed_name="Hide In" config_id="213B74E721ED457C9BE735C038C7CB95">
+  <property __name="label" en="Hide In" zc="Hide In" />
+  <property __name="label_plural" en="Hide In" zc="Hide In" />
+ </Item>
+ <Item type="ItemType" keyed_name="cmf_ContentTypeGridLayout" config_id="21E1EF3C68744A53BF5FAC205A1B51CF"></Item>
+ <Item type="ItemType" keyed_name="Manufacturer Manf Part" config_id="228E356BD0174C13A2C936F16808544E"></Item>
+ <Item type="ItemType" keyed_name="xItemTypeAllowedProperty" config_id="22CD4E6E4FC24CD3B42D8B5ACAD4B58F"></Item>
+ <Item type="ItemType" keyed_name="SSVC Notification Message" config_id="23F2DA6CE14F43869BAC6691EA74A784"></Item>
+ <Item type="ItemType" keyed_name="Core_ItemGridLayout" config_id="241944ED565940B5BC4987C3D9EAB6C7">
+  <property __name="label" en="Item Grid Layout" zc="对象网格布局" />
+  <property __name="label_plural" en="Item Grid Layouts" zc="对象网格布局" />
+ </Item>
+ <Item type="ItemType" keyed_name="CommandBarSectionDependency" config_id="247BD89F278F439D97ACD50A46144A35"></Item>
+ <Item type="ItemType" keyed_name="rb_TreeRowReference" config_id="24D4E66674654B049E12D76ACCE20290">
+  <property __name="label" en="Tree Row Reference" zc="" />
+  <property __name="label_plural" en="Tree Row References" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="ForumItem" config_id="2578D0D1427A4FE384544CA498301E40">
+  <property __name="label" en="ForumItem" zc="" />
+  <property __name="label_plural" en="ForumItems" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Workflow Process" config_id="261EAC08AE9144FC95C49182ACE0D3FE">
+  <property __name="label" en="Workflow Process" zc="工作流实例" />
+  <property __name="label_plural" en="Workflow Processes" zc="工作流实例" />
+ </Item>
+ <Item type="ItemType" keyed_name="PM_ProjectColumnDescription" config_id="265510C6922043F89E51A71148527E11"></Item>
+ <Item type="ItemType" keyed_name="Property" config_id="26D7CD4E033242148E2724D3D054B4D3">
+  <property __name="label" en="Property" zc="属性" />
+  <property __name="label_plural" en="Properties" zc="属性" />
+ </Item>
+ <Item type="ItemType" keyed_name="CAD Parent" config_id="26D8512E124C4D5BBCA6B5592A553227"></Item>
+ <Item type="ItemType" keyed_name="Affected Relationship" config_id="27A5389D190B4600B1751B4203EF458D"></Item>
+ <Item type="ItemType" keyed_name="CAD Structure" config_id="2812BEB188644E7FB3BEE526FD62032A">
+  <property __name="label" en="CAD Structure" zc="" />
+  <property __name="label_plural" en="CAD Structures" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Simple MCO" config_id="2826F2403689438295EDBF60BEAE7C74">
+  <property __name="label" en="MCO" zc="MCO" />
+  <property __name="label_plural" en="MCOs" zc="MCOs" />
+ </Item>
+ <Item type="ItemType" keyed_name="qry_QueryItemSortProperty" config_id="28A6BE32305C48F7A58CACAA18082BD1"></Item>
+ <Item type="ItemType" keyed_name="Change Controlled Relationship" config_id="2A5BB1A93BDC436B824B9FFE6DB89553"></Item>
+ <Item type="ItemType" keyed_name="FileExchangeTxn" config_id="2A69EFFD543B4F74AB5AE964FE83203D">
+  <property __name="label" en="File Exchange Transaction" zc="" />
+  <property __name="label_plural" en="File Exchange Transactions" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Base Notification Message" config_id="2AC54107A76C483E9279862AD418A0D6"></Item>
+ <Item type="ItemType" keyed_name="Activity2 Comments" config_id="2AED1CA849DB4D4382B2472569BFAD31">
+  <property __name="label" en="Activity2 Comments" zc="Activity2 Comments" />
+  <property __name="label_plural" en="Activity2 Comments" zc="Activity2 Comments" />
+ </Item>
+ <Item type="ItemType" keyed_name="Sequence" config_id="2B46201802CE46708C269667DB4798AC">
+  <property __name="label" en="Sequence" zc="序列" />
+  <property __name="label_plural" en="Sequences" zc="序列" />
+ </Item>
+ <Item type="ItemType" keyed_name="Project Docs" config_id="2C0B66D4CD2B40E1907AC4664C46FA69">
+  <property __name="label" en="Project Docs" zc="" />
+  <property __name="label_plural" en="Project Docs" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="CommandBarButton" config_id="2C95B39863F346EFB224DCB85390F465">
+  <property __name="label" en="Button" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="ECR" config_id="2D4799413792453DA08C1EDE6AA22A76">
+  <property __name="label" en="ECR" zc="ECR" />
+  <property __name="label_plural" en="ECRs" zc="ECRs" />
+ </Item>
+ <Item type="ItemType" keyed_name="View With" config_id="2D700440AC084B99AD123528BAE67D29">
+  <property __name="label" en="View With" zc="View With" />
+  <property __name="label_plural" en="View With" zc="View With" />
+ </Item>
+ <Item type="ItemType" keyed_name="ReplicationTxn" config_id="2DAC2B407B0043A692905CF6A94296A8">
+  <property __name="label" en="Replication Transaction" zc="" />
+  <property __name="label_plural" en="Replication Transactions" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Affected Item Property" config_id="2E0E4A152F3443509E5EEB774AC8AB5C"></Item>
+ <Item type="ItemType" keyed_name="Forum" config_id="2E25B49E218A45D28D0C7D3C0633710C">
+  <property __name="label" en="Forum" zc="" />
+  <property __name="label_plural" en="Forums" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="SystemEventLog" config_id="2F4E2B53BFBA4351BFFCEE0E438ECF97">
+  <property __name="label" en="System Event Log" zc="" />
+  <property __name="label_plural" en="System Events Log" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Workflow Process Path Pre" config_id="30F30E1181BA43FE99706038200EFEBF">
+  <property __name="label" en="Workflow Process Path Pre" zc="" />
+  <property __name="label_plural" en="Workflow Process Path Pre" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="CommandBarItem" config_id="31392C4909A249BF9EA143915F3F9553">
+  <property __name="label" en="Command Bar Item" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Workflow Task" config_id="321BD822949149C597FD596B1212B85C">
+  <property __name="label" en="Workflow Task" zc="" />
+  <property __name="label_plural" en="Workflow Tasks" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="PDFWMConfiguration" config_id="327998A4BAFF4CE4B29AD5AC4D37C0C1">
+  <property __name="label" en="PDF Collection" zc="" />
+  <property __name="label_plural" en="PDF Collections" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Part AML" config_id="332F11B553BA4CCC892201C1FA51F056">
+  <property __name="label" en="Approved Manufacturer" zc="Approved Manufacturer" />
+  <property __name="label_plural" en="AML" zc="AML" />
+ </Item>
+ <Item type="ItemType" keyed_name="Workflow Process Path" config_id="34682D3EB66141ECACC8796C9D3A42B8">
+  <property __name="label" en="Workflow Process Path" zc="" />
+  <property __name="label_plural" en="Workflow Process Paths" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="cmf_ContentType" config_id="3538F62649F3477EA1F8990EB20F88B9">
+  <property __name="label" en="Content Type" zc="" />
+  <property __name="label_plural" en="Content Types" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Field Event" config_id="3572C4D1479445D9959C413624A9FFF6">
+  <property __name="label" en="Field Event" zc="Field Event" />
+  <property __name="label_plural" en="Field Events" zc="Field Events" />
+ </Item>
+ <Item type="ItemType" keyed_name="Affected Item Relationship" config_id="364CD6F5F6D74207AABA25715EABF06F"></Item>
+ <Item type="ItemType" keyed_name="Project Template Docs" config_id="37991D8B4378419998891DD8F0190292"></Item>
+ <Item type="ItemType" keyed_name="ForumSharedWith" config_id="3844E4C9C5FA4ABAB3034FD6D4BE596E"></Item>
+ <Item type="ItemType" keyed_name="TOC Access" config_id="38C9CE2A4E06401DABF942E1D0224E87">
+  <property __name="label" en="TOC Access" zc="TOC Access" />
+  <property __name="label_plural" en="TOC Access" zc="TOC Access" />
+ </Item>
+ <Item type="ItemType" keyed_name="HistorySecureMessage" config_id="38CAFF4302AC45EBAF91EE4DCE4948C7">
+  <property __name="label" en="History Secure Message" zc="" />
+  <property __name="label_plural" en="History Secure Messages" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="rb_LocalStyle" config_id="39912285EC5D4298BB36B507C75CE1F6">
+  <property __name="label" en="Local Style" zc="" />
+  <property __name="label_plural" en="Local Styles" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="ConversionServerConverterType" config_id="39C52F7B48ED4CEA824196BE9DBE6784"></Item>
+ <Item type="ItemType" keyed_name="Can Add" config_id="3A65F41FF1FC42518A702FDA164AF420">
+  <property __name="label" en="Can Add" zc="Can Add" />
+  <property __name="label_plural" en="Can Add" zc="Can Add" />
+ </Item>
+ <Item type="ItemType" keyed_name="ES_IndexedType" config_id="3BAFB02414FD4D559A11D53F098EE56D">
+  <property __name="label" en="ES Indexed Type" zc="" />
+  <property __name="label_plural" en="ES Indexed Types" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Time Record" config_id="3C3A0C482534454884151CCD97FCD561">
+  <property __name="label" en="Time Record" zc="Time Record" />
+  <property __name="label_plural" en="Time Records" zc="Time Records" />
+ </Item>
+ <Item type="ItemType" keyed_name="WSTypeAction" config_id="3D1EF44A78D34058A32CB1C658AE90FE">
+  <property __name="label" en="Web Service Type Action" zc="" />
+  <property __name="label_plural" en="Web Service Type Actions" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="SSVC_Preferences" config_id="3D7E7F7C1487472A9690CDD361C6B26F"></Item>
+ <Item type="ItemType" keyed_name="Manufacturer" config_id="3E71E373FC2940B288760C915120AABE">
+  <property __name="label" en="Manufacturer" zc="制造商" />
+  <property __name="label_plural" en="Manufacturers" zc="制造商" />
+ </Item>
+ <Item type="ItemType" keyed_name="rb_ColumnMapping" config_id="3E74278159A54F3DAB3E220D7340F522">
+  <property __name="label" en="Column Mapping" zc="" />
+  <property __name="label_plural" en="Column Mappings" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Discussion" config_id="3E85D9DD379643F8A207B99A9DFB72C2">
+  <property __name="label" en="Discussion" zc="" />
+  <property __name="label_plural" en="My Discussions" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Project Template Tree" config_id="4037238312754A8BB826AC66C615866E"></Item>
+ <Item type="ItemType" keyed_name="Manufacturer Part File" config_id="40E21F80C9D34E86BADA03D47D4D6B39"></Item>
+ <Item type="ItemType" keyed_name="Workflow Process Variable" config_id="40F45DEED2D84BA58B223F556FA25617">
+  <property __name="label" en="Workflow Process Variable" zc="" />
+  <property __name="label_plural" en="Process Variables" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="FileContainerItems" config_id="41EF49EFD2ED4F6EAB04C047681F33AC"></Item>
+ <Item type="ItemType" keyed_name="BOM Instance" config_id="41FA648728234F97AEB1D5CEFE36F871">
+  <property __name="label" en="BOM Instance" zc="" />
+  <property __name="label_plural" en="Instances" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="cmf_AdditionalPropertyType" config_id="421A0EC1E68C4661AA9274C297BD410C"></Item>
+ <Item type="ItemType" keyed_name="Workflow Process Path Post" config_id="4245947FE6244E37982F46D2FA46D74E">
+  <property __name="label" en="Workflow Process Path Post" zc="" />
+  <property __name="label_plural" en="Workflow Process Path Post Methods" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Workflow Map Activity" config_id="42A80AD3F88443F785C005BAF2121E01">
+  <property __name="label" en="Workflow Map Activity" zc="" />
+  <property __name="label_plural" en="Activities" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="ServiceProvider" config_id="42EA5C9FEC6B49CD8E2784E9E846EAFE">
+  <property __name="label" en="Cloud Service Providers" zc="" />
+  <property __name="label_plural" en="Cloud Service Providers" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Client Event" config_id="432E29895A994D0DBC9DF9B0918E189F">
+  <property __name="label" en="Client Event" zc="Client Event" />
+  <property __name="label_plural" en="Client Events" zc="Client Events" />
+ </Item>
+ <Item type="ItemType" keyed_name="cfg_RuleVariable" config_id="437612EE43D04952BBAD3F6F85C3370B"></Item>
+ <Item type="ItemType" keyed_name="ItemType" config_id="450906E86E304F55A34B3C0D65C097EA">
+  <property __name="label" en="ItemType" zc="对象类" />
+  <property __name="label_plural" en="ItemTypes" zc="对象类" />
+ </Item>
+ <Item type="ItemType" keyed_name="Access_ExplicitDefine" config_id="459E490938F34E13B246E913E0BD72B7"></Item>
+ <Item type="ItemType" keyed_name="User" config_id="45E899CD2859442982EB22BB2DF683E5">
+  <property __name="label" en="User" zc="用户" />
+  <property __name="label_plural" en="Users" zc="用户" />
+ </Item>
+ <Item type="ItemType" keyed_name="FileContainerLocator" config_id="45F28B3088E74905913152E9BE3B9B12"></Item>
+ <Item type="ItemType" keyed_name="SPField" config_id="4625FCFBF49747ACA31F31FA3101F1D5">
+  <property __name="label" en="SharePoint Field" zc="" />
+  <property __name="label_plural" en="SharePoint Fields" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="FeedTemplate" config_id="4697179F1FC94E25A8274E586EEF2F39">
+  <property __name="label" en="FeedTemplate" zc="" />
+  <property __name="label_plural" en="FeedTemplate" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="tp_Stylesheet" config_id="46A05975EE8A43DB82BA9D6C477D5756">
+  <property __name="label" en="Document Style" zc="" />
+  <property __name="label_plural" en="Document Styles" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Activity Task" config_id="46BDE53304404C28B5C45610E41C1DD5">
+  <property __name="label" en="Activity Task" zc="" />
+  <property __name="label_plural" en="Activity Tasks" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="RelationshipType" config_id="471932C33B604C3099070F4106EE5024">
+  <property __name="label" en="RelationshipType" zc="关系类" />
+  <property __name="label_plural" en="RelationshipTypes" zc="关系类" />
+ </Item>
+ <Item type="ItemType" keyed_name="Form" config_id="47573682FB7549F59ADECD4BFE04F1DE">
+  <property __name="label" en="Form" zc="窗体" />
+  <property __name="label_plural" en="Forms" zc="窗体" />
+ </Item>
+ <Item type="ItemType" keyed_name="SelfServiceReportSharedWith" config_id="475E03B3E64740C5856F6E33EE8301FA"></Item>
+ <Item type="ItemType" keyed_name="SSVCEmailDigestEntry" config_id="4775501631B348009B86DFB728609188">
+  <property __name="label" en="SSVCEmailDigestEntry" zc="" />
+  <property __name="label_plural" en="SSVCEmailDigestEntries" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="PE_MainPreferences" config_id="4793BCA2567F45A5919A9DC4255AD2ED"></Item>
+ <Item type="ItemType" keyed_name="WBS Activity2" config_id="47B35613B52E48F6A89334641CFF0DBA"></Item>
+ <Item type="ItemType" keyed_name="Action" config_id="483228BE6B9A4C0E99ACD55FDF328DEC">
+  <property __name="label" en="Action" zc="操作" />
+  <property __name="label_plural" en="Actions" zc="操作" />
+ </Item>
+ <Item type="ItemType" keyed_name="Express ECO Impact Matrix" config_id="4927549C5AD944C8B1737D55E3EE0348"></Item>
+ <Item type="ItemType" keyed_name="ECN File" config_id="4976DD959B424173B6C2490225BED5DE">
+  <property __name="label" en="ECN File" zc="ECN File" />
+  <property __name="label_plural" en="ECN Files" zc="ECN Files" />
+ </Item>
+ <Item type="ItemType" keyed_name="Activity2 Task" config_id="4D7ABF1B8D8A4542AD8DDECA14DC5F58">
+  <property __name="label" en="Activity2 Task" zc="Activity2 Task" />
+  <property __name="label_plural" en="Activity2 Tasks" zc="Activity2 Tasks" />
+ </Item>
+ <Item type="ItemType" keyed_name="DatabaseUpgrade" config_id="4DAD707F62B54823AE2E4730BB00C649">
+  <property __name="label" en="DatabaseUpgrade" zc="数据库升级" />
+  <property __name="label_plural" en="Database Upgrades" zc="数据库升级" />
+ </Item>
+ <Item type="ItemType" keyed_name="mp_PolicyAccessEnvAttribute" config_id="4DDF9A4566C24F8E9E22632FD7F08A75">
+  <property __name="label" en="Environment Attribute" zc="" />
+  <property __name="label_plural" en="Environment Attributes" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="cmf_ComputedPropertyDependency" config_id="4E24BC6E89394C8D8D05D3F9871EA5D8">
+  <property __name="label" en="Computed Property Dependency" zc="" />
+  <property __name="label_plural" en="Computed Property Dependency" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Alias" config_id="4E355E04444B4676AE723B43DECA37DC">
+  <property __name="label" en="Alias" zc="" />
+  <property __name="label_plural" en="Aliases" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Engineering Optimization" config_id="4ED63977F4114A1E936F23303C024734">
+  <property __name="label" en="Engineering Optimization" zc="工程最优化" />
+  <property __name="label_plural" en="Engineering Optimizations" zc="工程最优化" />
+ </Item>
+ <Item type="ItemType" keyed_name="Part" config_id="4F1AC04A2B484F3ABA4E20DB63808A88">
+  <property __name="label" en="Part" zc="零部件" />
+  <property __name="label_plural" en="Parts" zc="零部件" />
+ </Item>
+ <Item type="ItemType" keyed_name="CuiDependency" config_id="508A62C48ED64BEBB3931384B726AF94"></Item>
+ <Item type="ItemType" keyed_name="rb_ColumnDefinition" config_id="5188286AA20145F58CDB3823F87B3644">
+  <property __name="label" en="Column Definition" zc="" />
+  <property __name="label_plural" en="Column Definitions" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="PackageGroup" config_id="51CE2CDC8D3F49C7BF707B8E0A4BD15F">
+  <property __name="label" en="PackageGroup" zc="PackageGroup" />
+  <property __name="label_plural" en="PackageGroups" zc="PackageGroups" />
+ </Item>
+ <Item type="ItemType" keyed_name="CommandBarMenuButton" config_id="51F1815885E3477D8B6385A69236C5AA">
+  <property __name="label" en="Menu Button" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="ConversionRuleEventTemplate" config_id="52E7E19747864AB5900BBABF82E66382"></Item>
+ <Item type="ItemType" keyed_name="CommandBarMenuSeparator" config_id="531C4ADA8F334D50B2D8B52139FD8993">
+  <property __name="label" en="Menu Separator" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Core_SearchCountModeException" config_id="53DDA12EE7424FE9B23B954E3D5CE9D3"></Item>
+ <Item type="ItemType" keyed_name="cmf_TabularView" config_id="550DEE262619410A82F8F7378D6184D0">
+  <property __name="label" en="Tabular View" zc="" />
+  <property __name="label_plural" en="Tabular Views" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="ES_IndexedConfiguration" config_id="5591005E6A904383A073FF3B209FC3BB">
+  <property __name="label" en="Indexed Configuration" zc="" />
+  <property __name="label_plural" en="Indexed Configuration" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Located" config_id="5698BACD2A7A45D6AC3FA60EAB3E6566">
+  <property __name="label" en="Located" zc="" />
+  <property __name="label_plural" en="Located" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="SecureMessageAudio" config_id="56C80A4B7A774848824BA91BBB1065D5"></Item>
+ <Item type="ItemType" keyed_name="Express ECO Signoff" config_id="56CCB8037A8E4BC3B8EDEF0C921AD520"></Item>
+ <Item type="ItemType" keyed_name="List" config_id="5736C479A8CB49BCA20138514C637266">
+  <property __name="label" en="List" zc="列表" />
+  <property __name="label_plural" en="Lists" zc="列表" />
+ </Item>
+ <Item type="ItemType" keyed_name="PM_ProjectGridLayout" config_id="57D2BE1A20DD4FBCBA6A38AAB9A63088">
+  <property __name="label" en="Project Grid Layout" zc="Project Grid Layout" />
+  <property __name="label_plural" en="Project Grid Layouts" zc="Project Grid Layouts" />
+ </Item>
+ <Item type="ItemType" keyed_name="tp_XmlSchemaOutputSetting" config_id="5804B3F85FAB49B6B0B8B2686F4F5512">
+  <property __name="label" en="Output Setting" zc="" />
+  <property __name="label_plural" en="Output Settings" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Part Changes" config_id="5824C649B0E84426A0A42AD5D03E8A44">
+  <property __name="label" en="Part Changes" zc="" />
+  <property __name="label_plural" en="Part Changes" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="mp_MacPolicyExemptIdentity" config_id="588C0447A75D46FA9B3506B8EF9A54D3">
+  <property __name="label" en="MAC Policy Exempt Identity" zc="" />
+  <property __name="label_plural" en="MAC Policy Exempt Identities" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="PresentableItems" config_id="58AECE23031E496FB04FFDEA6EDEF8A0"></Item>
+ <Item type="ItemType" keyed_name="Business Calendar Exception" config_id="596A8D0977C441699103E17BFA9B83F2">
+  <property __name="label" en="Business Calendar Exception" zc="Business Calendar Exception" />
+  <property __name="label_plural" en="Business Calendar Exceptions" zc="Business Calendar Exceptions" />
+ </Item>
+ <Item type="ItemType" keyed_name="Permission_ItemClassification" config_id="599A06DD161348CD84734DBF5829574C">
+  <property __name="label" en="Item Classification Permission" zc="" />
+  <property __name="label_plural" en="Item Classification Permissions" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="mpo_MassPromotion" config_id="5A549B2EDD3C4CBB9F8797902EE2EBE2">
+  <property __name="label" en="Mass Promotion" zc="" />
+  <property __name="label_plural" en="Mass Promotions" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="TestRB_IframeInHtmlFieldOfForm" config_id="5B526450312941FD9B7C66097579BC89"></Item>
+ <Item type="ItemType" keyed_name="WMSettingContent" config_id="5B9F952BFB794355988E6AE644AF1A77">
+  <property __name="label" en="Watermark Rule Method" zc="" />
+  <property __name="label_plural" en="Watermark Rule Methods" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Item Report" config_id="5BD6BED0CD794A078AA42476F47ECF46">
+  <property __name="label" en="Item Report" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="PreferenceTabTypes" config_id="5CDF0A9CB3FC49BEB83D361B4CEE4082"></Item>
+ <Item type="ItemType" keyed_name="PackageDependsOn" config_id="5D6C6E00F2114D678570FC877B6F44BC">
+  <property __name="label" en="PackageDependsOn" zc="PackageDependsOn" />
+  <property __name="label_plural" en="PackageDependsOn" zc="PackageDependsOn" />
+ </Item>
+ <Item type="ItemType" keyed_name="cmf_BaseView" config_id="5D9A5583B5A54CA78586FDBF9716E53A">
+  <property __name="label" en="Base View" zc="" />
+  <property __name="label_plural" en="Base Views" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Access_ItemClassification" config_id="5E4044F779D14F05817F1E85A3C8227B"></Item>
+ <Item type="ItemType" keyed_name="Part BOM" config_id="5E9C5A12CC58413A8670CF4003C57848">
+  <property __name="label" en="Part BOM" zc="Part BOM" />
+  <property __name="label_plural" en="BOMs" zc="BOMs" />
+ </Item>
+ <Item type="ItemType" keyed_name="Morphae" config_id="5ED4936039F64E9E99F703F8F46A1DB1">
+  <property __name="label" en="Morphae" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Life Cycle State" config_id="5EFB53D35BAE468B851CD388BEA46B30">
+  <property __name="label" en="Life Cycle State" zc="" />
+  <property __name="label_plural" en="Life Cycle States" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Viewer" config_id="602D9828174C48EBA648B1D261C54E43">
+  <property __name="label" en="Viewer" zc="浏览工具" />
+  <property __name="label_plural" en="Viewers" zc="浏览工具" />
+ </Item>
+ <Item type="ItemType" keyed_name="ItemPresentationConfiguration" config_id="612B2383E81442A5A775DBE162DC0328"></Item>
+ <Item type="ItemType" keyed_name="qry_QueryItemSelectProperty" config_id="616AC43154A944B380F24FA4A53DFF1A"></Item>
+ <Item type="ItemType" keyed_name="ConversionRuleFileType" config_id="617069E6F5C04687B0526750978CFA51"></Item>
+ <Item type="ItemType" keyed_name="CommandBarSectionItem" config_id="621D9BA267174927B0E6A08601BDCF08"></Item>
+ <Item type="ItemType" keyed_name="History" config_id="6323EE2C82E94CC4BB83779DDFDDD6F5">
+  <property __name="label" en="History" zc="" />
+  <property __name="label_plural" en="History" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Time to Manufacturing" config_id="63EC2E6B69FC4FB09859077EE073D9A5">
+  <property __name="label" en="Time To Manufacturing" zc="文档零部件发布周期" />
+  <property __name="label_plural" en="Time To Manufacturing" zc="文档零部件发布周期" />
+ </Item>
+ <Item type="ItemType" keyed_name="ForumMustViewBy" config_id="640C685B4AE14A239A138C5A8876A1C9"></Item>
+ <Item type="ItemType" keyed_name="Dashboard" config_id="645774D6072F41FD8F998C861E211741">
+  <property __name="label" en="Dashboard" zc="仪表板" />
+  <property __name="label_plural" en="Dashboards" zc="仪表板" />
+ </Item>
+ <Item type="ItemType" keyed_name="cmf_ElementBinding" config_id="64DA1324EE1D4A6FA84783D93CEE0EA2">
+  <property __name="label" en="Element Binding" zc="" />
+  <property __name="label_plural" en="Element Binding" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Document File" config_id="653C8EE5DDDF4932B75E5CDF04F0CD42">
+  <property __name="label" en="Document File" zc="Document File" />
+  <property __name="label_plural" en="Files" zc="Files" />
+ </Item>
+ <Item type="ItemType" keyed_name="rb_TreeRowDefinition" config_id="671ACE3F01B24946920A0BB27C0BB757">
+  <property __name="label" en="Tree Row Definition" zc="" />
+  <property __name="label_plural" en="Tree Row Definitions" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="ConversionTaskEventHandler" config_id="6733DCABB12E49E7A1FA6A76863DDA95"></Item>
+ <Item type="ItemType" keyed_name="Activity Template EMail" config_id="67735DF455F54736A9D51CB53AB129E3">
+  <property __name="label" en="Activity Template EMail" zc="Activity Template EMail" />
+  <property __name="label_plural" en="Activity Template EMails" zc="Activity Template EMails" />
+ </Item>
+ <Item type="ItemType" keyed_name="FileExchangePackage" config_id="68D1EEEAA8B84B75962D3008C00E2280">
+  <property __name="label" en="File Exchange Package" zc="" />
+  <property __name="label_plural" en="File Exchange Packages" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="cmf_PropertyBinding" config_id="692D9D11B6524E54BC96AE8244EE6AE3">
+  <property __name="label" en="Property Binding" zc="" />
+  <property __name="label_plural" en="Property Binding" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Measurement Unit" config_id="6AC851D83E4A465CAB4E06E164B905D8">
+  <property __name="label" en="Measurement Unit" zc="" />
+  <property __name="label_plural" en="Measurement Units" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="rb_TreeGridViewDefinition" config_id="6AFE8A9127ED48FFB2F9183B9922981B">
+  <property __name="label" en="Tree Grid View" zc="" />
+  <property __name="label_plural" en="Tree Grid Views" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Applied Updates" config_id="6B9057491021453ABA0A425570CC10D2">
+  <property __name="label" en="Applied Updates" zc="Applied Updates" />
+  <property __name="label_plural" en="Applied Updates" zc="Applied Updates" />
+ </Item>
+ <Item type="ItemType" keyed_name="Item Action" config_id="6C280692633D4498BD9CFEA7989138AB">
+  <property __name="label" en="Item Action" zc="Item Action" />
+  <property __name="label_plural" en="Item Actions" zc="Item Actions" />
+ </Item>
+ <Item type="ItemType" keyed_name="ES_IndexedTypePoly" config_id="6CA4549A27714F83A0CD98F5C81CEC61">
+  <property __name="label" en="Indexed Type" zc="" />
+  <property __name="label_plural" en="Indexed Types" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="fr_SupportedFileType" config_id="6D3C196D0D934F2A860AA737D3026912"></Item>
+ <Item type="ItemType" keyed_name="MyProcessPlan" config_id="6D9622FCEAD345E781A2DFE7B1BDB5A0">
+  <property __name="label" en="My Process Plan" zc="" />
+  <property __name="label_plural" en="My Process Plans" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Variable" config_id="6DAB4ACC09E6471DB4BDD15F36C3482B">
+  <property __name="label" en="Variable" zc="环境变量" />
+  <property __name="label_plural" en="Variables" zc="环境变量" />
+ </Item>
+ <Item type="ItemType" keyed_name="CommandBarSection" config_id="6DF95CF17D824F5DAC6A996FFC34D5F8">
+  <property __name="label" en="Command Bar Section" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="fr_RepresentationType" config_id="6E64A14BC4BC498E8D75E433DCEED732">
+  <property __name="label" en="Representation Type" zc="" />
+  <property __name="label_plural" en="Representation Types" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Chart Series" config_id="6EA4299D271743BFB50DBB14C08AC55B">
+  <property __name="label" en="Chart Series" zc="Chart Series" />
+  <property __name="label_plural" en="Chart Series" zc="Chart Series" />
+ </Item>
+ <Item type="ItemType" keyed_name="ECR Affected Item" config_id="6F31DFF75BA74AC788EA026173BB1BC7">
+  <property __name="label" en="ECR Affected Item" zc="" />
+  <property __name="label_plural" en="ECR Affected Items" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="ConversionTaskHandlerError" config_id="70E817CC22644F538032177DEC7B6ECD"></Item>
+ <Item type="ItemType" keyed_name="Feed" config_id="721F8FFCBA8448D8BA61E9AD980A52C1">
+  <property __name="label" en="Feed" zc="" />
+  <property __name="label_plural" en="Feeds" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Member" config_id="7348E620D27E40D1868C54247B5DE8D1">
+  <property __name="label" en="Member" zc="Member" />
+  <property __name="label_plural" en="Members" zc="Members" />
+ </Item>
+ <Item type="ItemType" keyed_name="Part Alternate" config_id="7350C0705BB14CCBAC79D8D9FBC2F5E6">
+  <property __name="label" en="Part Alternate" zc="" />
+  <property __name="label_plural" en="Alternates" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="rb_UserInputDataSource" config_id="736854EB4D61475A96409BAD804C39F8"></Item>
+ <Item type="ItemType" keyed_name="TestRB_SimpleStructure" config_id="7384888BA12A4B6988EF34F125BFFB3F"></Item>
+ <Item type="ItemType" keyed_name="StoredSecureMessage" config_id="73B2E56B742C40398F649727233DBD87">
+  <property __name="label" en="Stored Secure Message " zc="" />
+  <property __name="label_plural" en="Stored Secure Messages" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Permission_PropertyValue" config_id="749B727E891F4005A82F84ACD6A803AB">
+  <property __name="label" en="xProperty Value Permission" zc="" />
+  <property __name="label_plural" en="xProperty Value Permissions" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="History Template Where Used" config_id="74F9BBD18C9143AE8547D078C9FAB456"></Item>
+ <Item type="ItemType" keyed_name="Program Project" config_id="755F9F832B5C4DCEBD1A3610E667B130">
+  <property __name="label" en="Program Project" zc="" />
+  <property __name="label_plural" en="Program Projects" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="rb_LocalStyleDefinition" config_id="76305357ECFB4DC4A9C9635F539AF837">
+  <property __name="label" en="Local Style Definition" zc="" />
+  <property __name="label_plural" en="Local Style Definitions" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Business Calendar Year" config_id="7641AC8B5D2044F3B8C9A0885A3FA1D1">
+  <property __name="label" en="Business Calendar Year" zc="日历" />
+  <property __name="label_plural" en="Calendars" zc="日历" />
+ </Item>
+ <Item type="ItemType" keyed_name="qry_QueryItem" config_id="76B192FF82484C1B9F8D692C39FE39EA"></Item>
+ <Item type="ItemType" keyed_name="Desktop" config_id="789104C736664FAA9748352CBBF86BCA">
+  <property __name="label" en="Desktop" zc="我的桌面" />
+  <property __name="label_plural" en="My Desktop" zc="我的桌面" />
+ </Item>
+ <Item type="ItemType" keyed_name="Workflow Map Path Pre" config_id="7937E5F0640240FDBBF9B158F45F4F6C">
+  <property __name="label" en="Workflow Map Path Pre" zc="Workflow Map Path Pre" />
+  <property __name="label_plural" en="Workflow Map Path Pre Methods" zc="Workflow Map Path Pre Methods" />
+ </Item>
+ <Item type="ItemType" keyed_name="ITPresentationConfiguration" config_id="797EE3B1B9624E369B3E45FA0C10757C"></Item>
+ <Item type="ItemType" keyed_name="Activity Template" config_id="7A3EFE7242DB4403965890C053A57A0B">
+  <property __name="label" en="Activity Template" zc="工作流节点" />
+  <property __name="label_plural" en="Actvity Templates" zc="工作流节点" />
+ </Item>
+ <Item type="ItemType" keyed_name="fr_Representation" config_id="7AD385D642CA4B2184AB5401A3F6D99F"></Item>
+ <Item type="ItemType" keyed_name="CommandBarCheckbox" config_id="7BFF05B795FA4C1293C0B68C282F78F1">
+  <property __name="label" en="Checkbox" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Preference" config_id="7C63771EBC8D46FE8E902C5188033515">
+  <property __name="label" en="Preference" zc="首选项设定" />
+  <property __name="label_plural" en="Preferences" zc="首选项设定" />
+ </Item>
+ <Item type="ItemType" keyed_name="ES_UserMapping" config_id="7D057F2E0BD44C2B9625D35248B5E5CB">
+  <property __name="label" en="User Mapping" zc="" />
+  <property __name="label_plural" en="User Mapping" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="MyPQDRel" config_id="7D15CD2C8F794B4C97AD010FCC551667"></Item>
+ <Item type="ItemType" keyed_name="ES_TrackingRelationshipPoly" config_id="7E173771D11946369309D7CE7E8BD92D">
+  <property __name="label" en="Tracking Relationship" zc="" />
+  <property __name="label_plural" en="Tracking Relationships" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="MyElement1" config_id="7E384807A9FA47A9A888AD4045F255B7">
+  <property __name="label" en="CMF Element MyElement1" zc="" />
+  <property __name="label_plural" en="CMF Element MyElement1" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="xClassificationTree_ItemType" config_id="7E3F5B16139B4CD0822E54C25E24EF26"></Item>
+ <Item type="ItemType" keyed_name="cfg_Scope" config_id="7E9FBA6910024209B540924837378F71"></Item>
+ <Item type="ItemType" keyed_name="ECN Affected Item" config_id="7EA6D421B61A4BEB9F54DF7D1A51B78C">
+  <property __name="label" en="ECN Affected Item" zc="" />
+  <property __name="label_plural" en="ECN Affected Items" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="MyTextProp" config_id="7EAC048DCF8E43D8A33F26B29DF76E2A">
+  <property __name="label" en="CMF Property MyTextProp" zc="" />
+  <property __name="label_plural" en="CMF Property MyTextProp" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="cmf_DocumentLifeCycleState" config_id="7FAFAF8FFCE143A0985010F83DACDA88">
+  <property __name="label" en="Document Life Cycle State" zc="" />
+  <property __name="label_plural" en="Document Life Cycle State" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="File" config_id="8052A558B9084D41B9F11805E464F443">
+  <property __name="label" en="File" zc="文件" />
+  <property __name="label_plural" en="Files" zc="文件" />
+ </Item>
+ <Item type="ItemType" keyed_name="PresentationConfiguration" config_id="80881F5852BC439E9F3CF0AEC03ABE2A">
+  <property __name="label" en="Presentation Configuration" zc="" />
+  <property __name="label_plural" en="Presentation Configurations" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Server Event" config_id="8214ECDE53F04AFC95243E10B2C7BBD4">
+  <property __name="label" en="Server Event" zc="Server Event" />
+  <property __name="label_plural" en="Server Events" zc="Server Events" />
+ </Item>
+ <Item type="ItemType" keyed_name="Product Innovation" config_id="832BCCD7A27443FBB99C6BBE9B14415B">
+  <property __name="label" en="Product Innovation" zc="产品创新" />
+  <property __name="label_plural" en="Product Innovations" zc="产品创新" />
+ </Item>
+ <Item type="ItemType" keyed_name="CommandBarSeparator" config_id="837D345236384B5DAE4B52042419F966">
+  <property __name="label" en="Separator" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="PR File" config_id="83A3BAE2F58644ADB83EE7CA9C4C3E83">
+  <property __name="label" en="PR File" zc="PR File" />
+  <property __name="label_plural" en="PR Files" zc="PR Files" />
+ </Item>
+ <Item type="ItemType" keyed_name="ECR PR" config_id="83BBF4271B09417590A7FD9134307A37">
+  <property __name="label" en="ECR PR" zc="ECR PR" />
+  <property __name="label_plural" en="ECR PRs" zc="ECR PRs" />
+ </Item>
+ <Item type="ItemType" keyed_name="SystemFileContainer" config_id="83EBCDAE9D834E169ABC95CC0C7CCB28"></Item>
+ <Item type="ItemType" keyed_name="ES_IndexedConfigurationType" config_id="850BE0937F4046969F54F270758DD718">
+  <property __name="label" en="ES Indexed Configuration Type" zc="" />
+  <property __name="label_plural" en="ES Indexed Configuration Types" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Activity Assignment" config_id="85924010F3184E77B24E9142FDBB481B">
+  <property __name="label" en="Activity Assignment" zc="活动状态的任务" />
+  <property __name="label_plural" en="My InBasket" zc="我的任务" />
+ </Item>
+ <Item type="ItemType" keyed_name="ECN" config_id="85F86794FACF42599F07019F7BEA1D46">
+  <property __name="label" en="ECN" zc="ECN" />
+  <property __name="label_plural" en="ECNs" zc="ECNs" />
+ </Item>
+ <Item type="ItemType" keyed_name="Value" config_id="8651DCAB4D714EF6AA747BB8F50719BA">
+  <property __name="label" en="Value" zc="值" />
+  <property __name="label_plural" en="Values" zc="值" />
+ </Item>
+ <Item type="ItemType" keyed_name="Deliverable" config_id="86920FEE161244F6B4B507130B18CADE">
+  <property __name="label" en="Deliverable" zc="Deliverable" />
+  <property __name="label_plural" en="Deliverables" zc="Deliverables" />
+ </Item>
+ <Item type="ItemType" keyed_name="Method" config_id="87879A09B8044DE380D59DF22DE1867F">
+  <property __name="label" en="Method" zc="方法" />
+  <property __name="label_plural" en="Methods" zc="方法" />
+ </Item>
+ <Item type="ItemType" keyed_name="mpo_MassPromotionRecord" config_id="88177CCEDE014A6A88953D36D10BA464"></Item>
+ <Item type="ItemType" keyed_name="PR" config_id="881803D90C0B4F98A49A4732C16277F2">
+  <property __name="label" en="PR" zc="PR" />
+  <property __name="label_plural" en="PRs" zc="PRs" />
+ </Item>
+ <Item type="ItemType" keyed_name="ECN ECR" config_id="8A1DE1C158FB41F0A19D1B3D631A3597">
+  <property __name="label" en="ECN ECR" zc="ECN ECR" />
+  <property __name="label_plural" en="ECN ECRs" zc="ECN ECRs" />
+ </Item>
+ <Item type="ItemType" keyed_name="GlobalPresentationConfig" config_id="8AB5CEB9824B4CF7920AFED29F662C66">
+  <property __name="label" en="Client Presentation" zc="" />
+  <property __name="label_plural" en="Client Presentation" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Activity Variable" config_id="8B58025F8E504DBDADF0E1176D3CE178">
+  <property __name="label" en="Activity Variable" zc="" />
+  <property __name="label_plural" en="Activity Variables" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="ReadPriority" config_id="8CFAF78BCFFB41E6A3ED838D9EC2FD7C"></Item>
+ <Item type="ItemType" keyed_name="Design to Goal" config_id="8E3CFB68CF2B42A39ABBE2A8B31D006B">
+  <property __name="label" en="Design To Goal" zc="目标达成度" />
+  <property __name="label_plural" en="Design To Goal" zc="目标达成度" />
+ </Item>
+ <Item type="ItemType" keyed_name="Transition EMail" config_id="8E5FA57F5168436BA998A70CB2C7F259">
+  <property __name="label" en="Transition EMail" zc="" />
+  <property __name="label_plural" en="Transition EMails" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Configurable Grid Event" config_id="8E7749E9F3C84E11A5F7F5E4E7D51B22">
+  <property __name="label" en="Configurable Grid Event" zc="Configurable Grid Event" />
+  <property __name="label_plural" en="Configurable Grid Events" zc="Configurable Grid Events" />
+ </Item>
+ <Item type="ItemType" keyed_name="xClass_Classification_Perm" config_id="8E9DA9EEE05D43688B2BC1EF6E8707DB"></Item>
+ <Item type="ItemType" keyed_name="Grid" config_id="8EABD91B465443F0A4995418F483DC51">
+  <property __name="label" en="Grid" zc="网格" />
+  <property __name="label_plural" en="Grids" zc="网格" />
+ </Item>
+ <Item type="ItemType" keyed_name="cmf_ContentTypeView" config_id="8EC6FCD4C5344652A2C751023B66B889">
+  <property __name="label" en="Content Type View" zc="" />
+  <property __name="label_plural" en="Content Type Views" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="LockedItems" config_id="8EF041900FE2428AABD404063AB979B6">
+  <property __name="label" en="LockedItems" zc="" />
+  <property __name="label_plural" en="LockedItems" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="View" config_id="8EFCE40BCB74478B8254CEB594CE8774">
+  <property __name="label" en="View" zc="View" />
+  <property __name="label_plural" en="Item Views" zc="Item Views" />
+ </Item>
+ <Item type="ItemType" keyed_name="cmf_TabularViewHeaderRows" config_id="8F3CDD9B7F8B4B8FB6A35BB39DED6EC1"></Item>
+ <Item type="ItemType" keyed_name="ES_Search" config_id="8F4162710B1F4C01BC5D1A703310CD50">
+  <property __name="label" en="Search" zc="" />
+  <property __name="label_plural" en="Search" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Vault" config_id="8FC29FEF933641A09CEE13A604A9DC74">
+  <property __name="label" en="Vault" zc="数据仓库" />
+  <property __name="label_plural" en="Vaults" zc="数据仓库" />
+ </Item>
+ <Item type="ItemType" keyed_name="xClass" config_id="903F54E4E13D41528A561CD01BAF31F6"></Item>
+ <Item type="ItemType" keyed_name="Activity EMail" config_id="90D8880C29CD45C3AA8DAFF1DAEBC60E">
+  <property __name="label" en="Activity EMail" zc="" />
+  <property __name="label_plural" en="Activity EMails" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Core_RelGridLayout" config_id="91ABEDE7189D4F509795396D3C646ADA">
+  <property __name="label" en="Relationship Grid Layout" zc="关系网格布局" />
+  <property __name="label_plural" en="Relationship Grid Layouts" zc="关系网格布局" />
+ </Item>
+ <Item type="ItemType" keyed_name="cmf_ElementType" config_id="91D179E2AC9C4BDA92E0CB877D45E051">
+  <property __name="label" en="Element Type" zc="" />
+  <property __name="label_plural" en="Element Types" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="SecureMessageViewTemplate" config_id="920AAA3EAE684F6E99A0EAB95516D064">
+  <property __name="label" en="SecureMessageViewTemplate" zc="" />
+  <property __name="label_plural" en="Secure Message View Templates" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Simple MCO Signoff" config_id="9275C40380884D1C8F3DCF5F6389F6CF"></Item>
+ <Item type="ItemType" keyed_name="Express DCO File" config_id="92881989370D4992BD053B6ADC12F708"></Item>
+ <Item type="ItemType" keyed_name="PresentationCommandBarSection" config_id="929D27BAADFE4F2F9194EF8E29B8B869"></Item>
+ <Item type="ItemType" keyed_name="FileSelector" config_id="92BC895A020E452D926B6F64E985A197">
+  <property __name="label" en="FileSelector" zc="" />
+  <property __name="label_plural" en="FileSelector" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="mp_MacPolicy" config_id="92C2C067865545BEA572C62FA896AD3D">
+  <property __name="label" en="MAC Policy" zc="" />
+  <property __name="label_plural" en="MAC Policies" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="xClassifiableItem_xClass" config_id="930ACA5CE9AC49708F730EEDFE9AB885"></Item>
+ <Item type="ItemType" keyed_name="SelfServiceReportFeatured" config_id="9344B56F71AA4BE1BB0A5DB6A75825B8"></Item>
+ <Item type="ItemType" keyed_name="Part CAD" config_id="935DF68BCFD849EBB5C3A528F04C5B5B"></Item>
+ <Item type="ItemType" keyed_name="Activity" config_id="937CE47DE2854308BE6FF5AB1CFB19D4">
+  <property __name="label" en="Activity" zc="" />
+  <property __name="label_plural" en="Activities" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Part PSW" config_id="945B4637AD0646E684613003ADADDD27">
+  <property __name="label" en="Part PSW" zc="" />
+  <property __name="label_plural" en="Part PSW" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="rb_UI_CellEditor" config_id="9479457DCEA54ECD9C427671714E3D68"></Item>
+ <Item type="ItemType" keyed_name="cmf_Style" config_id="94E345F15EB94D86ADE8FF1B6AE2B439">
+  <property __name="label" en="Content Style" zc="" />
+  <property __name="label_plural" en="Content Styles" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="ReplicationRuleFileType" config_id="9501CD77346746B39A98460EF44376D2"></Item>
+ <Item type="ItemType" keyed_name="ConversionTaskResult" config_id="95D6B96F155543CF86ED9CC9989A1059"></Item>
+ <Item type="ItemType" keyed_name="Form Event" config_id="96730C617F4C40729D730D97395FD620">
+  <property __name="label" en="Form Event" zc="窗体事件" />
+  <property __name="label_plural" en="Form Events" zc="窗体事件" />
+ </Item>
+ <Item type="ItemType" keyed_name="Activity Template Assignment" config_id="96C238700CD840DEBE512EE85D440AF3">
+  <property __name="label" en="Activity Template Assignment" zc="Activity Template Assignment" />
+  <property __name="label_plural" en="Activity Template Assignments" zc="Activity Template Assignments" />
+ </Item>
+ <Item type="ItemType" keyed_name="PM_ProjectColorMap" config_id="96C854FDED034453A4C56C1F0901C40E">
+  <property __name="label" en="Project Color Map" zc="Project Color Map" />
+ </Item>
+ <Item type="ItemType" keyed_name="Workflow Map Path" config_id="97F00180EC8442B3A1CB67E6349D7BDE">
+  <property __name="label" en="Workflow Map Path" zc="工作流路径" />
+  <property __name="label_plural" en="Workflow Map Paths" zc="工作流路径" />
+ </Item>
+ <Item type="ItemType" keyed_name="mp_MacPolicyControlledType" config_id="98E8165EE192414C969A6EE44D5003CA">
+  <property __name="label" en="MAC Policy Controlled Type" zc="" />
+  <property __name="label_plural" en="MAC Policy Controlled Types" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="ReplicationTxnLog" config_id="98FF7C1BFDFA43448B1EC5A95EA13AEA">
+  <property __name="label" en="Replication Transaction Log" zc="" />
+  <property __name="label_plural" en="Replication Transactions Log" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="SecureMessageVisibilityFilter" config_id="9AA06E7685EC4BFDB2A774112F856B34"></Item>
+ <Item type="ItemType" keyed_name="DiscussionDefinitionView" config_id="9C0541DDA9644E4EBA9CBC68BBD37C52"></Item>
+ <Item type="ItemType" keyed_name="cmf_PropertyType" config_id="9CB248B6DD5F4EBD9D56A75B30DBEBCB">
+  <property __name="label" en="Property Type" zc="" />
+  <property __name="label_plural" en="Property Types" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Simple MCO Part" config_id="9CFBE6B6338B4A2895FC371792BE53B8"></Item>
+ <Item type="ItemType" keyed_name="rb_UI_ActivateTgvdWizard" config_id="9D079C239C6540ED889DC7D5E5FE283A"></Item>
+ <Item type="ItemType" keyed_name="ES_Crawler" config_id="9D136E339A6743E28C0974FA5D61549B">
+  <property __name="label" en="Crawler" zc="" />
+  <property __name="label_plural" en="Crawlers" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Project Task" config_id="9DC36DF7F0234A3E8CFFE2A20AB78CCE">
+  <property __name="label" en="Project Task" zc="" />
+  <property __name="label_plural" en="Project Tasks" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="CAD Changes" config_id="9E16290DA0254FEDBA97FDFEA09300D3"></Item>
+ <Item type="ItemType" keyed_name="Workflow" config_id="9E212D4ED3C64493B631EE15D0A62AF7">
+  <property __name="label" en="Workflow" zc="" />
+  <property __name="label_plural" en="Workflows" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Vendor" config_id="9F23A02D1E464F44A3A93A1EFB732B5C">
+  <property __name="label" en="Vendor" zc="供应商" />
+  <property __name="label_plural" en="Vendors" zc="供应商" />
+ </Item>
+ <Item type="ItemType" keyed_name="SecureMessageVideo" config_id="9F7E6D76DB664D44AE13769DBF007571"></Item>
+ <Item type="ItemType" keyed_name="SelfServiceReportSettings" config_id="9FC5E87F173747AB840D966D4238290C"></Item>
+ <Item type="ItemType" keyed_name="RB_CAD" config_id="9FEC7CE01946403DA8AD22CD73A4CA91"></Item>
+ <Item type="ItemType" keyed_name="cmf_ExportToExcelViewConfig" config_id="A008CBA8749B405C9A3FE02904EBA067"></Item>
+ <Item type="ItemType" keyed_name="CommandBarMenuCheckbox" config_id="A16A77E9E9B84559AA435361BAB057F7">
+  <property __name="label" en="Menu Checkbox" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="RunReportByUser" config_id="A1B184A401B546EEB7D09CDD35C47911"></Item>
+ <Item type="ItemType" keyed_name="ES_IndexQueue" config_id="A1CFAD88134449DDAF8C7EBDE4337572">
+  <property __name="label" en="Index Queue" zc="" />
+  <property __name="label_plural" en="Index Queue" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="ItemType Life Cycle" config_id="A2294A4CD0B14DE4912C1B530218AB57"></Item>
+ <Item type="ItemType" keyed_name="ScopeCacheDependency" config_id="A22EC0C6A1B940FB94654AB060F21459"></Item>
+ <Item type="ItemType" keyed_name="ItemType_xPropertyDefinition" config_id="A253DB1415194344AEFB5E6A2029AB3A">
+  <property __name="label" en="ItemType xProperty" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="ReplicationRule" config_id="A274904C583C4290BB734B7F1875AB82">
+  <property __name="label" en="Replication Rule" zc="" />
+  <property __name="label_plural" en="Replication Rules" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="WMSettingLCStates" config_id="A3254B8B40D2457B870BD5D3BD518D94">
+  <property __name="label" en="Watermark Setting Lifecycle State" zc="" />
+  <property __name="label_plural" en="Watermark Setting Lifecycle States" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="SQL Dependencies" config_id="A3605A9B20E74483A7F4B8EF64AB72D6">
+  <property __name="label" en="SQL Dependencies" zc="" />
+  <property __name="label_plural" en="SQL Dependencies" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="ES_VersionedPropertyPoly" config_id="A3CF9A03DAA64546A32EF2156A7ED79C">
+  <property __name="label" en="Indexed Versioned Property" zc="" />
+  <property __name="label_plural" en="Indexed Versioned Properties" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="CommandBarShortcut" config_id="A419B478D3A843A4A488275B98E7FB8B">
+  <property __name="label" en="Shortcut" zc="" />
+  <property __name="label_plural" en="Shortcuts" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="SelfServiceReport" config_id="A46890D3535C41D4A5D79240B8C373B0">
+  <property __name="label" en="Self-Service Report" zc="" />
+  <property __name="label_plural" en="Self-Service Reports" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="MyStringProp" config_id="A5DB7C05F78446768E942DE1FF6E3108">
+  <property __name="label" en="CMF Property MyStringProp" zc="" />
+  <property __name="label_plural" en="CMF Property MyStringProp" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Activity2 Assignment" config_id="A695D18AC34A46D5B99B778918839490">
+  <property __name="label" en="Activity2 Assignment" zc="Activity2 Assignment" />
+  <property __name="label_plural" en="Activity2 Assignments" zc="Activity2 Assignments" />
+ </Item>
+ <Item type="ItemType" keyed_name="Metric Value" config_id="A7AE79CD9E144A15B5B34B455AFB66D9">
+  <property __name="label" en="Metric Value" zc="Metric Value" />
+  <property __name="label_plural" en="Metric Values" zc="Metric Values" />
+ </Item>
+ <Item type="ItemType" keyed_name="ForumSearch" config_id="A7C8B9475B884B9593E3B9ED3F3B828C">
+  <property __name="label" en="ForumSearch" zc="" />
+  <property __name="label_plural" en="ForumSearch" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="cfg_ScopeVariable" config_id="A7FFD115CCD4439FB78663DAE7F0C01F"></Item>
+ <Item type="ItemType" keyed_name="ReplicationRuleTargetVault" config_id="A93B9C603CAA498AA19454C75B0826F8"></Item>
+ <Item type="ItemType" keyed_name="WMSetConfigurations" config_id="A9E278D890B645B6AD0615836631341D">
+  <property __name="label" en="Watermark Set Configuration" zc="" />
+  <property __name="label_plural" en="Watermark Set Configurations" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="tp_XmlSchemaElement" config_id="AABF8B3AD8AC4839BF103B1BFB3E9473">
+  <property __name="label" en="Xml Schema Element" zc="" />
+  <property __name="label_plural" en="Xml Schema Elements" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Frame" config_id="AC218DF3AE43488C9E64E1AA551D2522">
+  <property __name="label" en="Frame" zc="" />
+  <property __name="label_plural" en="Frames" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Life Cycle Map" config_id="AC32527D85604A4D9FC9107C516AEF47">
+  <property __name="label" en="Life Cycle Map" zc="生命周期图" />
+  <property __name="label_plural" en="Life Cycle Maps" zc="生命周期图" />
+ </Item>
+ <Item type="ItemType" keyed_name="Project Team" config_id="AC44772E2C0E486AAD22503F27761EAF">
+  <property __name="label" en="Project Team" zc="Project Team" />
+  <property __name="label_plural" en="Project Teams" zc="Project Teams" />
+ </Item>
+ <Item type="ItemType" keyed_name="Help See Also" config_id="ACD5116613FF40C9BC5EF7447CBEBBCB">
+  <property __name="label" en="Help See Also" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="PreferenceTypes" config_id="AD09B1279AC246BB9EE39BD153D28586">
+  <property __name="label" en="PreferenceTypes" zc="" />
+  <property __name="label_plural" en="PreferenceTypes" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Workflow Map Path Post" config_id="AE7AC22E64D746B69F970EA1EC65DB05">
+  <property __name="label" en="Workflow Map Path Post" zc="Workflow Map Path Post" />
+  <property __name="label_plural" en="Workflow Map Path Post Methods" zc="Workflow Map Path Post Methods" />
+ </Item>
+ <Item type="ItemType" keyed_name="Access" config_id="AEFCD3D2DC1D4E3EA126D49D68041EB6">
+  <property __name="label" en="Access" zc="Access" />
+  <property __name="label_plural" en="Permissions" zc="Permissions" />
+ </Item>
+ <Item type="ItemType" keyed_name="Workflow Map" config_id="B19D349CC6FC44BC97D50A6D70AE79CB">
+  <property __name="label" en="Workflow Map" zc="工作流" />
+  <property __name="label_plural" en="Workflow Maps" zc="工作流" />
+ </Item>
+ <Item type="ItemType" keyed_name="Implements" config_id="B1B179DB316A4178B0A5A57F00185A27"></Item>
+ <Item type="ItemType" keyed_name="cmf_ContentTypeExportToExcel" config_id="B228811F241240FE8962E14AD584F2AD">
+  <property __name="label" en="Export To Excel Configuration" zc="" />
+  <property __name="label_plural" en="Export To Excel Configuration" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Model" config_id="B2A302B6DCD54F92AD0912A37A1D4850">
+  <property __name="label" en="Model" zc="Model" />
+  <property __name="label_plural" en="Models" zc="Models" />
+ </Item>
+ <Item type="ItemType" keyed_name="History Action" config_id="B2D9F59116B944CE9151C7C05F4D946C">
+  <property __name="label" en="History Action" zc="" />
+  <property __name="label_plural" en="History Actions" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="SystemEvent" config_id="B30032741C894BB086148DDB551D3BEE">
+  <property __name="label" en="System Event" zc="" />
+  <property __name="label_plural" en="System Events" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Sub WBS" config_id="B3441B45957C4BDFABBC2EA1E37FD31D">
+  <property __name="label" en="Sub WBS" zc="" />
+  <property __name="label_plural" en="Sub WBSs" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="cfg_NamedConstant" config_id="B3960B22DBCE48FFB83E44F21015A25E"></Item>
+ <Item type="ItemType" keyed_name="Project Template" config_id="B47D2E8E30484C66A4E9449E394F9456">
+  <property __name="label" en="Project Template" zc="项目计划模板" />
+  <property __name="label_plural" en="Project Templates" zc="项目计划模板" />
+ </Item>
+ <Item type="ItemType" keyed_name="Simple MCO File" config_id="B4F5037E307B45B3838CC512BBFC0DE4"></Item>
+ <Item type="ItemType" keyed_name="Search Center" config_id="B5048D604A6A4D53B3FC6C3BF3D81157">
+  <property __name="label" en="" zc="搜索中心" />
+  <property __name="label_plural" en="" zc="搜索中心" />
+ </Item>
+ <Item type="ItemType" keyed_name="CommandBarMenu" config_id="B5175846B27145EEA5653DA35ED78BE4">
+  <property __name="label" en="Menu" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="cmf_TabularViewColumn" config_id="B5C980B0A6494F1FBEDE80F96F96BEBE">
+  <property __name="label" en="Tabular View Column" zc="" />
+  <property __name="label_plural" en="Tabular View Columns" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="cfg_Enum" config_id="B5DA52BD805C45D8BD83A2076A94FC18"></Item>
+ <Item type="ItemType" keyed_name="Express DCO" config_id="B678FAF40F7246A7925FB5B116988915">
+  <property __name="label" en="DCO" zc="" />
+  <property __name="label_plural" en="DCOs" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Hide Related In" config_id="B70DE4074ABC49C69B0D8729D9212982">
+  <property __name="label" en="Hide Related In" zc="Hide Related In" />
+  <property __name="label_plural" en="Hide Related In" zc="Hide Related In" />
+ </Item>
+ <Item type="ItemType" keyed_name="SSVCItems" config_id="B7DF834246F24F10BC9B91056D828538"></Item>
+ <Item type="ItemType" keyed_name="Document" config_id="B88C14B99EF449828C5D926E39EE8B89">
+  <property __name="label" en="Document" zc="文档" />
+  <property __name="label_plural" en="Documents" zc="文档" />
+ </Item>
+ <Item type="ItemType" keyed_name="FileGroup" config_id="B8940FB948604232B27FC1263FC7E203"></Item>
+ <Item type="ItemType" keyed_name="Engineering Efficiency" config_id="B8F1E98E200946729E651A116BBED6E2">
+  <property __name="label" en="Engineering Efficiency" zc="工程效率" />
+  <property __name="label_plural" en="Engineering Efficiencies" zc="工程效率" />
+ </Item>
+ <Item type="ItemType" keyed_name="History Template" config_id="BA053C68D62E4E5293039323F10E116E">
+  <property __name="label" en="History Template" zc="" />
+  <property __name="label_plural" en="History Template" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="SearchMode" config_id="BB3394EA2B014A6493267E7867B4ABD7">
+  <property __name="label" en="Search Mode" zc="" />
+  <property __name="label_plural" en="Search Modes" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="RB_Part_Related" config_id="BB4DE3A1A9F04D64A6B0A3AF195B3618"></Item>
+ <Item type="ItemType" keyed_name="InBasket Task" config_id="BC7977377FFF40D59FF14205914E9C71">
+  <property __name="label" en="InBasket" zc="" />
+  <property __name="label_plural" en="My InBasket" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Filter Value" config_id="BCC8053D365143A18B033850EFE56F3C">
+  <property __name="label" en="Filter Value" zc="过滤值" />
+  <property __name="label_plural" en="Filter Values" zc="过滤值" />
+ </Item>
+ <Item type="ItemType" keyed_name="Activity Task Value" config_id="BD4A250787A742A484C7B174A4AED1E2">
+  <property __name="label" en="Activity Task Value" zc="" />
+  <property __name="label_plural" en="Activity Task Values" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="xClassificationTree" config_id="BE722B4824314594AA4AFC3CC9A18CCA">
+  <property __name="label" en="xClassification Tree" zc="" />
+  <property __name="label_plural" en="xClassification Trees" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Activity Method" config_id="BF3EAD31AAA2403592CAAC2446FF7797">
+  <property __name="label" en="Activity Method" zc="" />
+  <property __name="label_plural" en="Activity Methods" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Body" config_id="BF60433C7E924BE6B78D901809F8FEF6">
+  <property __name="label" en="Body" zc="" />
+  <property __name="label_plural" en="Bodies" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="CommandBarDropDown" config_id="BF62E8B6450447D89EF86B539F49F992">
+  <property __name="label" en="DropDown" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Affected Item" config_id="BFAAB0F6838D4F80BF12CB328FF5B097">
+  <property __name="label" en="Affected Item" zc="影响对象" />
+  <property __name="label_plural" en="Affected Items" zc="影响对象" />
+ </Item>
+ <Item type="ItemType" keyed_name="Part Document" config_id="BFE7AD9711A547FBB05827B5169493CE">
+  <property __name="label" en="Part Document" zc="Part Document" />
+  <property __name="label_plural" en="Documents" zc="Documents" />
+ </Item>
+ <Item type="ItemType" keyed_name="ECR File" config_id="C04406118D4F494CAB7AB924FB658E0A">
+  <property __name="label" en="ECR File" zc="ECR File" />
+  <property __name="label_plural" en="ECR Files" zc="ECR Files" />
+ </Item>
+ <Item type="ItemType" keyed_name="Manufacturer Part Part" config_id="C0D86AA55159463D9EA86EC8AB84FD72"></Item>
+ <Item type="ItemType" keyed_name="Access_PropertyValue" config_id="C1306FD3C9E7468A9272FB2ED695FB9C"></Item>
+ <Item type="ItemType" keyed_name="WBS Element" config_id="C2083D2B89174D8B9606625092101640">
+  <property __name="label" en="WBS Element" zc="WBS元素" />
+  <property __name="label_plural" en="Project WBS" zc="WBS元素" />
+ </Item>
+ <Item type="ItemType" keyed_name="Grid Column" config_id="C24A87B33E3740B3B01254DC776F1EFE">
+  <property __name="label" en="Grid Column" zc="网格列" />
+  <property __name="label_plural" en="Grid Columns" zc="网格列" />
+ </Item>
+ <Item type="ItemType" keyed_name="BOM Substitute" config_id="C440C7FD40254F3C861FEC96DCDD8B70">
+  <property __name="label" en="BOM Substitute" zc="" />
+  <property __name="label_plural" en="Substitutes" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Team Identity" config_id="C455246EFC1C402296B1C2249D00B04D"></Item>
+ <Item type="ItemType" keyed_name="cfg_ScopeRule" config_id="C47186EEC7C74FCCBF5BB89F0A4EAC4B"></Item>
+ <Item type="ItemType" keyed_name="ConversionTaskDependency" config_id="C5283EF5760B424C974E2E2F81CE02CE"></Item>
+ <Item type="ItemType" keyed_name="Relationship View" config_id="C57EC6AAFE22490082F06FD8DCBE2E1C">
+  <property __name="label" en="Relationship View" zc="Relationship View" />
+  <property __name="label_plural" en="Relationship Views" zc="Relationship Views" />
+ </Item>
+ <Item type="ItemType" keyed_name="DiscussionTemplate" config_id="C64BA744050149A1A32F402ED965CB1A">
+  <property __name="label" en="DiscussionTemplate" zc="" />
+  <property __name="label_plural" en="DiscussionTemplate" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Permission" config_id="C6A89FDE1294451497801DF78341B473">
+  <property __name="label" en="Permission" zc="权限" />
+  <property __name="label_plural" en="Permissions" zc="权限" />
+ </Item>
+ <Item type="ItemType" keyed_name="cmf_TabularViewTree" config_id="C779CBB024A04E519D2806435882F7F9">
+  <property __name="label" en="Tabular View Tree" zc="" />
+  <property __name="label_plural" en="Tabular View Tree" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="xPropertyDefinition" config_id="C81D09F315EF4099B4A2F597C37EEEC0">
+  <property __name="label" en="xProperty" zc="" />
+  <property __name="label_plural" en="xProperties" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="WMType" config_id="C8BC1FE465374CE290C61FCFEA67F4DB">
+  <property __name="label" en="Watermark Type" zc="" />
+  <property __name="label_plural" en="Watermark Types" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="mp_MacCondition" config_id="CA05A77EC34D4785B923C3F8D0DC0A8F">
+  <property __name="label" en="MAC Condition" zc="" />
+  <property __name="label_plural" en="MAC Conditions" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Frameset" config_id="CA289ED4F1A84A9EB6CDD822846FD745">
+  <property __name="label" en="Frameset" zc="" />
+  <property __name="label_plural" en="Framesets" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="DatabaseUpgradePatch" config_id="CB10A07383CC4C35A22B1577B7712D38">
+  <property __name="label" en="DatabaseUpgradePatch" zc="" />
+  <property __name="label_plural" en="DatabaseUpgradePatches" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Activity Variable Value" config_id="CB7696CC33EC4D1BB98716465F1AD580">
+  <property __name="label" en="Activity Variable Value" zc="" />
+  <property __name="label_plural" en="Activity Variable Values" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Express ECO" config_id="CBA93BEFFB4F499CAF122CB79E204983">
+  <property __name="label" en="ECO" zc="ECO" />
+  <property __name="label_plural" en="ECOs" zc="ECOs" />
+ </Item>
+ <Item type="ItemType" keyed_name="Express ECO File" config_id="CBFCC2B7EC174750AFFF8D1EE0A82E34"></Item>
+ <Item type="ItemType" keyed_name="Team" config_id="CC23F9130F574E7D99DF9659F27590A6">
+  <property __name="label" en="Team" zc="" />
+  <property __name="label_plural" en="Teams" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="CAD" config_id="CCF205347C814DD1AF056875E0A880AC">
+  <property __name="label" en="CAD Document" zc="工程图" />
+  <property __name="label_plural" en="CAD Documents" zc="工程图" />
+ </Item>
+ <Item type="ItemType" keyed_name="Feature License" config_id="CE0C4143D35E46CDA3874C4339F159BE">
+  <property __name="label" en="Feature License" zc="" />
+  <property __name="label_plural" en="Feature Licenses" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="fr_RepType_Characteristic" config_id="CEEF4E848B564F0388028CDCC720B67E"></Item>
+ <Item type="ItemType" keyed_name="PackageReferencedElement" config_id="CFACA4085F044622A1D4E00F7DB9C71E"></Item>
+ <Item type="ItemType" keyed_name="cmf_ContentPropertyItems" config_id="D003393AB1E447B3A8D3B274CAA70F69">
+  <property __name="label" en="Content Property Item" zc="" />
+  <property __name="label_plural" en="Content Property Items" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="PackageElement" config_id="D1AEF724041942BCAAC8CADBBDFD5EF4">
+  <property __name="label" en="PackageElement" zc="PackageElement" />
+  <property __name="label_plural" en="PackageElements" zc="PackageElements" />
+ </Item>
+ <Item type="ItemType" keyed_name="State Distribution" config_id="D2794EA7FB7B4B52BA2CE4681E2D9DFB">
+  <property __name="label" en="State Distribution" zc="" />
+  <property __name="label_plural" en="State Distributions" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Search Criteria" config_id="D2ECF1B2A7FC45DB9D916996CE9BE9C9">
+  <property __name="label" en="Search Criteria" zc="" />
+  <property __name="label_plural" en="Search Criteria" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="DatabaseUpgradeLogFile" config_id="D3E6C97153E1408FB218FA34D8B65A3D">
+  <property __name="label" en="DatabaseUpgradeLogFile" zc="" />
+  <property __name="label_plural" en="DatabaseUpgradeLogFile" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Dashboard Chart" config_id="D3F7714E036040BA8B24F0B8F5601452">
+  <property __name="label" en="Dashboard Chart" zc="" />
+  <property __name="label_plural" en="Charts" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="cmf_TabularViewHeaderRow" config_id="D3F830490AB143E4ACC00D16538C6DB0">
+  <property __name="label" en="Header Row" zc="" />
+  <property __name="label_plural" en="Header Row" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="ES_IndexedProperty" config_id="D4C532C52FFA433F85DFC27A9161518A"></Item>
+ <Item type="ItemType" keyed_name="cmf_ComputedProperty" config_id="D4C8D8008DAE4799A426518C2B6D0889">
+  <property __name="label" en="Computed Property" zc="" />
+  <property __name="label_plural" en="Computed Properties" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="mp_PolicyAccessItem" config_id="D4E6378D54A3427F89BECDC52A0034D5"></Item>
+ <Item type="ItemType" keyed_name="Part Goal" config_id="D7C815A268C54E57897AA3E98D185598">
+  <property __name="label" en="Part Goal" zc="Part Goal" />
+  <property __name="label_plural" en="Goals" zc="Goals" />
+ </Item>
+ <Item type="ItemType" keyed_name="xClass_xPropertyDefinition" config_id="D8ABB7FA44534D19A638297CDA0DD323"></Item>
+ <Item type="ItemType" keyed_name="Simple ECO File" config_id="D8D8AF203DF043DE97940186864EB869"></Item>
+ <Item type="ItemType" keyed_name="SystemEventHandler" config_id="D9520A9B3DEA453CB8F6A3A5CA1C9FEB"></Item>
+ <Item type="ItemType" keyed_name="WSType" config_id="DA0772F930654164AEC517CC6CDC5DBA">
+  <property __name="label" en="Web Service Type" zc="" />
+  <property __name="label_plural" en="Web Service Types" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Search" config_id="DA581F2EAD1641CF976A1F1211E1ADBA">
+  <property __name="label" en="Search" zc="" />
+  <property __name="label_plural" en="Searches" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Allowed Permission" config_id="DB54505FA3E9419DA3C1E1AFB7A48C1C">
+  <property __name="label" en="Allowed Permission" zc="Allowed Permission" />
+  <property __name="label_plural" en="Allowed Permissions" zc="Allowed Permissions" />
+ </Item>
+ <Item type="ItemType" keyed_name="Express DCO Affected Item" config_id="DBE62B08FFFB4EE69D161BC5E02F9459"></Item>
+ <Item type="ItemType" keyed_name="cmf_PropertyAllowedPermission" config_id="DC80041DD3544835BDB50A8CAA535903"></Item>
+ <Item type="ItemType" keyed_name="CAD Instance" config_id="DCCABB44A13C400F9B24D3929D2E4F68">
+  <property __name="label" en="CAD Instance" zc="" />
+  <property __name="label_plural" en="CAD Instances" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="WSTypeAssociate" config_id="DCF6BD55DE71421CA49C6FF4F3B2D1FC">
+  <property __name="label" en="Associated Type" zc="" />
+  <property __name="label_plural" en="Associated Types" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="tp_XmlSchema" config_id="DD54C11BF6004B09A9E152AFD61ABEA9">
+  <property __name="label" en="Document Type" zc="" />
+  <property __name="label_plural" en="Document Types" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="ES_IndexedFile" config_id="DD87FB6B2A0144818575534E8ACF9608">
+  <property __name="label" en="ES Indexed File" zc="" />
+  <property __name="label_plural" en="ES Indexed Files" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="tp_Item" config_id="DE828FBA99FF4ABB9E251E8A4118B397">
+  <property __name="label" en="Document Item" zc="" />
+  <property __name="label_plural" en="Document Items" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="SelfServiceReportHelp" config_id="DF17056D3AC1479DBC7196255105D04B">
+  <property __name="label" en="Self-Service Report Help" zc="" />
+  <property __name="label_plural" en="Self-Service Report Help" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Product" config_id="DF373D3D2CC1462D852C2BD420CCF5E2">
+  <property __name="label" en="Product" zc="产品" />
+  <property __name="label_plural" en="Products" zc="产品" />
+ </Item>
+ <Item type="ItemType" keyed_name="TestRB_ComplexJoin" config_id="DFBA193C8917414AB85B53D5645147E5"></Item>
+ <Item type="ItemType" keyed_name="Message Acknowledgement" config_id="E0849D6A48B84B8D9C135488C4C1DDF4"></Item>
+ <Item type="ItemType" keyed_name="cfg_Variable" config_id="E10A03F924344C509999028B21A19E21"></Item>
+ <Item type="ItemType" keyed_name="Inherited Server Events" config_id="E1F075B555A24EA8BF0E945CE580254F"></Item>
+ <Item type="ItemType" keyed_name="Activity2" config_id="E236DB697E294C46B630C99A0D20C2B1">
+  <property __name="label" en="Activity2" zc="任务" />
+  <property __name="label_plural" en="Project Activities" zc="项目计划任务" />
+ </Item>
+ <Item type="ItemType" keyed_name="Grid Event" config_id="E2DECCA6300E4815B466C62C66E9D3AF">
+  <property __name="label" en="Grid Event" zc="Grid Event" />
+  <property __name="label_plural" en="Grid Events" zc="Grid Events" />
+ </Item>
+ <Item type="ItemType" keyed_name="cfg_Rule" config_id="E2E89450CCCF42D8BE0C17D7B07D6CE7"></Item>
+ <Item type="ItemType" keyed_name="Activity Template Task" config_id="E32DB4E6E3B64F98A12B550C578E6A01">
+  <property __name="label" en="Activity Template Task" zc="Activity Template Task" />
+  <property __name="label_plural" en="Activity Template Tasks" zc="Activity Template Tasks" />
+ </Item>
+ <Item type="ItemType" keyed_name="ConversionServerPriority" config_id="E45E85D702F14A37B0E65F3C770D1195"></Item>
+ <Item type="ItemType" keyed_name="Customer" config_id="E4847F4A706B4285A395C0228A867E0F">
+  <property __name="label" en="Customer" zc="客户" />
+  <property __name="label_plural" en="Customers" zc="客户" />
+ </Item>
+ <Item type="ItemType" keyed_name="tp_Image" config_id="E4A23B0AC84D4155BF4C1E44B84CBD45">
+  <property __name="label" en="Graphic" zc="" />
+  <property __name="label_plural" en="Graphics" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Old Password" config_id="E4F3367A4A6C4956875CAEF580692564"></Item>
+ <Item type="ItemType" keyed_name="SPDocumentLibraryDefinition" config_id="E5326B5A2B93464A9795B1F8A6E6B666">
+  <property __name="label" en="SharePoint Library Definition" zc="SharePoint库" />
+  <property __name="label_plural" en="SharePoint Libraries" zc="SharePoint库" />
+ </Item>
+ <Item type="ItemType" keyed_name="Identity" config_id="E582AB17663F4EF28460015B2BE9E094">
+  <property __name="label" en="Identity" zc="参与者" />
+  <property __name="label_plural" en="Identities" zc="参与者" />
+ </Item>
+ <Item type="ItemType" keyed_name="Scheduled Task" config_id="E5BC8090E82D4F8D8E3F389C95316433">
+  <property __name="label" en="Scheduled Task" zc="" />
+  <property __name="label_plural" en="Scheduled Tasks" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="SSVCPresentationConfiguration" config_id="E7A68175B2024FFB876E87D0081071A9"></Item>
+ <Item type="ItemType" keyed_name="ES_Settings" config_id="E825BB68E16F42FC8664743C544D8E8E">
+  <property __name="label" en="Enterprise Search" zc="" />
+  <property __name="label_plural" en="Enterprise Search" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Board" config_id="E8335FB6E4834AFF9BA8F9D4C6E3DE2C">
+  <property __name="label" en="Board" zc="" />
+  <property __name="label_plural" en="Boards" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="FileExchangePackageFile" config_id="EA473F6BF22F4F34807F2FA03497147F">
+  <property __name="label" en="File Exchange Package File" zc="" />
+  <property __name="label_plural" en="File Exchange Package Files" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Activity Transition" config_id="EB4ADB2BC83C410FB265CB42ED5C633B">
+  <property __name="label" en="Activity Transition" zc="" />
+  <property __name="label_plural" en="Activity Transitions" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="PDFWMTemplates" config_id="EBCE0A5161B049349711D3325CCAED7F">
+  <property __name="label" en="PDF Template" zc="" />
+  <property __name="label_plural" en="PDF Templates" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="ES_AgentState" config_id="EBFFB97E128649D595ECB8DC4456349F">
+  <property __name="label" en="ES_AgentState" zc="" />
+  <property __name="label_plural" en="ES_AgentState" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="DiscussionTemplateView" config_id="ED06F0AEA37242349F2C499B7FEA6A26"></Item>
+ <Item type="ItemType" keyed_name="WSConfiguration" config_id="EDC5F1D5759D4C7CBDC7F8C20D76087D">
+  <property __name="label" en="Web Service Configuration" zc="Web Service配置" />
+  <property __name="label_plural" en="Web Service Configurations" zc="Web Service配置" />
+ </Item>
+ <Item type="ItemType" keyed_name="FileGroup File" config_id="EEC427EA9E754FD9BE93D1C6C72F2F2E"></Item>
+ <Item type="ItemType" keyed_name="History Template Action" config_id="EECAA9639E054096B4A0F98E6845E963"></Item>
+ <Item type="ItemType" keyed_name="WSTypeProperty" config_id="EED63D7ABCB24E7E9AC1C4AA7C3ADC40">
+  <property __name="label" en="Web Service Type Property" zc="" />
+  <property __name="label_plural" en="Web Service Type Properties" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="cmf_ContentItems" config_id="EFC5E36233D541FDA5B23B7BD374653C">
+  <property __name="label" en="Content Item" zc="" />
+  <property __name="label_plural" en="Content Items" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="FileExchangeTxnState" config_id="F03364FA841641EF82C8D893CA2C6727">
+  <property __name="label" en="File State" zc="" />
+  <property __name="label_plural" en="File States" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Report" config_id="F0834BBA6FB64394B78DF5BB725532DD">
+  <property __name="label" en="Report" zc="报表" />
+  <property __name="label_plural" en="Reports" zc="报表" />
+ </Item>
+ <Item type="ItemType" keyed_name="SecureMessage" config_id="F0A8BC4265E44C47A127AEC1975F4C89">
+  <property __name="label" en="Secure Message " zc="" />
+  <property __name="label_plural" en="Secure Messages" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="State EMail" config_id="F0B2EAE5414249748F2986CC1EE78340">
+  <property __name="label" en="State EMail" zc="" />
+  <property __name="label_plural" en="State EMails" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Part MultiLevel BOM" config_id="F0C6BC7CE99A4BB692E82927B40C6F0B"></Item>
+ <Item type="ItemType" keyed_name="State Notification" config_id="F0CC0E7AEC0A401A94E8A63C9AC4F4D3">
+  <property __name="label" en="State Notification" zc="" />
+  <property __name="label_plural" en="State Notifications" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="ES_Admin" config_id="F1C54B59F67145B1BF0E9BC525D1DA25">
+  <property __name="label" en="Enterprise Search" zc="" />
+  <property __name="label_plural" en="Enterprise Search" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="PackageDefinition" config_id="F312562D6AD948DCBCCCCF6A615EE0EA">
+  <property __name="label" en="PackageDefinition" zc="包定义" />
+  <property __name="label_plural" en="PackageDefinitions" zc="包定义" />
+ </Item>
+ <Item type="ItemType" keyed_name="TOC View" config_id="F356C4CED1584EBF812912F2D926066B">
+  <property __name="label" en="TOC View" zc="TOC View" />
+  <property __name="label_plural" en="TOC View" zc="TOC View" />
+ </Item>
+ <Item type="ItemType" keyed_name="Workflow Process Activity" config_id="F3F07BFCCDDF48E79ED239F0111E4710">
+  <property __name="label" en="Workflow Process Activity" zc="" />
+  <property __name="label_plural" en="Workflow Process Activities" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="xClass_xPropValue_Perm" config_id="F434A4F785554C8CA80D8B0630CCA4C4"></Item>
+ <Item type="ItemType" keyed_name="PM_ProjectColorPeriod" config_id="F5BA7F9CD135405E8D854A642A51BADE"></Item>
+ <Item type="ItemType" keyed_name="Revision" config_id="F81CDEF9FE324D01947CC9023BC38317">
+  <property __name="label" en="Revision" zc="版本" />
+  <property __name="label_plural" en="Revisions" zc="版本" />
+ </Item>
+ <Item type="ItemType" keyed_name="Activity Template Transition" config_id="F88A91D29C4F446BB309BEEE925AADD1">
+  <property __name="label" en="Activity Template Transition" zc="Activity Template Transition" />
+  <property __name="label_plural" en="Activity Template Transitions" zc="Activity Template Transitions" />
+ </Item>
+ <Item type="ItemType" keyed_name="Message" config_id="F8F19489113C487B860733E7F7D5B12D">
+  <property __name="label" en="Notification Message" zc="" />
+  <property __name="label_plural" en="Notification Messages" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="EMail Message" config_id="F91DE6AE038A4CC8B53D47D5A7FA49FC">
+  <property __name="label" en="EMail Message" zc="EMail 消息" />
+  <property __name="label_plural" en="E-Mail Message" zc="EMail 消息" />
+ </Item>
+ <Item type="ItemType" keyed_name="qry_QueryReference" config_id="F96B52A885B04917A1C34251248E47D6"></Item>
+ <Item type="ItemType" keyed_name="Activity Template Variable" config_id="FA1755A31ACF4EDFBBFFCD6A8C6F7AF8">
+  <property __name="label" en="Activity Template Variable" zc="Activity Template Variable" />
+  <property __name="label_plural" en="Activity Template Variables" zc="Activity Template Variables" />
+ </Item>
+ <Item type="ItemType" keyed_name="SecureMessageFlaggedBy" config_id="FA745E2F3D0B406FA6C0F3ECE4C5F5D4"></Item>
+ <Item type="ItemType" keyed_name="Simple ECO Affected Item" config_id="FAE5DF5AFEC0437C9ADC9E38184EA8D6"></Item>
+ <Item type="ItemType" keyed_name="ES_Agent" config_id="FAFACB0BC40E4C3DBFC282F058505C7F">
+  <property __name="label" en="Agent" zc="" />
+  <property __name="label_plural" en="Agents" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="MyPQD" config_id="FB1CC9A8AF5D47D5A7747CCFCEEE3A58">
+  <property __name="label" en="My PQD" zc="" />
+  <property __name="label_plural" en="My PQDs" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="cmf_ContentElementItems" config_id="FC1A83F673B542C7AC8EEC29F25C602E">
+  <property __name="label" en="Content Element Item" zc="" />
+  <property __name="label_plural" en="Content Element Items" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="SQL" config_id="FC3E32F18F804FD9BE4B175973D29112">
+  <property __name="label" en="SQL" zc="SQL语句" />
+  <property __name="label_plural" en="SQLs" zc="SQL语句" />
+ </Item>
+ <Item type="ItemType" keyed_name="Manufacturer Part" config_id="FDE9DA6F52C642EA807287C340EE0B72">
+  <property __name="label" en="Manufacturer Part" zc="制造零部件" />
+  <property __name="label_plural" en="Manufacturer Parts" zc="制造零部件" />
+ </Item>
+ <Item type="ItemType" keyed_name="Workflow Map Variable" config_id="FE597F427BF84EC783435F4471520403">
+  <property __name="label" en="Workflow Map Variable" zc="Workflow Map Variable" />
+  <property __name="label_plural" en="Workflow Map Variables" zc="Workflow Map Variables" />
+ </Item>
+ <Item type="ItemType" keyed_name="WMItemType" config_id="FEF59A3AE0894190A2BF1E77D773B6C1">
+  <property __name="label" en="Watermark ItemType" zc="" />
+  <property __name="label_plural" en="Watermark ItemTypes" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="TestRB_startPageHtmlWithIframe" config_id="FF3C2BEAAA4246CF983E4FDCFD1CC6F2"></Item>
+ <Item type="ItemType" keyed_name="SystemEventLogDescriptor" config_id="FF53A19A424D4B2F80938A5A5C1A29EA">
+  <property __name="label" en="System Event Log Descriptor" zc="" />
+  <property __name="label_plural" en="System Events Log Descriptor" zc="" />
+ </Item>
+ <Item type="ItemType" keyed_name="Relationship Grid Event" config_id="FF5EFC69BB8F4E56839A43A8477AE58F">
+  <property __name="label" en="Relationship Grid Event" zc="Relationship Grid Event" />
+  <property __name="label_plural" en="Relationship Grid Events" zc="Relationship Grid Events" />
+ </Item>
+ <Item type="ItemType" keyed_name="Express ECO Affected Item" config_id="FFE118760ADB44FC984FBE0B633414FC"></Item>
+</export>

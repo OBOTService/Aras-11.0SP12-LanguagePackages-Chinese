@@ -1,0 +1,35 @@
+﻿<Item type="Property" typeId="26D7CD4E033242148E2724D3D054B4D3" id="FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF">
+  <category_by is_null="1" /> 
+  <class_path is_null="1" /> 
+  <column_alignment>center</column_alignment> 
+  <column_width>120</column_width> 
+  <data_source is_null="1" /> 
+  <data_type>image</data_type> 
+  <default_search is_null="1" /> 
+  <default_value is_null="1" /> 
+  <foreign_property is_null="1" /> 
+  <help_text is_null="1" /> 
+  <help_tooltip is_null="1" /> 
+  <id keyed_name="is_linked" type="Property">FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</id> 
+  <is_hidden>0</is_hidden> 
+  <is_hidden2>0</is_hidden2> 
+  <is_indexed>0</is_indexed> 
+  <is_keyed>0</is_keyed> 
+  <is_multi_valued>0</is_multi_valued> 
+  <is_required>0</is_required> 
+  <item_behavior>float</item_behavior> 
+  <keyed_name_order>1</keyed_name_order> 
+  <label xml:lang="en"></label> 
+  <max_range is_null="1" /> 
+  <min_range is_null="1" /> 
+  <order_by>1</order_by> 
+  <pattern is_null="1" /> 
+  <prec is_null="1" /> 
+  <range_inclusive>0</range_inclusive> 
+  <readonly>0</readonly> 
+  <scale is_null="1" /> 
+  <sort_order>64</sort_order> 
+  <source_id keyed_name="Part" type="ItemType" name="Part">4F1AC04A2B484F3ABA4E20DB63808A88</source_id> 
+  <stored_length is_null="1"/>
+  <name>is_linked</name> 
+</Item>

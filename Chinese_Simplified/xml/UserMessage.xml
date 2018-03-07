@@ -1,0 +1,1385 @@
+﻿<export>
+ <Item type="UserMessage" keyed_name="UpdateItemEx_BehaviorPropInvalid" config_id="00074164031848CB88C15672A28DA74A">
+  <property __name="text" en="The value of the behavior property specified for the {0} is invalid." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="BeforeItemTypeUpdate_InternalErrorRenameFailed" config_id="00D7F019AE134B07989EF4837E14D1BB">
+  <property __name="text" en="Internal Error: renaming failed." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedUnsubscribeFromForum" config_id="021CABA6CE224BBFAF1FE402CFCB7939">
+  <property __name="text" en="Failed to unsubscribe from forum: {0}" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="DeleteUsers_InternalError" config_id="0422BEE2959747DEA32C62EB2B70EB37">
+  <property __name="text" en="An internal error has occured." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedGetUserIsAlias" config_id="04309DF1ED454E9EBD64BA5DA1B39766">
+  <property __name="text" en="Failed to get user isAlias identity: {0}" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="fr_UpdatingCharacteristicsIsNotSupported" config_id="049EBBE5407B4F0988F3CDC840C53CE1">
+  <property __name="text" en="Updating characteristics is not supported! Use delete/add actions instead." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="AddRelationshipEx_RelatedShouldBeOnlyOne" config_id="04EFBD7E49664C16ABE02B66163C92A5">
+  <property __name="text" en="A single related item has to be specified." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.AttributeIdIsMissingException" config_id="05459CA1128740629E7CEC86DC61430C">
+  <property __name="text" en="The id attribute on tag &lt;Item&gt; is missing." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="EvaluateActivity_InternalError" config_id="05E86C001A6345E8927DB77E01AE07F3">
+  <property __name="text" en="An internal error has occured." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_DeletedIT" config_id="0658D17912A44DBA9F8FC67F074065AF">
+  <property __name="text" en="Deleted item type: {0}, config_id: {1}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateWorkflowMap_InternalError" config_id="06BFED2F1F864B1DA0CCA881CCAE6EB7">
+  <property __name="text" en="An internal error has occured." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FilterInvalidFormatTypeNotSM" config_id="06F086657393469C83D6F88A28AF76F4">
+  <property __name="text" en="'filter' item property has invalid format: 'type' attribute should be 'SecureMessage'" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="EvaluateActivity_CanRefuseDisabled" config_id="079615786CCB40B38CB433666850FEAF">
+  <property __name="text" en="Can Refuse is disabled for this activity." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ApplyMethod_actionNameReserved" config_id="0863D09FED3445719ADDCC4FC6929EFB">
+  <property __name="text" en="This action name is reserved. Please choose a different name." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="innovatorserver_main_dispatch_multipleErrors" config_id="0955608EE3BB43C5BDA181C5AECEE285">
+  <property __name="text" en="Multiple Errors: {1} - {2} {3} - {4}" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="tp_SpecifySchemaId" config_id="0A3E292502614995BE511A4BFA7E1B93">
+  <property __name="text" en="Content generation: XML schema ID must be specified." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="qry_QueryReferencePathPropertyLabel" config_id="0A575309ED824B558C36E0ED979F97E4">
+  <property __name="text" en="Query Reference Path" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ExecuteMethodByName_methodNotFound" config_id="0A755D94C73D4D6D9AE7ACC8B9E54250">
+  <property __name="text" en="Method {0} was not found." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PE_ResolutionAttributeIsMissing" config_id="0AA19FDD9ED841BCB8118AFF90842D87">
+  <property __name="text" en="Resolution attribute is missing." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_WrongServerMethodType" config_id="0B03452D94DA45DBB4831FEF76057CA2">
+  <property __name="text" en="Environment Attribute Get Value Method has wrong method type &quot;{0}&quot;." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ConversionRuleNotFound" config_id="0B52CAA4999547B2A56EBB555C44BD1B">
+  <property __name="text" en="ConversionRule 'Aras 3D CAD to PDF Conversion' is not found. Check that Aras.CADConverter3 feature is available." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_EnvironmentIncompatibleDataType" config_id="0B55885B92EB43AC85E2310435C4C1D7">
+  <property __name="text" en="The Environment Attribute &quot;{0}&quot; has {1} data type that incompatible with type {2} of &quot;{3}&quot; property" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_NewVersionFromPreliminary" config_id="0BAFE1A720614AB3AD15CDF2B96D06EA">
+  <property __name="text" en="Cannot create new version of Item in Preliminary state." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="AddItem_Implementation_CantGetNextSeqValue" config_id="0C08473134284FCABA6722B6A4066207">
+  <property __name="text" en="Could not get the next sequence value for {0} property of the {1} ItemType." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="rb_TGVError" config_id="0C8F14E17C7949B08BB21B5EC83828B9">
+  <property __name="text" en="Tree Grid View Error." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_IncompatibleFormat" config_id="0CE2CB0529CF43619428C7C216FA06BB">
+  <property __name="text" en="The constant &quot;{0}&quot; has incompatible format with {1} type. Example of correct {1} type value: {2}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="fr_MasterAndRepFileTypesMismatch" config_id="0D02DC397A7F4C09948A5A4975B1FF86">
+  <property __name="text" en="Master file type and representation file type are mismatched" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="rb_FailedDeleteTGVIsUsed" config_id="0DD20C30C6F74366968440F1E7F40068">
+  <property __name="text" en="Tree Grid View with ID = '{0}' cannot be deleted. It is assigned to ItemTypes: {1}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SetItemState_FailedGetItemTypeDetail" config_id="0E3D0E3015FB4F4E8C0F8F38D96A9EEA">
+  <property __name="text" en="Failed to get the {0} ItemType: {1}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_Is_AffectedId_RequiresNull_with_param" config_id="0E49AF4B5EA440C69D02F4A2518B95DA">
+  <property __name="text" en="The Old Number field must be blank when Action is set to 'Add'. There should be no 'Old Number' value for {0} {1}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_UserCannotHaveMoreThanOneMyBookmarks" config_id="0ED89E5D3FFF46C0B6A1FE03C0F2750E">
+  <property __name="text" en="User cannot have more than one Forum of type 'MyBookmarks'." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateAffectedRelationship_Is_AffectedRelId_Required" config_id="0F3D7601763F42C3B80D366D42B6CA5C">
+  <property __name="text" en="The Old Rel field is required when Action is set to {0}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_SystemAndTeamIdentity" config_id="103C8E5B80624F46954284FB4C5F1A14">
+  <property __name="text" en="'Default Visibility Identity' property can't be with 'System' or 'Team' classification." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="fr_MasterFileIsAlreadyRepresentationFile" config_id="10518E0ABCA3417EB1E4AA2F36BCC394">
+  <property __name="text" en="Master file cannot serve as representation for another file" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ReAssignActivity_CantReAssignClosedActivity" config_id="11BF9DA08E244FA4820D2B384A036A2F">
+  <property __name="text" en="A closed activity cannot be reassigned." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_Is_NewItemId_RequiresNull_OnChange_with_param" config_id="1220F5C6DAD24FC1BA7DB8E2B9A1EB72">
+  <property __name="text" en="The New Number field must be blank when Action is set to 'Change' and the Interchangeable flag is on. There should be no 'New Number' value for {0} {1}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_NoSSVCPresentationConfigurationFound" config_id="126AF79E4B01432A9E95C058234DB801">
+  <property __name="text" en="No items of type SSVCPresentationConfiguration found." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xProperty_InsufficientPermissions" config_id="12AAC5CE9B034A81895A69D745222C15">
+  <property __name="text" en="You have insufficient permissions to perform '{0}' operation for Extended Properties: {1}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xClassification_CanNotDeleteRootClass" config_id="12E924AB3799467FB258ACB98885794D">
+  <property __name="text" en="Deleting root class is not allowed" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="fr_RepresentationFileIdIsNotSpecified" config_id="13AD1BB164D444C2AA83109CD100CADE">
+  <property __name="text" en="Representation file id is not specified" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_TypeEmpty" config_id="13CBA0FE14BD481C99AE547AF0BB873C">
+  <property __name="text" en="Type cannot be empty." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Licensing.FeatureTreeDecryptException" config_id="140F6D8C333F4E2CB938A67E37A7E3BB">
+  <property __name="text" en="Feature Tree initialization failed." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xDeleteItemTypeFromTree" config_id="14150A4F7FBD4450A359FFD53634B9D8">
+  <property __name="text" en="Can't delete relationship between xClassificationTree id={0} and item type {1} until instances with ids={2} has classification from this tree." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.ItemAnalysisException.RegularUser" config_id="14FF3930F6C1478280D849B99413ACCB">
+  <property __name="text" en="Item Analysis Error. Some Items have incorrect attribute/property values syntax. Please contact your system administrator for more details." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FileSelectorParserFunctionMustBeInTheEnd" config_id="155B44F6412549C1A409566E868E1FBA">
+  <property __name="text" en="Function &quot;{0}&quot; must be in the end of the string!" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PE_CheckChangeItemUsage" config_id="163067C833D4453BA3FE964661AFAEE8">
+  <property __name="text" en="This action cannot be performed on {0} '{1}' because it is used on {2} '{3}'" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ItemSelectionDepthShouldBeGreaterOrEqual" config_id="164891799B9441CFAB9DE43293623C80">
+  <property __name="text" en="Item selection depth should be greater or equal to File selection depth." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PE_ManualRelease_MustBeInPreliminaryState" config_id="178167C833D4453BA3FE964661AFAEE8">
+  <property __name="text" en="{0} must be in the Preliminary or Manual Change state to perform this action." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_Is_NewItemId_InPreliminaryState" config_id="1795DA2BF0C74172B5124DA700483C62">
+  <property __name="text" en="All New Number items must be in Preliminary State. {0} {1} is in {2} state." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="GetRevision_FailedGetRevision" config_id="184130DBE1C24B6B8473C78FA1D14FD4">
+  <property __name="text" en="Failed to get the revision {0} for the {1} ItemType." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ES_NameIsNotSetMessage" config_id="1A22D0DF423F4ACE8A6A047825248F5B">
+  <property __name="text" en="Name is not set!" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedCheckIfSSVCEnabled" config_id="1AF09B03349C4EEFBDD0D292B6630977">
+  <property __name="text" en="Failed to check if SSVC is enabled on Item: {0}" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_DeleteFMGGroupTypeNotSet" config_id="1BEC364895A244D69468DCFD63FBFEED">
+  <property __name="text" en="Failed to delete Forum Message Group: 'group_type' property was not set." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedToGetUserItemById" config_id="1C1AD67260484F9C87B20BC431EA9996">
+  <property __name="text" en="Failed to get user item by id {0}: {1}" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="GetNextSequence_SequenceNotFound" config_id="1C4CE86BCAAB4AC3B1563054CD30B9E7">
+  <property __name="text" en="The sequence {0} was not found." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_GetMessagesForFMG" config_id="1CAB8898B141436F9DA274CD36DB2385">
+  <property __name="text" en="Failed to get messages for Forum Message Group: {0}" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ApplyUpdate_InternalError" config_id="1DD1ED529F6E42B98EB25A3B74D85905">
+  <property __name="text" en="An internal error has occured." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="EvaluateActivity_ActivityAssignmentNotSpecified" config_id="1EA903B8181545B9972120398B3D31A5">
+  <property __name="text" en="The Activity Assignment is not specified and the Activity is not Automatic." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xClassificationTree_MultipleCopy" config_id="203AD4386EC64347829D17675061065E">
+  <property __name="text" en="Copying of multiple xClassificationTrees is not allowed" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="rb_NoDataFound" config_id="20767C4657924B56AB93A91A991B7184">
+  <property __name="text" en="No data found!" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateAffectedRelationship_Is_AffectedRelationshipProperty_Required" config_id="20A90FE6057B45739B5A21D7880DE97B">
+  <property __name="text" en="At least one affected relationship property must be specified when Action is {0}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ServerErrorTest_InternalError" config_id="21A1BD5972944AA8B858315382E5E8AE">
+  <property __name="text" en="An internal error has occured." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PE_ManualRelease_YouMustBeAMember" config_id="245067C833D4453BA3FE964661AFAEE8">
+  <property __name="text" en="You must be a member of the {0} identity to perform this action." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Server.Permission.NoPermissionsForActionFound" config_id="27174995FE3C4145B0E3E7836055163D">
+  <property __name="text" en="No permissions of type={0} found for the item (type={1}, id={2})" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedToCreateFMG" config_id="2732C5A520804F6D84C6070F1BA3F18E">
+  <property __name="text" en="Failed to create ForumMessageGroup for user {0}: {1}" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="AddItem_Implementation_ItemTypeNameNotFound" config_id="2759C71B3F7842FDA2C72DCE59F7E282">
+  <property __name="text" en="The name of the ItemType is required." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xPxC_PermissionCheckFailed" config_id="28493F1F09704334B2BE74E2C05A59CB">
+  <property __name="text" en="Permission check has failed" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="tp_SpecifyInputData" config_id="28D7EFC98E254081B26D58B378277BB8">
+  <property __name="text" en="Content generation: Input data must be specified." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_CadNotContainFile" config_id="29500678F6BA43C8AECE10333EAEAFD3">
+  <property __name="text" en="CAD does not contain native file to convert to PDF." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="AddItem_Implementation_noDefaultPermission" config_id="298A5C520E124D608BA07B349D5059CD">
+  <property __name="text" en="Cannot add instances of {0} because no default permission has been specified for the {0} ItemType." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ReAssignActivity_FailGetActivity" config_id="2A286C49BA9F477FBA925AAB1E93ED60">
+  <property __name="text" en="Failed to get the Activity." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="LockItem_SpecificItemCantBeLocked" config_id="2A995BB3D0CB40B6939D0CDF7636BADB">
+  <property __name="text" en="The {0} with ID {1} you are trying to edit is in a Not Lockable lifecycle state." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ApplyAML_AMLTagMissing" config_id="2AE92A61840548D0B9AD2A9A0CE9B692">
+  <property __name="text" en="The XML for this operation is malformed: the AML tag is missing." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xTableDoesNotExist" config_id="2B6425581C3843C3B9DA5A6827D8E71A">
+  <property __name="text" en="Table does not exist" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_InvalidReference" config_id="2B91FB7C29A84C5082A9B6F3689CD1CC">
+  <property __name="text" en="Reference in {0} '{1}' is invalid." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PurgeItemEx2_FailedDeleteIsUsed4params" config_id="2C31ACE1D1224E43BA068DE4A748CD4F">
+  <property __name="text" en="{0} cannot be deleted. It is used in {1} {2} {3}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FileSelectorParserWrongCloseBracketPos" config_id="2C4371DB197943D18393ED7E866430C8">
+  <property __name="text" en="Wrong close bracket at position {0} in text: &quot;{1}&quot;" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mpo_MassPromotionRecordIsProcessing" config_id="2D6A5973D38A444591435F08F2A81EFC">
+  <property __name="text" en="Item is processing by another request" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVCNotifications_NotScheduledTimeForDigest" config_id="2E05BEE3D0C947B5A388ED34F1AFCAAB">
+  <property __name="text" en="Scheduled time for Digest email notification has not come." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.NeitherTypeNorTypeIdIsSpecifiedException" config_id="2E85D4BF0B85428DA23D498965C5BB7D">
+  <property __name="text" en="Neither type nor typeId attribute is specified on tag &lt;Item&gt;." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Licensing.LicenseWasNotConsumedException" config_id="2F7E1E5D474448E8ABFA076B2FE14AA1">
+  <property __name="text" en="The license is not available." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateVote_InternalError" config_id="300CA803987C46DDA8CC95DF9D0B49DA">
+  <property __name="text" en="An internal error has occured." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedGetForumsNoForumsFound" config_id="312F0BA0ABD241BC83196B5CFDFF2F36">
+  <property __name="text" en="Failed to get forums for user {0}: no forum was found." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Conversion_MissedConversionServer" config_id="31C938C63129447B8EC350686D527B30">
+  <property __name="text" en="ConversionTask '{0}' can't be processed, ConversionServer doesn't defined for '{1}' converter type." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="VersionItem_RevisionsExceeded" config_id="31D8BA1A37A54A10A92C9DC3BC38ABF7">
+  <property __name="text" en="Failed to version the item: revision sequence exceeded." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.PropertiesAreNotUniqueException" config_id="32BCFF533AA340C2AB9098AAFDD4D874">
+  <property __name="text" en="{0} with {1} already exists." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ItemIdEmpty" config_id="341300DC331C4F1F8E663911DC311681">
+  <property __name="text" en="Item Type Id should not be empty." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FileSelectorParserCanNotRecognizeOperator" config_id="350F5F358EEE452A9AC8DB495F96EFF9">
+  <property __name="text" en="Can not recognize operator in &quot;{0}&quot;!" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_NoDataFound" config_id="359030193540457AB550E5EDB88B9C65">
+  <property __name="text" en="No data found!" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="LoadProcessInstance_InternalError" config_id="36B278BDB7B744C2961377D726F0B603">
+  <property __name="text" en="An internal error has occured." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FileSelectorParserParamNameIsEmpty" config_id="373BC95F0A104563AFDD42010720151D">
+  <property __name="text" en="Param name in &quot;{0}&quot; can not be empty!" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.RelationshipTypeNotFoundException" config_id="38164E3D4F0749D29B3C6F8DBC0068DA">
+  <property __name="text" en="RelationshipType with {0}=&quot;{1}&quot; is not found." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="itemtype_onbeforesetisrelationship_polymorphic" config_id="394E0186EA5445FDA62CC7E1EC4128A5">
+  <property __name="text" en="The Poly Item can't be is Relationship." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_Is_NewItemId_RequiresNull_OnChange" config_id="395D2A17B2DF4870A7CDEFA0890E224A">
+  <property __name="text" en="The New Number field must be blank when Action is set to 'Change' and the Interchangeable flag is on." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedDefineUserIdNotSet" config_id="39AED3E2F6FA42BC86FB4A336F6C1F2B">
+  <property __name="text" en="Faild to define if user is Admin: id property was not set." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_NoItemForWichMessagesShouldBeRetrieved" config_id="3B0D317BE55044C19F0ABD2AD9C6D62E">
+  <property __name="text" en="Request should contain at least one item (with 'type' and 'id' properties set), for which messages should be retrieved." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="EvaluateActivity_RequiredTaskNotCompleted" config_id="3B411B75E9E3462FBE15BB15F11E3223">
+  <property __name="text" en="All required tasks must be completed." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_NotSupportedIdentity" config_id="3B8B682394CD4DA983D4E63F56CC70DC">
+  <property __name="text" en="MAC Policy doesn't support system identity &quot;{0}&quot;." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PE_RelationshipItemTypeIsMissing" config_id="3BCFA7C9C81745DBA627ED027988B783">
+  <property __name="text" en="Relationship item type attribute is missing." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xTreeValidation_NotConsistent" config_id="3C744932E94E4204BD3B3EACD96A610D">
+  <property __name="text" en="XClasses of xTree don't correspond with hierarchy string" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_UnableGetItemTypeName" config_id="3CEC1CADC8FE4EE88582B593F83AA4A0">
+  <property __name="text" en="Unable to get Item Type Name property." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="RebuildView_InternalError" config_id="3D21884438D34308A0B608A0D862B249">
+  <property __name="text" en="An internal error has occured." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xTreeValidation_InvalidRootReference" config_id="3D3B40ED5F3B4BF89374D81F7CC9EB62">
+  <property __name="text" en="Tree has not valid root class. Root class must be with the same id as tree id" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_IsItemExist" config_id="4060D461CA2B434DA57F4E4277F3064D">
+  <property __name="text" en="Item must be saved first." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_Compare_AffectedId_and_NewItem_IdTypes" config_id="40C2BBBA9EE349D08F7212AEB1F5CBF9">
+  <property __name="text" en="Old Number and New Number items must be of the same type. {0} {1} and {2} {3} are of different types." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_SMAlreadyErased" config_id="40F7DE3B8CEC4E4B8777D73C6C0A73AF">
+  <property __name="text" en="Secure Messages is already erased by {0}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_UnsupportedDataType" config_id="4198DD8C545849FD9261F2C844BF8873">
+  <property __name="text" en="Data type has unsupported type &quot;{0}&quot;." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateAffectedItem_Is_AffectedId_Requiered" config_id="41A6260E41734E3B9F46170FB757EAB7">
+  <property __name="text" en="The Old Number field is required when Action is set to {0}" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateAffectedItem_Is_AffectedRelationship_Allowed" config_id="41AD4110F1294A7695B9F5221ABF477F">
+  <property __name="text" en="Affected Relationships are not allowed when Action is set to {0}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_MybookmarksForUser" config_id="421F2B17D51147BD92996635CA62B2A3">
+  <property __name="text" en="Mybookmarks for user {0}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="fr_MasterFileIdIsNotSpecified" config_id="4291B6A69D974E6B81195F01689E12DD">
+  <property __name="text" en="Master file id is not specified" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.TagItemIsNotFoundInRequestException" config_id="435966F22E584CD894405641ADCADBC2">
+  <property __name="text" en="There is no tag &lt;Item&gt; in request." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ItemNotEnabledToSSVC" config_id="43C468C517B24CD29F1137ADAE398E02">
+  <property __name="text" en="This Item is not enabled for use with the secure social features." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="AddItem_Implementation_BehaviorRequiredForRelType" config_id="43DA1C80E0244DBAB6CF17FE2F04151F">
+  <property __name="text" en="The behavior attribute is required for RelationshipType {0}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ItemsCantBeObtained" config_id="445DF03225DD4AB9A891FCEEB3C647E3">
+  <property __name="text" en="Items of type '{0}' can not be obtained with attribute serverEvents set to 0." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="AddItem_Implementation_RelNotFound" config_id="446FE7FE3A474866814C9816D45F8516">
+  <property __name="text" en="RelationshipType could not be found." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_ItemTypeShouldContainUsedProperty" config_id="44FF74E27FCE4664BBA0518257EA15A9">
+  <property __name="text" en="Item Type &quot;{0}&quot; should contain &quot;{1}&quot; property that is used by MAC Policy." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_MessageIsDisabled" config_id="452BA5B04D624873A3E2FB8DCF8C7A04">
+  <property __name="text" en="Message is already disabled." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Licensing.FeatureLicenseDecryptException" config_id="456AE857FB2849CCA071637C070DE717">
+  <property __name="text" en="Feature License initialization failed." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.PropertyValueOverflowException" config_id="45A054B3E85B438BA562CC41E83A8A07">
+  <property __name="text" en="The specified value for property {0} of {1} caused overflow." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="BeforePropertyAdd_PropNameInvalid" config_id="45D1509D0C9D48FDB1085A81249956B1">
+  <property __name="text" en="Internal Error: the name of the property ({0}) is invalid." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="CanNotChageIsIndexedFlagForKeyedNameProp" config_id="46CC55DF764D48809BC22A3290FD1499">
+  <property __name="text" en="The 'is_indexed' flag of 'keyed_name' property can't be changed for 'non-relationship' ItemTypes and implementation type 'table'.  Set operation parameter 'allow_keyed_name_index_disabling' to allow it." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="GenerateNewGUIDEx_InternalError" config_id="46F404F6B1F04D048D866A72BF188A22">
+  <property __name="text" en="GenerateNewGUIDEx error: {0}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_UnsupportedWord" config_id="473504A6D01541B6A483EB0A1AFE1036">
+  <property __name="text" en="{0} isn't supported." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="BeforePropertyUpdate_SystemPropsCantBeModified" config_id="474B75D550D348E7BE6EDA5F31DE7B43">
+  <property __name="text" en="{0} is a system property. You are not allowed to modify system properties." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xClassification_OnlySingleClassConstraintFail" config_id="493B4B811CFB409B9049F0D7CE38689B">
+  <property __name="text" en="Only single class can be selected from the &quot;{0}&quot; tree" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PurgeItemEx2_ReferencedItemFound" config_id="49EA4D70ADDA4C949D3F0D3FA069A397">
+  <property __name="text" en="Referenced item found: {0} {1}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ProjectUpdateError" config_id="4B1550517995484DA672A2866A32E706">
+  <property __name="text" en="Error Updating Project {0}, {1}" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xTreeValidation_RelatedItemType" config_id="4BCAD230CE6F4531AAB36DDF95060E41">
+  <property __name="text" en="It is prohibited to Pick/Replace XTreeToItemType relationship" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="FormFromItemType_InternalErrorMalformedXML" config_id="4BCDCBB7CDB6435AAD8157A3AE3F77F8">
+  <property __name="text" en="An internal error has occured: malformed XML." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_DiscusscionFeedHistoryEventsAndOrFS" config_id="4C66FEF5C60241F791F8FCE86F12737B">
+  <property __name="text" en="Feed of type Discussion can't have History Events and/or FileSelectors specified." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_DeleteFMGSourceIdNotSet" config_id="4C76DC4CD0CF427E9492BB7559E8F6D5">
+  <property __name="text" en="Failed to delete Forum Message Group: 'source_id' property was not set." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FileSelectorParserWrongBracketBalance" config_id="4C90631D8513499B9D91BFD32605A1FE">
+  <property __name="text" en="Wrong brackets balance in text: &quot;{0}&quot;." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="WMCreateWatermarkTasks_WMSettingContentNotDefined" config_id="4DA8912F94504C4393FC8C65A44CFB8C">
+  <property __name="text" en="WMSetting item '{0}' does not have WMSettingContent relationships defined." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FileSelectorParserUnclosedQuota" config_id="4E64FF6326B24A9990375BF962673DE5">
+  <property __name="text" en="Unclosed quota symbol in text: &quot;{0}&quot;." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_ItemTypeNotContainUsedProperty" config_id="4E8DF33B9D4C409D958DF7E8B823FFE4">
+  <property __name="text" en="Can't validate MAC Policy. The &quot;{0}&quot; doesn't contain property &quot;{1}&quot; that is used by MAC Policy condition." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="rb_CellViewTypeNotSupported" config_id="4F2AEFA95BF94D5DA21AEC3D90802B3A">
+  <property __name="text" en="Cell View Type '{0}' is not supported." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ItemTypeCannotHaveDT" config_id="4F69FFF92D9341839FD4E769634BB0DB">
+  <property __name="text" en="Relationship, Polymorphic, Federated Item Type and also File ItemType cannot have DiscussionTemplates." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="rb_AnavailableQueryItem" config_id="4F6E8A39A75E40EEBA6AF879BB9C0E51">
+  <property __name="text" en="Query Item with Reference ID = '{0}' is not available." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PE_SourceItemIsMissing" config_id="4FB891EE532249008AF7AC70436D6622">
+  <property __name="text" en="Relationship source item is missing." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedSubscribeToForum" config_id="5170B38C6B9842758B7A06E8786380A1">
+  <property __name="text" en="Failed to subscribe to forum: {0}" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="XClassification_UpdateNotInXTreeContext" config_id="51DEF9338C1C40F592B055857D42D63A">
+  <property __name="text" en="&quot;{0}&quot; can be added or deleted or updated only in XTree context" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="TransactionCheckItemsRelationships_MoreDefPerm" config_id="5210B6F7C3CF42F6B3D38531C40D5E65">
+  <property __name="text" en="Only one default permission is allowed." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.PropertyValueFormatException" config_id="52D01BEA51AF43C3A5D573C29FD9A1DD">
+  <property __name="text" en="The specified value for property {0} of {1} does not match the required format." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_WrongStateTransition" config_id="5355CAF0DE5B4227990633CB4AA7F6BC">
+  <property __name="text" en="Failed to get the transition from {0} to {1}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="GetItemTypeByFormID_NoItemTypeFoundForForm" config_id="53F760C103FA462AB47D2F88F9810A5C">
+  <property __name="text" en="No ItemType found for this form." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_CheckForumPermission" config_id="5465456456456456423420333EAEAFD3">
+  <property __name="text" en="CheckForumPermission: you don't have permission for Forum {0}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedToDeleteSavedSearch" config_id="54A9B0F82F0748B6AB485ACBC6D331F6">
+  <property __name="text" en="Failed to delete SavedSearch: there are references to another forums." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_IdNotSpecifiedInItem" config_id="55C8CD63AFED42859C1E657E3C94DDA8">
+  <property __name="text" en="'Id' attribute is not specified on tag &lt;Item&gt;." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FMGGroupTypeNotSet" config_id="5680803E84884168BFEF5B38213AC171">
+  <property __name="text" en="Failed to create ForumMessageGroup for user: 'group_type' property was not set." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_Is_AffectedId_InReleasedState" config_id="56EAD177E0544E66972EFF6738847EBE">
+  <property __name="text" en="All Old Number items must be in Released State. {0} {1} is in {2} state." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ReferencePropertyToThis" config_id="56F44DF036D24E16B7B07FE9B816BD98">
+  <property __name="text" en="{0} can't have reference property equal to 'this'.  Please specify valid reference." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_NotAllFilesCollected" config_id="5721E38D09224439B5260A90D74E66EE">
+  <property __name="text" en="Not all Files are collected. Please contact administrator to make sure that all the references are valid." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ApplyUpdate_UpdateNameEmpty" config_id="582F4789DB6749E4BEB572619480836C">
+  <property __name="text" en="The update name cannot be empty." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="EvaluateActivity_AssginmentClaimed" config_id="58FBE49C1C7F4016AA0E90E1C856D171">
+  <property __name="text" en="This assignment has been claimed by another user." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xAddClass_NotAllowed" config_id="59CD39F08A984275B7E901CE413CD4F5">
+  <property __name="text" en="The xClass with ID=&quot;{0}&quot; is not allowed for &quot;{1}&quot; ItemType." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_SourceIdFeedTemplate" config_id="5A577DCFFE644C3C935BC9A19404528A">
+  <property __name="text" en="'source_id' property should be set to add FeedTemplate Item." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SharingOptionsForSelfServiceReports" config_id="5B6B6475670840AFAE91A0396F2BA507">
+  <property __name="text" en="Sharing options for SelfServiceReports can be managed by Administrators or report Owner or Creator." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="tp_RecursiveStylesheets" config_id="5B83F227D8794F70ABD62505AD21B9CA">
+  <property __name="text" en="There are recursive stylesheets." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="UpdateUserESignature_InvalidOldSignature" config_id="5BB0DC1D157E46E1ACAE5A62F12BD634">
+  <property __name="text" en="Old Signature Is Wrong!" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="tp_SpecifyRuleNames" config_id="5BF851000A5E4B64B7F4AB815A733600">
+  <property __name="text" en="Rule name needs to be specified." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="VerifyAffectedRelationship_NewRelItemIDIsNull" config_id="5C78FBBA84D74858BDA3EF5802206FDF">
+  <property __name="text" en="Verification failed: New Relationship should not be null." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_NotAllItemsAggregated" config_id="5C9D9CA8778C4CE7B359CD9A586576A3">
+  <property __name="text" en="Not all Items are aggregated. Please contact administrator to make sure that all the references are valid." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="GetItemByName_NameNotSpecified" config_id="5DDB399DB10C4E448A273FF600B1790C">
+  <property __name="text" en="The Name attribute was not specified." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_Unavailable" config_id="5E3432D8669245B1AAA1B8E23AACFD0E">
+  <property __name="text" en="[unavailable]" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ItemDiscoverOnlyPrivilege" config_id="5E7CA93D9A9149E7A6E6FE4434C7D729">
+  <property __name="text" en="Item with ID = '{0}' has Discover Only privilege." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateAffectedRelationship_Is_AffectedRelId_Required_AffectedId_SourceID" config_id="5EF84FCC9E444A24875A1265B44178BF">
+  <property __name="text" en="Affected relationships must have a source_id that matches the parent affected item's affected_id." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xTreeValidation_NotUniqueProp" config_id="5F2AD799BBF14162A26E85C513664AF3">
+  <property __name="text" en="Property is not unique in hierarchy" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PurgeItemEx2_FailedDeleteProperty" config_id="5FC82A403FAD4D9193C3AE8AF2EFCC00">
+  <property __name="text" en="The property could not be deleted." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_NotAllowedOperation" config_id="5FD2E4A3372B4DAE91458991B1899105">
+  <property __name="text" en="This operation is not allowed when ItemType is under MAC Policy control." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_AdditionalErrors" config_id="607CE2CD8F52439B99AC49633D15D2A6">
+  <property __name="text" en="Additional errors have been detected. Please run the 'Check for Completeness' action." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_HistoryMessagesCannotBeDisabled" config_id="60B9511C61AF42C0825CFB0A0B16ADD1">
+  <property __name="text" en="Messages with classification 'History' cannot be disabled." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.InsufficientPermissionsException" config_id="6130BEBBA9D748F4A3BD7FE0E0618CBD">
+  <property __name="text" en="You have insufficient permissions to perform '{0}' operation." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="AddRelationshipEx_InternalError" config_id="614938E5A883430295A021FA601B8255">
+  <property __name="text" en="An internal error has occured." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PromoteItem_InternalErrorTransitionNotFound" config_id="615BBD18ACC14495924D0DF0B9206E42">
+  <property __name="text" en="Internal Error: failed to get the transition to promote the {0} from {1} to {2}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Main_ItemTypeNameRequired" config_id="61ACC5FE0C054D92A118CB11876D441B">
+  <property __name="text" en="The name of the ItemType cannot be empty." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xPxC_NoHandlerForCriteria" config_id="61D7646C9F124223B03CC5685E140D72">
+  <property __name="text" en="No handler for &quot;{0}&quot; criteria of &quot;{1}&quot;" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_WrongServerMethodTemplate" config_id="62257E76F10543EBAC69ED7E52083CC7">
+  <property __name="text" en="Environment Attribute Get Value Method has wrong method template. &#xD;&#xA;Please insert &quot;//MethodTemplateName=CSharp:Aras.Server.Core.AccessControl.EnvironmentAttributeMethod;&quot; string in the start of method code" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ItemTypeNAmeCantBeEmpty" config_id="6232DB490796479FAFBF93CDAC32FBE1">
+  <property __name="text" en="Property Item type name can't be null" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_DefaultVisibilityIdentity" config_id="6287A7DE84D24A2FA6BB491C84E7BE80">
+  <property __name="text" en="'Default Visibility Identity' property can be only non-alias Identity" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xTreeValidation_MoreOneRoot" config_id="62EADA07FC354B238D74DAAF09D5D5AC">
+  <property __name="text" en="Tree has more one root in hierarchy string" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.NoValidSubscription" config_id="631407A879364F2290312FFAA7628240">
+  <property __name="text" en="The Innovator does not have a valid (not expired) subscription." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xTreeValidation_DuplicatedEdges" config_id="639173E28A8C4B6A8876E1453C91CF22">
+  <property __name="text" en="Tree has duplicated edges in hierarchy string" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateAffectedItem_Is_NewItemId_Required" config_id="63A6CEAECD344F4E8BF492A3FD040919">
+  <property __name="text" en="The New Number field is required when Action is set to {0}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="AddItem_Implementation_primaryKeyViolation" config_id="651FC814E9A04471B0CD377C48C52DB4">
+  <property __name="text" en="{0} already exists." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="TransactionCheckItemsRelationships_TooManyRels" config_id="659832B375C944F893815A2B94EEDD72">
+  <property __name="text" en="The number of {0} relationships should be less then {1}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedGetSharedForumsIdNotSet" config_id="661011E1BEDA4FCBA783C76F8E70F843">
+  <property __name="text" en="Failed to get shared with user forums: id of user is not set." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateAffectedItem_Is_AffectedItem_Action_Review" config_id="663B4B88710749379159C5DDC4694C38">
+  <property __name="text" en="Change cannot continue while affected items still have Action set to 'Review'." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="AddFileToClone_FailedToFindVault" config_id="6647BE29F1024860AA346E6E62F1FEAB">
+  <property __name="text" en="Failed to find the Vault for the File {0}" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="EvaluateActivity_RequiredVariablesHaveNoValue" config_id="669BE18A3F734279AD51354C769E7762">
+  <property __name="text" en="The required variables must have a value." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xTreeValidation_CanNotApplyPreference" config_id="66D81E95083D4D1DB7CFC8B010ECF050">
+  <property __name="text" en="Cannot apply &quot;{0}&quot; preference for the &quot;{1}&quot; xClassificationTree because there are items with conflicted classification." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="AddRelationshipEx_NoSourceItem" config_id="6708B045E3CF460F8F548F4462DA0152">
+  <property __name="text" en="The source item has to be specified in order to add a relationship." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ITDoesntExist" config_id="6918D6BED797415E91461EC0961115C3">
+  <property __name="text" en="Item type SSVCItems doesn't exist." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_InvalidPolysourceTypeName" config_id="69453516A9D9483C80FA2F062FB00DA2">
+  <property __name="text" en="Invalid value in 'Polysource Type Name' property." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_GetForumMessagesIdNotSet" config_id="6A98AB0EEC1E4F18B8518308631BB6D0">
+  <property __name="text" en="Failed to get Forum Messages: id property was not set." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PromoteItem_InternalErrorCurrentStateNull" config_id="6B38FAB5B2F04A0F8797279DF25BB2B9">
+  <property __name="text" en="Internal Error: the current state is null." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ForumNotSharedWithUser" config_id="6B58E506B6AA4109B8F080971ECD19C7">
+  <property __name="text" en="Forum '{0}' is not shared with user '{1}'" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="GetNextSequence_SequenceCorrupted" config_id="6B8CB96DDD3B40E0A5884623184B0671">
+  <property __name="text" en="The sequence is corrupted." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_TypeShouldBeSecureMessage" config_id="6BEDE6905ECE4DA59A14BB56A5D26922">
+  <property __name="text" en="Item 'type' attribute can have only 'SecureMessage' value." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="WMCreateWatermarkTasks_WMSettingNotFound" config_id="6CA1763F6B69431E9FB27A7378DCBC38">
+  <property __name="text" en="WMSetting item assigned to '{0}' item type not found." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="rb_ShowMore" config_id="6D2ADF16AA054B0E8BBCFCE27E611BD0">
+  <property __name="text" en="Show More" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="EvaluateActivity_PathNotAlone" config_id="6DEF0E5DDA8441F3AD02F4BA9773DF46">
+  <property __name="text" en="Can't complete activity. {0} Path must be alone with no neighbours." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_ConstantMixedWithParameter" config_id="6E04BBFF73D84B2889393CB8C44D26CA">
+  <property __name="text" en="Constant can't contain parameter. But constant &quot;{0}&quot; contains parameter {1}. If you need to use '$' as a condition constant then it should be escaped with extra &quot;$&quot; symbol." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="VerifyAffectedRelationship_NotAllRelationshipPropertiesWereApplied" config_id="6E38ADD5EF194978AE78853BCA575189">
+  <property __name="text" en="Verifications failed: Property '{0}' was not set to value '{1}' for {2} '{3}'." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="StartEndActivityPresence_StartEndNotExist" config_id="6FC919C9062B4FE2B144276EC670240E">
+  <property __name="text" en="Your workflow is not properly configured: every workflow should contain both the START and the END activity." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xProperty_OperationAgainstNotDefined" config_id="707B4C1D71D7463793E274BCC75403DA">
+  <property __name="text" en="You tried to perform &quot;{0}&quot; operation against not defined Extended Properties: {1}" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FilterInvalidFormatActionNotGet" config_id="70B3871379CF47FEB319AE0483E07252">
+  <property __name="text" en="'filter' item property has invalid format: 'action' attribute should be set to 'get'" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xProperty_CanNotUseInWhere" config_id="71010363651B4EF69542A16D16FF4D0E">
+  <property __name="text" en="Extended Properties cannot be used in &quot;where&quot; attribute" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xProperty_InsufficientPermissions_Details" config_id="7216CD0D0BBF44DC8F03D87E4A9756C2">
+  <property __name="text" en="{0} (container items ids='{1}')" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_GetForumSearchIdNotSet" config_id="726905C11E784786BF391EFAA4BFF038">
+  <property __name="text" en="Failed to get ForumSearch items: id of ForumSearch was not set." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="GetNextSequence_NoNameNoID" config_id="72D73C50F7A041E0A066A3A384F9998A">
+  <property __name="text" en="Neither a name nor an ID has been specified." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="StartNamedWorkflow_InternalError" config_id="733F0D6027F14B4886483FD6591438AF">
+  <property __name="text" en="An internal error has occured." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_MarkupHolderConfigIdEmpty" config_id="74A13830576B4B6B8ACC1E4AE2324BD9">
+  <property __name="text" en="Markup Holder Config Id cannot be empty." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="EvaluateActivity_ActivityNotActive" config_id="74BD892619E34506AAD04ECB94BBD9E7">
+  <property __name="text" en="The activity must be in an active state." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedGetSharedForumsNoForums" config_id="75E61F3124984767812267C260347983">
+  <property __name="text" en="Failed to get shared with user forums: there are no forums shared with user '{0}'" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_GetAllUserIdentitiesNoIsAliasIdentity" config_id="75FEC0B85C9F4DC4BC04AECFE4D7ACC3">
+  <property __name="text" en="Failed to get all user identities: user doesn't have isAlias identity." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_GetNotificationMessage" config_id="762616E83BA24F48AF0737040C1B5E9E">
+  <property __name="text" en="1 new message in your discussions" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Licensing.FeatureLicenseValidationException" config_id="77790177F82C4ABA8E7FFBD239488DE0">
+  <property __name="text" en="The feature license you are attempting to use has encountered a restriction." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="AddItem_Implementation_RelTypeSourceUnsaved" config_id="780717980E8841429E9A09F4B7D918A4">
+  <property __name="text" en="Adding a RelationshipType with the unsaved ItemType as the source is not allowed. Save the ItemType first and then add a RelationshipType." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="BeforeRelationshipTypeUpdate_OldDataSourceUsed" config_id="7861BDC584014131AA9BD72D53B211C4">
+  <property __name="text" en="Some {0} items still use the old source id data source." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PurgeItemEx2_InsufficientPermissions" config_id="78A58CAF0526428D89417E51EA5F28EC">
+  <property __name="text" en="Insufficient permissions to delete the item." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Conversion_MissedConversionServer_nosubscription" config_id="7905BD57DCCA4DB096B907ABD18D1E44">
+  <property __name="text" en="ConversionTask '{0}' can't be processed, ConversionServer doesn't defined for '{1}' converter type or impersonation user of Conversion Server isn't 'vadmin', because subscription is unavailable." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="BeforePropertyUpdate_PropNameInvalid" config_id="798CA385A095478E944A8F5FDEAFE56B">
+  <property __name="text" en="The property name {0} is invalid." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedGetForumsUserCanEdit" config_id="7AE251E0578B4ED2A03F418A15C43D46">
+  <property __name="text" en="Failed to get forums, which user can edit: {0}" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateAffectedItem_Is_NewItemId_RequiresNull_with_param" config_id="7B5EBCA880A5499EBD8EB0E8B3096908">
+  <property __name="text" en="The New Number field must be blank when Action is set to {0}. There should be no 'New Number' value for {1} {2}" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateAffectedItem_Is_NewItemId_Required_with_param" config_id="7BF746D2D42B46DCBF11335F963B3634">
+  <property __name="text" en="The New Number field is required when Action is set to {0}. There is no 'New Number' value for {1} {2}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="rb_RestrictedProperty" config_id="7CCE0D0204F54DEEBE33D3D5215B9337">
+  <property __name="text" en="Restricted" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="EvaluateActivity_AssignmentClosed" config_id="7D1ED9C2AEB74776B84E92CB75983A61">
+  <property __name="text" en="This Assignment is already closed." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_DTViewIsUnunique" config_id="7D3D4D32AFC446E9BCBC5756C21007A3">
+  <property __name="text" en="DiscussionTemplateView with same Client property already exists" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="qry_QueryReferenceRefIdPropertyLabel" config_id="7D4CB6D3E8844DCA847B683B7695DBD2">
+  <property __name="text" en="Query Reference Ref Id" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="startWorkflow_NoStart" config_id="7E722527C3514CC997EB368F82FD7E13">
+  <property __name="text" en="No activity in this workflow is marked as Start." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xClassValidation_BadSortOrder" config_id="7EBED592F66C4B9FAE272D5D965933F6">
+  <property __name="text" en="xClass {0} has inconsistent sort order" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="EvaluateActivity_CanDelegateDisabled" config_id="7F68633CD9054997A24CFFFDE67C4514">
+  <property __name="text" en="Can Delegate is disabled for this activity." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="fr_RepresentationFilesAreMissing" config_id="7F9B738FA29B4A0188EEC40DB95FD6E0">
+  <property __name="text" en="Representation files are missing" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="AddItem_Implementation_CantFindSourceSequence" config_id="7FD61A02A9D44AEDBAE2715CE06D712F">
+  <property __name="text" en="Could not find the source sequence of the {1} property of {1} ItemType." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_DDUnsavedItem" config_id="8043D955D70D43C6BD895820C4552374">
+  <property __name="text" en="Discussion Definition could not be created for unsaved item." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="tp_StylesheetsDifferentSources" config_id="80E1CA53918947AB9877B6958D1B690D">
+  <property __name="text" en="All sources of Stylesheets must be the same." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="EvaluateActivity_FailGetActivityTasks" config_id="812083BEFDD0483699045BD10FCE857B">
+  <property __name="text" en="Failed to get the Activity Tasks." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ExecuteMethodByCacheXML_methodTypeNotSupported" config_id="81258BACD4C847C5A263A2B967E0E23B">
+  <property __name="text" en="The method type ({0}) specified for {1} is not currently supported." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_InvalidSelectionDepth" config_id="81825B2AF00341EEA40BFC205A0BB1EB">
+  <property __name="text" en="{0} selection depth should have value equal or greater than '-1'. Please specify valid value." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="EvaluateActivity_AssignmentDisabled" config_id="81CEED3CFAFA4B62B2D89A7495F378BF">
+  <property __name="text" en="This Assignment is disabled." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateAffectedItem_Is_NewItemId_InPreliminaryState" config_id="82BA64F13159424F91133A287497B209">
+  <property __name="text" en="All New Number items must be in Preliminary State when Action is set to Release. {0} {1} is in {2} state." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ExecuteActivityMethods_ActivityNotActive" config_id="8399973ACCEA4806B78B8708B35D86A0">
+  <property __name="text" en="The activity must be in an active state." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_GetNotificationMessages" config_id="85E6D0F40FC846DFA56923023FF4B6BA">
+  <property __name="text" en="{0} new messages in your discussions" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="CloneForm_NewFormNameNotSpecified" config_id="85F71B00886A476AA1C84E559CD07D6E">
+  <property __name="text" en="The new form name is not specified." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="VerifyAffectedRelationship_RelationshipStillExistInItem" config_id="863087C833D4453DA3FE964661AFAEE8">
+  <property __name="text" en="Verification failed: {0} '{1}' still has reference to relationship {2} with ID '{3}'." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_UnsupportedItemTypeOrAliasInQueryDefinition" config_id="86321887E25444C0AB738E0A0DEDB653">
+  <property __name="text" en="Query Item {0} that equals {1} isn't supported." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_Is_AffectedId_and_NewItemId_NotLocked" config_id="866E591EE4B8408987DD2E5BB2F9A482">
+  <property __name="text" en="No affected items may be locked. {0} {1} is locked." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="VerifyAffectedRelationship_NewItemNotContainRelationship" config_id="8735B35CCF294F968DBE44B281E43914">
+  <property __name="text" en="Verification failed: Relationship {0} with ID '{1}' was not added to new {2} '{3}'." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ReferenceValidationRootAction" config_id="87394DA9542B451EB847B0D2D52B843A">
+  <property __name="text" en="Validation of 'Reference' is failed: 'action' of the root level &amp;lt;Item&amp;gt; should not be empty." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="BeforeRelationshipTypeUpdate_OldRelDataSourceUsed" config_id="87A095E0CB3947928E77580A12B8330E">
+  <property __name="text" en="Some {0} items still use the old related id data source." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="AddItem_Implementation_CantAddFile" config_id="87BDE5FB45C04551BB3CC3F8765BAE29">
+  <property __name="text" en="File Item cannot be added." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_NoUserIdentities" config_id="8819AAB7A56C43D9A14DBF9ECF97F260">
+  <property __name="text" en="user doesn't have identities." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xClassificationTree_CopyInputPropsNotSupported" config_id="88A5BF435D7249C6AEEAFF08B788DE7C">
+  <property __name="text" en="The &quot;useInputProperties&quot; attribute is not supported in copying of xClassificationTree." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="EvaluateActivity_PathNotSpecified" config_id="898102EC881141D39EBFAF2BDEFFBFC0">
+  <property __name="text" en="The path is not specified." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="BeforeRelationshipTypeAdd_RelTypeCorrupted" config_id="898FB6BD38524530BEA717680186A32A">
+  <property __name="text" en="Internal Error: the relationship type is corrupted." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateAffectedItem_Is_NewItemId_RequiresNull" config_id="8A0C812FE9A645058EB47195AB27B4F0">
+  <property __name="text" en="The New Number field must be blank when Action is set to {0}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="CopyItemEx_CopyFailedPropertynotUnique" config_id="8A4A499A26674827B8F480FDF147A8CA">
+  <property __name="text" en="Failed to copy the item: the property {0} has to be unique." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_NotPolymorphicItemType" config_id="8A6167BC54BF4BF19F6A23DC626B5000">
+  <property __name="text" en="Reference doesn't indicates to any Polymorphic Item Type. 'Polysource Type Name' property should be empty." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="GetRevision_InternalErrorMajorRevInvalid" config_id="8B0E9572F974444D8D4A62001B8FAD39">
+  <property __name="text" en="Internal Error: the major revision &quot;{0}&quot; specified for {1} is invalid." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="AddRelationshipEx_RelTypeDamaged" config_id="8B16199521E84F51BA5409F72107B85E">
+  <property __name="text" en="The RelationshipType is damaged." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_Is_NewItemId_Required_add_action" config_id="8B3BC56A0DA34E1BAD081050FD54E4D6">
+  <property __name="text" en="The New Number field is required when Action is set to 'Add'." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_GetMessagesForFMGIdNotSet" config_id="8B91D0DBC8D84A46AB6841FF66E2311E">
+  <property __name="text" en="Failed to get messages for Forum Message Group: id property was not set." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_SecureMessageMarkupNotFound" config_id="8E773E911DBD44EB9D83EBAD438957E5">
+  <property __name="text" en="The SecureMessageMarkup with Id '{0}' can't be found." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_DefaultDTOfForumContBeRemoved" config_id="8F7B496261B24F3F90EF1EFE0632232B">
+  <property __name="text" en="Default DiscussionTemplate of Forum item type cannot be removed." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ForumDTDefaultFeedTemplateCantBeChanged" config_id="906228E1ED6A44EC84DD7943B8016530">
+  <property __name="text" en="Default FeedTemplate of DiscussionTemplate of Forum item type cannot be changed." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.ActivityIsClonedAlreadyException" config_id="909DF38EE1BC4AF1822E12F90FFCC481">
+  <property __name="text" en="The activity is cloned already." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ApplyUpdate_UpdateNumberEmpty" config_id="90A50A1850CD46A3B1547BCA501BFC2A">
+  <property __name="text" en="The update number cannot be empty." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_Is_NewItemId_HasNoPreviouslyReleasedGeneration" config_id="917B749693A34B74B3C2F75884CAB7BC">
+  <property __name="text" en="The New Number field must contain an item that has never been released when Action is set to 'Add'. {0} {1} was previously released." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.ClassificationCannotBeChangedException" config_id="91E6CD46CFCC4A56A18F87864B7FB658">
+  <property __name="text" en="Classification property value cannot be changed." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PE_SourceItemTypeIsMissing" config_id="920BE5FFCC42434DA5E2A5A5666F027C">
+  <property __name="text" en="Relationship source item type attribute is missing." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_MassageCanBeDisabledByAdminOrCreator" config_id="9227C13A60534F7A8528356D9A457E02">
+  <property __name="text" en="Message can be erased only by administrator or creator." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_Is_NewItemId_RequiresNull_OnDelete_with_param" config_id="929BC9DDFD2A467DBE7E23DD76DA2898">
+  <property __name="text" en="The New Number field must be blank when Action is set to 'Delete'. There should be no 'New Number' value for {0} {1}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PurgeItemEx2_FailedDeleteIsUsed3Params" config_id="93D8D61AFF844ABCA649839E0F0647AE">
+  <property __name="text" en="{0} cannot be deleted. It is used in {1} {2}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xTreeValidation_BadReferenceToRefId" config_id="93F1A4456D634BC6A78F07950D663952">
+  <property __name="text" en="Tree has is null or empty 'toRefId' in hierarchy string" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedToCreateFMGOneParam" config_id="951796B0685C46E18AC42F03BA7EDCEC">
+  <property __name="text" en="Failed to create ForumMessageGroup for user: {0}" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="GenerateRelationshipsTabbar_InternalError" config_id="95A34D1B5C8646DC8BF0A9258268E41D">
+  <property __name="text" en="An internal error has occured." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Main_RunReportFailedInvalidName" config_id="960A191829FD422CBAB583B621D9757B">
+  <property __name="text" en="Failed to run the report: the name is invalid." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_PolysourceTypeNameEmpty" config_id="964C2C52BCFF43BD9A3D267FC44AC5C4">
+  <property __name="text" en="'Polysource Type Name' can't be empty if reference indicates the polymorphic Item Type." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_UserDidntVote" config_id="96FC9F71304541DCB7D9A0788D7C852C">
+  <property __name="text" en="This user didn't vote" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_MyBookmarksCantChangeState" config_id="9780B00C050844C7873DD616358B770C">
+  <property __name="text" en="Forum with type 'MyBookmarks' cannot change state." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xPxC_InvalidAttributeValue" config_id="97A1394557BA405983BBB382BBE38ABC">
+  <property __name="text" en="The &quot;{0}&quot; attribute has an invalid value: &quot;{1}&quot;" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ApplyItemRelationships_ActionNotSupported" config_id="983862B715994B8F9C3EB63FED1A4EBA">
+  <property __name="text" en="The action you are trying to apply ({0}) is currently not supported." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="fr_RepresentationFileTypeIsNotDefined" config_id="9839F867C1B34C6AB774369C41D5D9A4">
+  <property __name="text" en="File type of representation file is not defined" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ItemShouldHaveId" config_id="98F9C9EB23BC485D8555B6B11CFD1D26">
+  <property __name="text" en="Item should have 'id' property set." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FileSelectedMoreThanOnce" config_id="98FD960BA3DA4953A706D2CE42AF9773">
+  <property __name="text" en="File &quot;{0}&quot; is selected more than once: from &quot;{1}&quot; by &quot;{2}&quot;, from &quot;{3}&quot; by &quot;{4}&quot;. Please contact to admin to resolve conflict." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xPropertyContainerItem_SelectCheckFail" config_id="990449DBA62647189BDB54E99B2024A0">
+  <property __name="text" en="Select attribute must be strictly specified in the input item for xPropertyContainerItem item type" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="AddItem_Implementation_DamagedDataSource" config_id="99CFAAA823434EBF9B264BD9B1A9E732">
+  <property __name="text" en="'Inbasket Task' Item Type can not be used as data source of any property of type Item." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="CloneForm_InternalError" config_id="9A15CAF856F64C7B84719699FAC38321">
+  <property __name="text" en="An internal error has occured." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ApplyAML_MalformedXML" config_id="9AC57457DB704595847891788F23E2DF">
+  <property __name="text" en="The XML for this operation is malformed." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_GetForumMessages" config_id="9AC9688748C4453DBADBAD8DC4292939">
+  <property __name="text" en="Failed to get Forum Messages: {0}" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ReferencePropertyToThisForSpecificProperty" config_id="9B31A85DCA3E4DDD8392F8443971967E">
+  <property __name="text" en="{0} with {1} equal to '{2}' can't have reference property equal to 'this'. Please specify valid reference." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.TagItemIsNotFoundInResponseException" config_id="9B7C56D08BEA41D18462F7AD8F53CD76">
+  <property __name="text" en="There is no tag &lt;Item&gt; in response." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_NotEnoughPermissionsToDisableSM" config_id="9BA6CBD55C78441D9F20060C3BE8DF06">
+  <property __name="text" en="Not enough permissions to perform operation: Disable Secure Message: {0}" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedSubscribeToForumUserIdNotSet" config_id="9BFB04505F9F4FC79B853615D12B4B20">
+  <property __name="text" en="Failed to subscribe to forum: 'user_id' property was not set." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ApplySoapAction_ActionNotSupported" config_id="9DDE675F6F044D1FA29C369F76228A46">
+  <property __name="text" en="The action {0} is not supported." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="EvaluateActivity_WorkflowProcessNotActive" config_id="9E9DC55172BA4B07A8C8540045C482B7">
+  <property __name="text" en="The Workflow Process has to be in an Active State." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_CouldntCheckPermissionsForItems" config_id="9EB6AF8C004247758D87420244A3C461">
+  <property __name="text" en="Couldn't check permissions for requested items: {0}" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xPxC_InvalidSelectQuery" config_id="9F7C6A28AB574AF3BA3FC9493CFDE35D">
+  <property __name="text" en="Invalid select query" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateAffectedRelationship_Is_AffectedRelationship_RequiresAttachAction" config_id="A02EF4D4F9A943CD8B51156CFBE7B648">
+  <property __name="text" en="Only &quot;Attach&quot; Affected Relationships are permitted for &quot;Release&quot; Affected Items." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedToCreateDefaultForums" config_id="A05502A0C5E84983A43F5AB2728D3EA6">
+  <property __name="text" en="Failed to create default forums for user: {0}" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_IsAffectedItemWithActionOtherThanNoneExists" config_id="A05B8C3759794F66C7F78ABBD0A6E259">
+  <property __name="text" en="At least one affected item with an Action other than &quot;None&quot; must be attached. {0} {1} has no Affected Items with an Action other than &quot;None&quot;." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_MoreThanOneIsAliasIdentity" config_id="A0AD4E7A1255425BAF9632FFCAFD9B72">
+  <property __name="text" en="user has more than one isAlias identity." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_RelationshipCannotBeAddedToMyBookmarks" config_id="A0B841244CAC4593B8EA97B000C87793">
+  <property __name="text" en="Relationship {0} cannot be added to Forum of type 'MyBookmarks'" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xTreeValidation_NonUniqueClassName" config_id="A0C4E09862F1442EAFBAD67FE4BEB3B7">
+  <property __name="text" en="XClasses of xTree have non unique names" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_GetAllUserIdentitiesMoreThanOneIsAliasIdentity" config_id="A1BC8F6CFB084CDD80C0E2BCE49A4BC2">
+  <property __name="text" en="Failed to get all user identities: user has more than one isAlias identity." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Licensing.FeatureLicenseIsNotUniqueException" config_id="A48C484734BD4F07BD15A6D93A625459">
+  <property __name="text" en="The feature license you are attempting to activate is already in your database." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="InstantiateWorkflow_implementation_WFNotAllowed" config_id="A4AF52D5A4E34F399544DA0BEB603DAC">
+  <property __name="text" en="The workflow you are attempting to use is not one of the Allowed Workflows for this item." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.PropertyValue4ClassificationIsInvalidException" config_id="A4FA86DA943E4E8E8BBF8F3339D31EA2">
+  <property __name="text" en="Property value ({0}) for classification is invalid." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="UpdateItemEx_PropertyPatternMismatch" config_id="A5005E3C92D449B7B33DB1F5FF2C2AA6">
+  <property __name="text" en="The specified value ({0}) does not match the required {1} property pattern: {2}" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_NotAllowedType" config_id="A61AE9D8EE92437F958A44F297F23A01">
+  <property __name="text" en="Type '{0}' not allowed for that method." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_UnsupportedTypeProperty" config_id="A68FB2DF0EBD4B28AE6BE61F4EB9FD39">
+  <property __name="text" en="The property &quot;{0}&quot; of &quot;{1}&quot; has unsupported type &quot;{2}&quot;." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateAffectedItem_Is_AffectedId_InSupersededOrReleasedState" config_id="A6EA8E2BC95242ACBA45ABC83A1A0521">
+  <property __name="text" en="All Old Number items must be in Released or Superseded State when Action is set to {0}. {1} {2} is in {3} state." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xTreeValidation_DuplicatedToRefId" config_id="A707DA5812544F78B09B877ABB9B14D3">
+  <property __name="text" en="Tree has duplicate 'ToRefId' in hierarchy string" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_Is_NewItemId_Required_with_param" config_id="A772E78FE48042419588C7C2CAEB98AC">
+  <property __name="text" en="The New Number field is required when Action is set to 'Change' and the Interchangeable flag is off. There is no 'New Number' value for {0} {1}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PE_ManualRelease_MustBeInReleasedState" config_id="A7C16CC833D4453BA3FE964661AFAEE8">
+  <property __name="text" en="{0} must be in Released state to perform this action." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateAffectedItem_Is_AffectedId_RequiresNull" config_id="A8A161CAD477418EB6BE8260D1843B9A">
+  <property __name="text" en="The Old Number field must be blank when Action is set to 'Release'." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="TransactionCheckItemsRelationships_TooFewRels" config_id="AADB7018C101427C932618C2D5A0BC06">
+  <property __name="text" en="Insufficient relationship count ({0}) of {1} relationships. At least {2} required." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xTreeValidation_NotRoot" config_id="AAE9B5CB99FB4B948582939E9CC4C648">
+  <property __name="text" en="Tree has not root class in hierarchy string" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PopulateRelationshipsGrid_WrongParameters" config_id="AB99B1DD09B74D6CA8E95516E3B45750">
+  <property __name="text" en="Wrong parameters have been specified." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FileSelectorParserParamNameContainsWrongSymbols" config_id="ABECCD16519E4E0B97DC741BBDA27E78">
+  <property __name="text" en="Param name in &quot;{0}&quot; contains deprecated symbols! Pattern = &quot;{1}&quot;." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xClassification_OnlyLeafConstraintFail" config_id="AD62B11FF27D42C5A579EAE88A43D788">
+  <property __name="text" en="Only leaf can be selected on the &quot;{0}&quot; tree" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FMGInvalidUserMessageGroupType" config_id="AD839EF2D43C48CD8E7057494DE1AB03">
+  <property __name="text" en="Failed to create ForumMessageGroup for user: '{0}' is invalid user message group type." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ItemConfigIdEmpty" config_id="ADE066CCBF0546A290F3E8D74D10248A">
+  <property __name="text" en="Item Config Id should not be empty." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="rb_MissingBuilderMethod" config_id="AE382E86393F4A9F9D57CB32F7F4D61A">
+  <property __name="text" en="No Builder Method found in Column Definition or Column Mapping." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateAffectedItem_Is_NewItemId_InReleasedState" config_id="AE815D487A224C49984F3262CE5D343F">
+  <property __name="text" en="All New Number items must be in Released State when Action is set to {0}. {1} {2} is in {3} state." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mpo_MassPromotionRecordWasProcessed" config_id="B03340CB5C36404DA81BFFDF4D48EE2E">
+  <property __name="text" en="Item was processed by another request" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="LockItem_InsufficientPermissions" config_id="B07823C2E6D746BE8395DD3B52704E6D">
+  <property __name="text" en="You have insufficient permissions to lock the item." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_GetMessagesForFMGAmlIsEmpty" config_id="B08A232F000D4691BE143744D210FD2E">
+  <property __name="text" en="Failed to get messages for Forum Message Group: aml property of ForumMessageGroup is empty." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="AddItem_Implementation_cantCreateDependent" config_id="B092AA9965EF4E0897303FC03B633DF8">
+  <property __name="text" en="Dependent {0} cannot be create: source item not found." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="XClassification_AddRelationsipToXClassNotInXItemContext" config_id="B10884352091434892AE670FEE981350">
+  <property __name="text" en="&quot;{0}&quot; can be added only in item context" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SetUserWorkingDirectory_DirectoryNotSpecified" config_id="B425AF241C0A42DC9B171D31AE1F80CB">
+  <property __name="text" en="The working directory was not specified." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FileSelectorParserParamValueContainsWrongSymbols" config_id="B45D2F3D13FB4E5795EF60AB1CBCD5EB">
+  <property __name="text" en="Param value in &quot;{0}&quot; contains deprecated symbols! Pattern = &quot;{1}&quot;." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="fr_RepresentationFileIsAlreadyMasterFile" config_id="B5009DEA75E14447904584784CAA61E1">
+  <property __name="text" en="Representation file cannot have its own representations" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FilterInvalidFormatFilterCannotHaveWhere" config_id="B5803E2F65A44C27BE70A3ED3BA8E929">
+  <property __name="text" en="'filter' item property has invalid format: filter item cannot have 'where' attribute" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="CheckEntryExitPath_InternalError" config_id="B66E816CB8B44523877C9EB20DF4A705">
+  <property __name="text" en="Internal Error: No entry-exit path for non-start(end) activity template found." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="GetUserWorkingDirectory_InternalError" config_id="B77601A951A34402B615ADBB80FA7220">
+  <property __name="text" en="An internal error has occured." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Licensing.FeatureNotFoundException" config_id="B8B69833691445A0ACC3973E6B0A22C8">
+  <property __name="text" en="The feature you are attempting to consume does not exist in your feature tree." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_ForbidRemovingEnvironmentAttribute" config_id="BA250BE5BA11407F951683C12ACA1C44">
+  <property __name="text" en="Environment Attributes used by active MAC Policies may not be modified. {0} is used by {1}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.CryptographicException" config_id="BA3285588F1544A983957AF33C72504D">
+  <property __name="text" en="Data verification failed" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.VersionInfoContentException" config_id="BA3286688F1522A983957AF33C72504D">
+  <property __name="text" en="Failed to load UpdateInfoConent" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_IsAffectedItemWithActionOtherThanEmptyExists" config_id="BA5B8C3759794F66C7F78ABBD0A6E259">
+  <property __name="text" en="At least one affected item with an Action other than empty must be attached. {0} {1} has no Affected Items with an Action other than empty." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.InvalidEffectiveDateValueException.LessThanReleaseDate" config_id="BD25D9CAB2D74BBF926405739E446CAB">
+  <property __name="text" en="The value of the effective_date property specified for the {0} is invalid. A value is required and it must be greater than or equal to the release date." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_UserAlreadyVoted" config_id="BD5F411F075B47BAB638BAA495DA79DC">
+  <property __name="text" en="This user already voted" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="cancelWorkflow_InternalError" config_id="BE2788426FD34FE1B3E6309CF7CB5376">
+  <property __name="text" en="An internal error has occured." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_DeleteFMG" config_id="BE666610133649929FE6E83A99B2A1AE">
+  <property __name="text" en="Failed to delete Forum Message Group: {0}" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="GetItemRelationships_TypeNotSpecified" config_id="BE8CFFDE44554F7B93D68BAADDFF5F6F">
+  <property __name="text" en="The Type attribute for the relationship was not specified." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateAffectedItem_Is_NewItemId_HasNoPreviouslyReleasedGeneration" config_id="BEED205C45DF44E3ABD9E9E4CDD507A7">
+  <property __name="text" en="The New Number field must contain an item that has never been released when Action is set to 'Release'. {0} {1} was previously released." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_GetMessagesIdNotSet" config_id="BEF58D31AD2848A7A8CE688EC60DB2D6">
+  <property __name="text" en="Failed to get all messages for user: id property was not set." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_Is_NewItemId_RequiresNull_OnDelete" config_id="BF26354ED043431482F954461072CCD1">
+  <property __name="text" en="The New Number field must be blank when Action is set to 'Delete'." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ApplyUpdate_UpdateGenerationEmpty" config_id="BF26CF7BE6CE401FA79C03BF893265B2">
+  <property __name="text" en="The update generation cannot be empty." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateWorkflowMap_InternalErrorCorruptedStruct" config_id="C014D39194A04F58B2CC1F175F275F42">
+  <property __name="text" en="Internal Error: the workflow structure is corrupted." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="fr_MasterFileTypeIsNotDefined" config_id="C03AA2ECC0EE49108D070240BB8B23D5">
+  <property __name="text" en="File type of master file is not defined" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.NoDefaultVaultFound" config_id="C062E612AF944BC9B8129DBABE8DF16A">
+  <property __name="text" en="The user does not have a default vault set." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ReferenceValidation" config_id="C0823C9F97CF44A9BE20BA39DF81A22C">
+  <property __name="text" en="Validation of 'Reference' is failed: {0}" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedToConsumeLicense" config_id="C16DF565C916456B994E94083C3B2C94">
+  <property __name="text" en="Failed to Consume License for the feature" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_NotAllowedRelationship" config_id="C19BBC48A1AA4D2A816770B506D65833">
+  <property __name="text" en="Relationship '{0}' is not allowed for Secure Message." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Main_PassConfPassNoMatch" config_id="C1C316EAF9C2429AB285E38E8B455E7A">
+  <property __name="text" en="The 'password' and 'confirm password' fields do not match." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedToCreaateMyBookmarks" config_id="C2583E8E744B49E79E3E8D3F69503221">
+  <property __name="text" en="Failed to create MyBookmarks forum for user {0}: {1}" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xTreeValidation_EqualFromAndToRefIds" config_id="C25B74D79FD24730BBBE7BBFC008D7E8">
+  <property __name="text" en="Tree has edges with equal fromRefId and toRefId in hierarchy string" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="VerifyAffectedRelationship_NotAllItemPropertiesWereApplied" config_id="C3A6A71F03EF4FF6A9E1E153EE0D3371">
+  <property __name="text" en="Verification failed: Property '{0}' was not set to value '{1}' for {2} '{3}'." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_MarkupHolderIdEmpty" config_id="C40F8566D2A6453F85C6D9E832B7E4D9">
+  <property __name="text" en="Markup Holder Id cannot be empty." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_GetForumSearchItems" config_id="C4DCC8399B2044D390A5C574519160A1">
+  <property __name="text" en="Failed to get ForumSearch items: " zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xTreeValidation_BadReferenceFromRefId" config_id="C54C4F013F8B4A36BCB81C40E08B6693">
+  <property __name="text" en="Tree has is null or empty 'fromRefId' or has more one root in hierarchy string" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.ItemAnalysisException.AdministratorUser" config_id="C5602F48B4A74F529064D6E0DEB5C010">
+  <property __name="text" en="Item Analysis Error. Some Items have incorrect attribute/property values syntax. See details for more information." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="GetAssignedActivities_InternalError" config_id="C56614F0CFCC4FB0891368DB3AA76BAA">
+  <property __name="text" en="An internal error has occured." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="GetItem_NoItemsFound" config_id="C5A510229676479AAA4FFD629CA1E663">
+  <property __name="text" en="No items of type {0} found." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_Is_AffectedId_Requiered" config_id="C5DDC55C53E74BE7B2073B2EA6B6B75B">
+  <property __name="text" en="The Old Number field is required when Action is set to 'Change' or 'Delete'." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PE_CreateNewRevision_MustBeSaved" config_id="C6306AC8B3D4453BA3FE964661AFAEE8">
+  <property __name="text" en="{0} must be saved." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PE_InputItemInitializationFailed" config_id="C653617D83FA47919A482C671D80C519">
+  <property __name="text" en="Argument Exception was thrown for input item with ID:'{0}'." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedToGetMessage" config_id="C66B00579CE74AAA9097C3BA23A6821C">
+  <property __name="text" en="Failed to get message item: {0}" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedDefineUserNoIdentites" config_id="C6E751820B52495380337627931D0BE2">
+  <property __name="text" en="Faild to define if user is Admin: user doesn't have identities." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="BuildProcessReport_InternalError" config_id="C8D0C77A2ACD4C568029C31AC43AD070">
+  <property __name="text" en="An internal error has occured." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_SSVCPresentationConfigurationNotFound" config_id="C90CF434CC0A4CD4BDC17B8069B98061">
+  <property __name="text" en="The SSVCPresentationConfiguration cannot be found." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="tp_XmlDifferentSources" config_id="C9A05D3C8AB640809612715D78001807">
+  <property __name="text" en="Sources of XmlSchema and Stylesheet must be the same." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedToGetSourceForum" config_id="CAB2D8C9A5364EC2846C619C7660BA5F">
+  <property __name="text" en="Failed to get source forum: {0}" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ForumDTDefaultFeedTemplateCantBeRemoved" config_id="CB6EFEE2E702492DA4B0BAC5F81B5F1E">
+  <property __name="text" en="Default FeedTemplate of DiscussionTemplate of Forum item type cannot be removed." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xPxC_RecordForItemNotFound" config_id="CBCC48A587B14FDBB11E74FCEE991FCA">
+  <property __name="text" en="Record for item doesn't exist in xPropertyValues tables (item_type_id: {0}, item_id: {1})" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_NewVersionNotCurrentItem" config_id="CBD50B61701142C4AD9219EA61BA96EB">
+  <property __name="text" en="Only current version of MacPolicy item support creation new version." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_NotContainProperty" config_id="CC7658D62BAE4EBD933175E97CEE5DD2">
+  <property __name="text" en="&quot;The &quot;{0}&quot; doesn't contain property &quot;{1}&quot; or Item Type doesn't exist.&quot;" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="GetItemById_ItemTypeNameNotSpecified" config_id="CC7A51C2B14B4CBEAC7BAAE87CC4B403">
+  <property __name="text" en="The ItemType name was not specified." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="EvaluateActivity_SourceItemForWorkflowProcessNotFound" config_id="CC9087A64F404E029F3187A67FCB95EB">
+  <property __name="text" en="Can't complete activity. Source item for Workflow Process not found." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FMGUserIdNotSet" config_id="CC97E684A49747C782DEBBC07E991730">
+  <property __name="text" en="Failed to create ForumMessageGroup for user: 'user_id' property was not set." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="GetItemById_IDNotSpecified" config_id="CD73D933F0FA489ABB5E96C6BC909658">
+  <property __name="text" en="The ID attribute was not specified." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ExecuteServerEvent_ItemNotFound" config_id="CEF62CBD8E964DD0A57A9EC461A53EE0">
+  <property __name="text" en="Internal Error: Failed to get the item." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateAffectedItem_Is_AffectedId_RequiresNull_with_param" config_id="CEFDD863000F45F19399467935E1D028">
+  <property __name="text" en="The Old Number field must be blank when Action is set to 'Release'. There should be no 'Old Number' value for {0} {1}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FMGSourceIdNotSet" config_id="CF74B030775248E3B491FC73E0E49A62">
+  <property __name="text" en="Failed to create ForumMessageGroup for user: 'source_id' property was not set." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedSubscribeToForumUserAlreadySubscribed" config_id="CFEE2D32C05B437BAD5B04EF77574EFA">
+  <property __name="text" en="Failed to subscribe to forum: user '{0}' is already subscribed to '{1}' " zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateAffectedItem_Is_AffectedId_InReleasedState" config_id="D04B9C3759594F66B7F78ABBD0E6E259">
+  <property __name="text" en="All Old Number items must be in Released State when Action is set to {0}. {1} {2} is in {3} state." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_SMOnlyOneRelationship" config_id="D14669D1E4B64C33A7F0796A0E285DD5">
+  <property __name="text" en="Secure message should contain only one Relationship: Secure Message Markup, Secure Message Audio or Secure Message Video." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Conversion_ConversionTaskIDPropertyIsNullOrEmpty" config_id="D171E043995749EEA61AEAB1373F98F2">
+  <property __name="text" en="Input ConversionTask item doesn't contain id or it is empty." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedGetIsAliasMoreThanOneIsAlias" config_id="D17EBF40329C413E95D0CB4C14F92999">
+  <property __name="text" en="Failed to get user isAlias identity: user has more than one isAlias identity." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ItemIdCantBeEmpty" config_id="D2C260814E1C4AEEA93A0AFF1A49943E">
+  <property __name="text" en="Property Item ID can't be null" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="InstantiateWorkflow_implementation_FailedGetWFMap" config_id="D3447F3395C149F2BCCA6DE49CF204F0">
+  <property __name="text" en="Internal Error: failed to get the Workflow Map." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_DefaultDTOfForumCantBeChanged" config_id="D3A4239303B74492B07F8EF1A470F4FA">
+  <property __name="text" en="Default DiscussionTemplate of Forum item type cannot be changed." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PE_ResolutionAttributeIsInvalid" config_id="D3A617E3E87B42D98F7E37DB2F5C574D">
+  <property __name="text" en="Resolution attribute value is not supported." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ApplyMethod_actionNotFound" config_id="D3DFF721606D4946974AABC564AD1F37">
+  <property __name="text" en="Internal Error: failed to get the action." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_Is_NewItemId_Required" config_id="D4206500FE4E4D6B8514DB0D7DD65FFC">
+  <property __name="text" en="The New Number field is required when Action is set to 'Change' and the Interchangeable flag is off." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="tp_SpecifyClassificationAccess" config_id="D43223EF3975453AA8A094F798D605E9">
+  <property __name="text" en="Classification cannot be changed after saving the item." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_NotSupportedItemType" config_id="D5C872B04D5649B4B8C1E9ED050AA721">
+  <property __name="text" en="MAC Policy is not support '{0}' Item Type." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.InvalidEffectiveDateValueException.LessThanToday" config_id="D5DA7D1074AF49809AD3616BBA78BE3B">
+  <property __name="text" en="The value of the effective_date property specified for the {0} is invalid. A value is required and it must be greater than or equal to the today date." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_EnvironmentAttributeNotExist" config_id="D8140CA1CC9947E3854F0DCB73B3EA08">
+  <property __name="text" en="Environment Attribute with name &quot;{0}&quot; does not exist" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="fr_RepresentationTypeIdIsNotSpecified" config_id="D8444AF2021A4A208ABB4A5314EA1E49">
+  <property __name="text" en="Representation type id is not specified" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ForumCantHaveNonDefaultDT" config_id="D89A1FBA0D8D4D3DA2642C9AD640719F">
+  <property __name="text" en="Forum Item type cannot have non-default DiscussionTemplate." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="WMCreateWatermarkTasks_LifeCycleStateNotEnable" config_id="DA21549DF7314F27838649772456398D">
+  <property __name="text" en="The life cycle state '{0}' is not enabled for watermarking for '{1}' item type." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="EvaluateActivity_UserIsNotFromAllowedIdentity" config_id="DA4CEBFAE77A4F77AA6C36A2F732DBEE">
+  <property __name="text" en="Can't complete activity. User is not from allowed identity." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PE_RelationshipItemIsMissing" config_id="DB39F328732D49C185FB371EA6B0432F">
+  <property __name="text" en="Relationship ItemType to traverse is missing." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_NoPermessionsToGetSMOrNoItems" config_id="DD6353744F43430785D1F2208DE8B1EE">
+  <property __name="text" en="Not enough permissions to get Secure Message or no items found." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_UnsupportedVariable" config_id="DDC922DF92CF4B19BD84D4F47BD3979C">
+  <property __name="text" en="{0} isn't supported. Do not use &quot;{1}&quot; variable." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="rb_MissingQueryDefinition" config_id="DF24558FA35F4C82988FE06ADFE3AF09">
+  <property __name="text" en="Query Definition is missing." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedUnsubscribeFromForumUserIdNotSet" config_id="DFE1438C7A874EB6A935C135FA67EA16">
+  <property __name="text" en="Failed to unsubscribe from forum: 'user_id' property was not set." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.InvalidSuperUserIDException" config_id="E0002375AC4440ECB55491701263571E">
+  <property __name="text" en="User ID of Super User identity doesn't match 'AD30A6D8D3B642F5A2AFED1A4B02BEFA' ID" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_IsAffectedItemExists" config_id="E08CAFEEE2DB4FF4AA1FAE610BAD80B3">
+  <property __name="text" en="At least one affected item must be attached. {0} {1} has no Affected Items." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVCNotifications_DisabledByAdmin" config_id="E0FA8E67157D4F6393B5995261FC2CAD">
+  <property __name="text" en="SSVC Notifications were disabled by administrator." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ItemSelectionDepthShouldBeGreater" config_id="E111FB3EA2A94D22B71B5D1EE9198B48">
+  <property __name="text" en="Item selection depth should be greater than File selection depth." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="fr_RepresentationFileTypeIsNotSupported" config_id="E1C8ACC70F7D4DCF91386C2A63DF38A2">
+  <property __name="text" en="Representation file type is not supported" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ForumDTCantHaveNonDefaultFeedTemplate" config_id="E38E4C8F60A7487D8D6DE515C126BE35">
+  <property __name="text" en="DiscussionTemplate of Forum item type cannot have non-default FeedTemplate." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="newRelationship_InternalError" config_id="E38FBA2AB3B442E1AF1E84FDD1625EB5">
+  <property __name="text" en="An internal error has occured." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.ItemTypeNotFoundException.NameAsCriteria" config_id="E55B2C6FF07C4482B76BEB2DD1ED56E3">
+  <property __name="text" en="Failed to get the {0} ItemType." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.UnsupportedFilterCondition" config_id="E55CF48C62E642889CFC3E8366F50A7A">
+  <property __name="text" en="Unsupported filter condition: the property type '{0}' of parent item is not comparable with the property type '{1}' of referenced item." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="EvaluateActivity_PathNotBelongToActivity" config_id="E5A71A7AA7DE4F7199D2762ABF8592BB">
+  <property __name="text" en="Can't complete activity. Specified Paths do not belong to the Activity." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_InvalidFlagValue" config_id="E5F60BFDC82E416F9300F4D0A00A8872">
+  <property __name="text" en="Item 'flag' attribute can have only '1' or '+1' or '-1' values." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PopulateRelationshipsTables_WrongParameters" config_id="E6061D896C1C4659877F7A6ECC790B85">
+  <property __name="text" en="Wrong parameters have been specified." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Licensing.FeatureLicenseVerificationException" config_id="E618B0B148344A9D8390D530B070091B">
+  <property __name="text" en="Feature License verification failed." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="EvaluateActivity_FailGetActivityVariables" config_id="E76E84C24EDD4562957FC0E6D6B12381">
+  <property __name="text" en="Failed to get the Activity Variables." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ApplyUpdate_UpdateAlreadyApplied" config_id="E7F3705B4041474BBD8B85E6D62E0AD3">
+  <property __name="text" en="The update with update number {0} has already been applied to this database." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_ErrorDuringEvaluationEnvironmentAttribute" config_id="E8A96ACFB5C6461CBF76939046EF93BD">
+  <property __name="text" en="Error occurred during evaluating Environment Attribute." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="PromoteItem_TargetStateNameNotFound" config_id="E8C57B8C470E4D279E705927879C80BD">
+  <property __name="text" en="Failed to get the name of the target state." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_InvalidTypeAttributeValue" config_id="E8D387A78EA14991B7B8DA2F68AD9396">
+  <property __name="text" en="Item 'type' attribute can have only 'SecureMessage' or 'StoredSecureMessage' values." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateChangeItem_Is_AffectedId_RequiresNull" config_id="E9074BD6DA4D464C8A346C54CFA3AD93">
+  <property __name="text" en="The Old Number field must be blank when Action is set to 'Add'." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Licensing.FeatureHasNoLicensesException" config_id="E9536208441C4BE69E49F4819F3311FA">
+  <property __name="text" en="You do not have a valid license required to use feature {0}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="EvaluateActivity_FailGetActivity" config_id="E9A9EC9F27904C19B330EDC4E8C476C5">
+  <property __name="text" en="Failed to get the Activity." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_DeleteFMGUserCriteriaIdNotSet" config_id="EA1836F34FE94866ABC257A6736E443D">
+  <property __name="text" en="Failed to delete Forum Message Group: 'user_criteria_id' property was not set." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mpo_InvalidType" config_id="EBE694423603402A93A53AF95292DC59">
+  <property __name="text" en="Method '{0}' accept only '{1}' item type" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="AddRelationshipEx_InternalErrorSortOrderLimitOver" config_id="EC1FB98ED3464F9ABAE70EFECCA8066D">
+  <property __name="text" en="Internal Error: sort order limit exceeded." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="TransactionCheckItemsRelationships_InternalError" config_id="EC8EDC8C88934E8390421EEC8EBD404D">
+  <property __name="text" en="An internal error has occured." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_MarkupHolderTypeEmpty" config_id="ECFE53B70C1B4529999AEE60C2589B1E">
+  <property __name="text" en="Markup Holder Type cannot be empty." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ReferenceValidationNotAllowedAction" config_id="EDB8EF9B779B4202A9FC8F5E714B9734">
+  <property __name="text" en="Validation of 'Reference' is failed: {0} is not allowed action." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Main_RunReportFailed" config_id="EDF9A5ADB1874B6E9F2E63A06A221DDE">
+  <property __name="text" en="Failed to run the report." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedGetFeedTemplate" config_id="EF51CB0B643B4EC88EC89E49DBE62D7C">
+  <property __name="text" en="Failed to get FeedTemplate by id {0}: {1}" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedToGetIdentity" config_id="F0AD5631E6E345ABBA6B5D4E8019A6A0">
+  <property __name="text" en="Failed to get Identity with id {0}" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.PermissionsNoCanAddFoundException" config_id="F0E7E8B2A7A440419C15A3C96D2BFE76">
+  <property __name="text" en="Add access is denied for {0}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ES_RootTypeIsNotSetMessage" config_id="F142EB7482FE4401BADFEE507ABE4307">
+  <property __name="text" en="Root Type is not set!" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ForumNoUserId" config_id="F17D050DAA044BE88D2487FCE155E47B">
+  <property __name="text" en="user id was not set." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateWorkflowMap_NoPathOutOfStart" config_id="F2B2A50F235B4F2488561607903EA50F">
+  <property __name="text" en="There is not path going out of the start activity." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mpo_MassPromotionRecordNotExists" config_id="F339AA3573B145A9A014DE85DD8E1D1F">
+  <property __name="text" en="Could not find item (ItemType: '{0}', Id: '{1}')" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="fr_RepresentationTypeIsNotActive" config_id="F385C10D22BC4E17BBA805BFC6CF6705">
+  <property __name="text" en="Representation type is not active" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Property_FieldRestricted" config_id="F687843B21C4449C9EA96C73551A22B5">
+  <property __name="text" en="The &quot;{0}&quot; could not be set for the &quot;{1}&quot; property of {2} type." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="CopyItemEx2_NewSequenceValueNotCreated" config_id="F7DB099C32334F0AB393C5718FF6BD79">
+  <property __name="text" en="Failed to create a new sequence value." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FailedGetIsAliasUserIdNotSet" config_id="F7DD80BA9E38461FB0116FF9DFA2045F">
+  <property __name="text" en="Failed to get user isAlias identity: userId property was not set." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="ValidateWorkflowMap_PathNameNull" config_id="F83654B6B35F4A8F8C9703D27ACBD0B4">
+  <property __name="text" en="The name of the path cannot be null." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="AddItem_Implementation_RelTypeRelatedUnsaved" config_id="F8A2EF9BB1DA48F88FA65312D0B0D878">
+  <property __name="text" en="Adding a RelationshipType with the unsaved ItemType as the related is not allowed. Save the Related ItemType first and then add a RelationshipType." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="startWorkflow_ProcessNotPending" config_id="F8AB13E57B9241C9B607B053B67E67E9">
+  <property __name="text" en="The process has to be in a Pending state." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="UpdateItemEx_SpecificItemTypeGetFailed" config_id="F8D13554497E491C9047352643E69B35">
+  <property __name="text" en="Failed to get the {0} ItemType." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_ItemTypeNameEmpty" config_id="F8E6D05A18894192B49639E3E6604963">
+  <property __name="text" en="The Item Type Name cannot be empty." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="mp_ResetLifecycleStateDisabled" config_id="FB012964B458482699B2B786CE5420F1">
+  <property __name="text" en="Reset life cycle state disabled for MAC policies." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="SSVC_FileSelectorParserUnknownFunction" config_id="FBEB7376C6E5435DA030C292261B6057">
+  <property __name="text" en="Unknown function &quot;{0}&quot; at pos {1}!" zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="Aras.Server.Core.ItemTypeNotFoundException.IdAsCriteria" config_id="FC0D2BB9D5AC42E3B4D9E03C5B0C01E0">
+  <property __name="text" en="Failed to get the ItemType with ID {0}." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="xClass_InsufficientPermissions" config_id="FC5144B46C4A4E548498D1FC02050E6D">
+  <property __name="text" en="You have insufficient permissions to perform '{0}' operation for item id '{1}' by xClass id '{2}'." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="BeforePropertyUpdate_OldDataSourceUsed" config_id="FCBF1B8F8AF644DDA78C8D52506D7D53">
+  <property __name="text" en="Some {0} items still use the old data source for the {1} property." zc="" />
+ </Item>
+ <Item type="UserMessage" keyed_name="StartDefaultWorkflow_FailGetWorkflowMap" config_id="FDF7B597E4FD4288BCFEADCA519B74CE">
+  <property __name="text" en="Failed to get the workflow map." zc="" />
+ </Item>
+</export>

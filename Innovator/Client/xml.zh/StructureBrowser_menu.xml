@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menuapplet show="structure_view_menubar">
+
+	<menubar id="structure_view_menubar">
+		<menu id="structure_view" name="File">
+			<item id="close" name="Close"/>
+		</menu>
+	</menubar>
+
+	<menubar id="structure_select_menubar">
+		<menu id="structure_select" name="File">
+			<item id="return_selected" name="Return selected"/>
+			<item id="clear_selected" name="Clear selected"/>
+			<separator/>
+			<item id="close" name="Close"/>
+		</menu>
+	</menubar>
+
+	<menubar id="structure_edit_menubar">
+		<menu id="structure_edit" name="File">
+			<item id="close" name="Close"/>
+		</menu>
+	</menubar>
+</menuapplet>

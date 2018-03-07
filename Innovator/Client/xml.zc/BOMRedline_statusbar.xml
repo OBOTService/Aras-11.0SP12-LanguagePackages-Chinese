@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <item name="status" width="35%" type="both" value="">
+	<font family="Arial" size="10" bold="1" italic="0"/>
+  </item>
+  <item name="user" width="25%" type="both">
+	<font family="Arial" size="10" bold="0" italic="0"/>
+	<url></url>
+  </item>
+  <item name="server" width="25%" type="both">
+	<font family="Arial" size="10" bold="0" italic="0"/>
+	<url></url>
+  </item>
+  <item name="status" width="15%" value="">
+	<font family="Arial" size="10" bold="1" italic="0"/>
+  </item>
+</xml>
+

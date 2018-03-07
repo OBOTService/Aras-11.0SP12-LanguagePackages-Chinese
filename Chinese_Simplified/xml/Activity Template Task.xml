@@ -1,0 +1,260 @@
+﻿<export>
+ <Item type="Activity Template Task" keyed_name="1" config_id="E100B02BE24F48ED9B9CF392381E29B2">
+  <property __name="description" en="Check ECR form for completeness" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="D48B4C0148754F63A17F4A5D9971A08F">
+  <property __name="description" en="Search for similar ECRs" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="D8600848BE5A41BC91B749CBA1777DA1">
+  <property __name="description" en="Review Affected Items, add additional if necessary" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="4" config_id="981C9E5C32E7435A8777AFC0FCD713CA">
+  <property __name="description" en="Make sure the Assigned Creator is correct" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="564E3CA93D1249EEBA3DB989DAACCE61">
+  <property __name="description" en="Update the documents to implement the change" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="C4CA02DBA13C4BCEB8773C1526EC9998">
+  <property __name="description" en="Check in the updated documents" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="BD02B134DB2A49A097FD32F13425247C">
+  <property __name="description" en="Vote &quot;Complete&quot; to send the documents for review" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="CD7E1FF39FFD4B12A5A7E7D84F125DA2">
+  <property __name="description" en="Fill out the change form and assign affected items" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="4B9A13403F2048A8804D792A111C4DDE">
+  <property __name="description" en="Attach any supporting documentation on the Attachments tab" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="FA814926875E43438F291B2172DAAFCD">
+  <property __name="description" en="Vote Submit to initiate the change or Cancel to reject the Change" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="21169933B1D949F7A1842D574CA21CCE">
+  <property __name="description" en="Review the change form for instructions on the changes to be made" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="9774D7713AE34A55916D1586D85CE77B">
+  <property __name="description" en="Make changes to the new revisions of affected parts and BOMs" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="3D8926196AF54DFABDAE9CE0CDD9B1FD">
+  <property __name="description" en="If review is required vote Submit to Review. Otherwise vote Close Change" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="62CC1DD57FE84D3C88556349DDEB29F2">
+  <property __name="description" en="Review the change form for instructions on the changes to be made" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="6414FE534D0248D99127FA386371FC70">
+  <property __name="description" en="Make changes to the new revisions of affected documents" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="A0CE06A64C6C4F1AA581DFD7B0F62DA1">
+  <property __name="description" en="Once your updates are finished, vote Complete to mark your work as done" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="3403E67F4CD346C6BB1190A74FD9351D">
+  <property __name="description" en="Review the change form for details of the changes to be made" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="96B49CA9BC574D3E86E141AD374697FA">
+  <property __name="description" en="Update your affected items to reflect the desired change" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="DE107C74A53A457883A13091B31A5974">
+  <property __name="description" en="Vote Complete to indicate that your work is done" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="AA0280BB860B4DE9A1BD522C14C5CC4A">
+  <property __name="description" en="Review the ECR and disposition" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="7371ACB47D8344EC997310969BCE81C2">
+  <property __name="description" en="Check the PR for completeness (Title, Application Environment, Sequence of Events, Description, Affected Part/Document, Priority and Basis should be filled at this time)" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="10B0BA0BA93E4A889E0E3F92D30227EE">
+  <property __name="description" en="Check for duplicate PRs " zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="7F28BC8691F448A784BD497A9F50626C">
+  <property __name="description" en="Assign a Creator for the PR" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="4" config_id="294A0F9CAC4A49A4A48B6C7731FC23B9">
+  <property __name="description" en="Vote &quot;Reject&quot; to reject the PR outright or &quot;Verify&quot; to send it for verification" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="B5AC089C036242F2901C932FDB738C35">
+  <property __name="description" en="Assess change impact" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="C7D444D93B844D70B5FFE91934808AA7">
+  <property __name="description" en="Get input from other creators" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="17356A7AC546488499B9155196550DD1">
+  <property __name="description" en="Make technical recommendations" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="CE423606261B48E4ACFE285BAB63FBD9">
+  <property __name="description" en="Review all changes to the affected items" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="DF326956D3F04E30A8CCB3E92BB51AD2">
+  <property __name="description" en="If the changes do not match the requirements, vote Reject to have updates made" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="3071884D254846C78FB691AF164969B8">
+  <property __name="description" en="If the changes meet the Fast Track criteria, vote Fast Track Approve" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="4" config_id="24444146B2E946EDB15EDBFF7D6E813E">
+  <property __name="description" en="For a detailed review, vote Full Review" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="10" config_id="72943E0BDBB6442A9045314F58ED3A37">
+  <property __name="description" en="Review the ECO content and check the implementation of change actions" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="20" config_id="F0A03CF8B4004C0E8171FBBD3F12A5F8">
+  <property __name="description" en="Vote to approve or rework the ECO changes" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="DAE5398EFC514798AC72C3AC713B1E4F">
+  <property __name="description" en="Plan the implementation of this ECN in relation to others" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="65F92B43F20447048C0C5F21F5D99E54">
+  <property __name="description" en="Set the effectivity date" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="F4AD3963E74540DA8B54F065E2B2222D">
+  <property __name="description" en="Vote &quot;Complete&quot; to complete the planning" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="5ED182381BE84527B618BB3272A4073B">
+  <property __name="description" en="Review ECR details" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="2F830E3FE56247D6B99D6C1817F8BB15">
+  <property __name="description" en="Approve, disapprove or invetigate further" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="0375AE9FDBC64A48837EFB1B2FD8CB08">
+  <property __name="description" en="Attach known Affected Items" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="044AE3E2DE80486CB2F054BF48CEFDA8">
+  <property __name="description" en="Ensure the ECR is ready for initial review" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="746A798CAC6E4E748BCF1D959331613C">
+  <property __name="description" en="Perform an impact analysis and ensure that each change action is set" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="C7B47D9C10AF4D9CBC64F0DB8E01670F">
+  <property __name="description" en="Set the effective date for the ECO" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="70217E133AD540DE96DD8FD24C3F3879">
+  <property __name="description" en="If review is required, vote Submit to Plan Review. Otherwise, vote Start Work." zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="10" config_id="625774248DAC4EAEB6CD7424F1EE6398">
+  <property __name="description" en="Verify the ECO, including the impact matrix and effective date" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="20" config_id="E221DD6AB8984A19A94F53477E2E3ADA">
+  <property __name="description" en="Vote to approve or rework the plan" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="06BFA853201C49A2B54FCB42262D5252">
+  <property __name="description" en="Identify all affected parts and specify change actions" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="B744D52CD11C44E8B401B191CACCD90B">
+  <property __name="description" en="Submit the ECO to implementation planning" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="A2E4AF50BF0241D0893F03C70A7EA954">
+  <property __name="description" en="Fill out the change form and assign the affected document" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="330E6F1A103F45C08478459F432D2A06">
+  <property __name="description" en="Perform impact analysis and include any other affected documents" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="6E64A6F6A20E4AE1BE9642554D6D9842">
+  <property __name="description" en="Define change actions" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="4" config_id="D85C35B9876F4621AF88BAB380C3F0C2">
+  <property __name="description" en="Attach any supporting documentation" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="5" config_id="A9E13AACF71145009A2F741A0C8492D7">
+  <property __name="description" en="Vote Submit to Authors to begin work or Cancel to stop the change" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="037EE91D648D49EAB3E2465809DBD765">
+  <property __name="description" en="Prepare CRB agenda" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="D80913CA96844E2AB6C32E99E533C40F">
+  <property __name="description" en="Review atendee list" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="1DC3F5FE11844C8B9C40E315409EA1D6">
+  <property __name="description" en="Choose online CRB or meeting" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="5F3646AC4DA7451B8045FC8E73F39AB7">
+  <property __name="description" en="Review all changes to the affected documents" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="3E1CD773646642CDBC7C6B78E9A5B289">
+  <property __name="description" en="If any affected documents were not updated properly, vote Rework" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="D96F2B2FC4D4468FB19B19656F663564">
+  <property __name="description" en="If a detailed review of the changes to the documents is required, vote Full Review" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="4" config_id="E8F4851CAE784D48BBFFB0B56E59DBC9">
+  <property __name="description" en="If the changes meet the Fast Track criteria, vote Fast Approve" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="C0C1E9CC37D94860A6B8074643ED82F7">
+  <property __name="description" en="Check the PR for completeness" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="330FC8E1EF684C33819B18E8488E8506">
+  <property __name="description" en="Vote &quot;Approve&quot; to signify that the PR is complete and verified" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="C6200EA291014C0DAD6F11847308230F">
+  <property __name="description" en="Schedule CRB Meeting" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="0674741DCDEE4A2EB03B4A1098D9FCC8">
+  <property __name="description" en="Chair CRB meeting" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="86FBE06D287A40C2A4F0DD3ACB0D1AA6">
+  <property __name="description" en="Record meeting results" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="4" config_id="8FA8277ECFCA471A9778BEDA50FC3939">
+  <property __name="description" en="Disposition ECR" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="D4E2D35C1DD044C987B1235E6F09DF7E">
+  <property __name="description" en="Review comments" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="C2DA2CBD98D34974BA92FBB2F4AFA559">
+  <property __name="description" en="Modify the ECR and resubmit or cancel the ECR" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="546BCF6045CA464C9EFE4C170EA902C9">
+  <property __name="description" en="Check the ECN form for completeness" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="C951E3D3CB2F41C2A0CC7DB2D6CCE8C8">
+  <property __name="description" en="Ensure all Affected Items are attached" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="1CC3CC9756754BD9A740131B9C35EC0C">
+  <property __name="description" en="Submit the ECN for implementation planning" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="542B33A44349401AAB3D28EF7E841A63">
+  <property __name="description" en="Perform a CCB review of the changes" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="8FD7371B2795432F9F861262173D23A4">
+  <property __name="description" en="Vote Reject to send the change back for updates or Approve to release the change" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="DB2ECC1711CF4F05AC732DEF252076AE">
+  <property __name="description" en="Confirm the ECN has been implemented in accordance with the plan" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="C008BEB6314F4691A93B98845895D482">
+  <property __name="description" en="Vote &quot;Complete&quot; to release the ECN" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="B449FC22F1404975AAB28601063646DB">
+  <property __name="description" en="Review technical recommendations" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="67A49BC2C5744DB694DC8EF747105D67">
+  <property __name="description" en="Prepare Cost Estimate" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="3901742619FA4AD3973F6B809C958307">
+  <property __name="description" en="Route the ECR" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="9D31BDEAB23E4E53A1CC676054885432">
+  <property __name="description" en="Review changes to the affected items and make sure they conform to the change description" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="313412FE7CCB4C1BA80FB69B59D2105F">
+  <property __name="description" en="Vote Reject to have updates made or Approve to send to CCB" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="9C55B5C49BCD4DC2A5ABB364F6D11ABE">
+  <property __name="description" en="Review the documents to ensure the change has been implemented properly" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="A93E4D70C8D24A5B85177D3E345E85BA">
+  <property __name="description" en="Vote to either &quot;Approve&quot; or &quot;Reject&quot; the changes" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="31901C58487444FD8F3904A6EB2E4049">
+  <property __name="description" en="Performed a detailed review of changes made to affected documents" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="46ECA7A9088348739341A2DE28FD5210">
+  <property __name="description" en="If all documents are ready for release, vote Approve. Otherwise, vote Reject" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="1" config_id="6FE2DC0EBB7D4F968E2AFCFDC101FD88">
+  <property __name="description" en="Attempt to verify the problem as described" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="2" config_id="6DA2453CD2DB4F85AA6BDB5B15A743E8">
+  <property __name="description" en="Complete the Problem Verification, Phase Caused, Phase Found, Ramifications and Severity fields" zc="" />
+ </Item>
+ <Item type="Activity Template Task" keyed_name="3" config_id="2C8EA95879274FBB950ADA11EFA4B278">
+  <property __name="description" en="Vote &quot;Verified&quot; to send the PR for approval or &quot;Not Verified&quot; if unverifiable" zc="" />
+ </Item>
+</export>

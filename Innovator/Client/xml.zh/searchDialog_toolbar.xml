@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toolbarapplet buttonsize="26,25">
+  <toolbar id="search">
+    <choice id="implementation_type" invisible="true"/>
+    <button image="../images/ExecuteSearch.svg" id="search" tooltip="Run Search" text="Search"/>
+    <button image="../images/ClearSearchCriteria.svg" id="newsearch" tooltip="Clear Search Criteria" text="Clear Criteria"/>
+    <button disabled="true" image="../images/StopSearch.svg" id="stop_search" tooltip="Stop Search" text="Stop Search" />
+    <separator/>
+    <choice width="auto" id="search_mode" tooltip="Search modes" text="Search Mode">
+    </choice>
+    <choice id="saved_search" tooltip="Saved searches" text="Saved searches" label="Saved searches:">
+    </choice>
+    <separator/>
+    <button image="../images/AddSearchCriteria.svg" id="add_criteria" tooltip="Add Criteria" text="Add Criteria" invisible="true" />
+    <button image="../images/SelectAll.svg" id="select_all" tooltip="Select All" text="Select All"/>
+    <edit id="page_size" tooltip="Page Size" text="" size="3"/>
+    <button disabled="true" image="../images/PreviousPage.svg" id="prev_page" tooltip="Previous Page" text="Previous Page"/>
+    <button disabled="true" image="../images/NextPage.svg" id="next_page" tooltip="Next Page" text="Next Page"/>
+    <separator/>
+    <edit id="max_search" tooltip="Max Results" text="" size="3"/>
+    <separator/>
+    <button image="../images/Checkmark.svg" id="ready_btn" tooltip="Return Selected" text="Return Selected"/>
+    <button image="../images/Delete.svg" id="set_nothing" tooltip="Clear Selection" text="Clear Selection"/>
+  </toolbar>
+</toolbarapplet>

@@ -1,0 +1,84 @@
+﻿<Item type="Preference">
+	<Relationships>
+		<Item type="PM_ProjectGridLayout">
+			<!--//n-->
+			<position>1</position>
+			<width>40</width>
+			<name>n</name>
+			<label>N</label>
+			<is_system>1</is_system>
+		</Item>
+		<Item type="PM_ProjectGridLayout">
+			<!--//TreeNode-->
+			<position>2</position>
+			<width>200</width>
+			<name>tree_node</name>
+			<label>项目任务</label>
+			<is_system>1</is_system>
+		</Item>
+		<Item type="PM_ProjectGridLayout">
+			<!--//Predecessor-->
+			<position>3</position>
+			<width>80</width>
+			<name>predecessor</name>
+			<label>前继</label>
+			<is_system>1</is_system>
+		</Item>
+		<Item type="PM_ProjectGridLayout">
+			<!--//Duration-->
+			<position>4</position>
+			<width>70</width>
+			<name>duration</name>
+			<label>计划工期</label>
+			<is_system>1</is_system>
+		</Item>
+		<Item type="PM_ProjectGridLayout">
+			<!--//Hours-->
+			<position>5</position>
+			<width>70</width>
+			<name>hours</name>
+			<label>计划工时</label>
+			<is_system>1</is_system>
+		</Item>
+		<Item type="PM_ProjectGridLayout">
+			<!--//Deliv Required-->
+			<position>6</position>
+			<width>85</width>
+			<name>deliv_required</name>
+			<label>必需的交付件</label>
+			<is_system>1</is_system>
+		</Item>
+		<Item type="PM_ProjectGridLayout">
+			<!--//Deliv Type-->
+			<position>7</position>
+			<width>80</width>
+			<name>deliv_type</name>
+			<label>交付件类型</label>
+			<is_system>1</is_system>
+		</Item>
+		<Item type="PM_ProjectGridLayout">
+			<!--//Role-->
+			<position>8</position>
+			<width>80</width>
+			<name>role</name>
+			<label>责任人角色</label>
+			<is_system>1</is_system>
+		</Item>
+		<Item type="PM_ProjectGridLayout">
+			<!--//Required-->
+			<position>9</position>
+			<width>50</width>
+			<name>required</name>
+			<label>必需</label>
+			<is_system>1</is_system>
+		</Item>
+		<Item type="PM_ProjectGridLayout">
+			<!--//Attach-->
+			<is_system>1</is_system> 
+			<label>Attach</label> 
+			<name>attach</name> 
+			<position>10</position>
+		<width>80</width>
+		</Item>  
+	</Relationships>
+</Item>

@@ -1,0 +1,22 @@
+﻿<export>
+ <Item type="Workflow Map" keyed_name="Simple Change" config_id="2482A63E43BD4E8784DA4D7350F2ACDF">
+  <property __name="description" en="Workflow for Simple ECOs and MCOs" zc="" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="ECN" config_id="48B8C3644AA34B7A9A310DB09815003D">
+  <property __name="description" en="ECN Workflow" zc="" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="Express DCO" config_id="6CCB9DB9829E4B8993D5881F427854C0">
+  <property __name="description" en="Express DCO Workflow" zc="" />
+  <property __name="label" en="Express DCO" zc="" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="ECR" config_id="7408BB5F5D974E758690B29694C544B6">
+  <property __name="description" en="Enterprise Change Request" zc="" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="Express ECO" config_id="B0AB68FF8F014E379D17F0C1A426AD25">
+  <property __name="description" en="Express ECO Workflow" zc="" />
+  <property __name="label" en="ECO" zc="" />
+ </Item>
+ <Item type="Workflow Map" keyed_name="PR" config_id="B264D9B4BDCB4E2DBD79E06E465568C7">
+  <property __name="description" en="Problem Report Workflow" zc="" />
+ </Item>
+</export>

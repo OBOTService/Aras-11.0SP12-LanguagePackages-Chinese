@@ -1,0 +1,24 @@
+﻿<Item type="WBS Element" select="name,wbs_index,is_top,keyed_name,prev_item,deliv_required,deliv_type,wbs_index" action="get">
+	<Relationships>
+		<Item type="Sub WBS" select="related_id,sort_order">
+			<related_id>
+				<Item type="WBS Element" select="name,wbs_index,is_top,keyed_name,deliv_required,deliv_type"/>
+			</related_id>
+		</Item>
+		<Item type="WBS Activity2" select="related_id,sort_order">
+			<related_id>
+				<Item type="Activity2" select="name,is_milestone,date_start_act,date_due_act,expected_duration,is_required,deliv_required,deliv_type,keyed_name,work_earned,work_est,prev_item,managed_by_id,lead_role">
+					<Relationships>
+						<Item type="Predecessor" select="related_id,precedence_type,lead_lag,sort_order">
+							<related_id>
+								<Item type="Activity2" select="id"/>
+							</related_id>
+						</Item>
+						<Item type="Activity2 Assignment" select="role,sort_order"/>
+						<Item type="Activity2 Task" select="description,is_required,sort_order"/>
+					</Relationships>
+				</Item>
+			</related_id>
+		</Item>
+	</Relationships>
+</Item>

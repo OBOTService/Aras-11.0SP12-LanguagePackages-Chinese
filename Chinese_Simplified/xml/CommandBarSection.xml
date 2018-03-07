@@ -1,0 +1,160 @@
+﻿<export>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.viewers.scribblePalette" config_id="006407FEBDA14B98A12B57FF986DD0B2">
+  <property __name="label" en="scribblePalette" zc="" />
+ </Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.viewers.comparizonViewerToolbar" config_id="051D5677E3B0422BA336D3061790C96A">
+  <property __name="label" en="comparizonViewerToolbar" zc="" />
+ </Item>
+ <Item type="CommandBarSection" keyed_name="mpo_GridToolbar" config_id="0FDACDB80E3C4EFBA77D0C8573A8739F"></Item>
+ <Item type="CommandBarSection" keyed_name="ContextMenuSection" config_id="1050F018BCEA439C9EE85A2E4CFCB1A1">
+  <property __name="label" en="View PropertyValue Permission" zc="" />
+ </Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.ItemWindowRelationshipsShortcuts" config_id="10F057091BA54A2CB48E718F2F814F12">
+  <property __name="label" en="ItemWindowRelationshipsShortcuts" zc="" />
+ </Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure" config_id="14DBADEA1C57417CBDB3A6CA91C8212D"></Item>
+ <Item type="CommandBarSection" keyed_name="tp_show_editor" config_id="1DC80C95D4BC486399CE9E83A27C0EE1"></Item>
+ <Item type="CommandBarSection" keyed_name="CMF" config_id="1E281A556CCF47E98FC5D99BEE4B5A32">
+  <property __name="label" en="CMF" zc="" />
+ </Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.twt_workflowToolbar" config_id="1E457E1FEC064E4B8030A2D084031D97"></Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.twt_wsce_workflow" config_id="210BE4518E634E4F815AEC4592AC4746"></Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.viewers.advancedImageViewerToolbar" config_id="248EBD4CE07E4A2E86711066E8B6CB4A">
+  <property __name="label" en="advancedImageViewerToolbar" zc="" />
+ </Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.viewers.basic_switchButtons" config_id="251EDBD9996F4D168D4DF31888A39233">
+  <property __name="label" en="basic_switchButtons" zc="" />
+ </Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.tgv.viewer.toolbar" config_id="267FA516D9904158942C1E934D672045">
+  <property __name="label" en="Default TGV Toolbar" zc="" />
+ </Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.viewers.basic_pdfViewerToolbar" config_id="29F2BEE63FE941C5BB64F3A3465EAD46">
+  <property __name="label" en="basic_pdfViewerToolbar" zc="" />
+ </Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.twmm_reports_builder" config_id="3079B2532D4B4A599B01FB1BA93AB28F"></Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.tgv.viewer.context_menu" config_id="37464BE0A1F44DDE8A04DB95C7AB8D31">
+  <property __name="label" en="TGV Context Menu Default" zc="" />
+ </Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.popup_menu_for_relationship_grid" config_id="41A76259766544B6A2F01E277CD77BEC">
+  <property __name="label" en="PopupMenu for Relationship Grid" zc="" />
+ </Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.viewers.imageViewerToolbar" config_id="41E76AB895AF47D88C52BF915FF79A2F">
+  <property __name="label" en="imageViewerToolbar" zc="" />
+ </Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.dialogShortcuts" config_id="4524343104C04375A34173C4420A7F6F">
+  <property __name="label" en="DialogShortcuts" zc="" />
+ </Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_select" config_id="45C35DB71FA440A9AB5B6416507F91E6"></Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.viewers.labelPalette" config_id="46E35C9259254596A4A29B4F0D25F3E9">
+  <property __name="label" en="labelPalette" zc="" />
+ </Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.main_window_main_menu" config_id="585F641443474D72B90CDAF1D6064C3C">
+  <property __name="label" en="Main Window Main Menu" zc="" />
+ </Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.viewers.basic_markupViewerToolbar" config_id="5A047CFA34BD4D9196B84EA7729EDCC9">
+  <property __name="label" en="basic_markupViewerToolbar" zc="" />
+ </Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.viewers.switchButtons" config_id="5AAB98EC45E1494E8204E90681A77744">
+  <property __name="label" en="switchButtons" zc="" />
+ </Item>
+ <Item type="CommandBarSection" keyed_name="mp_GridPopupMenu" config_id="5B517BF33F87405D9A85A275081926DE"></Item>
+ <Item type="CommandBarSection" keyed_name="CMF Sidebar" config_id="5BD261135BB04316ACDA20A788F24868">
+  <property __name="label" en="CMF Sidebar" zc="" />
+ </Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.mwt_es_search_toolbar" config_id="5DD70D808BD64F8DBF741692936F065C"></Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.twmm_actions_builder" config_id="5EB6A38976DE42C5A41308714C1E5E6A"></Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.twt_structure_select_toolbar" config_id="5F861945AF40419B96E16D09AE3F84C3"></Item>
+ <Item type="CommandBarSection" keyed_name="Global Sidebar" config_id="5FCE4B91848042B0B3F36C31C3A9C4BA">
+  <property __name="label" en="Global Sidebar" zc="" />
+ </Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_view" config_id="701009B2A8564737970B7DBE91B985A6"></Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.twt_structure_edit_toolbar" config_id="728207135DEB4C278128FE58D9163A10"></Item>
+ <Item type="CommandBarSection" keyed_name="tp_linkdialog" config_id="73038092517D4EACBCC4C4DFC59F51C0"></Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.mwmm_reports_builder" config_id="73601B27B5EF4E5698F8C97F4F82D991"></Item>
+ <Item type="CommandBarSection" keyed_name="xClassCommandBarSection" config_id="75BA1E72FE99417C8D270A2D63363F1E"></Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.popup_menu_actions_builder" config_id="76D2C1F47C314AEFA351A32B76B927D2"></Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.mwt_inbasket_toolbar" config_id="7A66359CAEE24DDDB428C9AF99E45090"></Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.viewers.basic_imageViewerToolbar" config_id="7C681699087C4A679EB43F2993DDC541">
+  <property __name="label" en="basic_imageViewerToolbar" zc="" />
+ </Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.mwt_inbasketTask_popup" config_id="7DD602633C234694A1FEFC68179BA35B"></Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.itemWindowShortcuts" config_id="7F7A03E1E9304EEA9A87EC9CD5C1B73D">
+  <property __name="label" en="ItemWindowShortcuts" zc="" />
+ </Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.mwmm_ssr_builder" config_id="80E15D6B30CA4E6EBDC249F38F8120F8"></Item>
+ <Item type="CommandBarSection" keyed_name="tp_Standard" config_id="82F41E3DEAA1471ABF7C3683C76698D0"></Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.viewers.basic_comparizonViewerToolbar" config_id="8489D05B4D9040C7B332E49F4E3FB275">
+  <property __name="label" en="basic_comparizonViewerToolbar" zc="" />
+ </Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.popup_menu_for_item_grid" config_id="89E6EFE42BA04A3680CD125918BB82DF">
+  <property __name="label" en="Popup Menu for Item Grid" zc="" />
+ </Item>
+ <Item type="CommandBarSection" keyed_name="xClassTreeEditorMainToolbar" config_id="8AEC48FD8C874AAB9ACFBA47B9A154BD"></Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_edit" config_id="8B86F914DB59470DA04AA8D8A4FF90B1"></Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.viewers.highlightPalette" config_id="8BA490D5ABC8405C84AD7472CF1FDC2C">
+  <property __name="label" en="highlightPalette" zc="" />
+ </Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.mwt_es_toolbar" config_id="8CBAE6D4FE844405BD1E446DAE701AC2">
+  <property __name="label" en="ES Toolbar" zc="" />
+ </Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.twt_normal" config_id="8D2C120D9A65414690A0E8D001A8FBC9"></Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.mwmm_actions_builder" config_id="93C0836298F6490B9C6E1CCC2B51DFE4"></Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.mainWindowShortcuts" config_id="94A067E55B014B57A9E959DF66AC6F4D">
+  <property __name="label" en="MainWindowShortcuts" zc="" />
+ </Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.popup_menu_for_grid_header" config_id="982898FBA02F4B7A92D15199CD531013">
+  <property __name="label" en="PopupMenu for Grid Header" zc="" />
+ </Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.viewers.hoopsViewerToolbar" config_id="98A8A608ED4E4C1FA8D6D58160A4F767">
+  <property __name="label" en="hoopsViewerToolbar" zc="" />
+ </Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.twmm_ssr_builder" config_id="9939EB49ACC9422FAE6C07865F614FE2"></Item>
+ <Item type="CommandBarSection" keyed_name="qry_CommandBarSection" config_id="9AAC274334CA4661A42F10291FB9ECCB"></Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.viewers.markupViewerToolbar" config_id="9F367AC814774848AE6E76263444E892">
+  <property __name="label" en="markupViewerToolbar" zc="" />
+ </Item>
+ <Item type="CommandBarSection" keyed_name="rb_TreeGridConfiguratorCommandBarSection" config_id="A01D318A9940425EA29AC6D23D25F8BE"></Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.viewers.mainButtons" config_id="A06B98219BAC48F5AA7529EF126E0BA2">
+  <property __name="label" en="mainButtons" zc="" />
+ </Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.item_grid_actions_reports_popup" config_id="A498714FDFB04C319B90E35C0B4E7DD5">
+  <property __name="label" en="Popup Menu for Item Grid - Actions and Reports" zc="" />
+ </Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.viewers.extendedMarkupViewerToolbar" config_id="AE5A6ED50CD24DA5A0F64D948CC98CCD">
+  <property __name="label" en="extendedMarkupViewerToolbar" zc="" />
+ </Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.viewers.basic_hoopsViewerToolbar" config_id="B1FBCD2CEEED4B7ABECC5ABA1C59B727">
+  <property __name="label" en="basic_hoopsViewerToolbar" zc="" />
+ </Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.popup_menu_reports_builder" config_id="B55C1AFA8396417DAF4F320DAF1D5C65"></Item>
+ <Item type="CommandBarSection" keyed_name="mp_CommandBarSection" config_id="B9207046EDD947FC8331F0693B47EF9F"></Item>
+ <Item type="CommandBarSection" keyed_name="VC_GetSidebarCUI" config_id="B94A294C111341029E74AD70F3176FB3">
+  <property __name="label" en="VC_GetSidebarCUI" zc="" />
+ </Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.twt_structure_view_toolbar" config_id="BB4C65DBE17649E6BE2F537673005A17"></Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.popup_menu_for_inbasket" config_id="BCC29B6764E54F7EBE31B6EE59187533"></Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.tearoff_window_main_menu" config_id="BDB17A0A3DF74336BBE40C81E16467F0">
+  <property __name="label" en="Tearoff Window Main Menu" zc="" />
+ </Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.discussion_actions_menu" config_id="C0A2BB77561C4724936E8DA66D506EB7"></Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.viewers.basic_advancedImageViewerToolbar" config_id="C3B86ADAC6D14BF19E84F8D226700EDB">
+  <property __name="label" en="basic_advancedImageViewerToolbar" zc="" />
+ </Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.popup_menu_ssr_builder" config_id="C5B1B4535A5145848F9A2DF4850DD324"></Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.mwt_inbasketTask_toolbar" config_id="D28EE0AC5C52401C9E0CD2F6EA2A11D0"></Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.mwmm_inbasketTask" config_id="D6240891797A40CD83B0EF5831E5FEB0"></Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.popup_menu_for_main_window_toc" config_id="DB72DF34BB6E415B8BA5E177FC9DCA42">
+  <property __name="label" en="Popup Menu for Main Window TOC" zc="" />
+ </Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.mwmm_inbasketTask_actions" config_id="DBD4A0EBCDA94A448152C6722A51A094"></Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.pmig_inbasketTask_actions" config_id="DDE1D877AB424E589701C9CA68D2A84B"></Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.twt_tool" config_id="E03B7FD0A2BE42A3A1B2DD696FE900BD"></Item>
+ <Item type="CommandBarSection" keyed_name="xClassTreeEditorSearchToolbar" config_id="E0BA6831F0724F84AE8FD96E79D69575"></Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.twt_wsce_normal" config_id="E51B4590408B481DBC9F9A78278D27A9"></Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.viewers.pdfViewerToolbar" config_id="EAF4FB86E9D848E9BAA95B1C60EA63A2">
+  <property __name="label" en="pdfViewerToolbar" zc="" />
+ </Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.twt_wsce_tool" config_id="EDCEFE3DD29A420DB0E86CF5E4527FC3"></Item>
+ <Item type="CommandBarSection" keyed_name="com.aras.innovator.cui_default.mwt_main_toolbar" config_id="EE91ED6CA03641BC9DD9A29368858137"></Item>
+ <Item type="CommandBarSection" keyed_name="mp_MainMenu" config_id="EFB17CE3A59A4690996CA5B81D8AC661"></Item>
+</export>

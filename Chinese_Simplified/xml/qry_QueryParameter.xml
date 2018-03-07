@@ -1,0 +1,6 @@
+﻿<export>
+ <Item type="qry_QueryParameter" keyed_name="5582339AE4D649D69C4323C077C28D58" config_id="5582339AE4D649D69C4323C077C28D58">
+  <property __name="label" en="Part Number Label Custom" zc="" />
+ </Item>
+ <Item type="qry_QueryParameter" keyed_name="9A2663788DA644CDBA9F883B267C00AD" config_id="9A2663788DA644CDBA9F883B267C00AD"></Item>
+</export>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<toolbarapplet
+	on_load = "onToolbarLoad"
+	on_click = "onToolbarButtonClick"
+	buttonstyle = "windows"
+	buttonsize = "26,25"
+	font = "Arial-8">
+	<toolbar id="searchbar">
+		<button image="../images/CheckMark.svg" id="ready_btn" tooltip="Return Selected" statusmsg="Return Selected"/>
+		<button image="../images/Delete.svg" id="set_nothing" tooltip="Clear Selection" statusmsg="Clear Selection"/>
+	</toolbar>
+</toolbarapplet>
+

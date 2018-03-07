@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<toolbarapplet
+  on_click        = "onToolbarButtonClick"
+  on_load         = "onToolbarLoad"
+  buttonstyle     = "windows"
+  buttonsize      = "26,25"
+  font            = "Arial-8">
+  <toolbar id="tasksTbl">    
+    <button disabled="false" image="../images/Save.svg" id="save_main" tooltip="保存更改" statusmsg="保存更改"/>
+    <button disabled="false" image="../images/CheckMark.svg" id="complete_main" tooltip="完成" statusmsg="完成" invisible="true"/>
+</toolbar>
+</toolbarapplet>

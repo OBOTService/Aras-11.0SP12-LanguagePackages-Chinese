@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<toolbarapplet on_click="onToolbarButtonClick" on_load="onToolbarLoad" buttonstyle="windows" buttonsize="26,25" font="Arial-8">
+	<toolbar id="tasksTbl">
+		<button disabled="true" image="../images/CheckMark.svg" id="sendData" tooltip="创建新的项目" statusmsg="创建新的项目"/>
+	</toolbar>
+</toolbarapplet>

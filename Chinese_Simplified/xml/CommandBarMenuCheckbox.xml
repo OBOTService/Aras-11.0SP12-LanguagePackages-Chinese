@@ -1,0 +1,56 @@
+﻿<export>
+ <Item type="CommandBarMenuCheckbox" keyed_name="com.aras.innovator.cui_default.mwmm_ShowMainTree" config_id="016151F805254E239D615074C8A03C02">
+  <property __name="label" en="Show Contents" zc="" />
+ </Item>
+ <Item type="CommandBarMenuCheckbox" keyed_name="com.aras.innovator.cui_default.mwmm_minimizedTabsState" config_id="0E09DE5BC1E54C6792DE4C8EDFE33826">
+  <property __name="label" en="Minimized" zc="" />
+ </Item>
+ <Item type="CommandBarMenuCheckbox" keyed_name="com.aras.innovator.cui_default.mwmm_maximizedTabsState" config_id="1557233607024A998F348F997354F3C7">
+  <property __name="label" en="Maximized" zc="" />
+ </Item>
+ <Item type="CommandBarMenuCheckbox" keyed_name="com.aras.innovator.cui_default.mwmm_wildcards" config_id="2F96FFC6E94748DE83EFCB50ACBDD46B">
+  <property __name="label" en="Use wildcards" zc="" />
+ </Item>
+ <Item type="CommandBarMenuCheckbox" keyed_name="com.aras.innovator.cui_default.mwmm_offTabsState" config_id="48B5770ABFF44556817FA0DA1645127C">
+  <property __name="label" en="Off" zc="" />
+ </Item>
+ <Item type="CommandBarMenuCheckbox" keyed_name="com.aras.innovator.cui_default.mwmm_onTabsState" config_id="4DC61DB35CCC4EF3816C2304BBFC26C8">
+  <property __name="label" en="On" zc="" />
+ </Item>
+ <Item type="CommandBarMenuCheckbox" keyed_name="com.aras.innovator.cui_default.mwmm_soap_save" config_id="56AFE5D90A924C3ABB98E40AB9DB203F">
+  <property __name="label" en="Save Requests" zc="" />
+ </Item>
+ <Item type="CommandBarMenuCheckbox" keyed_name="com.aras.innovator.cui_default.twmm_soap_save" config_id="5DB2AEB143FA44E0A2735BE023210E93">
+  <property __name="label" en="Save Requests" zc="" />
+ </Item>
+ <Item type="CommandBarMenuCheckbox" keyed_name="com.aras.innovator.cui_default.mwmm_sort_pages" config_id="946D2BD47BB340948F7201EF2EB41306">
+  <property __name="label" en="Sort across pages" zc="" />
+ </Item>
+ <Item type="CommandBarMenuCheckbox" keyed_name="com.aras.innovator.cui_default.mwmm_show_properties" config_id="9A9AC2CB2E18408A955D298EB8B9A7A4">
+  <property __name="label" en="Show Properties" zc="" />
+ </Item>
+ <Item type="CommandBarMenuCheckbox" keyed_name="com.aras.innovator.cui_default.mwmm_show_text" config_id="9B585E7A58BE4905BF64C2F1D934E153">
+  <property __name="label" en="Show Toolbar Text" zc="" />
+ </Item>
+ <Item type="CommandBarMenuCheckbox" keyed_name="com.aras.innovator.cui_default.mwmm_debug_on_off" config_id="A4DD8E2B13544027A23ABB3385AC6DB7">
+  <property __name="label" en="Debug" zc="" />
+ </Item>
+ <Item type="CommandBarMenuCheckbox" keyed_name="com.aras.innovator.cui_default.mwmm_offDState" config_id="A7AAD5E54E0643C4954FF7BDB4632DFF">
+  <property __name="label" en="Off" zc="" />
+ </Item>
+ <Item type="CommandBarMenuCheckbox" keyed_name="com.aras.innovator.cui_default.mwmm_onDState" config_id="B50D85607FB34FBBB4D2F1C9A9BF4A98">
+  <property __name="label" en="On" zc="" />
+ </Item>
+ <Item type="CommandBarMenuCheckbox" keyed_name="com.aras.innovator.cui_default.mwmm_append" config_id="D15140DFEC3549C387C8EE190019A82C">
+  <property __name="label" en="Append results" zc="" />
+ </Item>
+ <Item type="CommandBarMenuCheckbox" keyed_name="com.aras.innovator.cui_default.twmm_show_text" config_id="E1B7DE9094314B1CAD3A8083932F5980">
+  <property __name="label" en="Show Toolbar Text" zc="" />
+ </Item>
+ <Item type="CommandBarMenuCheckbox" keyed_name="com.aras.innovator.cui_default.mwmm_defaultDState" config_id="E5BC452FA38F470BBCD02755A671E131">
+  <property __name="label" en="Default" zc="" />
+ </Item>
+ <Item type="CommandBarMenuCheckbox" keyed_name="com.aras.innovator.cui_default.mwmm_defaultTabsState" config_id="FC378739B1F3429683FC9C73A9A94283">
+  <property __name="label" en="Default" zc="" />
+ </Item>
+</export>

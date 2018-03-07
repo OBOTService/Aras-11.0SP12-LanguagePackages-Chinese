@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<item index="0" id="status" width="15%" type="both" value="Ready">
+		<font family="Arial" size="8" bold="1" italic="0"/>
+	</item>
+	<item index="1" id="server" width="15%" type="both" value="{HOST}">
+		<font family="Arial" size="8" bold="0" italic="0"/>
+	</item>
+	<item index="2" id="database" width="15%" type="both" value="{DATABASE}">
+	</item>
+	<item index="3" id="page_status" width="40%" type="both">
+	</item>
+	<item index="4" id="messages" width="15%" type="message" value=" Messages: 0">
+		<font family="Arial" size="8" bold="1" italic="0"/>
+		<message template=" Messages: &lt;span id='messageCounter'&gt;{0}&lt;/span&gt;"/>
+	</item>
+</xml>

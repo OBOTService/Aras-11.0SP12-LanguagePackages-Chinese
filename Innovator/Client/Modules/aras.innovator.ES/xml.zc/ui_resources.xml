@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ui_resources>
+	<!--Filters-->
+	<resource key="filters.filters" value="Filters" />
+	<resource key="filters.selected_filters" value="Selected Filters" />
+	<resource key="filters.all_selected_filters" value="All Selected Filters" />
+	<resource key="filters.search_within" value="Search within" />
+	<resource key="filters.clear" value="Clear" />
+	<resource key="filters.clear_all" value="Clear All" />
+	<resource key="filters.edit" value="Edit" />
+	<resource key="filters.more" value="more" />
+	<resource key="filters.unknown" value="Unknown" />
+
+	<!--Buttons-->
+	<resource key="buttons.ok" value="OK" />
+	<resource key="buttons.cancel" value="Cancel" />
+	<resource key="buttons.refresh" value="Refresh" />
+
+	<!--Results-->
+	<resource key="results.properties" value="Properties" />
+	<resource key="results.modified_info" value="Modified on {0} by {1}" />
+	<resource key="results.current" value="Current" />
+	<resource key="results.not_current" value="Not Current" />
+
+	<!--Messages-->
+	<resource key="message.page_size_should_be_positive" value="The page size should be a positive integer!" />
+	<resource key="message.page_size_should_be_less" value="The page size should be less than {0}!" />
+	<resource key="message.upgrade_subscription" value="Upgrade your subscription!" />
+	<resource key="message.reindex_configuration" value="Are you sure you want to re-index configuration?" />
+	<resource key="message.reindex_all_items" value="Are you sure you want to re-index all items?" />
+
+	<!--Hints-->
+	<resource key="hint.run_search" value="Run Search" />
+	<resource key="hint.page_size" value="Page Size" />
+	<resource key="hint.previous_page" value="Previous Page" />
+	<resource key="hint.next_page" value="Next Page" />
+	<resource key="hint.refresh" value="Refresh" />
+
+	<!--Advertisements-->
+	<resource key="advertisement.get_subscription" value="Aras subscribers get Enterprise Search where users get to search across various Item Types and Files including content within Files, and more!" />
+	<resource key="advertisement.see_more" value="See More" />
+
+	<!--Links-->
+	<resource key="link.upgrade_subscription" value="http://aras.com/solutions/enterprise-search" />
+
+	<!--Dashboard-->
+	<resource key="dashboard.name" value="Admin Dashboard" />
+	<resource key="dashboard.crawler_grid_title" value="Crawlers" />
+	<resource key="dashboard.file_processors_grid_title" value="File Processors" />
+	<resource key="dashboard.error_no_agent" value="There are no Agents installed!" />
+
+	<!--Dashboard Legend-->
+	<resource key="legend.title" value="Legend" />
+	<resource key="legend.color" value="Color" />
+	<resource key="legend.serviceability" value="Serviceability" />
+	<resource key="legend.green_hint_1" value="Crawler/Agent is running and working correctly" />
+	<resource key="legend.yellow_hint_1" value="Pause/Finish was called (Crawler is stopped)" />
+	<resource key="legend.yellow_hint_2" value="Last update of Crawler/Agent from the service came more than 40 sec ago" />
+	<resource key="legend.red_hint_1" value="Disable was called (Crawler is stopped)" />
+	<resource key="legend.red_hint_2" value="Last update of Crawler/Agent from the service came more than 60 sec ago" />
+
+	<!--ES_Settings form-->
+	<resource key="settings.property_value_less_than_zero" value="Value of the property is invalid. It must be greater than or equal to zero. Edit again?"/>
+	<resource key="settings.tooltip_max_analyzed_chars" value="Specifies how many characters from each field will be considered for highlighting."/>
+</ui_resources>

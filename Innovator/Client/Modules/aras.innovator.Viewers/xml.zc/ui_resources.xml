@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ui_resources>
+	<!-- Feed -->
+	<resource key="feed_title_base" value="Secure Social Feed" />
+	<resource key="feed_title_for" value="Secure Social Feed for" />
+	<resource key="feed_showing_filter_results" value="Showing results for" />
+	<resource key="feed_pdf_not_found" value="PDF file not found!" />
+	<resource key="feed_hwf_not_found" value="HWF file not found!" />
+	<resource key="feed_file_not_found" value="File not found!" />
+	<resource key="feed_file_not_image" value="File is not an image!" />
+	<resource key="feed_no_secure_messages" value="There are no more messages" />
+	<resource key="feed_show_all_messages" value="[Show all messages]" />
+	<resource key="feed_show_more_messages" value="Show more messages" />
+	<resource key="feed_all_messages" value="All Messages" />
+	<resource key="feed_created_by" value="Messages from {0}" />
+	<resource key="feed_flagged_by" value="Flagged by {0}" />
+	<resource key="feed_forum" value="Forum {0}" />
+	<resource key="feed_saved_search" value="Saved Search {0}" />
+	<resource key="feed_me" value="me" />
+	<!-- feed_tb - FeedToolbar -->
+	<resource key="feed_tb_def_comment" value="Enter a comment..." />
+	<resource key="feed_tb_def_message_search" value="Search messages..." />
+	<resource key="feed_tb_more_options" value="More options" />
+	<resource key="feed_tb_sort_mode_label" value="Show by" />
+	<resource key="feed_tb_display_mode_label" value="Display" />
+	<!-- mark_tb - MarkupToolbar -->
+	<resource key="mark_tb_lose_unsaved_markup" value="You will lose unsaved markup. OK to continue?" />
+	<!-- mc - MessageControl -->
+	<resource key="mc_show_replies" value="Show replies" />
+	<resource key="mc_show_all_replies" value="Show all replies" />
+	<resource key="mc_hide_replies" value="Hide replies" />
+	<resource key="mc_reply" value="Reply" />
+	<resource key="mc_reply_markup" value="Reply With Markup" />
+	<resource key="mc_show_only" value="Show Only" />
+	<!-- sm - Snapshot Mode -->
+	<resource key="mc_sm_file" value="File" />
+	<resource key="mc_sm_page" value="Page" />
+	<resource key="mc_sm_notations" value="Notations" />
+	<resource key="file_is_no_longer_available" value="The associated file is no longer available for viewing." />
+	<!-- uc - UserControl -->
+	<resource key="uc_company" value="Company" />
+	<resource key="uc_email" value="Email" />
+	<resource key="uc_telephone" value="Telephone" />
+	<!-- fp - FilterPopup -->
+	<resource key="fp_type" value="Type" />
+	<resource key="fp_source" value="Source" />
+	<resource key="fp_from" value="From" />
+	<resource key="fp_anyone" value="Anyone" />
+	<resource key="fp_timeframe" value="Timeframe" />
+	<resource key="fp_to" value="to" />
+	<resource key="fp_revision" value="Revision" />
+	<resource key="fp_all" value="All" />
+	<resource key="fp_generation" value="Generation" />
+	<resource key="fp_range_indicator" value="Range >>" />
+	<resource key="fp_state" value="State" />
+	<resource key="fp_search" value="Search" />
+	<resource key="fp_cancel" value="Cancel" />
+	<resource key="fp_last_x_times" value="Within the last" />
+	<resource key="fp_date_range" value="Date range" />
+	<resource key="fp_minutes" value="Minutes" />
+	<resource key="fp_hours" value="Hours" />
+	<resource key="fp_days" value="Days" />
+	<resource key="fp_months" value="Months" />
+	<resource key="fp_last" value="last" />
+	<!-- val - Validation -->
+	<resource key="fp_incorrect_x_times" value="Incorrect value for count of" />
+	<resource key="fp_val_no_start_date" value="No start date entered" />
+	<resource key="fp_val_no_finish_date" value="No finish date entered" />
+	<resource key="fp_val_incorrect_generation" value="Incorrect value for Generation"/>
+	<resource key="fp_val_incorrect_generation_start" value="Incorrect value for Generation start range"/>
+	<resource key="fp_val_incorrect_generation_finish" value="Incorrect value for Generation finish range"/>
+	<resource key="fp_val_incorrect_zoom_value" value="This value is out of range"/>
+	<!-- err - Error strings -->
+	<resource key="err_xml_parser" value="Xml to string parser error" />
+	<resource key="err_session_expired" value="Session is expired" />
+	<resource key="err_svg_settings_not_found" value="The file of properties is not found. Check that the 'svg Settings' file was added to the project" />
+	<resource key="err_xml_not_valid_for_element" value="Xml is not valid for the current element" />
+	<!-- pdfv - PDF viewer-->
+	<resource key="pdfv_markup_saved_successfully" value="Markup has been saved successfully!" />
+	<resource key="pdfv_page_number" value="(page {0})" />
+	<resource key="pdfv_no_matches_found" value="Finished searching the document. No matches were found." />
+	<resource key="pdfv_no_more_matches_found" value="Finished searching the document. No more matches were found." />
+	<resource key="pdfv_page_not_found" value="Selected version {0} does not contain page {1}." />
+	<resource key="pdfv_doc_is_expired" value="The document {0} is expired. Please reload it by using 'Refresh Item' button." />
+	<resource key="pdfv_doc_cache_is_expired" value="The document cache is expired. Please start comparison again." />
+	<resource key="pdfv_license_is_invalid" value="You can not use PDFTron WebViewer because your license is invalid!" />
+	<resource key="encrypted_user_cancelled" value="Failed to load encrypted document. Password entry cancelled." />
+	<resource key="encrypted_attempts_exceeded" value="Failed to load encrypted document. Too many attempts." />
+	<resource key="incorrect_password" value="The Password is incorrect. Please make sure that Caps lock is not on by mistake, and try again." />
+	<!-- hoops - Hoops viewer-->
+	<resource key="hoops_markup_saved_successfully" value="Markup has been saved successfully!" />
+	<resource key="browser_is_not_supported" value="This web browser does not support 3D viewing. Please use a supported browser in order to view this file." />
+	<resource key="browser_is_not_supported_pdf" value="This web browser does not support PDF viewing. Please use a supported browser in order to view this file." />
+	<resource key="snapshot_can_not_be_created" value="Snapshot can not be created because this web browser does not support 3D viewing." />
+	<!-- short - ShortenTextWithMore -->
+	<resource key="short_more" value="more" />
+	<resource key="short_less" value="less" />
+	<!-- eopt - Extra Options for Geometry -->
+	<resource key="eopt_top" value="3px" />
+	<resource key="eopt_backgroundColor" value="transparent" />
+	<resource key="eopt_fontFamily" value="arial" />
+	<resource key="eopt_fontStyle" value="normal" />
+	<resource key="eopt_fontSize" value="10px" />
+	<resource key="eopt_color" value="black" />
+	<!-- cd - Confirmation dialog-->
+	<resource key="cd_message" value="OK to delete message?"/>
+	<resource key="cv_hasnotbeensaved" value="The comparison view will be discarded. OK to continue?"/>
+	<!-- Downloaded snapshot filename template-->
+	<resource key="downloaded_snapshot_filename_template" value="File {0} from {1} {2}"/>
+	<resource key="pdf_downloaded_snapshot_filename_template" value="File {0} (page {1}) from {2} {3}"/>
+	<resource key="comparison_downloaded_snapshot_filename_template" value="Comparison of {0} (page {1}) from {2} v{3} and {4} (page {5}) from {6} v{7}"/>
+	<resource key="sketch_downloaded_snapshot_filename_template" value="Sketch from {0} {1}"/>
+	<resource key="openLabel" value="Open"/>
+	<resource key="isolateLabel" value="Isolate"/>
+	<resource key="fitAllLabel" value="Fit All"/>
+	<resource key="resetViewLabel" value="Reset View"/>
+	<resource key="hideLabel" value="Hide"/>
+	<resource key="showLabel" value="Show"/>
+	<resource key="hideAllOtherLabel" value="Hide All Other"/>
+	<resource key="displayAllLabel" value="Display All"/>
+	<resource key="ViewsTabTitle" value="Views"/>
+	<resource key="ModelTabTitle" value="Model"/>
+	<resource key="ToggleDisplayButtonTitle" value="Toggle Part Display"/>
+</ui_resources>

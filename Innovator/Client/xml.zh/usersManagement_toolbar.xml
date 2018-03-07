@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toolbarapplet on_load="onToolbarAppletLoad" on_click="onBtnClick" buttonstyle="windows" buttonsize="26,25">
+	<toolbar id="tb1">
+		<button image="../images/ExecuteSearch.svg" id="update" tooltip="Update Information">Update</button>
+		<button image="../images/ClearSearchCriteria.svg" id="newsearch" tooltip="Clear Search Criteria">Clear Criteria</button>
+		<button disabled="false" image="../images/SelectAll.svg" id="select_all" tooltip="Select all items">Select all items</button>
+		<button image="../images/Delete.svg" id="terminate" tooltip="Terminate Selected Sessions">Terminate</button>
+	</toolbar>
+</toolbarapplet>

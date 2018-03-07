@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<viewerToolbars>
+  <pdfViewerToolbar>
+    <button name="btnPageUp" src="../../../images/PageUp.svg" tooltip="Page Up" event="btnPageUpClick" style="ViewerButton"></button>
+    <button name="btnPageDown" src="../../../images/PageDown.svg" tooltip="Page Down" event="btnPageDownClick" style="ViewerButton"></button>
+    <numbertextbox name="ntbPageNumber" labelafter=" / #####" tooltip="Current Page / Total Pages" style="ViewerNumberTextBox" event="ntbPageNumberChange"></numbertextbox>
+    <button name="btnZoomDown" src="../../../images/ZoomDown.svg" tooltip="Zoom Down" event="btnZoomDownClick" style="ViewerButton"></button>
+    <button name="btnZoomUp" src="../../../images/ZoomUp.svg" tooltip="Zoom Up" event="btnZoomUpClick" style="ViewerButton"></button>
+  </pdfViewerToolbar>
+  <advancedImageViewerToolbar>
+    <button name="btnPageUp" src="../../../images/PageUp.svg" tooltip="Page Up" event="btnPageUpClick" style="ViewerButton"></button>
+    <button name="btnPageDown" src="../../../images/PageDown.svg" tooltip="Page Down" event="btnPageDownClick" style="ViewerButton"></button>
+    <numbertextbox name="ntbPageNumber" labelafter=" / #####" tooltip="Current Page / Total Pages" style="ViewerNumberTextBox" event="ntbPageNumberChange"></numbertextbox>
+    <button name="btnZoomDown" src="../../../images/ZoomDown.svg" tooltip="Zoom Down" event="btnZoomDownClick" style="ViewerButton"></button>
+    <button name="btnZoomUp" src="../../../images/ZoomUp.svg" tooltip="Zoom Up" event="btnZoomUpClick" style="ViewerButton"></button>
+  </advancedImageViewerToolbar>
+  <imageViewerToolbar>
+    <button name="btnZoomDown" src="../../../images/ZoomDown.svg" tooltip="Zoom Down" event="btnZoomDownClick" style="ViewerButton"></button>
+    <button name="btnZoomUp" src="../../../images/ZoomUp.svg" tooltip="Zoom Up" event="btnZoomUpClick" style="ViewerButton"></button>
+  </imageViewerToolbar>
+  <hoopsViewerToolbar>
+    <button name="btnZoomDown" src="../../../images/ZoomDown.svg" tooltip="Zoom Down" event="btnZoomDownClick" style="ViewerButton"></button>
+    <button name="btnZoomUp" src="../../../images/ZoomUp.svg" tooltip="Zoom Up" event="btnZoomUpClick" style="ViewerButton"></button>
+    <button name="btnResetView" src="../../../images/ResetView.svg" tooltip="Reset View" event="btnResetViewClick" style="ViewerButton"></button>
+  </hoopsViewerToolbar>
+  <markupViewerToolbar>
+    <palettebutton name="btnScribble" src="../../../images/Scribble.svg" tooltip="Scribble" event="btnScribbleClick" style="ViewerButton" paletteName="scribblePalette"></palettebutton>
+    <palettebutton name="btnRectangle" src="../../../images/Highlight.svg" tooltip="Highlight" event="btnRectangleClick" style="ViewerButton" paletteName="highlightPalette"></palettebutton>
+    <palettebutton name="btnLabel" src="../../../images/Label.svg" tooltip="Label" event="btnLabelClick" style="ViewerButton" paletteName="labelPalette"></palettebutton>
+    <button name="btnSelect" src="../../../images/Select.svg" tooltip="Select" event="btnSelectClick" style="ViewerButton"></button>
+    <button name="btnDelete" src="../../../images/Delete.svg" tooltip="Delete" event="btnDeleteClick" style="ViewerButton"></button>
+  </markupViewerToolbar>
+  <comparizonViewerToolbar>
+    <button name="btnZoomDown" src="../../../images/ZoomDown.svg" tooltip="Zoom Down" event="btnZoomDownClick" style="ViewerButton"></button>
+    <button name="btnZoomUp" src="../../../images/ZoomUp.svg" tooltip="Zoom Up" event="btnZoomUpClick" style="ViewerButton"></button>
+    <palettebutton name="btnComparisonPallete" src="../../../images/ShowComparison.svg" tooltip="Show Comparison" event="btnComparisonPalleteClick" style="ViewerButton" paletteName="comparePallete"></palettebutton>
+  </comparizonViewerToolbar>
+  <switchButtons>
+    <button name="btnSwitch" src="../../../images/SwitchToStandard.svg" tooltip="Switch To Standard Toolbar" event="btnSwitchClick" style="ViewerButton"></button>
+  </switchButtons>
+</viewerToolbars>

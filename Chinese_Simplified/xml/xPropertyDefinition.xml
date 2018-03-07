@@ -1,0 +1,10 @@
+﻿<export>
+ <Item type="xPropertyDefinition" keyed_name="xp-prop_color" config_id="628CD38589384CE2ADAD8178AE7539BC"></Item>
+ <Item type="xPropertyDefinition" keyed_name="xp-prop_date" config_id="65183155636D44FF8E9732FAB763BEB4"></Item>
+ <Item type="xPropertyDefinition" keyed_name="xp-prop_int" config_id="66065EB658774F5AB65BD92831CA2E38"></Item>
+ <Item type="xPropertyDefinition" keyed_name="xp-prop_bool" config_id="6662E9EEB61F41AE9D284CFA62E866D3"></Item>
+ <Item type="xPropertyDefinition" keyed_name="xp-prop_color_list" config_id="85B528FE49A145ADA735C0452B60A32F"></Item>
+ <Item type="xPropertyDefinition" keyed_name="xp-prop_decimal" config_id="91E275613FC042F29D24F3FC857D903E"></Item>
+ <Item type="xPropertyDefinition" keyed_name="xp-prop_float" config_id="92CCDFAFFA07446597EA8314BF2B5FF1"></Item>
+ <Item type="xPropertyDefinition" keyed_name="xp-prop_list" config_id="BF4B6564C4C547729E47458343A92569"></Item>
+</export>

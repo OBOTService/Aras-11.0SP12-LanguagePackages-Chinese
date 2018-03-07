@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ui_resources>
+	<resource key="apply_button" value="Apply" />
+	<resource key="toolbar_columns_label" value="Property Columns" />
+	<resource key="toolbar_properties_label" value="Properties of" />
+	<resource key="classEditor.tree.no_properties" value="No properties to display" />
+	<resource key="toolbar_columns" value="C" />
+	<resource key="toolbar_properties" value="P" />
+	<resource key="toolbar_seach_placeholder" value="Search..." />
+	<resource key="classEditor.tree.dialog.insert_sub" value="Insert Sub-class" />
+	<resource key="classEditor.tree.dialog.nameRequired" value="Name is required" />
+	<resource key="classEditor.tree.context_menu.rename" value="Rename" />
+	<resource key="classEditor.tree.context_menu.delete" value="Delete" />
+	<resource key="classEditor.tree.toolbar.save" value="Save" />
+	<resource key="classEditor.tree.toolbar.cancel" value="Cancel" />
+	<resource key="classEditor.tree.select.all_extended" value="All Extended" />
+	<resource key="classEditor.tree.select.all_and_extended" value="All {0} and Extended" />
+	<resource key="classEditor.tree.select_all" value="Select All" />
+	<resource key="classEditor.tree.search.input_placeholder" value="Find in Tree" />
+	<resource key="classEditor.tree.search.found_of_matches" value="{0} of {1}"/>
+
+
+	<resource key="fieldtool.xClassesControl.already_exists" value="xClass control already exists on the form"/>
+
+	<resource key="xClassesControl.delete_class" value="Class '{0}' will be deleted on Save of the Item. Are you sure?" />
+	<resource key="xClassesControl.restore_deleted_class" value="Deleted class '{0}' will be returned to the Item. Are you sure?" />
+	<resource key="xClassesControl.classificationDialogTitle" value="Classification" />
+	<resource key="xClassesControl.dialogSearchPlaceholder" value="Search..." />
+	<resource key="xClassesControl.default_label" value="xClass" />
+	<resource key="xClassesControl.value_not_exist_for_it" value="Value entered does not exist for {0}. Edit again?"/>
+	<resource key="xClassesControl.invalid_xclass_on_item" value="Item has unknown class"/>
+	<resource key="xClassesControl.field_context_menu.reset" value="Reset"/>
+	<resource key="xClassesControl.propery_reset_confirm_message" value="Value of '{0}' property will be reset. Are you sure?"/>
+
+	<resource key="xClassesControl.edit_form.xClass_Sample_1" value="xClass Sample 1" />
+	<resource key="xClassesControl.edit_form.xClass_Sample_2" value="xClass Sample 2" />
+	<resource key="xClassesControl.edit_form.xProperty_A" value="xProperty A" />
+	<resource key="xClassesControl.edit_form.xProperty_B" value="xProperty B" />
+	<resource key="xClassesControl.edit_form.xProperty_C" value="xProperty C" />
+	<resource key="xClassesControl.edit_form.xProperty_X" value="xProperty X" />
+	<resource key="xClassesControl.edit_form.xProperty_Y" value="xProperty Y" />
+	<resource key="xClassesControl.edit_form.xProperty_Y.value" value="Sample" />
+	<resource key="xClassesControl.edit_form.xProperty_Z" value="xProperty Z" />
+
+	<resource key="xPermissionContextMenu.clasification_create" value="Create Item Classification Permission" />
+	<resource key="xPermissionContextMenu.clasification_pick" value="Pick Item Classification Permission" />
+	<resource key="xPermissionContextMenu.clasification_pick_replace" value="Pick/Replace Item Classification Permission" />
+	<resource key="xPermissionContextMenu.clasification_view" value="View Item Classification Permission" />
+	<resource key="xPermissionContextMenu.value_create" value="Create xProperty Value Permission" />
+	<resource key="xPermissionContextMenu.value_pick" value="Pick xProperty Value Permission" />
+	<resource key="xPermissionContextMenu.value_pick_replace" value="Pick/Replace xProperty Value Permission" />
+	<resource key="xPermissionContextMenu.value_view" value="View xProperty Value Permission" />
+</ui_resources>

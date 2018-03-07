@@ -1,0 +1,11 @@
+﻿<export>
+ <Item type="CommandBarDropDown" keyed_name="tp_link_type" config_id="08FC053610124F17AA326CFBA95B27A0">
+  <property __name="tooltip_template" en="Link Type" zc="" />
+  <property __name="label" en="Link Type" zc="" />
+ </Item>
+ <Item type="CommandBarDropDown" keyed_name="cmf_view_dropdown" config_id="29EB41857C9D4A5A967FFCE7A7F09093"></Item>
+ <Item type="CommandBarDropDown" keyed_name="tp_selectlang" config_id="37ABD45460FB4CC2B52F007B1DCD38B0">
+  <property __name="tooltip_template" en="Add list" zc="" />
+  <property __name="label" en="Add list" zc="" />
+ </Item>
+</export>

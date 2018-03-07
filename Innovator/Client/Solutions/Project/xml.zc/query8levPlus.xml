@@ -1,0 +1,278 @@
+﻿<Item type="WBS Element" id="B0CC68AF44F642FB9EE2678278615022" select="name,keyed_name,rollup_date_sched_start,rollup_date_sched_due,rollup_duration,rollup_percent_compl,rollup_status" action="get">
+  <Relationships>
+    <Item type="Sub WBS" select="related_id">
+      <related_id>
+        <Item type="WBS Element" select="name,keyed_name,rollup_date_sched_start,rollup_date_sched_due,rollup_duration,rollup_percent_compl,rollup_status" action="get">
+          <Relationships>
+            <Item type="Sub WBS" select="related_id">
+              <related_id>
+                <Item type="WBS Element" select="name,keyed_name,rollup_date_sched_start,rollup_date_sched_due,rollup_duration,rollup_percent_compl,rollup_status" action="get">
+                  <Relationships>
+                    <Item type="Sub WBS" select="related_id">
+                      <related_id>
+                        <Item type="WBS Element" select="name,keyed_name,rollup_date_sched_start,rollup_date_sched_due,rollup_duration,rollup_percent_compl,rollup_status" action="get">
+                          <Relationships>
+                            <Item type="Sub WBS" select="related_id">
+                              <related_id>
+                                <Item type="WBS Element" select="name,keyed_name,rollup_date_sched_start,rollup_date_sched_due,rollup_duration,rollup_percent_compl,rollup_status" action="get">
+                                  <Relationships>
+                                    <Item type="Sub WBS" select="related_id">
+                                      <related_id>
+                                        <Item type="WBS Element" select="name,keyed_name,rollup_date_sched_start,rollup_date_sched_due,rollup_duration,rollup_percent_compl,rollup_status" action="get">
+                                          <Relationships>
+                                            <Item type="Sub WBS" select="related_id">
+                                              <related_id>
+                                                <Item type="WBS Element" select="name,keyed_name,rollup_date_sched_start,rollup_date_sched_due,rollup_duration,rollup_percent_compl,rollup_status" action="get">
+                                                  <Relationships>
+                                                    <Item type="Sub WBS" select="related_id">
+                                                      <related_id>
+                                                        <Item type="WBS Element" select="name,keyed_name,rollup_date_sched_start,rollup_date_sched_due,rollup_duration,rollup_percent_compl,rollup_status" action="get">
+                                                          <Relationships>
+                                                            <Item type="Sub WBS" select="related_id">
+                                                            <related_id>
+                                                              <Item type="WBS Element" select="name,keyed_name,rollup_date_sched_start,rollup_date_sched_due,rollup_duration,rollup_percent_compl,rollup_status" action="get">
+                                                                <Relationships>
+                                                                  <Item type="Sub WBS" select="related_id">
+                                                                    <related_id></related_id>
+                                                                  </Item>
+                                                                  <Item type="WBS Activity2" select="related_id">
+                                                                    <related_id>
+                                                                      <Item type="Activity2" select="is_milestone,date_start_sched,date_due_sched,date_es,date_ef,date_ls,date_lf,expected_duration,work_est,keyed_name,percent_compl">
+                                                                        <Relationships>
+                                                                          <Item type="Activity2 Assignment" select="related_id,role">
+                                                                            <realted_id>
+                                                                              <Item type="Identity" select="keyed_name"></Item>
+                                                                            </realted_id>
+                                                                          </Item>
+                                                                          <Item type="Predecessor" select="related_id">
+                                                                            <related_id>
+                                                                              <Item type="Activity2" select="keyed_name"></Item>
+                                                                            </related_id>
+                                                                          </Item>
+                                                                          <Item type="Activity2 Deliverable" select="related_id">
+                                                                            <related_id>
+                                                                              <Item type="Variant Doc" select="keyed_name"></Item>
+                                                                            </related_id>
+                                                                          </Item>
+                                                                        </Relationships>
+                                                                      </Item>
+                                                                    </related_id>
+                                                                  </Item>
+                                                                </Relationships>
+                                                              </Item>
+                                                            </related_id>
+                                                          </Item>
+                                                            <Item type="WBS Activity2" select="related_id">
+                                                              <related_id>
+                                                                <Item type="Activity2" select="is_milestone,date_start_sched,date_due_sched,date_es,date_ef,date_ls,date_lf,expected_duration,work_est,keyed_name,percent_compl">
+                                                                  <Relationships>
+                                                                    <Item type="Activity2 Assignment" select="related_id,role">
+                                                                      <realted_id>
+                                                                        <Item type="Identity" select="keyed_name"></Item>
+                                                                      </realted_id>
+                                                                    </Item>
+                                                                    <Item type="Predecessor" select="related_id">
+                                                                      <related_id>
+                                                                        <Item type="Activity2" select="keyed_name"></Item>
+                                                                      </related_id>
+                                                                    </Item>
+                                                                    <Item type="Activity2 Deliverable" select="related_id">
+                                                                      <related_id>
+                                                                        <Item type="Variant Doc" select="keyed_name"></Item>
+                                                                      </related_id>
+                                                                    </Item>
+                                                                  </Relationships>
+                                                                </Item>
+                                                              </related_id>
+                                                            </Item>
+                                                          </Relationships>
+                                                        </Item>
+                                                      </related_id>
+                                                    </Item>
+                                                    <Item type="WBS Activity2" select="related_id">
+                                                      <related_id>
+                                                        <Item type="Activity2" select="is_milestone,date_start_sched,date_due_sched,date_es,date_ef,date_ls,date_lf,expected_duration,work_est,keyed_name,percent_compl">
+                                                          <Relationships>
+                                                            <Item type="Activity2 Assignment" select="related_id,role">
+                                                              <realted_id>
+                                                                <Item type="Identity" select="keyed_name"></Item>
+                                                              </realted_id>
+                                                            </Item>
+                                                            <Item type="Predecessor" select="related_id">
+                                                              <related_id>
+                                                                <Item type="Activity2" select="keyed_name"></Item>
+                                                              </related_id>
+                                                            </Item>
+                                                            <Item type="Activity2 Deliverable" select="related_id">
+                                                              <related_id>
+                                                                <Item type="Variant Doc" select="keyed_name"></Item>
+                                                              </related_id>
+                                                            </Item>
+                                                          </Relationships>
+                                                        </Item>
+                                                      </related_id>
+                                                    </Item>
+                                                  </Relationships>
+                                                </Item>
+                                              </related_id>
+                                            </Item>
+                                            <Item type="WBS Activity2" select="related_id">
+                                              <related_id>
+                                                <Item type="Activity2" select="is_milestone,date_start_sched,date_due_sched,date_es,date_ef,date_ls,date_lf,expected_duration,work_est,keyed_name,percent_compl">
+                                                  <Relationships>
+                                                    <Item type="Activity2 Assignment" select="related_id,role">
+                                                      <realted_id>
+                                                        <Item type="Identity" select="keyed_name"></Item>
+                                                      </realted_id>
+                                                    </Item>
+                                                    <Item type="Predecessor" select="related_id">
+                                                      <related_id>
+                                                        <Item type="Activity2" select="keyed_name"></Item>
+                                                      </related_id>
+                                                    </Item>
+                                                    <Item type="Activity2 Deliverable" select="related_id">
+                                                      <related_id>
+                                                        <Item type="Variant Doc" select="keyed_name"></Item>
+                                                      </related_id>
+                                                    </Item>
+                                                  </Relationships>
+                                                </Item>
+                                              </related_id>
+                                            </Item>
+                                          </Relationships>
+                                        </Item>
+                                      </related_id>
+                                    </Item>
+                                    <Item type="WBS Activity2" select="related_id">
+                                      <related_id>
+                                        <Item type="Activity2" select="is_milestone,date_start_sched,date_due_sched,date_es,date_ef,date_ls,date_lf,expected_duration,work_est,keyed_name,percent_compl">
+                                          <Relationships>
+                                            <Item type="Activity2 Assignment" select="related_id,role">
+                                              <realted_id>
+                                                <Item type="Identity" select="keyed_name"></Item>
+                                              </realted_id>
+                                            </Item>
+                                            <Item type="Predecessor" select="related_id">
+                                              <related_id>
+                                                <Item type="Activity2" select="keyed_name"></Item>
+                                              </related_id>
+                                            </Item>
+                                            <Item type="Activity2 Deliverable" select="related_id">
+                                              <related_id>
+                                                <Item type="Variant Doc" select="keyed_name"></Item>
+                                              </related_id>
+                                            </Item>
+                                          </Relationships>
+                                        </Item>
+                                      </related_id>
+                                    </Item>
+                                  </Relationships>
+                                </Item>
+                              </related_id>
+                            </Item>
+                            <Item type="WBS Activity2" select="related_id">
+                              <related_id>
+                                <Item type="Activity2" select="is_milestone,date_start_sched,date_due_sched,date_es,date_ef,date_ls,date_lf,expected_duration,work_est,keyed_name,percent_compl">
+                                  <Relationships>
+                                    <Item type="Activity2 Assignment" select="related_id,role">
+                                      <realted_id>
+                                        <Item type="Identity" select="keyed_name"></Item>
+                                      </realted_id>
+                                    </Item>
+                                    <Item type="Predecessor" select="related_id">
+                                      <related_id>
+                                        <Item type="Activity2" select="keyed_name"></Item>
+                                      </related_id>
+                                    </Item>
+                                    <Item type="Activity2 Deliverable" select="related_id">
+                                      <related_id>
+                                        <Item type="Variant Doc" select="keyed_name"></Item>
+                                      </related_id>
+                                    </Item>
+                                  </Relationships>
+                                </Item>
+                              </related_id>
+                            </Item>
+                          </Relationships>
+                        </Item>
+                      </related_id>
+                    </Item>
+                    <Item type="WBS Activity2" select="related_id">
+                      <related_id>
+                        <Item type="Activity2" select="is_milestone,date_start_sched,date_due_sched,date_es,date_ef,date_ls,date_lf,expected_duration,work_est,keyed_name,percent_compl">
+                          <Relationships>
+                            <Item type="Activity2 Assignment" select="related_id,role">
+                              <realted_id>
+                                <Item type="Identity" select="keyed_name"></Item>
+                              </realted_id>
+                            </Item>
+                            <Item type="Predecessor" select="related_id">
+                              <related_id>
+                                <Item type="Activity2" select="keyed_name"></Item>
+                              </related_id>
+                            </Item>
+                            <Item type="Activity2 Deliverable" select="related_id">
+                              <related_id>
+                                <Item type="Variant Doc" select="keyed_name"></Item>
+                              </related_id>
+                            </Item>
+                          </Relationships>
+                        </Item>
+                      </related_id>
+                    </Item>
+                  </Relationships>
+                </Item>
+              </related_id>
+            </Item>
+            <Item type="WBS Activity2" select="related_id">
+              <related_id>
+                <Item type="Activity2" select="is_milestone,date_start_sched,date_due_sched,date_es,date_ef,date_ls,date_lf,expected_duration,work_est,keyed_name,percent_compl">
+                  <Relationships>
+                    <Item type="Activity2 Assignment" select="related_id,role">
+                      <realted_id>
+                        <Item type="Identity" select="keyed_name"></Item>
+                      </realted_id>
+                    </Item>
+                    <Item type="Predecessor" select="related_id">
+                      <related_id>
+                        <Item type="Activity2" select="keyed_name"></Item>
+                      </related_id>
+                    </Item>
+                    <Item type="Activity2 Deliverable" select="related_id">
+                      <related_id>
+                        <Item type="Variant Doc" select="keyed_name"></Item>
+                      </related_id>
+                    </Item>
+                  </Relationships>
+                </Item>
+              </related_id>
+            </Item>
+          </Relationships>
+        </Item>
+      </related_id>
+    </Item>
+    <Item type="WBS Activity2" select="related_id">
+      <related_id>
+        <Item type="Activity2" select="is_milestone,date_start_sched,date_due_sched,date_es,date_ef,date_ls,date_lf,expected_duration,work_est,keyed_name,percent_compl">
+          <Relationships>
+            <Item type="Activity2 Assignment" select="related_id,role">
+              <realted_id>
+                <Item type="Identity" select="keyed_name"></Item>
+              </realted_id>
+            </Item>
+            <Item type="Predecessor" select="related_id">
+              <related_id>
+                <Item type="Activity2" select="keyed_name"></Item>
+              </related_id>
+            </Item>
+            <Item type="Activity2 Deliverable" select="related_id">
+              <related_id>
+                <Item type="Variant Doc" select="keyed_name"></Item>
+              </related_id>
+            </Item>
+          </Relationships>
+        </Item>
+      </related_id>
+    </Item>
+  </Relationships>
+</Item>

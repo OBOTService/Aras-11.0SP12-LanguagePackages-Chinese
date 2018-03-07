@@ -1,0 +1,10 @@
+﻿<Projectviews>
+	<projectview id="Default">
+		<panel name="Tree Grid" type="grid"/>
+		<panel name="Gantt Chart" type="gantt" toggle="true" visible="false"/>
+		<panel name="Item Details" type="itemform" toggle="true" visible="false"/>
+	</projectview>
+	<templateview id="Default">
+		<panel name="Tree Grid" type="grid"/>
+	</templateview>
+</Projectviews>

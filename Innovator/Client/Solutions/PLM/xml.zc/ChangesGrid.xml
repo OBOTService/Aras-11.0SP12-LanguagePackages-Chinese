@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<table delim="|" font="Arial-8" link_func="onLink" 
+draw_grid="true" multiselect="true" column_draggable="true" enableHtml="false" 
+enterAsTab="false" bgInvert="false" onDoubleClick="doDoubleClick" onRowSelect="onRowSelect" editable="false" onXmlLoaded = "onXmlLoaded">
+	<thead>
+		<th align="c">类型</th>
+		<th align="c">编号</th>
+		<th align="c">标题</th>
+		<th align="c">状态</th>
+	</thead>
+	<columns>
+		<column width="75" edit="" align="l" order="0"/>
+		<column width="100" edit="" align="l" order="1"/>
+		<column width="250" edit="" align="l" order="2"/>
+		<column width="100" edit="" align="l" order="3"/>
+	</columns>
+	<menu/>
+</table>

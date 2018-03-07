@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toolbarapplet on_click="onToolbarButtonClick" on_load="onToolbarLoad" buttonstyle="windows" buttonsize="26,25" font="Arial-8">
+  <toolbar id="deliv">
+    <button disabled="true" image="../images/ViewItem.svg" id="view" tooltip="查看交付件" statusmsg="查看交付件"/>
+    <button disabled="false" image="../images/Deliverable.svg" id="addEx" tooltip="已存在的交付件" statusmsg="已存在的交付件"/>
+    <button disabled="false" image="../images/NewDeliverable.svg" id="addNew" tooltip="新建交付件" statusmsg="新建交付件"/>
+    <button disabled="true" image="../images/Delete.svg" id="del" tooltip="删除" statusmsg="删除"/>
+  </toolbar>
+</toolbarapplet>

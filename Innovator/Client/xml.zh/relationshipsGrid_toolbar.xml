@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<toolbarapplet buttonsize="26,25">
+  <toolbar id="tb1">
+    <drop_down_button image="" id="actions_menu" text="Actions"/>
+    <separator/>
+    <choice width="auto" disabled="true" id="related_option" tooltip="Related Options">
+      <choiceitem>Pick Related</choiceitem>
+      <choiceitem>No Related</choiceitem>
+      <choiceitem>Create Related</choiceitem>
+    </choice>
+    <button disabled="true" image="../images/New.svg" id="new" tooltip="New relationship" text="New relationship"/>
+    <separator/>
+    <button disabled="true" image="../images/PickReplace.svg" id="pick_replace" tooltip="Pick/Replace Related Item" text="Pick/Replace Related"/>
+    <button disabled="true" image="../images/Delete.svg" id="delete" tooltip="Delete relationship" text="Delete relationship"/>
+    <separator/>
+    <button image="../images/ExportToExcel.svg" id="export2Excel" tooltip="Export To Excel" text="Export To Excel" disabled="false"/>
+    <button image="../images/ExportToWord.svg" id="export2Word" tooltip="Export To Word" text="Export To Word" disabled="false"/>
+    <separator/>
+    <button disabled="true" image="../images/LockItem.svg" id="lock" tooltip="Lock related item" text="Lock related"/>
+    <button disabled="true" image="../images/UnlockItem.svg" id="unlock" tooltip="Unlock related item" text="Unlock related"/>
+    <separator/>
+    <button image="../images/Promote.svg" id="promote" tooltip="Promote Item" text="Promote" disabled="true"/>
+    <button image="../images/ExecuteSearch.svg" id="search" tooltip="Run Search" text="Run Search"/>
+    <button image="../images/ClearSearchCriteria.svg" id="newsearch" tooltip="Clear Search Criteria" text="Clear Criteria"/>
+    <button disabled="true" image="../images/StopSearch.svg" id="stop_search" tooltip="Stop Search" text="Stop Search" />
+    <separator/>
+    <choice width="auto" id="search_mode" tooltip="Search modes" text="Search Mode">
+    </choice>
+    <choice id="saved_search" tooltip="Saved searches" text="Saved searches" label="Saved searches:" is="html">
+    </choice>
+    <separator/>
+    <button image="../images/AddSearchCriteria.svg" id="add_criteria" tooltip="Add Criteria" text="Add Criteria" invisible="true" />
+    <button image="../images/SelectAll.svg" id="select_all" tooltip="Select All" text="Select All"/>
+    <edit id="page_size" tooltip="Page Size" text="" size="3"/>
+    <button disabled="true" image="../images/PreviousPage.svg" id="prev_page" tooltip="Previous Page" text="Previous Page"/>
+    <button disabled="true" image="../images/NextPage.svg" id="next_page" tooltip="Next Page" text="Next Page"/>
+    <separator/>
+    <button image="../images/ViewItem.svg" id="show_item" tooltip="View item" text="View"/>
+    <button image="../images/RelationshipType.svg" id="show_relationship" tooltip="View relationship" text="View relationship"/>
+    <separator/>
+    <button image="../images/Copy.svg" id="copy2clipboard" tooltip="Copy Relationship to Clipboard" text="Copy"/>
+    <button image="../images/Paste.svg" id="paste" tooltip="Paste last copied relationships" text="Paste"/>
+    <button image="../images/Redline.svg" id="redline" tooltip="Enable Redline Mode" text="Redline" state="0"/>
+  </toolbar>
+</toolbarapplet>

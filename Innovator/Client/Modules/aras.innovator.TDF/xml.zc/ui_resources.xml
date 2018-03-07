@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ui_resources>
+	<resource key="techdoc.advertising_message" value="Complete Technical Documentation capability including the ability to create XML, HTML and PDF versions requires an additional license!&lt;br/&gt;&lt;a class='arasPlainLink' href='{0}' target='_blank' &gt;{0}&lt;/a&gt;" />
+	<resource key="techdoc.advertising_url" value="http://www.aras.com/services/" />
+	<resource key="linkeditordialog.incorrecturl" value="The URL provided is incorrect."/>
+	<resource key="linkeditordialog.enterexternalurl" value="Enter external URL..."/>
+
+	<resource key="contextmenu.table" value="Table"/>
+	<resource key="contextmenu.addrow" value="Add Row"/>
+	<resource key="contextmenu.addcolumn" value="Add Column"/>
+	<resource key="contextmenu.externalcontent" value="External Content"/>
+	<resource key="contextmenu.row" value="Row"/>
+	<resource key="contextmenu.removerow" value="Remove Row"/>
+	<resource key="contextmenu.removecolumn" value="Remove Column"/>
+	<resource key="contextmenu.merge" value="Merge"/>
+	<resource key="contextmenu.withleftcolumn" value="With Left Column"/>
+	<resource key="contextmenu.withrightcolumn" value="With Right Column"/>
+	<resource key="contextmenu.withrowabove" value="With Row Above"/>
+	<resource key="contextmenu.withrowbelow" value="With Row Below"/>
+	<resource key="contextmenu.unmerge" value="Unmerge"/>
+
+	<resource key="rendering.newdocversionexists" value="New Document version exists"/>
+	<resource key="rendering.itemplaceholder" value="Item placeholder"/>
+	<resource key="rendering.imageplaceholder" value="Image placeholder"/>
+	<resource key="rendering.newitemversionexists" value="New Item version exists"/>
+	<resource key="rendering.wrongnumberofcells" value="The number of cells is incorrect."/>
+	<resource key="rendering.nulltext" value="Text..."/>
+	<resource key="rendering.content_is_blocked" value="Content is blocked"/>
+	<resource key="rendering.is_blocked" value=" is blocked"/>
+
+	<resource key="helper.noaction" value="No Action"/>
+	<resource key="helper.no_viewmodel" value="&quot;ViewModel&quot; parameter should be provided."/>
+	<resource key="helper.no_schemaitem" value="&quot;SchemaItem&quot; parameter should be provided."/>
+	<resource key="helper.no_handler" value="Handle for toolbar isn't set."/>
+	<resource key="helper.unknown_render_object" value="RenderHtml: Unknown object"/>
+	<resource key="helper.insert_out_range" value="insertAt index out of range"/>
+	<resource key="helper.feature_has_no_license" value="You do not have a valid license to use feature {0}."/>
+
+	<resource key="publishing.need2save_item" value="Document should be saved before publishing. Save now?"/>
+	<resource key="publishing.timeout_reached" value="Publishing timeout was reached. Please see your system administrator."/>
+
+	<resource key="action.add" value="Add"/>
+	<resource key="action.insert" value="Insert"/>
+	<resource key="action.remove" value="Remove"/>
+	<resource key="action.group" value="Group"/>
+	<resource key="action.ungroup" value="Ungroup"/>
+	<resource key="action.makeexternal" value="Convert to External"/>
+	<resource key="action.makeexternal_toolbarbutton_tooltip" value="Convert"/>
+	<resource key="action.makeexternal_wrong_type_error" value="Please set another type. This type can be set only for a corresponding root node. For this root node the following types cannot be set: {0}."/>
+	<resource key="action.makeinternal" value="Convert to Internal"/>
+	<resource key="action.changecondition" value="Change Condition"/>
+	<resource key="action.editattributes" value="Edit Attributes"/>
+	<resource key="action.viewattributes" value="View Attributes"/>
+	<resource key="action.copy" value="Copy"/>
+	<resource key="action.cut" value="Cut"/>
+	<resource key="action.paste" value="Paste"/>
+	<resource key="action.undo" value="Undo"/>
+	<resource key="action.redo" value="Redo"/>
+	<resource key="action.viewitem" value="View Item"/>
+	<resource key="action.version" value="Version"/>
+	<resource key="action.refreshcontent" value="Refresh Content"/>
+
+	<resource key="action.cannotaddexternalblock" value="The external Technical Document &quot;{0}&quot; cannot be added due to schema restrictions"/>
+	<resource key="action.linkeditordialog" value="Link Editor Dialog"/>
+	<resource key="action.viewelementcondition" value="View Element Condition"/>
+	<resource key="action.changeelementcondition" value="Change Element Condition"/>
+	<resource key="action.removeelementprocesseeddeletion" value="There are external links on selected elements. Proceed with deletion?"/>
+	<resource key="action.schemarestriction" value="Schema restriction: After deletion, the minimum requirement of &quot;{0}&quot; nodes will not be met."/>
+	<resource key="action.schemarestrictionmakeexternal" value="Schema restriction: After the external document is created, the minimum requirement of &quot;{0}&quot; nodes will not be met."/>
+	<resource key="action.attributesdialog" value="Attributes Dialog"/>
+	<resource key="action.documentview" value="Document View"/>
+	<resource key="action.mergeisinvalid" value="This merge is invalid."/>
+	<resource key="action.couldntapplyforrootblock" value="This action does not apply to the root document node."/>
+	<resource key="action.noitemfound" value="No Item Found"/>
+	<resource key="action.nocanaddpermissions" value="You do not have adequate permissions to create new Technical Documents."/>
+	<resource key="action.confirmclassification" value="Added element is associated with the &quot;{0}&quot; classification. Do you want to apply the classification to this item?"/>
+	<resource key="action.cannot_table_here" value="A table element can't be placed here."/>
+	<resource key="action.not_unique_error" value="{0} with {1} already exists."/>
+
+	<resource key="viewmodel.wrongsetblocknametointernalblock" value="Changing the root document node name is not permitted."/>
+	<resource key="viewmodel.byreferenceoutofrange" value="by-reference value is out of range"/>
+	<resource key="viewmodel.externalonlyinlineblocks" value="Only external content can be converted to internal."/>
+	<resource key="viewmodel.indexoutofrange" value="The index out of range."/>
+	<resource key="viewmodel.tablecontainsrowsfromexternalblock" value="The table contains rows from an external Technical Document."/>
+	<resource key="viewmodel.rowcannotbeempty" value="The row can't be empty."/>
+	<resource key="viewmodel.tablecannotbeempty" value="The table can't be empty."/>
+	<resource key="viewmodel.nodewasntcreated" value="A new node was not created."/>
+	<resource key="viewmodel.selectionhasmanylinks" value="The selection has more than one link."/>
+	<resource key="viewmodel.linknodenotfound" value="Link node was not found."/>
+	<resource key="viewmodel.positioniswrong" value="Internal error: Invalid string index"/>
+
+	<resource key="includes.conversiontypenotsupported" value="This conversion type is currently not supported."/>
+	<resource key="includes.waitfortaskcompletion" value="Please wait for task completion."/>
+	<resource key="includes.publishingdialog" value="Publishing Dialog"/>
+	<resource key="includes.overrideconditions" value="External Document condition overrides currently selected conditions for: &quot;{0}&quot;. Local Document condition for those option families will not be taken in account by Document View filtering. Continue to apply?"/>
+	<resource key="includes.usedforrootblock" value="Used for root document"/>
+	<resource key="includes.usedindocument" value="Used in document"/>
+	<resource key="includes.button.add" value="Add"/>
+	<resource key="includes.button.remove" value="Remove"/>
+	<resource key="includes.button.reset" value="Reset"/>
+	<resource key="includes.fieldisrequired" value="The next field: &quot;{0}&quot; is required."/>
+	<resource key="includes.mustselectoneelement" value="You must select only one element."/>
+	<resource key="includes.nouniqueelementid" value="This Document does not have a unique element ID."/>
+	<resource key="includes.actionwasntimplemented" value="Action not implemented."/>
+
+</ui_resources>

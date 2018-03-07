@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<toolbarapplet
+  on_click        = "onToolbarButtonClick"
+  on_load         = "onToolbarLoad"
+  buttonstyle     = "windows"
+  buttonsize      = "26,25"
+  font            = "Arial-8">
+  
+  <toolbar id="tb1">
+    <button image="../images/Refresh.svg" id="refresh" tooltip="刷新表格"  statusmsg="刷新表格" /> 
+    <button image="../images/ViewItem.svg" id="show_item"     tooltip="查看对象"     statusmsg="查看对象"/>
+  </toolbar>
+
+
+</toolbarapplet>
