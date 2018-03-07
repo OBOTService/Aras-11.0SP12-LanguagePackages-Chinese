@@ -5,16 +5,16 @@
  <Item type="Workflow Map Path" keyed_name="1F4FA02B64A84EEA9B0052F62D45D4C1" config_id="1F4FA02B64A84EEA9B0052F62D45D4C1"></Item>
  <Item type="Workflow Map Path" keyed_name="8F6A07BF14B242B785373D054C354606" config_id="8F6A07BF14B242B785373D054C354606"></Item>
  <Item type="Workflow Map Path" keyed_name="67C7886A43C44EFB8E932CE8FB5C5A2B" config_id="67C7886A43C44EFB8E932CE8FB5C5A2B">
-  <property __name="label" en="Begin" zc="" />
+  <property __name="label" en="Begin" zc="开始" />
  </Item>
  <Item type="Workflow Map Path" keyed_name="6D436DE1E5F24E5CBD454DC67D0BC555" config_id="6D436DE1E5F24E5CBD454DC67D0BC555">
-  <property __name="label" en="Submit to Review" zc="" />
+  <property __name="label" en="Submit to Review" zc="提交审批" />
  </Item>
  <Item type="Workflow Map Path" keyed_name="73BE566E1C934A509286AB2E4FDCC0E8" config_id="73BE566E1C934A509286AB2E4FDCC0E8">
-  <property __name="label" en="Close Change" zc="" />
+  <property __name="label" en="Close Change" zc="关闭变更" />
  </Item>
  <Item type="Workflow Map Path" keyed_name="A1AF2A08041D46728DF7167C786C4F8F" config_id="A1AF2A08041D46728DF7167C786C4F8F">
-  <property __name="label" en="Complete" zc="" />
+  <property __name="label" en="Complete" zc="完成" />
  </Item>
  <Item type="Workflow Map Path" keyed_name="55838B06DB904BAB835C680B3BE357FD" config_id="55838B06DB904BAB835C680B3BE357FD"></Item>
  <Item type="Workflow Map Path" keyed_name="6BE835AB7C58435DA4AEC9FE87187CD6" config_id="6BE835AB7C58435DA4AEC9FE87187CD6"></Item>

@@ -765,13 +765,13 @@
   <property __name="label" en="Calculated" zc="" />
  </Item>
  <Item type="Value" keyed_name="144C62109606463682C6978346075604" config_id="144C62109606463682C6978346075604">
-  <property __name="label" en="Pick Only" zc="" />
+  <property __name="label" en="Pick Only" zc="仅选择" />
  </Item>
  <Item type="Value" keyed_name="4022E10A7CBF45A5AAA7DC14D329102D" config_id="4022E10A7CBF45A5AAA7DC14D329102D">
-  <property __name="label" en="Create Only" zc="" />
+  <property __name="label" en="Create Only" zc="仅创建" />
  </Item>
  <Item type="Value" keyed_name="A61B04C8F45845E1B4A054ACBCCB6DAA" config_id="A61B04C8F45845E1B4A054ACBCCB6DAA">
-  <property __name="label" en="Pick Or Create" zc="" />
+  <property __name="label" en="Pick Or Create" zc="选择/创建" />
  </Item>
  <Item type="Value" keyed_name="171E51ABFA1443C5B26AB726B884C6AF" config_id="171E51ABFA1443C5B26AB726B884C6AF">
   <property __name="label" en="Update" zc="" />
@@ -798,10 +798,10 @@
   <property __name="label" en="Save into file" zc="" />
  </Item>
  <Item type="Value" keyed_name="12A7AFA46A4641DDA7CE5EAE5A5E6692" config_id="12A7AFA46A4641DDA7CE5EAE5A5E6692">
-  <property __name="label" en="Once" zc="" />
+  <property __name="label" en="Once" zc="仅一次" />
  </Item>
  <Item type="Value" keyed_name="AADC8ED5448D4CDF9E12F363BD65A82D" config_id="AADC8ED5448D4CDF9E12F363BD65A82D">
-  <property __name="label" en="Always" zc="" />
+  <property __name="label" en="Always" zc="总是" />
  </Item>
  <Item type="Value" keyed_name="5BC98290791442FDA499F026C5EDAA4B" config_id="5BC98290791442FDA499F026C5EDAA4B">
   <property __name="label" en="Properties" zc="" />

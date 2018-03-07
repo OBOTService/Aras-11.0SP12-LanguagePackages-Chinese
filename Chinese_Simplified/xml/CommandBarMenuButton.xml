@@ -1,266 +1,266 @@
 ﻿<export>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.twmm_change_working_dir" config_id="081623DF3CEC47CE9978503FFCA5EA91">
-  <property __name="label" en="Change Working Directory..." zc="" />
+  <property __name="label" en="Change Working Directory..." zc="更改工作目录" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.twmm_promote" config_id="081C96ABC9A649679C9BBE21F8F8CAAE">
-  <property __name="label" en="Promote..." zc="" />
+  <property __name="label" en="Promote..." zc="提升" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.twmm_ShowControlsApiReferenceDotNet" config_id="08ABA7C13BE14CADAFEE7C17C38E1D78">
   <property __name="label" en="API Reference (.NET)" zc="" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.twmm_help_about" config_id="09E00548A45F40939780EAC9C97B89AD">
-  <property __name="label" en="About" zc="" />
+  <property __name="label" en="About" zc="关于" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_new" config_id="0C0A78EC6CDA4869A9FE2DB88E2D032E">
-  <property __name="label" en="New" zc="" />
+  <property __name="label" en="New" zc="新建" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_clear_metadata_cache" config_id="0CC0D2BF44FD410693CF5E28253604A4">
-  <property __name="label" en="Clear Client Metadata Cache" zc="" />
+  <property __name="label" en="Clear Client Metadata Cache" zc="清除客户端缓存" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.twmm_where_used" config_id="0E51710BE7374992A0AC9C83FFF83EAD">
-  <property __name="label" en="Where Used" zc="" />
+  <property __name="label" en="Where Used" zc="用于何处" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.twmm_rotate_cw_90" config_id="12280B4F089C4DFB84CD2BA77A47FD99">
-  <property __name="label" en="Clockwise 90" zc="" />
+  <property __name="label" en="Clockwise 90" zc="顺时针方向 90" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_UnclaimTask" config_id="177386CD76324BBBB8546C9BDBB21881">
-  <property __name="label" en="Unclaim Task" zc="" />
+  <property __name="label" en="Unclaim Task" zc="退领任务" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.twmm_saveSavedSearch" config_id="183FA840CA0F4803BD7A67C95B4573CA">
-  <property __name="label" en="Save Search..." zc="" />
+  <property __name="label" en="Save Search..." zc="保存搜索" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_setDefault_LC" config_id="2027435AAD8C44B78F1D82CDB0373ED3">
-  <property __name="label" en="Set Default Life Cycle" zc="" />
+  <property __name="label" en="Set Default Life Cycle" zc="设置默认生命周期" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.twmm_workflow" config_id="2364CDFF5459441088CD2B20D3DF60ED">
-  <property __name="label" en="Workflow" zc="" />
+  <property __name="label" en="Workflow" zc="工作流" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.twmm_paste" config_id="264F78217C8A4544BD60D84EEAAACFA8">
-  <property __name="label" en="Paste" zc="" />
+  <property __name="label" en="Paste" zc="粘贴" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_download" config_id="28C89801C963486CB823F3EAF2DDFA53">
-  <property __name="label" en="Download" zc="" />
+  <property __name="label" en="Download" zc="下载" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.twmm_structure" config_id="28ED2081FAD84C60A0F82CE554A12578">
-  <property __name="label" en="Structure Browser" zc="" />
+  <property __name="label" en="Structure Browser" zc="结构浏览" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.twmm_search" config_id="2C5C491AD0844C4E907EAAF05C57D55F">
-  <property __name="label" en="Run Search" zc="" />
+  <property __name="label" en="Run Search" zc="执行查询" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.twmm_export2Excel" config_id="2E46738C3F7E4C88A0079A95BF93E8F7">
-  <property __name="label" en="Export To Excel" zc="" />
+  <property __name="label" en="Export To Excel" zc="导出Excel" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_saveSavedSearch" config_id="35E320A789BB4CF4AB83EBD1FCF51F56">
-  <property __name="label" en="Save Search..." zc="" />
+  <property __name="label" en="Save Search..." zc="保存查询" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_deleteSavedSearch" config_id="3F073F3C3DD2427596394D7367907B8D">
-  <property __name="label" en="Delete Saved Search..." zc="" />
+  <property __name="label" en="Delete Saved Search..." zc="删除保存的查询" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_import_feature_license" config_id="426346515D164381AD8BE93F648650AF">
-  <property __name="label" en="Import Feature License" zc="" />
+  <property __name="label" en="Import Feature License" zc="导入许可证" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.twmm_unlock" config_id="4485E0C21F814EC6AB55E5E6BBE2EDAE">
-  <property __name="label" en="Unlock" zc="" />
+  <property __name="label" en="Unlock" zc="解锁" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_Logout" config_id="47819620A46C42FBB57B7891B8ABCE4A">
-  <property __name="label" en="Logout" zc="" />
+  <property __name="label" en="Logout" zc="注销" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_new_user_report" config_id="4AE5117DBCCC4D5BB2EEB63F2C9D36E7">
-  <property __name="label" en="New Report" zc="" />
+  <property __name="label" en="New Report" zc="新报表" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_change_esignature" config_id="4B3E8C7D453541BF9C4D93228E7673CD">
-  <property __name="label" en="Change E-Signature" zc="" />
+  <property __name="label" en="Change E-Signature" zc="更改电子签名" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_edit" config_id="4B611BB6A58B4C33B4F3F2349A31F2D0">
-  <property __name="label" en="Edit" zc="" />
+  <property __name="label" en="Edit" zc="编辑" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.twmm_ShowControlsApiReferenceJavaScript" config_id="500013160DDE4312ACBE6F3FD1F9A5BF">
   <property __name="label" en="API Reference (JavaScript)" zc="" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_paste_special" config_id="52B1E1AEDE974EA58917F0FA20AD3AF2">
-  <property __name="label" en="Paste Special" zc="" />
+  <property __name="label" en="Paste Special" zc="特殊粘贴" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_delete" config_id="5467FCA5028E48D9AFBC9B51D384EFCC">
-  <property __name="label" en="Delete" zc="" />
+  <property __name="label" en="Delete" zc="删除" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_open" config_id="54A41795298944A3BE9052A4A967781F">
-  <property __name="label" en="Open" zc="" />
+  <property __name="label" en="Open" zc="打开" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_lock" config_id="55E7556BEF874DC0BB5ACA063AA41FB0">
-  <property __name="label" en="Lock" zc="" />
+  <property __name="label" en="Lock" zc="锁定" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_help_about" config_id="5F61D98313BF4C4DB4797B41387507F2">
-  <property __name="label" en="About" zc="" />
+  <property __name="label" en="About" zc="关于" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_revisions" config_id="605FD612276B4F84BC9AC0C9C2C4C968">
-  <property __name="label" en="Revisions..." zc="" />
+  <property __name="label" en="Revisions..." zc="全部版本" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.twmm_lifecycle" config_id="62C24733CBA249009221C29B6AE0E795">
-  <property __name="label" en="LifeCycle" zc="" />
+  <property __name="label" en="LifeCycle" zc="生命周期" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_delete_user_preferences" config_id="63C841C272064C2CBF34FA087B519191">
-  <property __name="label" en="Delete User Preferences..." zc="" />
+  <property __name="label" en="Delete User Preferences..." zc="删除个人首选项" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.twmm_revisions_edit" config_id="68803E823DB34A7FA041E49CE9763846">
-  <property __name="label" en="Revisions..." zc="" />
+  <property __name="label" en="Revisions..." zc="全部版本" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.twmm_revisions" config_id="729FE37B1D584F3B92D3E8EACFF572A0">
-  <property __name="label" en="Revisions" zc="" />
+  <property __name="label" en="Revisions" zc="全部版本" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_ShowControlsApiReferenceJavaScript" config_id="72BABBCC7C3C42058CBD10D0C2B11AD5">
   <property __name="label" en="API Reference (JavaScript)" zc="" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.twmm_purge" config_id="793B64C8E1164B4692527A8EC593EE7F">
-  <property __name="label" en="Purge" zc="" />
+  <property __name="label" en="Purge" zc="清除" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_unlock" config_id="7F69A2302AFE42FCB501CC4C1A2CB0C3">
-  <property __name="label" en="Unlock" zc="" />
+  <property __name="label" en="Unlock" zc="解锁" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_view" config_id="86FA5204E4B34CAA9B1AA989ECB23B27">
-  <property __name="label" en="View" zc="" />
+  <property __name="label" en="View" zc="查看" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_activate_feature" config_id="94A5F962D5FA47C1A55230EB36B831BD">
-  <property __name="label" en="Activate Feature" zc="" />
+  <property __name="label" en="Activate Feature" zc="激活功能" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_addItem2Package" config_id="9811F7A4A6794183BA040457DD3A209E">
-  <property __name="label" en="Add To Package Definition" zc="" />
+  <property __name="label" en="Add To Package Definition" zc="添加至包定义" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.twmm_paste_special" config_id="9CA08C5193A74561B1338BCCD61372B7">
-  <property __name="label" en="Paste Special" zc="" />
+  <property __name="label" en="Paste Special" zc="特殊粘贴" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.twmm_open" config_id="9D8BA5618C8447BA8F539705BC337059">
-  <property __name="label" en="Open" zc="" />
+  <property __name="label" en="Open" zc="打开" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_export2Excel" config_id="9F0CD0D25DAC492B97A9ED419C05C41E">
-  <property __name="label" en="Export To Excel" zc="" />
+  <property __name="label" en="Export To Excel" zc="导出至Excel" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.twmm_preferences" config_id="A076D6D3722447E78E0DFC7E1176D31D">
-  <property __name="label" en="Preferences" zc="" />
+  <property __name="label" en="Preferences" zc="首选项" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_undo" config_id="A213ADA0FDF144FE96D47D9606CF6C0C">
-  <property __name="label" en="Undo changes" zc="" />
+  <property __name="label" en="Undo changes" zc="撤销变更" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.twmm_refresh" config_id="A62C78D6521F47D5B77200E779169B1E">
-  <property __name="label" en="Refresh" zc="" />
+  <property __name="label" en="Refresh" zc="刷新" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_search" config_id="AB0B8CFFEB3D41CDA9F46584A1323ADA">
-  <property __name="label" en="Run Search" zc="" />
+  <property __name="label" en="Run Search" zc="执行搜索" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_show_clipboard" config_id="AB84A0C3910E4778B8AB064D4CE141E5">
-  <property __name="label" en="Show Clipboard" zc="" />
+  <property __name="label" en="Show Clipboard" zc="打开剪贴板" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_change_working_dir" config_id="ACDB1DE99EFE4E38B27D49DE11332AAE">
-  <property __name="label" en="Change Working Directory..." zc="" />
+  <property __name="label" en="Change Working Directory..." zc="更改工作目录" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.twmm_download" config_id="AE5696865F75472C94C5BBB23BC4F310">
-  <property __name="label" en="Download" zc="" />
+  <property __name="label" en="Download" zc="下载" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.twmm_rotate_ccw_90" config_id="AE9BFDAAB53E4B82B2C92499B2535075">
-  <property __name="label" en="Counterclockwise 90" zc="" />
+  <property __name="label" en="Counterclockwise 90" zc="逆时针旋转 90" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.twmm_new" config_id="B4A4336669E147288AF4CC3BBF770082">
-  <property __name="label" en="New" zc="" />
+  <property __name="label" en="New" zc="新建" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.twmm_delete" config_id="BBAA075C4EA24653A1A6B4A9A1EB5C38">
-  <property __name="label" en="Delete" zc="" />
+  <property __name="label" en="Delete" zc="删除" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_view_feature_tree" config_id="BD2C771B619E46099E87B77C98347591">
-  <property __name="label" en="View Feature Tree" zc="" />
+  <property __name="label" en="View Feature Tree" zc="查看功能树" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_reset_itemAccess" config_id="BFD474045FE44298A086080AA65DCD0C">
-  <property __name="label" en="Reset Item Access" zc="" />
+  <property __name="label" en="Reset Item Access" zc="重置对象访问" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_current_session" config_id="C03A15A8E0184AF9BF42D8FC44ADBFD6">
-  <property __name="label" en="About My Session" zc="" />
+  <property __name="label" en="About My Session" zc="我的登录信息" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.twmm_show_clipboard" config_id="C20D46E991DA4100B49111280A7AF6F7">
-  <property __name="label" en="Show Clipboard" zc="" />
+  <property __name="label" en="Show Clipboard" zc="打开剪贴板" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_paste" config_id="C4AAA3A1F6184F3783AD4A45C8D8AEE7">
-  <property __name="label" en="Paste" zc="" />
+  <property __name="label" en="Paste" zc="粘贴" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.twmm_history" config_id="C5F38977C39D4B24A4A50A712E1FFE26">
-  <property __name="label" en="History" zc="" />
+  <property __name="label" en="History" zc="历史" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_export2Word" config_id="C7DDE177530141CBAB8166D5B9F763EC">
-  <property __name="label" en="Export To Word" zc="" />
+  <property __name="label" en="Export To Word" zc="导出至Word" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.twmm_undo" config_id="C8A7BE2AB0F64F8F8E4C0F923AC6C76A">
-  <property __name="label" en="Undo changes" zc="" />
+  <property __name="label" en="Undo changes" zc="撤销变更" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_print" config_id="CC60007C50064B87BA5B7B070CA594A2">
-  <property __name="label" en="Printable View" zc="" />
+  <property __name="label" en="Printable View" zc="打印预览" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_update_feature_tree" config_id="CED22B68390F4855915EDF29869DFA5E">
-  <property __name="label" en="Update Feature Tree" zc="" />
+  <property __name="label" en="Update Feature Tree" zc="更新功能树" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_users_management" config_id="CFFA05B1CF584168BEB4E5E33239B791">
-  <property __name="label" en="License Manager" zc="" />
+  <property __name="label" en="License Manager" zc="许可证管理" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.twmm_print" config_id="D049E759F22F405B96A4EFC2A733956F">
-  <property __name="label" en="Printable View" zc="" />
+  <property __name="label" en="Printable View" zc="打印预览" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.twmm_help_context" config_id="D0DB6B59BFA7421EA70828B6CB823EB1">
-  <property __name="label" en="Just Ask Innovator" zc="" />
+  <property __name="label" en="Just Ask Innovator" zc="什么是Innovator?" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.twmm_save" config_id="D8BB1A17828F4399819DCBE483F879BC">
-  <property __name="label" en="Save" zc="" />
+  <property __name="label" en="Save" zc="保存" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_CompleteTask" config_id="D972402CA50B492FAACC4DF2EB5D3AB0">
-  <property __name="label" en="Complete Task" zc="" />
+  <property __name="label" en="Complete Task" zc="完成任务" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.twmm_properties" config_id="D9F53F717773467BBF29972F97C97A0D">
-  <property __name="label" en="Properties" zc="" />
+  <property __name="label" en="Properties" zc="属性" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.twmm_export2Word" config_id="DA9E6BDA4655423D8ABB389D6D16158E">
-  <property __name="label" en="Export To Word" zc="" />
+  <property __name="label" en="Export To Word" zc="导出至Word" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_change_passwd" config_id="DB6E4F64AB9F4C658AE97A6B9E0C69D7">
-  <property __name="label" en="Change Password" zc="" />
+  <property __name="label" en="Change Password" zc="更改密码" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_copy2clipboard" config_id="DE1924056D4D4163BA42CFCBB95101AA">
-  <property __name="label" en="Copy" zc="" />
+  <property __name="label" en="Copy" zc="复制" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_promote" config_id="E1044EBBB60E445B90F5C2A1255A5981">
-  <property __name="label" en="Promote..." zc="" />
+  <property __name="label" en="Promote..." zc="提升" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_purge" config_id="E1AAA4419FFA4773B29A1F3DDA518EC8">
-  <property __name="label" en="Purge" zc="" />
+  <property __name="label" en="Purge" zc="清除" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.twmm_copy2clipboard" config_id="E5A5D0FD460749369DCF223A31004C53">
-  <property __name="label" en="Copy" zc="" />
+  <property __name="label" en="Copy" zc="复制" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_ShowControlsApiReferenceDotNet" config_id="E8AA4F7832DD44B297439871226E264F">
   <property __name="label" en="API Reference (.NET)" zc="" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_help_context" config_id="EB758D9F11684EC98E7C091E4973DC19">
-  <property __name="label" en="Just Ask Innovator" zc="" />
+  <property __name="label" en="Just Ask Innovator" zc="什么是Innovator?" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_ClaimTask" config_id="F0EAE4C4454D447D9FF5CBA72DAA1D4A">
-  <property __name="label" en="Claim Task" zc="" />
+  <property __name="label" en="Claim Task" zc="申领任务" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.twmm_lock" config_id="F11787F6C1D1498D9BE85E56EF0B7220">
-  <property __name="label" en="Lock" zc="" />
+  <property __name="label" en="Lock" zc="锁定" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.twmm_deleteSavedSearch" config_id="F68B3581241A414E957745FEDC04013C">
-  <property __name="label" en="Delete Saved Search..." zc="" />
+  <property __name="label" en="Delete Saved Search..." zc="删除保存的搜索" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_rebuild_keyedname" config_id="F8859D9DF0514E838AA43601AAD2F5D0">
-  <property __name="label" en="Rebuild Keyed Names" zc="" />
+  <property __name="label" en="Rebuild Keyed Names" zc="重建关键字" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_save" config_id="FABB836D26E44DDA81D1EE0ECDDBD6C3">
-  <property __name="label" en="Save" zc="" />
+  <property __name="label" en="Save" zc="保存" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_reset_LFS" config_id="FACEDAE0CB724677BDA0CBAE7D5CF44A">
-  <property __name="label" en="Reset Life Cycle State" zc="" />
+  <property __name="label" en="Reset Life Cycle State" zc="重置生命周期" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.twmm_save_unlock_close" config_id="FCF20028271F420987FDECB237F5E005">
-  <property __name="label" en="Save, Unlock &amp; Close" zc="" />
+  <property __name="label" en="Save, Unlock &amp; Close" zc="保存,解锁并关闭" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_saveAs" config_id="FE2BA8ECE1AB4BD390B722E30099C083">
-  <property __name="label" en="Save As" zc="" />
+  <property __name="label" en="Save As" zc="另存为" />
  </Item>
  <Item type="CommandBarMenuButton" keyed_name="com.aras.innovator.cui_default.mwmm_refresh" config_id="FF71AAE17C4A414DB506B0F887EC843D">
-  <property __name="label" en="Refresh" zc="" />
+  <property __name="label" en="Refresh" zc="刷新" />
  </Item>
 </export>

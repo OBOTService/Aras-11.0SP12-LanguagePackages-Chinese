@@ -10,10 +10,10 @@
  <Item type="Life Cycle State" keyed_name="Preferred" config_id="FD52D6BC7ED946D2A80D36949E80E285"></Item>
  <Item type="Life Cycle State" keyed_name="Preliminary" config_id="64FA74510C3F4EDF81E6BDB03341AB12"></Item>
  <Item type="Life Cycle State" keyed_name="Complete" config_id="BA1A1EE3F17F4B3AAAC3C592F6B09563">
-  <property __name="label" en="Complete" zc="" />
+  <property __name="label" en="Complete" zc="完成" />
  </Item>
  <Item type="Life Cycle State" keyed_name="InWork" config_id="036E1E15552F402685D202C2582C385E">
-  <property __name="label" en="InWork" zc="" />
+  <property __name="label" en="InWork" zc="编辑中" />
  </Item>
  <Item type="Life Cycle State" keyed_name="In Planning" config_id="863454C9F8244504975747D61C55A2E3"></Item>
  <Item type="Life Cycle State" keyed_name="In Review" config_id="C3163830754F4C1F88D3BC8464A54DB5"></Item>
@@ -22,10 +22,10 @@
  <Item type="Life Cycle State" keyed_name="Released" config_id="1640425DE7994B42B04DA3B97DE556EE"></Item>
  <Item type="Life Cycle State" keyed_name="Released" config_id="C363ABDADF8D485393BB89877DBDCFD0"></Item>
  <Item type="Life Cycle State" keyed_name="In Work" config_id="39908BCCE85C40D2A289FB0DF99D8016">
-  <property __name="label" en="In Work" zc="" />
+  <property __name="label" en="In Work" zc="编辑中" />
  </Item>
  <Item type="Life Cycle State" keyed_name="Released" config_id="A024125B90EC4C50863BA2EAD8C5DE09">
-  <property __name="label" en="Released" zc="" />
+  <property __name="label" en="Released" zc="发布" />
  </Item>
  <Item type="Life Cycle State" keyed_name="In Change" config_id="15C0693B06B342109C24F91AFCFF9B3D"></Item>
  <Item type="Life Cycle State" keyed_name="In Review" config_id="8242F1E396B24FB78CFCA296A04DDF69"></Item>
@@ -34,10 +34,10 @@
  <Item type="Life Cycle State" keyed_name="Released" config_id="8EDE39438A7E4A56A1B4A9D07EF4A2FF"></Item>
  <Item type="Life Cycle State" keyed_name="Superseded" config_id="D06418A2D8EB4BC2889F947218E34B5B"></Item>
  <Item type="Life Cycle State" keyed_name="Active" config_id="8810E54824724E829CA142328A6C537F">
-  <property __name="label" en="Active" zc="" />
+  <property __name="label" en="Active" zc="激活" />
  </Item>
  <Item type="Life Cycle State" keyed_name="Inactive" config_id="B3842A28E45347408BE9A46ECC33F66C">
-  <property __name="label" en="Inactive" zc="" />
+  <property __name="label" en="Inactive" zc="未激活" />
  </Item>
  <Item type="Life Cycle State" keyed_name="Approved" config_id="13FBED62EC82468082D858FA66EEF020"></Item>
  <Item type="Life Cycle State" keyed_name="Inactive" config_id="79D1E341BC654E988A0BCADA4DDA9559"></Item>
@@ -64,25 +64,25 @@
  <Item type="Life Cycle State" keyed_name="New" config_id="A68A46536EA2475495386C1A7D803D35"></Item>
  <Item type="Life Cycle State" keyed_name="Released" config_id="EEA332AD8EAA4320B9A1FA4B630153EA"></Item>
  <Item type="Life Cycle State" keyed_name="Cancelled" config_id="D13A26372B7B42A28162CBDF67AEFC2C">
-  <property __name="label" en="Cancelled" zc="" />
+  <property __name="label" en="Cancelled" zc="已取消" />
  </Item>
  <Item type="Life Cycle State" keyed_name="In Planning" config_id="65E5827FD90243A79CFFF62A67850D29">
-  <property __name="label" en="In Planning" zc="" />
+  <property __name="label" en="In Planning" zc="计划中" />
  </Item>
  <Item type="Life Cycle State" keyed_name="In Review" config_id="FB0688A0DD8B4FB2811B4E5F5D128617">
-  <property __name="label" en="In Review" zc="" />
+  <property __name="label" en="In Review" zc="审批中" />
  </Item>
  <Item type="Life Cycle State" keyed_name="In Work" config_id="FFFF270B50B749D4B9F31DC207BB3996">
-  <property __name="label" en="In Work" zc="" />
+  <property __name="label" en="In Work" zc="编辑中" />
  </Item>
  <Item type="Life Cycle State" keyed_name="New" config_id="AEE8C1553B3A4C50AB67EEDE69CBBA9C">
-  <property __name="label" en="New" zc="" />
+  <property __name="label" en="New" zc="新建" />
  </Item>
  <Item type="Life Cycle State" keyed_name="Plan Review" config_id="8DEB314F1F0143A48CA8440232058029">
-  <property __name="label" en="Plan Review" zc="" />
+  <property __name="label" en="Plan Review" zc="计划审批" />
  </Item>
  <Item type="Life Cycle State" keyed_name="Released" config_id="13A108B025D54A56886DB101610EA719">
-  <property __name="label" en="Released" zc="" />
+  <property __name="label" en="Released" zc="已发布" />
  </Item>
  <Item type="Life Cycle State" keyed_name="Complete" config_id="C57C869234B34F1BAB05CF99BC2F9A7F"></Item>
  <Item type="Life Cycle State" keyed_name="Active" config_id="348A09DDD3E34CAFA837984AD1426D9C"></Item>
@@ -90,7 +90,7 @@
  <Item type="Life Cycle State" keyed_name="Pending" config_id="1029A07345304817B89813EFF7A48367"></Item>
  <Item type="Life Cycle State" keyed_name="Released" config_id="8493D0CB071447858D15F0CD5B3A937D"></Item>
  <Item type="Life Cycle State" keyed_name="Start" config_id="A19F8DFC829349B79928EE674977ED5F">
-  <property __name="label" en="In-Work" zc="" />
+  <property __name="label" en="In-Work" zc="编辑中" />
  </Item>
  <Item type="Life Cycle State" keyed_name="Cancelled" config_id="5D43BE08581C464F8C7309413AFFFDC3"></Item>
  <Item type="Life Cycle State" keyed_name="Disapproved" config_id="7B1C02836947422CA678B014426A6037"></Item>
@@ -118,19 +118,19 @@
  <Item type="Life Cycle State" keyed_name="Preliminary" config_id="D7CE5C4562004DEAB362B73B75E0B6A4"></Item>
  <Item type="Life Cycle State" keyed_name="Released" config_id="F08211E432904F5DA4D191EF5ED6F3DF"></Item>
  <Item type="Life Cycle State" keyed_name="Cancelled" config_id="A1B4713F65314E18B04E3DD67686DD3D">
-  <property __name="label" en="Cancelled" zc="" />
+  <property __name="label" en="Cancelled" zc="已取消" />
  </Item>
  <Item type="Life Cycle State" keyed_name="In Review" config_id="FEE0AB70A3D34D379854AFDFE01B6DBD">
-  <property __name="label" en="In Review" zc="" />
+  <property __name="label" en="In Review" zc="审批中" />
  </Item>
  <Item type="Life Cycle State" keyed_name="In Work" config_id="C3F4E64625DF4C06B3044E5EB159A97F">
-  <property __name="label" en="In Work" zc="" />
+  <property __name="label" en="In Work" zc="编辑中" />
  </Item>
  <Item type="Life Cycle State" keyed_name="New" config_id="7F99A486678A4C258D39D0A2F1DA80DA">
-  <property __name="label" en="New" zc="" />
+  <property __name="label" en="New" zc="新建" />
  </Item>
  <Item type="Life Cycle State" keyed_name="Released" config_id="73E88F15B38047108543B9227E6AD2A2">
-  <property __name="label" en="Released" zc="" />
+  <property __name="label" en="Released" zc="已发布" />
  </Item>
  <Item type="Life Cycle State" keyed_name="In Change" config_id="BE7478E822444326A2EC9F1E11A88963"></Item>
  <Item type="Life Cycle State" keyed_name="In Review" config_id="AA93A121BC7346C4907F69820303D2A4"></Item>
@@ -151,15 +151,15 @@
  <Item type="Life Cycle State" keyed_name="Unverified" config_id="CD04C039F7A047D4A9DA20F44B013969"></Item>
  <Item type="Life Cycle State" keyed_name="Verified" config_id="3B52EA99882F4EB99FD41684E89B26E3"></Item>
  <Item type="Life Cycle State" keyed_name="Active" config_id="0FB5A0AE9FA749A58253697B85D301F8">
-  <property __name="label" en="Active" zc="" />
+  <property __name="label" en="Active" zc="激活" />
  </Item>
  <Item type="Life Cycle State" keyed_name="Archived" config_id="D546C522EE424F4BA3C0E809DB161AF8">
-  <property __name="label" en="Archived" zc="" />
+  <property __name="label" en="Archived" zc="已存档" />
  </Item>
  <Item type="Life Cycle State" keyed_name="Inactive" config_id="9F59E1C5A95048F58EE251E8D77E5F8F">
-  <property __name="label" en="Inactive" zc="" />
+  <property __name="label" en="Inactive" zc="未激活" />
  </Item>
  <Item type="Life Cycle State" keyed_name="Preliminary" config_id="858591111C6E4F1487C9729AE6816F7C">
-  <property __name="label" en="Preliminary" zc="" />
+  <property __name="label" en="Preliminary" zc="草稿" />
  </Item>
 </export>

@@ -8,7 +8,7 @@
  </Item>
  <Item type="Field" keyed_name="item_info" config_id="576B3F0CA696402CB0951AA90097006F"></Item>
  <Item type="Field" keyed_name="name" config_id="6D46CA341C3D414388A2829D2B75E963">
-  <property __name="label" en="Name" zc="" />
+  <property __name="label" en="Name" zc="名称" />
  </Item>
  <Item type="Field" keyed_name="presentation_config_form" config_id="B257DE1B37C44652A2A1491991621F20"></Item>
  <Item type="Field" keyed_name="query_definition" config_id="DC405ADC33154FE6942996A4CD000CEE">

@@ -1,661 +1,661 @@
 ﻿<export>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_tool_undo" config_id="00EBB8A45A634179843E5F9FE19DB527">
-  <property __name="tooltip_template" en="Undo Changes on Item" zc="" />
-  <property __name="label" en="Undo  " zc="" />
+  <property __name="tooltip_template" en="Undo Changes on Item" zc="撤销更改" />
+  <property __name="label" en="Undo  " zc="撤销更改" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_normal_refresh" config_id="0231BE2BC09B457D9551C997A676DB11">
-  <property __name="tooltip_template" en="Refresh Item" zc="" />
-  <property __name="label" en="Refresh" zc="" />
+  <property __name="tooltip_template" en="Refresh Item" zc="刷新" />
+  <property __name="label" en="Refresh" zc="刷新" />
  </Item>
  <Item type="CommandBarButton" keyed_name="mp_ShowEditor" config_id="027BFDBC24F94351AC9FDD78E9290D0E">
-  <property __name="tooltip_template" en="MAC Policy Editor" zc="" />
-  <property __name="label" en="Show Editor" zc="" />
+  <property __name="tooltip_template" en="MAC Policy Editor" zc="编辑" />
+  <property __name="label" en="Show Editor" zc="编辑" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnLabelBlue" config_id="03510FA5FEE84DCD8E32F9EB29BFA78F">
-  <property __name="tooltip_template" en="Blue" zc="" />
-  <property __name="label" en="Blue color" zc="" />
+  <property __name="tooltip_template" en="Blue" zc="蓝色" />
+  <property __name="label" en="Blue color" zc="蓝色" />
  </Item>
  <Item type="CommandBarButton" keyed_name="mpo_unlockItem" config_id="0372C542370742DCBB16ABCC8215377E">
-  <property __name="tooltip_template" en="Unlock Item" zc="" />
-  <property __name="label" en="Unlock Item" zc="" />
+  <property __name="tooltip_template" en="Unlock Item" zc="解锁" />
+  <property __name="label" en="Unlock Item" zc="解锁" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_normal_save" config_id="04C4AC915C9347CBB590E4C5F6DE4F6E">
-  <property __name="tooltip_template" en="Save Item" zc="" />
-  <property __name="label" en="Save  " zc="" />
+  <property __name="tooltip_template" en="Save Item" zc="保存" />
+  <property __name="label" en="Save  " zc="保存" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.mwt_es_search_button" config_id="04D67A2EE86A463087A402B031CAFC22"></Item>
  <Item type="CommandBarButton" keyed_name="cmf_show_editor" config_id="05706351DB5040909C9A09AB501B984B">
-  <property __name="tooltip_template" en="Editor for ${ItemType:label} ${Item:keyed_name}" zc="" />
-  <property __name="label" en="Show Editor" zc="" />
+  <property __name="tooltip_template" en="Editor for ${ItemType:label} ${Item:keyed_name}" zc="编辑${ItemType:label} ${Item:keyed_name}" />
+  <property __name="label" en="Show Editor" zc="编辑" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnCompare" config_id="05CF3B72CA8D4D01884E806F0AEC0C0B">
-  <property __name="tooltip_template" en="Compare Files" zc="" />
-  <property __name="label" en="Compare Files" zc="" />
+  <property __name="tooltip_template" en="Compare Files" zc="文件对比" />
+  <property __name="label" en="Compare Files" zc="文件对比" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_ly2" config_id="05FE568C91DB469C81CDEA2B462641CD"></Item>
  <Item type="CommandBarButton" keyed_name="btnViewFile" config_id="07012173E2F0447097B9A9A433DF3160">
-  <property __name="tooltip_template" en="Print" zc="" />
-  <property __name="label" en="Printable View" zc="" />
+  <property __name="tooltip_template" en="Print" zc="打印" />
+  <property __name="label" en="Printable View" zc="打印预览" />
  </Item>
  <Item type="CommandBarButton" keyed_name="xClass_ShowForm" config_id="072FF5DF20E74349B78B5444CC09FBFE">
-  <property __name="label" en="Show Form" zc="" />
+  <property __name="label" en="Show Form" zc="显示窗体" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_workflow_unlock" config_id="0764FB80053C4F968EC7640E08289311">
-  <property __name="tooltip_template" en="Unlock Item" zc="" />
-  <property __name="label" en="Unlock  " zc="" />
+  <property __name="tooltip_template" en="Unlock Item" zc="解锁" />
+  <property __name="label" en="Unlock  " zc="解锁" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnHighlightGrey" config_id="0B5C86F448B9472EBF17E6EDACCF3E38">
-  <property __name="tooltip_template" en="Grey" zc="" />
-  <property __name="label" en="Grey color" zc="" />
+  <property __name="tooltip_template" en="Grey" zc="灰色" />
+  <property __name="label" en="Grey color" zc="灰色" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnLabelYellow" config_id="0B71823F621348608F3856EDA4577321">
-  <property __name="tooltip_template" en="Yellow" zc="" />
-  <property __name="label" en="Yellow color" zc="" />
+  <property __name="tooltip_template" en="Yellow" zc="黄色" />
+  <property __name="label" en="Yellow color" zc="黄色" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.mwt_inbasket_toolbar_ViewProcess" config_id="0BA5A9EEA71F4E45888478BB86BB5649">
-  <property __name="tooltip_template" en="View the Workflow Process" zc="" />
+  <property __name="tooltip_template" en="View the Workflow Process" zc="查看工作流" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.mwt_main_toolbar_export2Excel" config_id="0BB8B513B23B42AA82CB5B410F0C4D8E">
-  <property __name="tooltip_template" en="Export To Excel" zc="" />
-  <property __name="label" en="Export To Excel" zc="" />
+  <property __name="tooltip_template" en="Export To Excel" zc="导出至Excel" />
+  <property __name="label" en="Export To Excel" zc="导出至Excel" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_select_ly10" config_id="0C35993E045D4E7EBB831E52E6C534A2"></Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_workflow_export2Word" config_id="0E0698AA7DB444D8BA1ACFACC38D5A23">
-  <property __name="tooltip_template" en="Export To Word" zc="" />
-  <property __name="label" en=" Export To Word " zc="" />
+  <property __name="tooltip_template" en="Export To Word" zc="导出至Word" />
+  <property __name="label" en=" Export To Word " zc="导出至Word" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_tool_export2Excel" config_id="0E9BECE457B848A08E867B0FE4D54881">
-  <property __name="tooltip_template" en="Export To Excel" zc="" />
-  <property __name="label" en=" Export To Excel " zc="" />
+  <property __name="tooltip_template" en="Export To Excel" zc="导出至Excel" />
+  <property __name="label" en=" Export To Excel " zc="导出至Excel" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.mwt_inbasket_toolbar_ClaimActivity" config_id="0F25215428A846F3BE050A684D635748">
-  <property __name="tooltip_template" en="Lock Activity" zc="" />
+  <property __name="tooltip_template" en="Lock Activity" zc="锁定活动" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnLightBlue" config_id="0F2AFBB8A816489F8FCED71AA5E20C29">
-  <property __name="tooltip_template" en="Blue" zc="" />
-  <property __name="label" en="Light blue color" zc="" />
+  <property __name="tooltip_template" en="Blue" zc="蓝色" />
+  <property __name="label" en="Light blue color" zc="亮蓝色" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_edit_ly3" config_id="1064EB0A1243458098CD20060CE8E4E4"></Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_ly6" config_id="10D4AD2994B5480B8025AFDFBD73CCEC"></Item>
  <Item type="CommandBarButton" keyed_name="btnDownloadMarkup" config_id="10D610E72B57409A907E974288FA2FFD">
-  <property __name="tooltip_template" en="Download File" zc="" />
-  <property __name="label" en="Download File" zc="" />
+  <property __name="tooltip_template" en="Download File" zc="下载文件" />
+  <property __name="label" en="Download File" zc="下载文件" />
  </Item>
  <Item type="CommandBarButton" keyed_name="tp_deletelink" config_id="11234FDBB27C441E9BCEADEE347ADB30">
-  <property __name="label" en="Delete link" zc="" />
+  <property __name="label" en="Delete link" zc="下载链接" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_workflow_save_unlock_close" config_id="1468A8CF13EB4841A48178427BC416C5">
-  <property __name="tooltip_template" en="Save, Unlock &amp; Close" zc="" />
-  <property __name="label" en="Save, Unlock &amp; Close  " zc="" />
+  <property __name="tooltip_template" en="Save, Unlock &amp; Close" zc="保存,解锁并关闭" />
+  <property __name="label" en="Save, Unlock &amp; Close  " zc="保存,解锁并关闭" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_select_ly3" config_id="15F8B5192C0B4CBD9A64B6F0F6D9617A"></Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.mwt_inbasket_toolbar_Vote" config_id="161A4FBCB04C4C348192C72C9AB0A2E5">
-  <property __name="tooltip_template" en="Update the Activity" zc="" />
+  <property __name="tooltip_template" en="Update the Activity" zc="更新活动" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_view_ly1" config_id="1626A8A717E24A51AB51A0DCEA11A117"></Item>
  <Item type="CommandBarButton" keyed_name="tp_showxml" config_id="17BE66B3D40B4094A649E6FE724A2A50">
-  <property __name="label" en="Show XML" zc="" />
+  <property __name="label" en="Show XML" zc="显示XML" />
  </Item>
  <Item type="CommandBarButton" keyed_name="tp_show_editor" config_id="18349B59B3C8483C9EE7C0545FCDC318">
-  <property __name="tooltip_template" en="Tech Doc Editor" zc="" />
-  <property __name="label" en="Show Editor" zc="" />
+  <property __name="tooltip_template" en="Tech Doc Editor" zc="编辑" />
+  <property __name="label" en="Show Editor" zc="编辑" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnBasicSwitch" config_id="192FA73D074B40C59BCFFBDB80A172BF">
   <property __name="tooltip_template" en="Switch To Standard Toolbar" zc="" />
-  <property __name="label" en="Switch To Standard Toolbar" zc="" />
+  <property __name="label" en="Switch To Standard Toolbar" zc="切换至标准工具栏" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.mwt_main_toolbar_lock" config_id="1992B00BEAB5479FADD6751B074DEDB2">
-  <property __name="tooltip_template" en="Lock Item" zc="" />
-  <property __name="label" en="Lock" zc="" />
+  <property __name="tooltip_template" en="Lock Item" zc="锁定" />
+  <property __name="label" en="Lock" zc="锁定" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnBlack" config_id="1A0BCEB653C542B0801A649170E6413E">
-  <property __name="tooltip_template" en="Black" zc="" />
-  <property __name="label" en="Black color" zc="" />
+  <property __name="tooltip_template" en="Black" zc="黑色" />
+  <property __name="label" en="Black color" zc="黑色" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_select_ly9" config_id="1BD0BC83225B430D9F8D9BC82C0410AA"></Item>
  <Item type="CommandBarButton" keyed_name="xClassTreeEditorMainToolbar_Expand" config_id="1BFB1A346722405186552D5B27CD4F86">
-  <property __name="tooltip_template" en="Expand" zc="" />
+  <property __name="tooltip_template" en="Expand" zc="展开" />
  </Item>
  <Item type="CommandBarButton" keyed_name="mpo_addItem" config_id="1C23854108BE412880F02BE8344C519C">
-  <property __name="tooltip_template" en="Add Item" zc="" />
-  <property __name="label" en="Add Item" zc="" />
+  <property __name="tooltip_template" en="Add Item" zc="添加对象" />
+  <property __name="label" en="Add Item" zc="添加对象" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_normal_revisions" config_id="1C5E8FCDD4A44DA483D377D3E3DF5762">
   <property __name="tooltip_template" en="View Revisions for Item" zc="" />
-  <property __name="label" en="All Revs " zc="" />
+  <property __name="label" en="All Revs " zc="全部版本" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_view_ly5" config_id="1C6FE73E8976402BA527208ACA1F8A32"></Item>
  <Item type="CommandBarButton" keyed_name="qry_ShowEditor" config_id="1E29BA51169C45A7AFA95DFA3E47E38E">
-  <property __name="label" en="Show Editor" zc="" />
+  <property __name="label" en="Show Editor" zc="编辑" />
  </Item>
  <Item type="CommandBarButton" keyed_name="mp_ShowForm" config_id="1E3AE43297BE4EFCAE34ABA14282EF32">
-  <property __name="tooltip_template" en="Form" zc="" />
-  <property __name="label" en="Show Form" zc="" />
+  <property __name="tooltip_template" en="Form" zc="打开" />
+  <property __name="label" en="Show Form" zc="打开" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.mwt_main_toolbar_unlock" config_id="1EF72C8B7EDE49058238438FDCF3628B">
-  <property __name="tooltip_template" en="Unlock Item" zc="" />
-  <property __name="label" en="Unlock" zc="" />
+  <property __name="tooltip_template" en="Unlock Item" zc="解锁" />
+  <property __name="label" en="Unlock" zc="解锁" />
  </Item>
  <Item type="CommandBarButton" keyed_name="tp_top" config_id="1F12AC03B29D47BDB88EC42A140C4130">
-  <property __name="label" en="Top align" zc="" />
+  <property __name="label" en="Top align" zc="顶部对齐" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_tool_save_unlock_close" config_id="1F21D91B29C348C68424AB5FA463AD38">
-  <property __name="tooltip_template" en="Save, Unlock &amp; Close" zc="" />
-  <property __name="label" en="Save, Unlock &amp; Close  " zc="" />
+  <property __name="tooltip_template" en="Save, Unlock &amp; Close" zc="保存,关闭并解锁" />
+  <property __name="label" en="Save, Unlock &amp; Close  " zc="保存,关闭并解锁" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_normal_save_unlock_close" config_id="200CC08C20414553ABEBF1C9BEFB92CE">
-  <property __name="tooltip_template" en="Save, Unlock &amp; Close" zc="" />
-  <property __name="label" en="Save, Unlock &amp; Close" zc="" />
+  <property __name="tooltip_template" en="Save, Unlock &amp; Close" zc="保存,关闭并解锁" />
+  <property __name="label" en="Save, Unlock &amp; Close" zc="保存,关闭并解锁" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_normal_promote" config_id="20600BA5B112456680224973032DFBD8">
-  <property __name="tooltip_template" en="Promote Item" zc="" />
-  <property __name="label" en="Promote" zc="" />
+  <property __name="tooltip_template" en="Promote Item" zc="提升对象" />
+  <property __name="label" en="Promote" zc="提升对象" />
  </Item>
  <Item type="CommandBarButton" keyed_name="rb_ModifyParametersButton" config_id="226FCA15EE09439B8C4631BCBE7506A2">
-  <property __name="tooltip_template" en="Modify Parameters" zc="" />
-  <property __name="label" en="Modify Parameters" zc="" />
+  <property __name="tooltip_template" en="Modify Parameters" zc="修改参数" />
+  <property __name="label" en="Modify Parameters" zc="修改参数" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.mwt_inbasketTask_toolbar_edit" config_id="22FFCD92111C45059C481376DD876E9B">
-  <property __name="tooltip_template" en="Complete Task" zc="" />
-  <property __name="label" en="Complete Task" zc="" />
+  <property __name="tooltip_template" en="Complete Task" zc="完成任务" />
+  <property __name="label" en="Complete Task" zc="完成任务" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnSelect" config_id="231E484F082C4532BC9F03A72806AB9E">
-  <property __name="tooltip_template" en="Select" zc="" />
-  <property __name="label" en="Select" zc="" />
+  <property __name="tooltip_template" en="Select" zc="选择" />
+  <property __name="label" en="Select" zc="选择" />
  </Item>
  <Item type="CommandBarButton" keyed_name="cmf_redo_button" config_id="2510CD0C64B14971A943EED5254E4337">
-  <property __name="tooltip_template" en="Redo" zc="" />
-  <property __name="label" en="Redo" zc="" />
+  <property __name="tooltip_template" en="Redo" zc="撤销" />
+  <property __name="label" en="Redo" zc="撤销" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnOrange" config_id="26A9173DA4C44770B38577728B8BF67B">
-  <property __name="tooltip_template" en="Orange " zc="" />
-  <property __name="label" en="Orange color" zc="" />
+  <property __name="tooltip_template" en="Orange " zc="橘黄色" />
+  <property __name="label" en="Orange color" zc="橘黄色" />
  </Item>
  <Item type="CommandBarButton" keyed_name="tp_center" config_id="270F8C11EBDE4ABC919B5F9408918A90">
-  <property __name="label" en="Center align" zc="" />
+  <property __name="label" en="Center align" zc="中心对齐" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_structure_select_toolbar_clear_selected" config_id="27CB64A2C68940F1BAC0B973C686B37E">
-  <property __name="tooltip_template" en="Clear Selected" zc="" />
+  <property __name="tooltip_template" en="Clear Selected" zc="清除选中项" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_edit_ly5" config_id="29C78899FCB54CDA879C6BDB9B06CD32"></Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_tool_delete" config_id="2AFBE8B8D0E14B2B831A638C411296BA">
-  <property __name="tooltip_template" en="Delete Item" zc="" />
-  <property __name="label" en="Delete  " zc="" />
+  <property __name="tooltip_template" en="Delete Item" zc="删除" />
+  <property __name="label" en="Delete  " zc="删除" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_edit_ly10" config_id="2B4F6E19A1EE4F17BE93B83C019F3023"></Item>
  <Item type="CommandBarButton" keyed_name="btnLabel" config_id="2C279B09685F475C871D27677048E41D">
-  <property __name="tooltip_template" en="Label" zc="" />
-  <property __name="label" en="Label" zc="" />
+  <property __name="tooltip_template" en="Label" zc="标签" />
+  <property __name="label" en="Label" zc="标签" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.mwt_main_toolbar_print" config_id="2C4DCC0D79F542CAAF01827E9482B8EB">
-  <property __name="tooltip_template" en="Printable View" zc="" />
+  <property __name="tooltip_template" en="Printable View" zc="打印预览" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnHighlightBlack" config_id="2C6394A6691D48F0981D12993955A616">
-  <property __name="tooltip_template" en="Black" zc="" />
-  <property __name="label" en="Black color" zc="" />
+  <property __name="tooltip_template" en="Black" zc="亮黑色" />
+  <property __name="label" en="Black color" zc="亮黑色" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnZoomWindow" config_id="2DDC7149EB484B0685959881C023AE9D">
-  <property __name="tooltip_template" en="Zoom Window" zc="" />
-  <property __name="label" en="Zoom Window" zc="" />
+  <property __name="tooltip_template" en="Zoom Window" zc="缩放窗体" />
+  <property __name="label" en="Zoom Window" zc="缩放窗体" />
  </Item>
  <Item type="CommandBarButton" keyed_name="tp_middle" config_id="30A49D6EB82C4BB0B74E2B6E06D1E370">
-  <property __name="label" en="Middle align" zc="" />
+  <property __name="label" en="Middle align" zc="中间对齐" />
  </Item>
  <Item type="CommandBarButton" keyed_name="xClassTreeEditorSearchToolbar_Down" config_id="32F6CF454E664B4E85C4E1CD090E0D87">
-  <property __name="tooltip_template" en="Next" zc="" />
+  <property __name="tooltip_template" en="Next" zc="下一个" />
  </Item>
  <Item type="CommandBarButton" keyed_name="rb_TreeGridConfiguratorShowEditor" config_id="338E69800AA040469C6D1DA0546F1940">
-  <property __name="label" en="Show Editor" zc="" />
+  <property __name="label" en="Show Editor" zc="编辑" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.mwt_main_toolbar_delete" config_id="35A0ABA759C24702A4E15EDA60291543">
-  <property __name="tooltip_template" en="Delete Item" zc="" />
-  <property __name="label" en="Delete" zc="" />
+  <property __name="tooltip_template" en="Delete Item" zc="删除" />
+  <property __name="label" en="Delete" zc="删除" />
  </Item>
  <Item type="CommandBarButton" keyed_name="tp_bullet" config_id="38F818C3EBB242D5AB64E75A9EE8C8B0">
   <property __name="label" en="Bullet list" zc="" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_workflow_save" config_id="38FF341BCFCB4E83BA92A5A31655DEC2">
-  <property __name="tooltip_template" en="Save Item" zc="" />
-  <property __name="label" en="Save  " zc="" />
+  <property __name="tooltip_template" en="Save Item" zc="保存" />
+  <property __name="label" en="Save  " zc="保存" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.mwt_main_toolbar_Logout" config_id="3B6EAD877D3B4FABB156BA6D321C52C1">
-  <property __name="tooltip_template" en="Logout" zc="" />
+  <property __name="tooltip_template" en="Logout" zc="注销" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_tool_unlock" config_id="3BE37344096B4FADAEC9E7E5E7189F75">
-  <property __name="tooltip_template" en="Unlock Item" zc="" />
-  <property __name="label" en="Unlock  " zc="" />
+  <property __name="tooltip_template" en="Unlock Item" zc="解锁" />
+  <property __name="label" en="Unlock  " zc="解锁" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_edit_ly9" config_id="3C01C7D428D546B58952551415F47A60"></Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_ly3" config_id="3CF1DA0D75F54AA4A106F45B52DCAE3D"></Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.mwt_inbasket_toolbar_refresh" config_id="3D12F8C6DA544EE4A27027D14ACFA301">
-  <property __name="tooltip_template" en="Refresh" zc="" />
+  <property __name="tooltip_template" en="Refresh" zc="刷新" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.mwt_inbasket_toolbar_Logout" config_id="3DF2B4201FF345B681D2A79F4C34FFDB">
-  <property __name="tooltip_template" en="Logout" zc="" />
+  <property __name="tooltip_template" en="Logout" zc="注销" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_select_ly4" config_id="3DFC8E25B4CD41CA8107514B03B498F3"></Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_view_ly11" config_id="41FECAEB114D457C8A8A34939EE2480F"></Item>
  <Item type="CommandBarButton" keyed_name="smallScribbleButton" config_id="42307D485B8E46D9A444F7EF0FD0BF1F">
-  <property __name="tooltip_template" en="Small" zc="" />
-  <property __name="label" en="Scribble Small" zc="" />
+  <property __name="tooltip_template" en="Small" zc="小" />
+  <property __name="label" en="Scribble Small" zc="小" />
  </Item>
  <Item type="CommandBarButton" keyed_name="qry_ShowForm" config_id="45A2460BD55B4087999790A3FA3DB7EC">
-  <property __name="label" en="Show Form" zc="" />
+  <property __name="label" en="Show Form" zc="打开" />
  </Item>
  <Item type="CommandBarButton" keyed_name="rb_RefreshButton" config_id="46D28E410BBC49EBBFE9B08874EDFD24">
   <property __name="tooltip_template" en="Refresh" zc="" />
-  <property __name="label" en="Refresh" zc="" />
+  <property __name="label" en="Refresh" zc="刷新" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.mwt_main_toolbar_export2Word" config_id="48F8FC2C371F417092FA2CDDBB6EAB72">
-  <property __name="tooltip_template" en="Export To Word" zc="" />
-  <property __name="label" en="Export To Word" zc="" />
+  <property __name="tooltip_template" en="Export To Word" zc="导出至Word" />
+  <property __name="label" en="Export To Word" zc="导出至Word" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_select_ly8" config_id="4ABB0EC4ACA942D187635C3DE15D0831"></Item>
  <Item type="CommandBarButton" keyed_name="btnDisplayStyle" config_id="4AD4194940B04485AB08539564AF7627">
-  <property __name="tooltip_template" en="Set Display Style" zc="" />
-  <property __name="label" en="Set Display Style" zc="" />
+  <property __name="tooltip_template" en="Set Display Style" zc="设置显示风格" />
+  <property __name="label" en="Set Display Style" zc="设置显示风格" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_edit_ly0" config_id="4AFE7931866746B5AAE4A20FD524F8EB"></Item>
  <Item type="CommandBarButton" keyed_name="btnLayers" config_id="4B05D6EE6F074EA997FFB230385E7D89">
-  <property __name="tooltip_template" en="Layer Display" zc="" />
-  <property __name="label" en="Layer Display" zc="" />
+  <property __name="tooltip_template" en="Layer Display" zc="层显示" />
+  <property __name="label" en="Layer Display" zc="层显示" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_view_ly4" config_id="4B606E82C6FF4044876DC7A97D9C6FE7"></Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_normal_unlock" config_id="4B80176765534C61A1EE0A5D4A32D8BF">
-  <property __name="tooltip_template" en="Unlock Item" zc="" />
-  <property __name="label" en="Unlock  " zc="" />
+  <property __name="tooltip_template" en="Unlock Item" zc="解锁" />
+  <property __name="label" en="Unlock  " zc="解锁" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_normal_lock" config_id="4B99AAF82235426BB577FD68D0FF52FB">
-  <property __name="tooltip_template" en="Lock Item" zc="" />
-  <property __name="label" en="Lock" zc="" />
+  <property __name="tooltip_template" en="Lock Item" zc="锁定" />
+  <property __name="label" en="Lock" zc="锁定" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnFind" config_id="4C3338EBFA1A4A3CA434ED4098652C3A">
-  <property __name="tooltip_template" en="Search Text" zc="" />
-  <property __name="label" en="Search Text" zc="" />
+  <property __name="tooltip_template" en="Search Text" zc="查询文本" />
+  <property __name="label" en="Search Text" zc="查询文本" />
  </Item>
  <Item type="CommandBarButton" keyed_name="mpo_refresh" config_id="4E4F88C5B9AA497FB1C2AA000CE922EA">
-  <property __name="tooltip_template" en="Refresh" zc="" />
-  <property __name="label" en="Refresh" zc="" />
+  <property __name="tooltip_template" en="Refresh" zc="刷新" />
+  <property __name="label" en="Refresh" zc="刷新" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_edit_ly4" config_id="4F3BA13181CA4A059FBC2CCFB0AAA733"></Item>
  <Item type="CommandBarButton" keyed_name="btnRedDefault" config_id="506C7353F20E46D49E4E075FBDA063EB">
-  <property __name="tooltip_template" en="Red" zc="" />
-  <property __name="label" en="Red color" zc="" />
+  <property __name="tooltip_template" en="Red" zc="红色" />
+  <property __name="label" en="Red color" zc="红色" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_edit_ly2" config_id="5300DDA35DA04643B1A19F374EDF8018"></Item>
  <Item type="CommandBarButton" keyed_name="xClassTreeEditorMainToolbar_Search" config_id="531D1F8660B14665B7F94626261A97CD">
-  <property __name="tooltip_template" en="Search" zc="" />
+  <property __name="tooltip_template" en="Search" zc="查询" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.mwt_main_toolbar_help_context" config_id="53E0784A714546FF9A3C770FA2BD95F2">
-  <property __name="tooltip_template" en="Help" zc="" />
+  <property __name="tooltip_template" en="Help" zc="帮助" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnCrossSection" config_id="57CA523C4CF64D20A31BF84B8FB426D2">
-  <property __name="tooltip_template" en="Cross Section" zc="" />
-  <property __name="label" en="Cross Section" zc="" />
+  <property __name="tooltip_template" en="Cross Section" zc="横截面" />
+  <property __name="label" en="Cross Section" zc="横截面" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_select_ly11" config_id="581C05A9E123402492490EE4F7A28D31"></Item>
  <Item type="CommandBarButton" keyed_name="btnPageDown" config_id="5A985962745D4EEF89115F85754AE657">
-  <property __name="tooltip_template" en="Page Down" zc="" />
-  <property __name="label" en="Page Down" zc="" />
+  <property __name="tooltip_template" en="Page Down" zc="下一页" />
+  <property __name="label" en="Page Down" zc="下一页" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnPink" config_id="5ADB5F41E63F479E92CCA2425969C845">
-  <property __name="tooltip_template" en="Pink" zc="" />
-  <property __name="label" en="Pink color" zc="" />
+  <property __name="tooltip_template" en="Pink" zc="粉红色" />
+  <property __name="label" en="Pink color" zc="粉红色" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_normal_help_context" config_id="5B8DE906E8DA45F895B1323B1889937A">
-  <property __name="tooltip_template" en="Help" zc="" />
-  <property __name="label" en="Help  " zc="" />
+  <property __name="tooltip_template" en="Help" zc="帮助" />
+  <property __name="label" en="Help  " zc="帮助" />
  </Item>
  <Item type="CommandBarButton" keyed_name="xClassTreeEditorMainToolbar_Delete" config_id="5B97A15C0D84421AAC15B78B1F6C082D">
-  <property __name="tooltip_template" en="Delete" zc="" />
+  <property __name="tooltip_template" en="Delete" zc="删除" />
  </Item>
  <Item type="CommandBarButton" keyed_name="tp_italic" config_id="5D10C5EB38AE4BF7A88D9C2C66073D00">
-  <property __name="label" en="Italic" zc="" />
+  <property __name="label" en="Italic" zc="斜体" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.mwt_main_toolbar_new" config_id="5D8BD509914244229219E91094DACFB1">
-  <property __name="tooltip_template" en="Create a New Item" zc="" />
-  <property __name="label" en="New" zc="" />
+  <property __name="tooltip_template" en="Create a New Item" zc="新建" />
+  <property __name="label" en="New" zc="新建" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnGreen" config_id="5DF065E47D6F47DEA9871F902E0118EF">
-  <property __name="tooltip_template" en="Green" zc="" />
-  <property __name="label" en="Green color" zc="" />
+  <property __name="tooltip_template" en="Green" zc="绿色" />
+  <property __name="label" en="Green color" zc="绿色" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_view_ly8" config_id="5E3984A87EB04BC49196CD4A1C86FD42"></Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_ly1" config_id="5EA7873768EF4F1B876499E05F2D1659"></Item>
  <Item type="CommandBarButton" keyed_name="btnDelete" config_id="5ECDA767DFB848E79F0C5C3B3DF2598B">
-  <property __name="tooltip_template" en="Delete" zc="" />
-  <property __name="label" en="Delete" zc="" />
+  <property __name="tooltip_template" en="Delete" zc="删除" />
+  <property __name="label" en="Delete" zc="删除" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_structure_view_toolbar_expandStructureItems" config_id="61E161D3CEE046F79D37FEB7585BE292">
-  <property __name="tooltip_template" en="Expand All" zc="" />
+  <property __name="tooltip_template" en="Expand All" zc="全部展开" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_ly10" config_id="64F54B26C32A4B82A1A3B5E4CDFF56B8"></Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_select_ly1" config_id="6636349E44964401855E0EDBB08139E3"></Item>
  <Item type="CommandBarButton" keyed_name="btnDownload" config_id="67FE30C9CC524EF09110C2612894211B">
-  <property __name="tooltip_template" en="Download File" zc="" />
-  <property __name="label" en="Download File" zc="" />
+  <property __name="tooltip_template" en="Download File" zc="下载文件" />
+  <property __name="label" en="Download File" zc="下载文件" />
  </Item>
  <Item type="CommandBarButton" keyed_name="cmf_undo_button" config_id="694F5A7C902F4A918DFBFEC42C7CE9BC">
-  <property __name="tooltip_template" en="Undo" zc="" />
-  <property __name="label" en="Undo" zc="" />
+  <property __name="tooltip_template" en="Undo" zc="撤销" />
+  <property __name="label" en="Undo" zc="撤销" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnYellow" config_id="69B85350DF2E432DA3D12AB21FF51521">
-  <property __name="tooltip_template" en="Yellow" zc="" />
-  <property __name="label" en="Yellow color" zc="" />
+  <property __name="tooltip_template" en="Yellow" zc="黄色" />
+  <property __name="label" en="Yellow color" zc="黄色" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.mwt_inbasketTask_toolbar_unlock" config_id="6C15B31AA5254F379A3797053EB227E3">
-  <property __name="tooltip_template" en="Unclaim Task" zc="" />
-  <property __name="label" en="Unclaim" zc="" />
+  <property __name="tooltip_template" en="Unclaim Task" zc="退领任务" />
+  <property __name="label" en="Unclaim" zc="退领任务" />
  </Item>
  <Item type="CommandBarButton" keyed_name="tp_alpha" config_id="6CA9FBF427604017916C8B8F4FBD6790">
   <property __name="label" en="Alpha list" zc="" />
  </Item>
  <Item type="CommandBarButton" keyed_name="xClassTreeEditorSearchToolbar_Up" config_id="6D25F0650C704125B8B44770B88F94A2">
-  <property __name="tooltip_template" en="Previous" zc="" />
+  <property __name="tooltip_template" en="Previous" zc="前一个" />
  </Item>
  <Item type="CommandBarButton" keyed_name="cmf_exportExcel_button" config_id="6D6B6909CEB948148F1166F6462C0171">
-  <property __name="tooltip_template" en="Export To Excel" zc="" />
-  <property __name="label" en="Export To Excel" zc="" />
+  <property __name="tooltip_template" en="Export To Excel" zc="导出至Excel" />
+  <property __name="label" en="Export To Excel" zc="导出至Excel" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_normal_new" config_id="6E5EF00BE32247E5952393C77BEB4635">
-  <property __name="tooltip_template" en="Create a New Item" zc="" />
-  <property __name="label" en="New  " zc="" />
+  <property __name="tooltip_template" en="Create a New Item" zc="新建" />
+  <property __name="label" en="New  " zc="新建" />
  </Item>
  <Item type="CommandBarButton" keyed_name="mediumScribbleButton" config_id="6EC3ED2472E74437856ABD784C71C520">
-  <property __name="tooltip_template" en="Medium" zc="" />
-  <property __name="label" en="Scribble Medium" zc="" />
+  <property __name="tooltip_template" en="Medium" zc="中" />
+  <property __name="label" en="Scribble Medium" zc="中" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_select_ly2" config_id="6FF3668D954A4195BC414E9B310348BC"></Item>
  <Item type="CommandBarButton" keyed_name="show_form" config_id="700942604FB941799B24C3FDDD68DDFF">
-  <property __name="tooltip_template" en="Form of ${ItemType:label} ${Item:keyed_name}" zc="" />
-  <property __name="label" en="Show Form" zc="" />
+  <property __name="tooltip_template" en="Form of ${ItemType:label} ${Item:keyed_name}" zc="窗体 ${ItemType:label} ${Item:keyed_name}" />
+  <property __name="label" en="Show Form" zc="打开" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnGrey" config_id="70DA82039AF149348A599C84F3E657C3">
-  <property __name="tooltip_template" en="Grey" zc="" />
-  <property __name="label" en="Grey color" zc="" />
+  <property __name="tooltip_template" en="Grey" zc="灰色" />
+  <property __name="label" en="Grey color" zc="灰色" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_workflow_export2Excel" config_id="71A8B4F3601043B48698110F2381B9A9">
-  <property __name="tooltip_template" en="Export To Excel" zc="" />
-  <property __name="label" en=" Export To Excel " zc="" />
+  <property __name="tooltip_template" en="Export To Excel" zc="导出至Excel" />
+  <property __name="label" en=" Export To Excel " zc="导出至Excel" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_tool_export2Word" config_id="71C3F4A4A68F4F54AA5F4A88CB8B2676">
-  <property __name="tooltip_template" en="Export To Word" zc="" />
-  <property __name="label" en=" Export To Word " zc="" />
+  <property __name="tooltip_template" en="Export To Word" zc="导出至Word" />
+  <property __name="label" en=" Export To Word " zc="导出至Word" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_structure_edit_toolbar_collapseStructureItems" config_id="7271E58015C64BE191117B816CFEFEC7">
-  <property __name="tooltip_template" en="Collapse All" zc="" />
+  <property __name="tooltip_template" en="Collapse All" zc="全部收缩" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnFitWidth" config_id="72F4A0820E0743EAAB180A2904D43B5D">
-  <property __name="tooltip_template" en="Fit Width" zc="" />
-  <property __name="label" en="Fit Width" zc="" />
+  <property __name="tooltip_template" en="Fit Width" zc="合适的宽度" />
+  <property __name="label" en="Fit Width" zc="合适的宽度" />
  </Item>
  <Item type="CommandBarButton" keyed_name="tp_showowner" config_id="730B5B1F4BF9497E9D4B17B457A60E60">
-  <property __name="label" en="Show link owner" zc="" />
+  <property __name="label" en="Show link owner" zc="显示链接的拥有者" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.mwt_main_toolbar_view" config_id="73475464CDF34506AFE37311949965CF">
-  <property __name="tooltip_template" en="View Item" zc="" />
-  <property __name="label" en="View" zc="" />
+  <property __name="tooltip_template" en="View Item" zc="查看" />
+  <property __name="label" en="View" zc="查看" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_normal_export2Word" config_id="7605562D21A04864974A156F1A8F6587">
-  <property __name="tooltip_template" en="Export To Word" zc="" />
-  <property __name="label" en=" Export To Word " zc="" />
+  <property __name="tooltip_template" en="Export To Word" zc="导出至Word" />
+  <property __name="label" en=" Export To Word " zc="导出至Word" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.mwt_inbasketTask_toolbar_lock" config_id="777A876B6F7F443D826012067630381D">
-  <property __name="tooltip_template" en="Claim Task" zc="" />
-  <property __name="label" en="Claim" zc="" />
+  <property __name="tooltip_template" en="Claim Task" zc="申领任务" />
+  <property __name="label" en="Claim" zc="申领任务" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_select_ly6" config_id="77AC2A3AED3341279DE4F4434FABA602"></Item>
  <Item type="CommandBarButton" keyed_name="tp_testlink" config_id="7841758111604B71A3B9874F2F1D2070">
-  <property __name="label" en="Test link" zc="" />
+  <property __name="label" en="Test link" zc="测试链接" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_select_ly0" config_id="784397AD84EC426C90AE9EF3419EF9FF"></Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_normal_undo" config_id="7BD90011D04C4ABE880490DA178BE79F">
-  <property __name="tooltip_template" en="Undo Changes on Item" zc="" />
-  <property __name="label" en="Undo  " zc="" />
+  <property __name="tooltip_template" en="Undo Changes on Item" zc="撤销变更" />
+  <property __name="label" en="Undo  " zc="撤销变更" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_normal_export2Word" config_id="7C0EE999C08C4BD6BFEA12F08DFDFA82">
-  <property __name="tooltip_template" en="Export To Word" zc="" />
-  <property __name="label" en="Export To Word" zc="" />
+  <property __name="tooltip_template" en="Export To Word" zc="导出至Word" />
+  <property __name="label" en="Export To Word" zc="导出至Word" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnHighlightOrange" config_id="7EEC2CF8EAE34C97A5CAD47252BE7116">
-  <property __name="tooltip_template" en="Orange " zc="" />
-  <property __name="label" en="Orange color" zc="" />
+  <property __name="tooltip_template" en="Orange " zc="橘黄色" />
+  <property __name="label" en="Orange color" zc="橘黄色" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.mwt_main_toolbar_edit" config_id="7EFB7EF559FE4514AE56F76A476DB4A2">
-  <property __name="tooltip_template" en="Edit Item" zc="" />
-  <property __name="label" en="Edit" zc="" />
+  <property __name="tooltip_template" en="Edit Item" zc="编辑" />
+  <property __name="label" en="Edit" zc="编辑" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_normal_ssvc_discussion_button" config_id="7F4DAC2F9BF945A4ABADF18AE9456060">
-  <property __name="tooltip_template" en="Show Discussion Panel" zc="" />
-  <property __name="label" en="Show Discussion Panel" zc="" />
+  <property __name="tooltip_template" en="Show Discussion Panel" zc="显示讨论区" />
+  <property __name="label" en="Show Discussion Panel" zc="显示讨论区" />
  </Item>
  <Item type="CommandBarButton" keyed_name="mpo_removeItem" config_id="80AEE460F0C74226AEA24B74010E4920">
-  <property __name="tooltip_template" en="Remove Item" zc="" />
-  <property __name="label" en="Remove Item" zc="" />
+  <property __name="tooltip_template" en="Remove Item" zc="移除对象" />
+  <property __name="label" en="Remove Item" zc="移除对象" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_normal_unlock" config_id="80BEE5379D7C4FDCA2A91ECB19CE34D0">
-  <property __name="tooltip_template" en="Unlock Item" zc="" />
-  <property __name="label" en="Unlock" zc="" />
+  <property __name="tooltip_template" en="Unlock Item" zc="解锁" />
+  <property __name="label" en="Unlock" zc="解锁" />
  </Item>
  <Item type="CommandBarButton" keyed_name="tp_justify" config_id="8412A113A27A442397DB6B664A7F8E90">
-  <property __name="label" en="Justify align" zc="" />
+  <property __name="label" en="Justify align" zc="证明一致" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_edit_save_close" config_id="852D5A0F110F465280050AC4002A2C04">
-  <property __name="tooltip_template" en="Save And Close" zc="" />
+  <property __name="tooltip_template" en="Save And Close" zc="保存并关闭" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_tool_save" config_id="856955B3AC3542AD990FE0CD2363558E">
-  <property __name="tooltip_template" en="Save Item" zc="" />
-  <property __name="label" en="Save  " zc="" />
+  <property __name="tooltip_template" en="Save Item" zc="保存" />
+  <property __name="label" en="Save  " zc="保存" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_ly9" config_id="8581281A88E649298443362A8C48ADE3"></Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.mwt_inbasket_toolbar_UnclaimActivity" config_id="85F38FD740B144F3908DC1EDFC546D27">
-  <property __name="tooltip_template" en="Unlock Activity" zc="" />
+  <property __name="tooltip_template" en="Unlock Activity" zc="解锁活动" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnYellowDefault" config_id="88FDA338EAF245F5A75687BA1E4A56E4">
-  <property __name="tooltip_template" en="Yellow" zc="" />
-  <property __name="label" en="Yellow color" zc="" />
+  <property __name="tooltip_template" en="Yellow" zc="黄色" />
+  <property __name="label" en="Yellow color" zc="黄色" />
  </Item>
  <Item type="CommandBarButton" keyed_name="tp_showdocumentview" config_id="8BA03FDAB1444917B00CD52969298F00">
-  <property __name="label" en="Document View" zc="" />
+  <property __name="label" en="Document View" zc="浏览文档" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.mwt_inbasket_toolbar_ViewAttached" config_id="8BFC3E4631F848C5B1426D0CC7F405EB">
-  <property __name="tooltip_template" en="View the Attached Item" zc="" />
+  <property __name="tooltip_template" en="View the Attached Item" zc="查看附加项" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnLabelOrange" config_id="8C281548BE784C1D806EE9A394F22381">
-  <property __name="tooltip_template" en="Orange " zc="" />
-  <property __name="label" en="Orange color" zc="" />
+  <property __name="tooltip_template" en="Orange " zc="橘黄色" />
+  <property __name="label" en="Orange color" zc="橘黄色" />
  </Item>
  <Item type="CommandBarButton" keyed_name="tp_bottom" config_id="8C28F32A241145C299A38235E6F3B910">
-  <property __name="label" en="Bottom align" zc="" />
+  <property __name="label" en="Bottom align" zc="底部对齐" />
  </Item>
  <Item type="CommandBarButton" keyed_name="cmf_exportXps_button" config_id="8C52A694A1A94763ABB007CBBB8143BE">
-  <property __name="tooltip_template" en="Export To Xps" zc="" />
-  <property __name="label" en="Export To Xps" zc="" />
+  <property __name="tooltip_template" en="Export To Xps" zc="导出至Xps" />
+  <property __name="label" en="Export To Xps" zc="导出至Xps" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnResetView" config_id="8C7E73758B9740EFAB897A87EBAFBA36">
-  <property __name="tooltip_template" en="Reset View" zc="" />
-  <property __name="label" en="Reset View" zc="" />
+  <property __name="tooltip_template" en="Reset View" zc="重置视图" />
+  <property __name="label" en="Reset View" zc="重置视图" />
  </Item>
  <Item type="CommandBarButton" keyed_name="mpo_selectAll" config_id="8CC5E66EB971426288AB6171441B9E2C">
-  <property __name="tooltip_template" en="Select All" zc="" />
-  <property __name="label" en="Select All" zc="" />
+  <property __name="tooltip_template" en="Select All" zc="全部选中" />
+  <property __name="label" en="Select All" zc="全部选中" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_normal_export2Excel" config_id="8DB95F63091848BC83E072A1C5B75EB4">
-  <property __name="tooltip_template" en="Export To Excel" zc="" />
-  <property __name="label" en=" Export To Excel " zc="" />
+  <property __name="tooltip_template" en="Export To Excel" zc="导出至Excel" />
+  <property __name="label" en=" Export To Excel " zc="导出至Excel" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnHighlightWhite" config_id="8E938557D1BE4A46B7A7492A3AB614C6">
-  <property __name="tooltip_template" en="White" zc="" />
-  <property __name="label" en="White color" zc="" />
+  <property __name="tooltip_template" en="White" zc="白色" />
+  <property __name="label" en="White color" zc="白色" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnLabelRedDefault" config_id="8EF928D0F61948708DFAB45E1CCBDC90">
-  <property __name="tooltip_template" en="Red" zc="" />
-  <property __name="label" en="Red color" zc="" />
+  <property __name="tooltip_template" en="Red" zc="红色" />
+  <property __name="label" en="Red color" zc="红色" />
  </Item>
  <Item type="CommandBarButton" keyed_name="tp_deletelink" config_id="8FE1B0A800F14E1EB412A08FB2E99EA0">
-  <property __name="label" en="Delete link" zc="" />
+  <property __name="label" en="Delete link" zc="删除链接" />
  </Item>
  <Item type="CommandBarButton" keyed_name="mpo_promote" config_id="911564B4A0CF4AB28E889039F2A05AAD">
-  <property __name="tooltip_template" en="Promote" zc="" />
-  <property __name="label" en="Promote" zc="" />
+  <property __name="tooltip_template" en="Promote" zc="提升" />
+  <property __name="label" en="Promote" zc="提升" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnFitHeight" config_id="918ED45E18194655A59A458D0194DCFD">
-  <property __name="tooltip_template" en="Fit Height" zc="" />
-  <property __name="label" en="Fit Height" zc="" />
+  <property __name="tooltip_template" en="Fit Height" zc="合适的高度" />
+  <property __name="label" en="Fit Height" zc="合适的高度" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_ly0" config_id="91C1639EA8964606AA339CD26F345CD1"></Item>
  <Item type="CommandBarButton" keyed_name="btnZoomDown" config_id="93129964C0A2442B8D00D566E1B7F6A4">
-  <property __name="tooltip_template" en="Zoom Down" zc="" />
-  <property __name="label" en="Zoom Down" zc="" />
+  <property __name="tooltip_template" en="Zoom Down" zc="放大" />
+  <property __name="label" en="Zoom Down" zc="放大" />
  </Item>
  <Item type="CommandBarButton" keyed_name="xClass_ShowEditor" config_id="9547545B78B742679529683B71375FAC">
-  <property __name="label" en="Show Editor" zc="" />
+  <property __name="label" en="Show Editor" zc="编辑" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_tool_lock" config_id="97740C9AD06D421ABF375B93B1D5323A">
-  <property __name="tooltip_template" en="Lock Item" zc="" />
-  <property __name="label" en="Lock  " zc="" />
+  <property __name="tooltip_template" en="Lock Item" zc="锁定" />
+  <property __name="label" en="Lock  " zc="锁定" />
  </Item>
  <Item type="CommandBarButton" keyed_name="tp_changelink" config_id="97E85A44786F4FCCA55198C479B73D60">
-  <property __name="label" en="Change link" zc="" />
+  <property __name="label" en="Change link" zc="更改链接" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_normal_print" config_id="986AD44339584D0D80B82F0D3AEAC150">
-  <property __name="tooltip_template" en="Printable View" zc="" />
-  <property __name="label" en="Printable View" zc="" />
+  <property __name="tooltip_template" en="Printable View" zc="打印预览" />
+  <property __name="label" en="Printable View" zc="打印预览" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnExplodedView" config_id="996E437F6C464AE281E350F30828E784">
-  <property __name="tooltip_template" en="Exploded View" zc="" />
-  <property __name="label" en="Exploded View" zc="" />
+  <property __name="tooltip_template" en="Exploded View" zc="爆炸视图" />
+  <property __name="label" en="Exploded View" zc="爆炸视图" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_normal_lock" config_id="99E6248DC7DE4B80BDD5C73AA4829359">
-  <property __name="tooltip_template" en="Lock Item" zc="" />
-  <property __name="label" en="Lock  " zc="" />
+  <property __name="tooltip_template" en="Lock Item" zc="锁定" />
+  <property __name="label" en="Lock  " zc="锁定" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_edit_ly7" config_id="9B760228D83440559BA905EA21A73543"></Item>
  <Item type="CommandBarButton" keyed_name="btnSwitch" config_id="9C2C292EAC50413585186A0874DCE680">
-  <property __name="tooltip_template" en="Switch To Basic Toolbar" zc="" />
-  <property __name="label" en="Switch To Basic Toolbar" zc="" />
+  <property __name="tooltip_template" en="Switch To Basic Toolbar" zc="切换至基础工具栏" />
+  <property __name="label" en="Switch To Basic Toolbar" zc="切换至基础工具栏" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnLightGreen" config_id="9E18989B0A27492F8700822D629A1669">
-  <property __name="tooltip_template" en="Green" zc="" />
-  <property __name="label" en="Light green color" zc="" />
+  <property __name="tooltip_template" en="Green" zc="绿色" />
+  <property __name="label" en="Light green color" zc="绿色" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_normal_new" config_id="9E56D05CB9A34919BB856053EA29782D">
-  <property __name="tooltip_template" en="Create a New Item" zc="" />
-  <property __name="label" en="New" zc="" />
+  <property __name="tooltip_template" en="Create a New Item" zc="新建" />
+  <property __name="label" en="New" zc="新建" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_set_nothing" config_id="9E65B78A8D7F4A38AA25E93047B19235">
-  <property __name="tooltip_template" en="Clear Selection" zc="" />
+  <property __name="tooltip_template" en="Clear Selection" zc="清除选择" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_view_ly6" config_id="A0E42128A5414ED390992079353C1F49"></Item>
  <Item type="CommandBarButton" keyed_name="btnViewFileMarkup" config_id="A1AA068C40E04357B0B884AE41AAA9FC">
-  <property __name="tooltip_template" en="Print" zc="" />
-  <property __name="label" en="Printable View" zc="" />
+  <property __name="tooltip_template" en="Print" zc="打印预览" />
+  <property __name="label" en="Printable View" zc="打印预览" />
  </Item>
  <Item type="CommandBarButton" keyed_name="xClassTreeEditorMainToolbar_Collapse" config_id="A31DDFDEAACE493AA847C500933623CA">
-  <property __name="tooltip_template" en="Collapse" zc="" />
+  <property __name="tooltip_template" en="Collapse" zc="收缩" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.mwt_main_toolbar_revisions" config_id="A333670A43EB40F4AAA9876D4A5CC821">
-  <property __name="tooltip_template" en="View Revisions for Item" zc="" />
-  <property __name="label" en="All Revs" zc="" />
+  <property __name="tooltip_template" en="View Revisions for Item" zc="全部版本" />
+  <property __name="label" en="All Revs" zc="全部版本" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnLabelGreen" config_id="A41F77F4CA284AF0B81BFA99102C06C3">
-  <property __name="tooltip_template" en="Green" zc="" />
-  <property __name="label" en="Green color" zc="" />
+  <property __name="tooltip_template" en="Green" zc="绿色" />
+  <property __name="label" en="Green color" zc="绿色" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_ly11" config_id="A6347A41E9E84D8EB7E4116B25FAC15D"></Item>
  <Item type="CommandBarButton" keyed_name="btnLabelWhite" config_id="A6E7B500F1EF46188BCCCE1215FB5F98">
-  <property __name="tooltip_template" en="White" zc="" />
-  <property __name="label" en="White color" zc="" />
+  <property __name="tooltip_template" en="White" zc="白色" />
+  <property __name="label" en="White color" zc="白色" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_normal_export2Excel" config_id="A8403EBA44E64AAA8F5D3B8527A11118">
-  <property __name="tooltip_template" en="Export To Excel" zc="" />
-  <property __name="label" en="Export To Excel" zc="" />
+  <property __name="tooltip_template" en="Export To Excel" zc="导出至Excel" />
+  <property __name="label" en="Export To Excel" zc="导出至Excel" />
  </Item>
  <Item type="CommandBarButton" keyed_name="tp_under" config_id="A940629455BB4C57AFB61898D0AD9590">
-  <property __name="label" en="Underline" zc="" />
+  <property __name="label" en="Underline" zc="下划线" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnMeasure" config_id="AA525A925B39450198A621F4A390D679">
-  <property __name="tooltip_template" en="Measure" zc="" />
-  <property __name="label" en="Measure" zc="" />
+  <property __name="tooltip_template" en="Measure" zc="测量" />
+  <property __name="label" en="Measure" zc="测量" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnView" config_id="AB360DE3E5A846689552D85683490728">
-  <property __name="tooltip_template" en="View" zc="" />
-  <property __name="label" en="View" zc="" />
+  <property __name="tooltip_template" en="View" zc="查看" />
+  <property __name="label" en="View" zc="查看" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnMarkup" config_id="ADAF18CB95CE429FBB161C7E03AE4AFA">
-  <property __name="tooltip_template" en="Markup" zc="" />
-  <property __name="label" en="Markup" zc="" />
+  <property __name="tooltip_template" en="Markup" zc="标记" />
+  <property __name="label" en="Markup" zc="标记" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnPMI" config_id="AEA81E5F513E4F22BF3C59FEBD71B9A1">
-  <property __name="tooltip_template" en="Product Manufacturing Information" zc="" />
-  <property __name="label" en="Product Manufacturing Information" zc="" />
+  <property __name="tooltip_template" en="Product Manufacturing Information" zc="产品生产信息" />
+  <property __name="label" en="Product Manufacturing Information" zc="产品生产信息" />
  </Item>
  <Item type="CommandBarButton" keyed_name="mediumLabelButton" config_id="AF56ADFCDF774CDDAF8D984239C0B8A0">
-  <property __name="tooltip_template" en="Medium" zc="" />
-  <property __name="label" en="Label Medium" zc="" />
+  <property __name="tooltip_template" en="Medium" zc="中" />
+  <property __name="label" en="Label Medium" zc="中" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_select_ly5" config_id="B0B0FB0B448847F58CD1EFA376AB68CC"></Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_view_ly9" config_id="B170B22B4E194A8A9DD12BBC703A564C"></Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_tool_print" config_id="B23F5668C3D14925A3E91B22A5E1E549">
-  <property __name="tooltip_template" en="Printable View" zc="" />
-  <property __name="label" en="Printable View  " zc="" />
+  <property __name="tooltip_template" en="Printable View" zc="打印预览" />
+  <property __name="label" en="Printable View  " zc="打印预览" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_normal_undo" config_id="B2D8C0CC331D45C6AE4EDE69CD305061">
-  <property __name="tooltip_template" en="Undo Changes on Item" zc="" />
-  <property __name="label" en="Undo" zc="" />
+  <property __name="tooltip_template" en="Undo Changes on Item" zc="撤销变更" />
+  <property __name="label" en="Undo" zc="撤销变更" />
  </Item>
  <Item type="CommandBarButton" keyed_name="tp_showtarget" config_id="B2E6E05824BF463392B0B3473C9AECD0">
-  <property __name="label" en="Show link target" zc="" />
+  <property __name="label" en="Show link target" zc="显示链接目标" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_structure_select_toolbar_collapseStructureItems" config_id="B54BE1CB6E214AD8936EC76A829FBCD7">
-  <property __name="tooltip_template" en="Collapse All" zc="" />
+  <property __name="tooltip_template" en="Collapse All" zc="全部展开" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_view_ly7" config_id="B62936D49A6048088B8498BAEB7B1959"></Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.mwt_inbasket_toolbar_EditAttached" config_id="B645122BC25F426597E2B5A415DD2ABC">
-  <property __name="tooltip_template" en="Edit the Attached Item" zc="" />
+  <property __name="tooltip_template" en="Edit the Attached Item" zc="编辑附加项" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnPageUp" config_id="B6C185F807D648B2A991D784C8D02C0C">
-  <property __name="tooltip_template" en="Page Up" zc="" />
-  <property __name="label" en="Page Up" zc="" />
+  <property __name="tooltip_template" en="Page Up" zc="上一页" />
+  <property __name="label" en="Page Up" zc="上一页" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_normal_save" config_id="B79A0397634544ADBAC5C5229E581A38">
-  <property __name="tooltip_template" en="Save Item" zc="" />
-  <property __name="label" en="Save" zc="" />
+  <property __name="tooltip_template" en="Save Item" zc="保存" />
+  <property __name="label" en="Save" zc="保存" />
  </Item>
  <Item type="CommandBarButton" keyed_name="tp_sup" config_id="B817F2F5A94245F79F03257E2429F460">
-  <property __name="label" en="Super" zc="" />
+  <property __name="label" en="Super" zc="超级" />
  </Item>
  <Item type="CommandBarButton" keyed_name="smallLabelButton" config_id="B8201EA74DEC4FF79754FDAA01A22AD6">
-  <property __name="tooltip_template" en="Small" zc="" />
-  <property __name="label" en="Label Small" zc="" />
+  <property __name="tooltip_template" en="Small" zc="小" />
+  <property __name="label" en="Label Small" zc="小" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_ly8" config_id="B86D9727AA124769B3DFC32B32A7D2F3"></Item>
  <Item type="CommandBarButton" keyed_name="btnLabelBlack" config_id="BB9567381EA84377A4986707B0339951">
-  <property __name="tooltip_template" en="Black" zc="" />
-  <property __name="label" en="Black color" zc="" />
+  <property __name="tooltip_template" en="Black" zc="黑色" />
+  <property __name="label" en="Black color" zc="黑色" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_view_ly2" config_id="BC60AC957B084474BC26A7C68CB8BCD2"></Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_workflow_delete" config_id="BF249B3CC1824AA48BE481074DA7AB4E">
-  <property __name="tooltip_template" en="Delete Item" zc="" />
-  <property __name="label" en="Delete  " zc="" />
+  <property __name="tooltip_template" en="Delete Item" zc="删除" />
+  <property __name="label" en="Delete  " zc="删除" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_edit_undo" config_id="C17B8AF9B43E47BC819182D5BB790B4F">
-  <property __name="tooltip_template" en="Undo Changes on Item" zc="" />
-  <property __name="label" en="Undo  " zc="" />
+  <property __name="tooltip_template" en="Undo Changes on Item" zc="撤销变更" />
+  <property __name="label" en="Undo  " zc="撤销变更" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_workflow_print" config_id="C431A91012C94211BF7D46F373B391AB">
-  <property __name="tooltip_template" en="Printable View" zc="" />
-  <property __name="label" en="Printable View  " zc="" />
+  <property __name="tooltip_template" en="Printable View" zc="打印预览" />
+  <property __name="label" en="Printable View  " zc="打印预览" />
  </Item>
  <Item type="CommandBarButton" keyed_name="tp_bold" config_id="C48F4764CA314ACF882ADC57D697E0F0">
-  <property __name="label" en="Bold" zc="" />
+  <property __name="label" en="Bold" zc="加粗" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.mwt_main_toolbar_save" config_id="C5506015E6624632B7E6643FD0890BEB">
-  <property __name="tooltip_template" en="Save Item" zc="" />
-  <property __name="label" en="Save" zc="" />
+  <property __name="tooltip_template" en="Save Item" zc="保存对象" />
+  <property __name="label" en="Save" zc="保存对象" />
  </Item>
  <Item type="CommandBarButton" keyed_name="tp_right" config_id="C5A058F9874E4EEA96AA7523783DD5C0">
-  <property __name="label" en="Right align" zc="" />
+  <property __name="label" en="Right align" zc="右对齐" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_edit_ly6" config_id="C66914B7C4DC4D7CB37933D420832C70"></Item>
  <Item type="CommandBarButton" keyed_name="btnPan" config_id="C857E6D752C5494698F1A18B77B4DFDA">
@@ -663,44 +663,44 @@
   <property __name="label" en="Pan" zc="" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.mwt_main_toolbar_promote" config_id="C8871ADB0C67428E9EF4D1ABED75968D">
-  <property __name="tooltip_template" en="Promote Item" zc="" />
-  <property __name="label" en="Promote" zc="" />
+  <property __name="tooltip_template" en="Promote Item" zc="提升" />
+  <property __name="label" en="Promote" zc="提升" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnLabelGrey" config_id="C95A22143769458394105FF444082DBC">
-  <property __name="tooltip_template" en="Grey" zc="" />
-  <property __name="label" en="Grey color" zc="" />
+  <property __name="tooltip_template" en="Grey" zc="灰色" />
+  <property __name="label" en="Grey color" zc="灰色" />
  </Item>
  <Item type="CommandBarButton" keyed_name="tp_left" config_id="C9BA3A2B72EC4F4AB7ECF3ABBCFFBDB0">
-  <property __name="label" en="Left align" zc="" />
+  <property __name="label" en="Left align" zc="左对齐" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.mwt_inbasket_toolbar_Print" config_id="CA6DC9A4371F4280AB5CFADD50EA543F">
-  <property __name="tooltip_template" en="Printable View" zc="" />
+  <property __name="tooltip_template" en="Printable View" zc="打印预览" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnZoomUp" config_id="CBFAF4AEFE854B7895D46452A8AE0356">
-  <property __name="tooltip_template" en="Zoom Up" zc="" />
-  <property __name="label" en="Zoom Up" zc="" />
+  <property __name="tooltip_template" en="Zoom Up" zc="缩小" />
+  <property __name="label" en="Zoom Up" zc="缩小" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_view_ly3" config_id="CC25B1E5E4824CAE8830A1B3B266FA62"></Item>
  <Item type="CommandBarButton" keyed_name="xClassTreeEditorMainToolbar_Add" config_id="CEAD52C4EC2047D09676A611C4D7046F">
-  <property __name="tooltip_template" en="Insert" zc="" />
+  <property __name="tooltip_template" en="Insert" zc="插入" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_structure_edit_toolbar_expandStructureItems" config_id="CFCF74AF4BCB454CA253C65894A99FAC">
-  <property __name="tooltip_template" en="Expand All" zc="" />
+  <property __name="tooltip_template" en="Expand All" zc="全部展开" />
  </Item>
  <Item type="CommandBarButton" keyed_name="tp_redo" config_id="CFF5C5671BC24448B67FF7DFBFB0CA70">
-  <property __name="label" en="Redo" zc="" />
+  <property __name="label" en="Redo" zc="重做" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_ly4" config_id="D2745263DD224423934B0FD57CA2D366"></Item>
  <Item type="CommandBarButton" keyed_name="tp_sub" config_id="D3527767E5ED458AB2BA72E1F9D57FA0">
   <property __name="label" en="Sub" zc="" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.mwt_main_toolbar_saveAs" config_id="D39591F23C584E77B41B6FB7245B2F5F">
-  <property __name="tooltip_template" en="Copy and Save Item" zc="" />
-  <property __name="label" en="Save As" zc="" />
+  <property __name="tooltip_template" en="Copy and Save Item" zc="复制并保存" />
+  <property __name="label" en="Save As" zc="复制并保存" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_workflow_undo" config_id="D3B7E5CB485D4498B5FEF6AE7E4F6675">
   <property __name="tooltip_template" en="Undo Changes on Item" zc="" />
-  <property __name="label" en="Undo  " zc="" />
+  <property __name="label" en="Undo  " zc="撤销" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_edit_ly11" config_id="D41BAB21E423493B803398B694B6112E"></Item>
  <Item type="CommandBarButton" keyed_name="btnScribble" config_id="D58C4AF6368A40C78AA139E902DCD375">
@@ -717,138 +717,138 @@
   <property __name="label" en="publish" zc="" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_normal_print" config_id="D8DC78E717A3473F8AE97C3DD20DFA8E">
-  <property __name="tooltip_template" en="Printable View" zc="" />
-  <property __name="label" en="Printable View  " zc="" />
+  <property __name="tooltip_template" en="Printable View" zc="打印预览" />
+  <property __name="label" en="Printable View  " zc="打印预览" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.mwt_main_toolbar_undo" config_id="DAEBD04C5309442CB55062D2C96B091E">
-  <property __name="tooltip_template" en="Undo Changes on Item" zc="" />
-  <property __name="label" en="Undo" zc="" />
+  <property __name="tooltip_template" en="Undo Changes on Item" zc="撤销" />
+  <property __name="label" en="Undo" zc="撤销" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_edit_ly8" config_id="DC72318904534FE29DCE63237B781A94"></Item>
  <Item type="CommandBarButton" keyed_name="btnBlue" config_id="DCC5202B58D346C7935EAB5C3AD65EE3">
-  <property __name="tooltip_template" en="Blue" zc="" />
-  <property __name="label" en="Blue color" zc="" />
+  <property __name="tooltip_template" en="Blue" zc="蓝色" />
+  <property __name="label" en="Blue color" zc="蓝色" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.mwt_es_clear_criteria_button" config_id="E03A7DC3263442288F83DF3A6BAADE58"></Item>
  <Item type="CommandBarButton" keyed_name="btnComparisonPallete" config_id="E0DC8F2A5198474CA71BD30ECF406F74">
-  <property __name="tooltip_template" en="Show Comparison" zc="" />
-  <property __name="label" en="Show Comparison" zc="" />
+  <property __name="tooltip_template" en="Show Comparison" zc="显示对比" />
+  <property __name="label" en="Show Comparison" zc="显示对比" />
  </Item>
  <Item type="CommandBarButton" keyed_name="tp_char_table" config_id="E1A07D9DA055416688765484808A5770">
-  <property __name="label" en="Character table" zc="" />
+  <property __name="label" en="Character table" zc="字符表" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnModelBrowser" config_id="E1BE2E6811F1461197E665CC7748CB64">
   <property __name="tooltip_template" en="Model Browser" zc="" />
-  <property __name="label" en="Model Browser" zc="" />
+  <property __name="label" en="Model Browser" zc="模型浏览" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_structure_view_toolbar_collapseStructureItems" config_id="E2500503391F463CACA013BAED9593FF">
-  <property __name="tooltip_template" en="Collapse All" zc="" />
+  <property __name="tooltip_template" en="Collapse All" zc="全部收缩" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_edit_ly1" config_id="E25CA5DEBE0C41DF9D7AAA17EA784434"></Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_select_ly7" config_id="E2FD33008380432F9CF43D4491CC46F4"></Item>
  <Item type="CommandBarButton" keyed_name="btnWhite" config_id="E3870A60B7CD466CADEB7BEAC6BB4358">
-  <property __name="tooltip_template" en="White" zc="" />
-  <property __name="label" en="White color" zc="" />
+  <property __name="tooltip_template" en="White" zc="白色" />
+  <property __name="label" en="White color" zc="白色" />
  </Item>
  <Item type="CommandBarButton" keyed_name="tp_undo" config_id="E519DF9393B34FE3902B191B865700A0">
-  <property __name="label" en="Undo" zc="" />
+  <property __name="label" en="Undo" zc="重做" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_structure_select_toolbar_expandStructureItems" config_id="E5D798A2D86A44A9A2FB7D466F4356F1">
-  <property __name="tooltip_template" en="Expand All" zc="" />
+  <property __name="tooltip_template" en="Expand All" zc="全部展开" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_structure_edit_toolbar_undo" config_id="E8EABB07EA6F4F44B36DD2322236255E">
-  <property __name="tooltip_template" en="Undo Changes on Item" zc="" />
-  <property __name="label" en="Undo" zc="" />
+  <property __name="tooltip_template" en="Undo Changes on Item" zc="撤销变更" />
+  <property __name="label" en="Undo" zc="撤销变更" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_workflow_lock" config_id="E900A841238F450E9C1E6C792AD92289">
-  <property __name="tooltip_template" en="Lock Item" zc="" />
-  <property __name="label" en="Lock  " zc="" />
+  <property __name="tooltip_template" en="Lock Item" zc="锁定" />
+  <property __name="label" en="Lock  " zc="锁定" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_ly5" config_id="EA3F6A7C38234EEAAAA98B1EA7B9A6FD"></Item>
  <Item type="CommandBarButton" keyed_name="rb_TreeGridConfiguratorShowForm" config_id="EB0701F42AE84B868892E661E2CA18B1">
-  <property __name="label" en="Show Form" zc="" />
+  <property __name="label" en="Show Form" zc="打开" />
  </Item>
  <Item type="CommandBarButton" keyed_name="tp_strike" config_id="EB0E44CED9CF4604B5365D4BB035D0F0">
-  <property __name="label" en="Strikeout" zc="" />
+  <property __name="label" en="Strikeout" zc="加删除线" />
  </Item>
  <Item type="CommandBarButton" keyed_name="largeLabelButton" config_id="EC16DABD239C41A785F2B3D90BD6F5CE">
-  <property __name="tooltip_template" en="Large" zc="" />
-  <property __name="label" en="Label Large" zc="" />
+  <property __name="tooltip_template" en="Large" zc="大" />
+  <property __name="label" en="Label Large" zc="大" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_normal_help_context" config_id="EC6810EFF87C48B9AB3E15F1E97F96CC">
-  <property __name="tooltip_template" en="Help" zc="" />
-  <property __name="label" en="Help" zc="" />
+  <property __name="tooltip_template" en="Help" zc="帮助" />
+  <property __name="label" en="Help" zc="帮助" />
  </Item>
  <Item type="CommandBarButton" keyed_name="xClassTreeEditorMainToolbar_Edit" config_id="ED29ED07990446258F92DA08E4A86632">
-  <property __name="tooltip_template" en="Edit" zc="" />
+  <property __name="tooltip_template" en="Edit" zc="编辑" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_normal_revisions" config_id="EDD93EB4D57E45A9A9799B49F9958D92">
-  <property __name="tooltip_template" en="View Revisions for Item" zc="" />
-  <property __name="label" en="All Revs" zc="" />
+  <property __name="tooltip_template" en="View Revisions for Item" zc="全部版本" />
+  <property __name="label" en="All Revs" zc="全部版本" />
  </Item>
  <Item type="CommandBarButton" keyed_name="largeScribbleButton" config_id="EE7D3E1010F24CC39D38ADE3BA1D7006">
-  <property __name="tooltip_template" en="Large" zc="" />
-  <property __name="label" en="Scribble Large" zc="" />
+  <property __name="tooltip_template" en="Large" zc="大" />
+  <property __name="label" en="Scribble Large" zc="大" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_structure_select_toolbar_return_selected" config_id="EEDCD6D69AE645BFA5D57C3FA4E72A53">
-  <property __name="tooltip_template" en="Return selected" zc="" />
+  <property __name="tooltip_template" en="Return selected" zc="返回选择" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_normal_promote" config_id="F22754D74B634C0394258010664362F1">
-  <property __name="tooltip_template" en="Promote Item" zc="" />
-  <property __name="label" en="Promote  " zc="" />
+  <property __name="tooltip_template" en="Promote Item" zc="提升" />
+  <property __name="label" en="Promote  " zc="提升" />
  </Item>
  <Item type="CommandBarButton" keyed_name="tp_apply" config_id="F23FCC4D153346CBAD1EEC71F90B5EF0">
-  <property __name="label" en="Apply" zc="" />
+  <property __name="label" en="Apply" zc="应用" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_normal_delete" config_id="F2694363594748DA98962F97E27784B9">
   <property __name="tooltip_template" en="Delete Item" zc="" />
-  <property __name="label" en="Delete  " zc="" />
+  <property __name="label" en="Delete  " zc="删除" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnOrientToFace" config_id="F571A7D00BFA446F9130E11733609265">
-  <property __name="tooltip_template" en="Orient to Face" zc="" />
-  <property __name="label" en="Orient to Face" zc="" />
+  <property __name="tooltip_template" en="Orient to Face" zc="东面" />
+  <property __name="label" en="Orient to Face" zc="东面" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_normal_save_unlock_close" config_id="F5E70B6081AC4F18B466BBE2CB394994">
-  <property __name="tooltip_template" en="Save, Unlock &amp; Close" zc="" />
-  <property __name="label" en="Save, Unlock &amp; Close  " zc="" />
+  <property __name="tooltip_template" en="Save, Unlock &amp; Close" zc="保存,解锁并关闭" />
+  <property __name="label" en="Save, Unlock &amp; Close  " zc="保存,解锁并关闭" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_view_ly0" config_id="F5EEC53A424B466781FC2F384C9659E1"></Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_normal_refresh" config_id="F81073194C784E8AB859ACE90C7CD3A8">
-  <property __name="tooltip_template" en="Refresh Item" zc="" />
-  <property __name="label" en="Refresh " zc="" />
+  <property __name="tooltip_template" en="Refresh Item" zc="刷新" />
+  <property __name="label" en="Refresh " zc="刷新" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnSelectText" config_id="F81DC772A5554EE5A3349700A57F0A83">
-  <property __name="tooltip_template" en="Select Text" zc="" />
-  <property __name="label" en="Select Text" zc="" />
+  <property __name="tooltip_template" en="Select Text" zc="显示文本" />
+  <property __name="label" en="Select Text" zc="显示文本" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnRectangle" config_id="FA2205BCC6094FE9806CBAE94DFA5E36">
-  <property __name="tooltip_template" en="Highlight" zc="" />
-  <property __name="label" en="Highlight" zc="" />
+  <property __name="tooltip_template" en="Highlight" zc="高亮" />
+  <property __name="label" en="Highlight" zc="高亮" />
  </Item>
  <Item type="CommandBarButton" keyed_name="tp_filtering" config_id="FB8111DD1AC9458A9FE796E28773FA30">
-  <property __name="label" en="Filtering Enable" zc="" />
+  <property __name="label" en="Filtering Enable" zc="启用过滤" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.mwt_inbasketTask_toolbar_no_tabs" config_id="FC38F299A3C64B47848366BAAA8D80EB">
-  <property __name="tooltip_template" en="Hide Tabs In Tab View" zc="" />
-  <property __name="label" en="- Tabs" zc="" />
+  <property __name="tooltip_template" en="Hide Tabs In Tab View" zc="隐藏页签" />
+  <property __name="label" en="- Tabs" zc="隐藏页签" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_structure_edit_toolbar_save_close" config_id="FCDAEB83407346AFA1248D426ECACEEE">
-  <property __name="tooltip_template" en="Save And Close" zc="" />
+  <property __name="tooltip_template" en="Save And Close" zc="保存并关闭" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_normal_delete" config_id="FCFF18161A6A49058868FDDB2B2A8683">
-  <property __name="tooltip_template" en="Delete Item" zc="" />
-  <property __name="label" en="Delete" zc="" />
+  <property __name="tooltip_template" en="Delete Item" zc="删除" />
+  <property __name="label" en="Delete" zc="删除" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_save_close" config_id="FD6CB7DF922A45F6AC13042D0D9A306A">
-  <property __name="tooltip_template" en="Save And Close" zc="" />
+  <property __name="tooltip_template" en="Save And Close" zc="保存并关闭" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_select_clear_selected" config_id="FDE6FA2AED11461EB62698476E20FF27">
-  <property __name="tooltip_template" en="Clear Selected" zc="" />
+  <property __name="tooltip_template" en="Clear Selected" zc="清除选中项" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_structure_select_return_selected" config_id="FF2E1A13EB604A80A7CE8D245164027B">
-  <property __name="tooltip_template" en="Return selected" zc="" />
+  <property __name="tooltip_template" en="Return selected" zc="返回所选" />
  </Item>
  <Item type="CommandBarButton" keyed_name="tp_addlink" config_id="FFD3671FC2A54146915A56FBE654B9C1">
-  <property __name="label" en="Add link" zc="" />
+  <property __name="label" en="Add link" zc="添加链接" />
  </Item>
 </export>

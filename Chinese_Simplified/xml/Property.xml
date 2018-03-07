@@ -11,22 +11,22 @@
  <Item type="Property" keyed_name="css" name="css" source_id="02184EDAA80D499CB6EC94B159966DBE"></Item>
  <Item type="Property" keyed_name="current_state" name="current_state" source_id="02184EDAA80D499CB6EC94B159966DBE"></Item>
  <Item type="Property" keyed_name="date_due_act" name="date_due_act" source_id="02184EDAA80D499CB6EC94B159966DBE">
-  <property __name="label" en="Act Finish" zc="" />
+  <property __name="label" en="Act Finish" zc="实际完成日期" />
  </Item>
  <Item type="Property" keyed_name="date_due_sched" name="date_due_sched" source_id="02184EDAA80D499CB6EC94B159966DBE">
   <property __name="label" en="Sched Due" zc="日程完成日期" />
  </Item>
  <Item type="Property" keyed_name="date_due_target" name="date_due_target" source_id="02184EDAA80D499CB6EC94B159966DBE">
-  <property __name="label" en="Target Due" zc="" />
+  <property __name="label" en="Target Due" zc="目标截至日期" />
  </Item>
  <Item type="Property" keyed_name="date_start_act" name="date_start_act" source_id="02184EDAA80D499CB6EC94B159966DBE">
-  <property __name="label" en="Act Start" zc="" />
+  <property __name="label" en="Act Start" zc="实际开始日期" />
  </Item>
  <Item type="Property" keyed_name="date_start_sched" name="date_start_sched" source_id="02184EDAA80D499CB6EC94B159966DBE">
   <property __name="label" en="Sched Start" zc="日程开始日期" />
  </Item>
  <Item type="Property" keyed_name="date_start_target" name="date_start_target" source_id="02184EDAA80D499CB6EC94B159966DBE">
-  <property __name="label" en="Target Start" zc="" />
+  <property __name="label" en="Target Start" zc="目标开始日期" />
  </Item>
  <Item type="Property" keyed_name="description" name="description" source_id="02184EDAA80D499CB6EC94B159966DBE">
   <property __name="label" en="Description" zc="描述" />
@@ -44,7 +44,7 @@
  <Item type="Property" keyed_name="id" name="id" source_id="02184EDAA80D499CB6EC94B159966DBE"></Item>
  <Item type="Property" keyed_name="is_current" name="is_current" source_id="02184EDAA80D499CB6EC94B159966DBE"></Item>
  <Item type="Property" keyed_name="is_released" name="is_released" source_id="02184EDAA80D499CB6EC94B159966DBE">
-  <property __name="label" en="Released" zc="" />
+  <property __name="label" en="Released" zc="已发布" />
  </Item>
  <Item type="Property" keyed_name="keyed_name" name="keyed_name" source_id="02184EDAA80D499CB6EC94B159966DBE"></Item>
  <Item type="Property" keyed_name="locked_by_id" name="locked_by_id" source_id="02184EDAA80D499CB6EC94B159966DBE"></Item>
@@ -58,46 +58,46 @@
  </Item>
  <Item type="Property" keyed_name="new_version" name="new_version" source_id="02184EDAA80D499CB6EC94B159966DBE"></Item>
  <Item type="Property" keyed_name="not_lockable" name="not_lockable" source_id="02184EDAA80D499CB6EC94B159966DBE">
-  <property __name="label" en="Not Lockable" zc="" />
+  <property __name="label" en="Not Lockable" zc="没有可锁定的" />
  </Item>
  <Item type="Property" keyed_name="owned_by_id" name="owned_by_id" source_id="02184EDAA80D499CB6EC94B159966DBE">
-  <property __name="label" en="Project Manager" zc="" />
+  <property __name="label" en="Project Manager" zc="项目管理者" />
  </Item>
  <Item type="Property" keyed_name="percent_compl_1" name="percent_compl_1" source_id="02184EDAA80D499CB6EC94B159966DBE">
-  <property __name="label" en="Ph 1" zc="" />
+  <property __name="label" en="Ph 1" zc="阶段1" />
  </Item>
  <Item type="Property" keyed_name="percent_compl_10" name="percent_compl_10" source_id="02184EDAA80D499CB6EC94B159966DBE">
-  <property __name="label" en="Ph 10" zc="" />
+  <property __name="label" en="Ph 10" zc="阶段10" />
  </Item>
  <Item type="Property" keyed_name="percent_compl_11" name="percent_compl_11" source_id="02184EDAA80D499CB6EC94B159966DBE">
-  <property __name="label" en="Ph 11" zc="" />
+  <property __name="label" en="Ph 11" zc="阶段11" />
  </Item>
  <Item type="Property" keyed_name="percent_compl_12" name="percent_compl_12" source_id="02184EDAA80D499CB6EC94B159966DBE">
-  <property __name="label" en="Ph 12" zc="" />
+  <property __name="label" en="Ph 12" zc="阶段12" />
  </Item>
  <Item type="Property" keyed_name="percent_compl_2" name="percent_compl_2" source_id="02184EDAA80D499CB6EC94B159966DBE">
-  <property __name="label" en="Ph 2" zc="" />
+  <property __name="label" en="Ph 2" zc="阶段2" />
  </Item>
  <Item type="Property" keyed_name="percent_compl_3" name="percent_compl_3" source_id="02184EDAA80D499CB6EC94B159966DBE">
-  <property __name="label" en="Ph 3" zc="" />
+  <property __name="label" en="Ph 3" zc="阶段3" />
  </Item>
  <Item type="Property" keyed_name="percent_compl_4" name="percent_compl_4" source_id="02184EDAA80D499CB6EC94B159966DBE">
-  <property __name="label" en="Ph 4" zc="" />
+  <property __name="label" en="Ph 4" zc="阶段4" />
  </Item>
  <Item type="Property" keyed_name="percent_compl_5" name="percent_compl_5" source_id="02184EDAA80D499CB6EC94B159966DBE">
-  <property __name="label" en="Ph 5" zc="" />
+  <property __name="label" en="Ph 5" zc="阶段5" />
  </Item>
  <Item type="Property" keyed_name="percent_compl_6" name="percent_compl_6" source_id="02184EDAA80D499CB6EC94B159966DBE">
-  <property __name="label" en="Ph 6" zc="" />
+  <property __name="label" en="Ph 6" zc="阶段6" />
  </Item>
  <Item type="Property" keyed_name="percent_compl_7" name="percent_compl_7" source_id="02184EDAA80D499CB6EC94B159966DBE">
-  <property __name="label" en="Ph 7" zc="" />
+  <property __name="label" en="Ph 7" zc="阶段7" />
  </Item>
  <Item type="Property" keyed_name="percent_compl_8" name="percent_compl_8" source_id="02184EDAA80D499CB6EC94B159966DBE">
-  <property __name="label" en="Ph 8" zc="" />
+  <property __name="label" en="Ph 8" zc="阶段8" />
  </Item>
  <Item type="Property" keyed_name="percent_compl_9" name="percent_compl_9" source_id="02184EDAA80D499CB6EC94B159966DBE">
-  <property __name="label" en="Ph 9" zc="" />
+  <property __name="label" en="Ph 9" zc="阶段9" />
  </Item>
  <Item type="Property" keyed_name="permission_id" name="permission_id" source_id="02184EDAA80D499CB6EC94B159966DBE"></Item>
  <Item type="Property" keyed_name="project_number" name="project_number" source_id="02184EDAA80D499CB6EC94B159966DBE">
@@ -111,8 +111,8 @@
   <property __name="label" en="Rollup Percent Compl" zc="" />
  </Item>
  <Item type="Property" keyed_name="scheduling_method" name="scheduling_method" source_id="02184EDAA80D499CB6EC94B159966DBE">
-  <property __name="label" en="Scheduling Method" zc="" />
-  <property __name="default_value" en="7DC85B0668134E949B9212D7CE199265" zc="" />
+  <property __name="label" en="Scheduling Method" zc="日程方法" />
+  <property __name="default_value" en="7DC85B0668134E949B9212D7CE199265" zc="7DC85B0668134E949B9212D7CE199265" />
  </Item>
  <Item type="Property" keyed_name="scheduling_mode" name="scheduling_mode" source_id="02184EDAA80D499CB6EC94B159966DBE">
   <property __name="label" en="Scheduling Mode" zc="日程模式" />

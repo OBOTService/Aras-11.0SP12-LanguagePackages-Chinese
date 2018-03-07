@@ -1,16 +1,16 @@
 ﻿<export>
  <Item type="History Action" keyed_name="FileDownload" config_id="20FF9144A9764B569ECDC21555DF4006">
-  <property __name="label" en="File Download" zc="" />
+  <property __name="label" en="File Download" zc="文件下载" />
  </Item>
  <Item type="History Action" keyed_name="Add" config_id="22490941AB8E4996BE0C4EA4940DD7B9">
-  <property __name="label" en="Add" zc="" />
+  <property __name="label" en="Add" zc="添加" />
  </Item>
  <Item type="History Action" keyed_name="FormPrint" config_id="26FC2D778BFB4D749FA4401726EBEF44">
-  <property __name="label" en="Print" zc="" />
+  <property __name="label" en="Print" zc="打印" />
   <property __name="comment_text" en="Item printed from Form '{form_name}'" zc="" />
  </Item>
  <Item type="History Action" keyed_name="Delete" config_id="3C23BB1FCACC4EBEB12CA1D74A8CE1C2">
-  <property __name="label" en="Delete" zc="" />
+  <property __name="label" en="Delete" zc="删除" />
  </Item>
  <Item type="History Action" keyed_name="FormView" config_id="D28D522E2D93447AB1DCAC50B7F98CD3">
   <property __name="label" en="View" zc="" />
