@@ -4,6 +4,10 @@
 那么修改SETUP-DEFAULTS.CMD.之后
 直接执行004-IMPORT-CHINESE_SIMP.BAT即可
 
+重要：
+  执行之后，关闭Innovator系统，清除缓存，重新登录，才会生效，
+这一步非常重要
+
 没有执行过汉化参考下方数据
 Aras SP12汉化
 Before importing this Language Pack into production, Aras recommends that you create a back up of your Database and Code Tree.
