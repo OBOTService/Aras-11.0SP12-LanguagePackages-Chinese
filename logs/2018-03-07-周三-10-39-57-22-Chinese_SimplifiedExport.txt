@@ -1,5 +1,0 @@
-给定关键字不在字典中。   在 System.ThrowHelper.ThrowKeyNotFoundException()
-   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
-   在 Aras.Tools.I18N.ExpImpMLData.ItemData.ToXmlNode(XmlDocument parentDoc, Hashtable supportedLanguages)
-   在 Aras.Tools.I18N.ExpImpMLData.LanguageExport.Export()
-   在 Aras.Tools.I18N.ExpImpMLData.LanguageTool.Main(String[] args)
