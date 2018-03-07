@@ -1,4 +1,10 @@
 # SP12-Localization
+
+如果你已经执行过汉化了，
+那么修改SETUP-DEFAULTS.CMD.之后
+直接执行004-IMPORT-CHINESE_SIMP.BAT即可
+
+没有执行过汉化参考下方数据
 Aras SP12汉化
 Before importing this Language Pack into production, Aras recommends that you create a back up of your Database and Code Tree.
 
