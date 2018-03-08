@@ -1,10 +1,10 @@
 ﻿<export>
  <Item type="Field" keyed_name="html0" config_id="EED7D02CC99F4BC5A9657705B7AA654A"></Item>
  <Item type="Field" keyed_name="context_item_type" config_id="C337F13E14774E36B610EB624300387D">
-  <property __name="label" en="Context Item Type" zc="" />
+  <property __name="label" en="Context Item Type" zc="内容对象类型" />
  </Item>
  <Item type="Field" keyed_name="description" config_id="F4E6AF516C4249FAAFA427624C6997DD">
-  <property __name="label" en="Description" zc="" />
+  <property __name="label" en="Description" zc="描述" />
  </Item>
  <Item type="Field" keyed_name="item_info" config_id="576B3F0CA696402CB0951AA90097006F"></Item>
  <Item type="Field" keyed_name="name" config_id="6D46CA341C3D414388A2829D2B75E963">
@@ -12,7 +12,7 @@
  </Item>
  <Item type="Field" keyed_name="presentation_config_form" config_id="B257DE1B37C44652A2A1491991621F20"></Item>
  <Item type="Field" keyed_name="query_definition" config_id="DC405ADC33154FE6942996A4CD000CEE">
-  <property __name="label" en="Query Definition" zc="" />
+  <property __name="label" en="Query Definition" zc="查询定义" />
  </Item>
  <Item type="Field" keyed_name="startingConditionCode" config_id="2D429BC659634813B5F2DF71A3FE6DFD"></Item>
  <Item type="Field" keyed_name="calculatedGroupBox" config_id="C42BADDFC0654E2D8084E24E0DFBD718">
@@ -69,7 +69,7 @@
   <property __name="label" en="Expected Duration" zc="预期工期" />
  </Item>
  <Item type="Field" keyed_name="hide_some_tabs_in_project_tmplt" config_id="2C9BAC7AAC0543B3BDFACE75939A7FE2">
-  <property __name="label" en="Hide Tabs In Project Template" zc="" />
+  <property __name="label" en="Hide Tabs In Project Template" zc="隐藏页签" />
  </Item>
  <Item type="Field" keyed_name="is_required" config_id="4F2916D05E5D4180B7501CBF792ADE74">
   <property __name="label" en="Required" zc="必需" />
@@ -124,26 +124,26 @@
   <property __name="label" en="Update Generation" zc="Update Generation" />
  </Item>
  <Item type="Field" keyed_name="comment_text" config_id="CE2495D18D0946119546D2B31E445C5D">
-  <property __name="label" en="Comment" zc="" />
+  <property __name="label" en="Comment" zc="注释" />
  </Item>
  <Item type="Field" keyed_name="event_type" config_id="0F72C93DBC3E445AA6A11FE239363E9D">
   <property __name="label" en="event_type" zc="" />
  </Item>
  <Item type="Field" keyed_name="ip_address" config_id="098B064B3F3B40969D3505D4035852AD">
-  <property __name="label" en="Ip Address" zc="" />
+  <property __name="label" en="Ip Address" zc="IP地址" />
  </Item>
  <Item type="Field" keyed_name="item_info" config_id="7FE56640402A4D1A9BE971CE90FD2071"></Item>
  <Item type="Field" keyed_name="login_name" config_id="4DA92B0BCE6A4A2ABFEAEE4BC0E88048">
-  <property __name="label" en="Login Name" zc="" />
+  <property __name="label" en="Login Name" zc="登录名" />
  </Item>
  <Item type="Field" keyed_name="method_name" config_id="BF3AAC889031431D8B3A3890D379965F">
-  <property __name="label" en="Method Name" zc="" />
+  <property __name="label" en="Method Name" zc="方法名" />
  </Item>
  <Item type="Field" keyed_name="session_id" config_id="335A2CE27AB04E14B44C4AEA0EBD0A2D">
   <property __name="label" en="Session ID" zc="" />
  </Item>
  <Item type="Field" keyed_name="targetUsageLabel" config_id="C1381E3178B44100BF5694E996854832">
-  <property __name="label" en="Choose Target Usage:" zc="" />
+  <property __name="label" en="Choose Target Usage:" zc="选择目标使用:" />
  </Item>
  <Item type="Field" keyed_name="targetUsageList" config_id="035C773B2DA247E49AE0760690EC3BBA"></Item>
  <Item type="Field" keyed_name="background_style" config_id="B31DB37416624152A860CA1C83E1CC1C">
@@ -609,7 +609,7 @@
   <property __name="label" en="Files Attached" zc="" />
  </Item>
  <Item type="Field" keyed_name="is_template" config_id="230061929A8B49AEB981DB16762BFAA1">
-  <property __name="label" en="Template" zc="" />
+  <property __name="label" en="Template" zc="模板" />
  </Item>
  <Item type="Field" keyed_name="item_info" config_id="5BEED77F8156441EB5F84CD974B48B84"></Item>
  <Item type="Field" keyed_name="item_number" config_id="9DD19B318207479285640C3D4223E949">
@@ -977,7 +977,7 @@
   <property __name="label" en="Hide Tabs In Project Template" zc="" />
  </Item>
  <Item type="Field" keyed_name="is_required" config_id="A68F882FA7FE4BFB99709F0759C7FB08">
-  <property __name="label" en="Required" zc="" />
+  <property __name="label" en="Required" zc="必填" />
  </Item>
  <Item type="Field" keyed_name="item_info" config_id="F4085530D230408A8EE37335A700CA11"></Item>
  <Item type="Field" keyed_name="managed_by_id" config_id="0CCFB0E7BAE1452B8A54F4E033A8BF0D">
@@ -1553,10 +1553,10 @@
   <property __name="label" en="Tooltip Template" zc="" />
  </Item>
  <Item type="Field" keyed_name="btn_Cancel" config_id="E5882F55424A43DCBC14E3D106EEE023">
-  <property __name="label" en="Cancel" zc="" />
+  <property __name="label" en="Cancel" zc="取消" />
  </Item>
  <Item type="Field" keyed_name="btn_Save" config_id="1C2E1D2FAD054EAE92DB51655AFDE13A">
-  <property __name="label" en="Save" zc="" />
+  <property __name="label" en="Save" zc="保存" />
  </Item>
  <Item type="Field" keyed_name="cell_view_type" config_id="6005BB90A6DD4B4687598258A031FBEA">
   <property __name="label" en="Cell View Type" zc="" />
@@ -1567,10 +1567,10 @@
   <property __name="label" en="Icon Template" zc="" />
  </Item>
  <Item type="Field" keyed_name="item_id_template" config_id="A1A37C5804FC4799BCD729A69B1B592F">
-  <property __name="label" en="Item Property" zc="" />
+  <property __name="label" en="Item Property" zc="对象属性" />
  </Item>
  <Item type="Field" keyed_name="item_type_name" config_id="A4E6CF15AE424E8AADA6875924A2CFB4">
-  <property __name="label" en="ItemType Name" zc="" />
+  <property __name="label" en="ItemType Name" zc="对象名称" />
  </Item>
  <Item type="Field" keyed_name="template_helper" config_id="83E44FEACA7B420AB6128B4728B21203">
   <property __name="label" en="Helper" zc="" />
@@ -1579,13 +1579,13 @@
   <property __name="label" en="Text Template" zc="" />
  </Item>
  <Item type="Field" keyed_name="btn_Cancel" config_id="BAD5E518864840178A0019221A82B89C">
-  <property __name="label" en="Cancel" zc="" />
+  <property __name="label" en="Cancel" zc="取消" />
  </Item>
  <Item type="Field" keyed_name="btn_Save" config_id="E1D64A2A444E4A62AA5D73CAF813319A">
-  <property __name="label" en="Save" zc="" />
+  <property __name="label" en="Save" zc="保存" />
  </Item>
  <Item type="Field" keyed_name="data_template" config_id="5AAEC656FD7F472AB5011D3E1BC69DF5">
-  <property __name="label" en="Data Template" zc="" />
+  <property __name="label" en="Data Template" zc="数据模板" />
  </Item>
  <Item type="Field" keyed_name="initializer" config_id="2B45A0992DF34B7D87BE8BB4E74BC039"></Item>
  <Item type="Field" keyed_name="template_helper" config_id="7AB2BFD7BD194480AD54CE37F96C9E93">
@@ -1885,17 +1885,17 @@
   <property __name="label" en="Vault Url Pattern" zc="数据仓库URL" />
  </Item>
  <Item type="Field" keyed_name="button_ok" config_id="480A211EADFF44DC8E2AC02580B16187">
-  <property __name="label" en="Save Changes" zc="" />
+  <property __name="label" en="Save Changes" zc="保存变更" />
  </Item>
  <Item type="Field" keyed_name="cancel" config_id="06AF53FEDBDF4E96997E1447C6FFDDA6">
-  <property __name="label" en="Cancel" zc="" />
+  <property __name="label" en="Cancel" zc="取消" />
  </Item>
  <Item type="Field" keyed_name="grid" config_id="8486D338253D4CCE967AB2D7CEE34AAB"></Item>
  <Item type="Field" keyed_name="item_number" config_id="823E0BE9629E41F1826D86297E930186">
-  <property __name="label" en="Part Number" zc="" />
+  <property __name="label" en="Part Number" zc="零部件编号" />
  </Item>
  <Item type="Field" keyed_name="state" config_id="91FBEFF0B59640AB97A645A91F4D0959">
-  <property __name="label" en="State" zc="" />
+  <property __name="label" en="State" zc="状态" />
  </Item>
  <Item type="Field" keyed_name="statusbar" config_id="EA78A05D420744FD89AE2284B7B6A617"></Item>
  <Item type="Field" keyed_name="item_info" config_id="879364283E654ABB84F88D7633C65038"></Item>
@@ -1911,10 +1911,10 @@
   <property __name="label" en="Name" zc="名称" />
  </Item>
  <Item type="Field" keyed_name="btn_Cancel" config_id="D1820C83E62049C6B3F2E4A44BF76FBC">
-  <property __name="label" en="Cancel" zc="" />
+  <property __name="label" en="Cancel" zc="取消" />
  </Item>
  <Item type="Field" keyed_name="btn_Save" config_id="55ED4055CCAF4BEEA13B2733451BB0FF">
-  <property __name="label" en="Save" zc="" />
+  <property __name="label" en="Save" zc="保存" />
  </Item>
  <Item type="Field" keyed_name="cell_view_type" config_id="4CEACE21A8074885B60DAF811DB26B49">
   <property __name="label" en="Cell View Type" zc="" />
@@ -2234,7 +2234,7 @@
   <property __name="label" en="Root Type" zc="" />
  </Item>
  <Item type="Field" keyed_name="status" config_id="8941D4F30E2B4E16979BB3E565E29CA9">
-  <property __name="label" en="Status" zc="" />
+  <property __name="label" en="Status" zc="状态" />
  </Item>
  <Item type="Field" keyed_name="address" config_id="4A17E41DF2D647AA9DC70DB85EC9D0CE">
   <property __name="label" en="Address" zc="地址" />
@@ -3477,7 +3477,7 @@
   <property __name="label" en="Graphic Number" zc="" />
  </Item>
  <Item type="Field" keyed_name="major_rev" config_id="0484CA47D34E4DF4AB1356744A98747F">
-  <property __name="label" en="Revision" zc="" />
+  <property __name="label" en="Revision" zc="版本" />
  </Item>
  <Item type="Field" keyed_name="name" config_id="410E5F5B739A4DED8B271AC61ADF2943">
   <property __name="label" en="Name" zc="" />
@@ -4580,7 +4580,7 @@
  </Item>
  <Item type="Field" keyed_name="item_info" config_id="A37FFD272D6449DC89BE596F18A0E5F1"></Item>
  <Item type="Field" keyed_name="template" config_id="5A220F1046FC4D2A900B61B5EBBAE323">
-  <property __name="label" en="Template" zc="" />
+  <property __name="label" en="Template" zc="模板" />
  </Item>
  <Item type="Field" keyed_name="tree_row_ref_id" config_id="63618A2A725A4488AABD2983D0ED2D13">
   <property __name="label" en="Tree Row Reference ID" zc="" />

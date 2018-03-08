@@ -1212,8 +1212,8 @@
  </Item>
  <Item type="ItemType" keyed_name="Express ECO File" config_id="CBFCC2B7EC174750AFFF8D1EE0A82E34"></Item>
  <Item type="ItemType" keyed_name="Team" config_id="CC23F9130F574E7D99DF9659F27590A6">
-  <property __name="label" en="Team" zc="" />
-  <property __name="label_plural" en="Teams" zc="" />
+  <property __name="label" en="Team" zc="团队" />
+  <property __name="label_plural" en="Teams" zc="团队" />
  </Item>
  <Item type="ItemType" keyed_name="CAD" config_id="CCF205347C814DD1AF056875E0A880AC">
   <property __name="label" en="CAD Document" zc="工程图" />

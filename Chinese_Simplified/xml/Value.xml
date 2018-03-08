@@ -537,16 +537,16 @@
   <property __name="label" en="Include with Export" zc="" />
  </Item>
  <Item type="Value" keyed_name="0813B1B40A9A435385AE44DAD77E48C4" config_id="0813B1B40A9A435385AE44DAD77E48C4">
-  <property __name="label" en="Advanced" zc="" />
+  <property __name="label" en="Advanced" zc="高级搜索" />
  </Item>
  <Item type="Value" keyed_name="1C128F503AC44BC493BABACEB3B56BEA" config_id="1C128F503AC44BC493BABACEB3B56BEA">
-  <property __name="label" en="NoUI" zc="" />
+  <property __name="label" en="NoUI" zc="隐藏搜索" />
  </Item>
  <Item type="Value" keyed_name="9646C8C0F6FD45B2852FF36F4C3B324B" config_id="9646C8C0F6FD45B2852FF36F4C3B324B">
-  <property __name="label" en="Simple" zc="" />
+  <property __name="label" en="Simple" zc="简单搜索" />
  </Item>
  <Item type="Value" keyed_name="FA057ED433734E09918B4412D5AF7A8F" config_id="FA057ED433734E09918B4412D5AF7A8F">
-  <property __name="label" en="AML" zc="" />
+  <property __name="label" en="AML" zc="AML搜索" />
  </Item>
  <Item type="Value" keyed_name="2FE2F4160EFC401EA9006FC42CD49EC8" config_id="2FE2F4160EFC401EA9006FC42CD49EC8">
   <property __name="label" en="Manual" zc="" />
@@ -1168,13 +1168,13 @@
   <property __name="label" en="Act" zc="" />
  </Item>
  <Item type="Value" keyed_name="0576BC056FDD4BE9A0C34BDFFB495898" config_id="0576BC056FDD4BE9A0C34BDFFB495898">
-  <property __name="label" en="Discussion Panel On" zc="" />
+  <property __name="label" en="Discussion Panel On" zc="打开讨论版块" />
  </Item>
  <Item type="Value" keyed_name="F45F34E5B0F24DD6825B592E7A09962A" config_id="F45F34E5B0F24DD6825B592E7A09962A">
-  <property __name="label" en="Discussion Panel Off" zc="" />
+  <property __name="label" en="Discussion Panel Off" zc="关闭讨论版块" />
  </Item>
  <Item type="Value" keyed_name="11C12DC40BD14855B88895AAF365C104" config_id="11C12DC40BD14855B88895AAF365C104">
-  <property __name="label" en="Current" zc="" />
+  <property __name="label" en="Current" zc="当前" />
  </Item>
  <Item type="Value" keyed_name="36408C36BEB147C6AD0844816242F044" config_id="36408C36BEB147C6AD0844816242F044">
   <property __name="label" en="As Saved" zc="" />
