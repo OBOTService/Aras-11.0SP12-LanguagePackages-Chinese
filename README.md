@@ -1,15 +1,21 @@
 # SP12-Localization
+效果图
+</br>
+<img src="https://www.obotservice.com/wp-content/uploads/2018/03/obotservice.com_2018-03-07_18-20-50.jpg" alt=""/>
+</br>
+<a href="https://www.obotservice.com/archives/742">点击查看汉化视频</a>
+</br>
 
 如果你已经执行过汉化了，
 那么修改SETUP-DEFAULTS.CMD.之后
 直接执行004-IMPORT-CHINESE_SIMP.BAT即可
+</br>
+  <b>重要</b>：
+  执行之后，关闭Innovator系统，清除缓存，重新登录，才会生效，这一步非常重要
+</br>
+没有执行过汉化参考下方数据</br>
 
-重要：
-  执行之后，关闭Innovator系统，清除缓存，重新登录，才会生效，
-这一步非常重要
-
-没有执行过汉化参考下方数据
-Aras SP12汉化
+官方教程:</br>
 Before importing this Language Pack into production, Aras recommends that you create a back up of your Database and Code Tree.
 
 These are generic instructions for setting up a machine with the current Chinese Simplified language pack and the zh-cn locale.  
