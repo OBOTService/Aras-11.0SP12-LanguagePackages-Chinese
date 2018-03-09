@@ -276,13 +276,8 @@
   <property __name="label_plural" en="View With" zc="View With" />
  </Item>
  <Item type="ItemType" keyed_name="ReplicationTxn" config_id="2DAC2B407B0043A692905CF6A94296A8">
-<<<<<<< HEAD
   <property __name="label" en="Replication Transaction" zc="文件同步事务" />
   <property __name="label_plural" en="Replication Transactions" zc="文件同步事务" />
-=======
-  <property __name="label" en="Replication Transaction" zc="同步事务" />
-  <property __name="label_plural" en="Replication Transactions" zc="同步事务" />
->>>>>>> 8f1fe83f42fdcd7cc001735f722df35a204a137e
  </Item>
  <Item type="ItemType" keyed_name="Affected Item Property" config_id="2E0E4A152F3443509E5EEB774AC8AB5C"></Item>
  <Item type="ItemType" keyed_name="Forum" config_id="2E25B49E218A45D28D0C7D3C0633710C">
