@@ -1,4 +1,6 @@
 # SP12-Localization
+官方地址：https://www.aras.com/support/downloads/language-packs-hotfixes.aspx
+</br>
 效果图
 </br>
 <img src="https://www.obotservice.com/wp-content/uploads/2018/03/obotservice.com_2018-03-07_18-20-50.jpg" alt=""/>
