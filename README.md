@@ -53,7 +53,7 @@ SQL_LOGIN = The login assigned to the innovator user of the Aras Innovator datab
 SQL_PASSWORD = The password of the login assigned to the innovator user of the Aras Innovator database in SQL Server.
                This value can be found in the Aras Innovator InnovatorServerConfig.xml in the DB-connection tag. (pwd="innovator")
 
-
+<b>这一步可以不执行，官方包存在BUG，暂未修复</b></br>
 Step 2 - Install the client xml directories.
 --------------------------------------------
 Copy the \Innovator folder found in this directory to the server overwriting
