@@ -118,13 +118,13 @@
   <property __name="label" en="Execute Query" zc="执行查询" />
  </Item>
  <Item type="Action" keyed_name="rb_DeactivateTGVD" config_id="CCDAD1F24D79427DA35CBCB925517DC3">
-  <property __name="label" en="Remove Tree Grid View Usage" zc="" />
+  <property __name="label" en="Remove Tree Grid View Usage" zc="删除使用的网格" />
  </Item>
  <Item type="Action" keyed_name="mp_Activate" config_id="D4C9C36D50224431B30ABAA54A41E1AB">
   <property __name="label" en="Activate" zc="激活" />
  </Item>
  <Item type="Action" keyed_name="VCN_SwitchNotificationsState" config_id="D881873D5E8F479C86ED8CBB50110FE5">
-  <property __name="label" en="Visual Collaboration Notifications" zc="" />
+  <property __name="label" en="Visual Collaboration Notifications" zc="视觉协作通知" />
  </Item>
  <Item type="Action" keyed_name="SPUpload" config_id="DED925185AE34E1FA72918556ACCA0DC">
   <property __name="label" en="Upload To SharePoint ..." zc="上传至SharePoint" />
@@ -133,7 +133,7 @@
   <property __name="label" en="Update Default Permission" zc="更新默认权限" />
  </Item>
  <Item type="Action" keyed_name="cmf_ConvertToProperties" config_id="E7D47598B14B4DC1AD701EAB3B1EA331">
-  <property __name="label" en="Convert to Document Element Properties" zc="" />
+  <property __name="label" en="Convert to Document Element Properties" zc="转换为文档元素属性" />
  </Item>
  <Item type="Action" keyed_name="cmf_ChangeParent" config_id="EF6600952AC6425BAF58556B09360346">
   <property __name="label" en="Change parent element" zc="变更父元素" />
@@ -145,5 +145,7 @@
  <Item type="Action" keyed_name="VC_AddItemsToBookmarks" config_id="FD4D2BE9E2B14919BF1973842A556AFD">
   <property __name="label" en="Add Item(s) To Bookmarks..." zc="添加至收藏夹" />
  </Item>
- <Item type="Action" keyed_name="Create New Project" config_id="FF7A446939934B0FAD658488CF0690FF"></Item>
+ <Item type="Action" keyed_name="Create New Project" config_id="FF7A446939934B0FAD658488CF0690FF">
+  <property __name="label" en="Create New Project" zc="创建新项目" />
+ </Item>
 </export>

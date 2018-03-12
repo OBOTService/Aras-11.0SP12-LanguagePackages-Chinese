@@ -1,9 +1,11 @@
 ﻿<export>
  <Item type="Report" keyed_name="ECR Report" config_id="104E644AA2E74515B67EAC52790137D5"></Item>
  <Item type="Report" keyed_name="BOM Quantity Rollup Report" config_id="2290D6D2214C4A38B5C08755AEE8A282"></Item>
- <Item type="Report" keyed_name="ItemType Permissions Report" config_id="2D3FFE2E01494679AAB6095A2702C774"></Item>
+ <Item type="Report" keyed_name="ItemType Permissions Report" config_id="2D3FFE2E01494679AAB6095A2702C774">
+    <property __name="label" en="ItemType Permissions Report" zc="对象权限报表" />
+ </Item>
  <Item type="Report" keyed_name="Report Manager" config_id="3BE0B6D8DD76436C83A1FAEB18A9E1A7">
-  <property __name="label" en="Report Manager" zc="" />
+    <property __name="label" en="Report Manager" zc="报表管理" />
  </Item>
  <Item type="Report" keyed_name="PM Grid Layout Report" config_id="3D22F46DB57F40DB93A74CA1EE19535D"></Item>
  <Item type="Report" keyed_name="PR Report" config_id="3FA087DFB77341F3B471015FA69AE775"></Item>
@@ -13,15 +15,21 @@
  <Item type="Report" keyed_name="Identity Membership" config_id="4E6FF9B601FD49919410EE0FC2A9B13D"></Item>
  <Item type="Report" keyed_name="PM Activity Status Color Report" config_id="5206FFBFE9F9482EAC8B2EDE15AC443F"></Item>
  <Item type="Report" keyed_name="Workflow Process History" config_id="57B7C712E6A64B0C85C652B6E870064C">
-  <property __name="label" en="Workflow Process History" zc="" />
+    <property __name="label" en="Workflow Process History" zc="工作流历史记录" />
  </Item>
  <Item type="Report" keyed_name="Methods Summary" config_id="6BFD740544514B21826F9E4E59431E41"></Item>
  <Item type="Report" keyed_name="ECN Report" config_id="70007FC2534243EEBC63B0F988F4AE6B"></Item>
  <Item type="Report" keyed_name="PR Log Report" config_id="9280895889CB4FDC88B5EF8CDEFCC6FB"></Item>
  <Item type="Report" keyed_name="Inactive Accounts" config_id="B7A146F714D249009152932B59C71486"></Item>
  <Item type="Report" keyed_name="BOM Costing Report" config_id="B932166880F84F30BB02C62E0C29CBEF"></Item>
- <Item type="Report" keyed_name="ItemType History Configuration" config_id="DBAA17478EDE4AD59F1D1ECDE1906D00"></Item>
+ <Item type="Report" keyed_name="ItemType History Configuration" config_id="DBAA17478EDE4AD59F1D1ECDE1906D00">
+    <property __name="label" en="ItemType History Configuration" zc="对象历史配置报表" />
+ </Item>
  <Item type="Report" keyed_name="PE_SearchPartCircularReferences" config_id="EB940D65D28E47618BC9708787223C58"></Item>
- <Item type="Report" keyed_name="Multilevel BOM Report" config_id="FB8CA61BE45E46DE9E4346BB653398C2"></Item>
- <Item type="Report" keyed_name="ItemType Definition Report" config_id="FBBA9CBBABDA492CB3333544A598C57A"></Item>
+ <Item type="Report" keyed_name="Multilevel BOM Report" config_id="FB8CA61BE45E46DE9E4346BB653398C2">
+    <property __name="label" en="Multilevel BOM Report" zc="多层BOM报表" />
+ </Item>
+ <Item type="Report" keyed_name="ItemType Definition Report" config_id="FBBA9CBBABDA492CB3333544A598C57A">
+    <property __name="label" en="ItemType Definition Report" zc="对象定义报表" />
+ </Item>
 </export>

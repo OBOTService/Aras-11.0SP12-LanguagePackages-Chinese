@@ -148,8 +148,8 @@
   <property __name="label" en="Save, Unlock &amp; Close" zc="保存,关闭并解锁" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_normal_promote" config_id="20600BA5B112456680224973032DFBD8">
-  <property __name="tooltip_template" en="Promote Item" zc="提升对象" />
-  <property __name="label" en="Promote" zc="提升对象" />
+  <property __name="tooltip_template" en="Promote Item" zc="提升状态" />
+  <property __name="label" en="Promote" zc="提升状态" />
  </Item>
  <Item type="CommandBarButton" keyed_name="rb_ModifyParametersButton" config_id="226FCA15EE09439B8C4631BCBE7506A2">
   <property __name="tooltip_template" en="Modify Parameters" zc="修改参数" />
@@ -496,8 +496,8 @@
   <property __name="label" en="Delete link" zc="删除链接" />
  </Item>
  <Item type="CommandBarButton" keyed_name="mpo_promote" config_id="911564B4A0CF4AB28E889039F2A05AAD">
-  <property __name="tooltip_template" en="Promote" zc="提升" />
-  <property __name="label" en="Promote" zc="提升" />
+  <property __name="tooltip_template" en="Promote" zc="提升状态" />
+  <property __name="label" en="Promote" zc="提升状态" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnFitHeight" config_id="918ED45E18194655A59A458D0194DCFD">
   <property __name="tooltip_template" en="Fit Height" zc="合适的高度" />
@@ -663,8 +663,8 @@
   <property __name="label" en="Pan" zc="" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.mwt_main_toolbar_promote" config_id="C8871ADB0C67428E9EF4D1ABED75968D">
-  <property __name="tooltip_template" en="Promote Item" zc="提升" />
-  <property __name="label" en="Promote" zc="提升" />
+  <property __name="tooltip_template" en="Promote Item" zc="提升状态" />
+  <property __name="label" en="Promote" zc="提升状态" />
  </Item>
  <Item type="CommandBarButton" keyed_name="btnLabelGrey" config_id="C95A22143769458394105FF444082DBC">
   <property __name="tooltip_template" en="Grey" zc="灰色" />
@@ -794,8 +794,8 @@
   <property __name="tooltip_template" en="Return selected" zc="返回选择" />
  </Item>
  <Item type="CommandBarButton" keyed_name="com.aras.innovator.cui_default.twt_wsce_normal_promote" config_id="F22754D74B634C0394258010664362F1">
-  <property __name="tooltip_template" en="Promote Item" zc="提升" />
-  <property __name="label" en="Promote  " zc="提升" />
+  <property __name="tooltip_template" en="Promote Item" zc="提升状态" />
+  <property __name="label" en="Promote  " zc="提升状态" />
  </Item>
  <Item type="CommandBarButton" keyed_name="tp_apply" config_id="F23FCC4D153346CBAD1EEC71F90B5EF0">
   <property __name="label" en="Apply" zc="应用" />

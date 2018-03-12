@@ -1,12 +1,12 @@
 ﻿<export>
  <Item type="RelationshipType" keyed_name="Desktop" config_id="329F8A07E7024481AEE224CC553BEA07">
-  <property __name="label" en="My Desktop" zc="" />
+  <property __name="label" en="My Desktop" zc="我的桌面" />
  </Item>
  <Item type="RelationshipType" keyed_name="Discussion" config_id="00C20804188E4D9987D74AAB8C2A93C3">
-  <property __name="label" en="My Discussion" zc="" />
+  <property __name="label" en="My Discussion" zc="我的讨论" />
  </Item>
  <Item type="RelationshipType" keyed_name="LockedItems" config_id="497BB04B15C0445F9710016C24222F98">
-  <property __name="label" en="LockedItems" zc="" />
+  <property __name="label" en="LockedItems" zc="已锁定对象" />
  </Item>
  <Item type="RelationshipType" keyed_name="SecureMessageAudio" config_id="9A07E6248DE94820974FA32E8D340F58"></Item>
  <Item type="RelationshipType" keyed_name="SecureMessageFlaggedBy" config_id="F997639DA15B4E0182AFD64F723127B0"></Item>
@@ -14,7 +14,7 @@
  <Item type="RelationshipType" keyed_name="SecureMessageVideo" config_id="A0B1E49BE1E3454082775D7AE3887354"></Item>
  <Item type="RelationshipType" keyed_name="SecureMessageVisibilityFilter" config_id="0EFBFF8245304486B63AB57746BD73F3"></Item>
  <Item type="RelationshipType" keyed_name="Workflow" config_id="888CBB5016284E8692D22380F4ED74EF">
-  <property __name="label" en="Workflows" zc="" />
+  <property __name="label" en="Workflows" zc="工作流" />
  </Item>
  <Item type="RelationshipType" keyed_name="Project Docs" config_id="4DF993DF77DB47EC9F3299AAEE9D8733">
   <property __name="label" en="Deliverables" zc="文档" />
@@ -29,19 +29,19 @@
   <property __name="label" en="Project Plan" zc="项目计划" />
  </Item>
  <Item type="RelationshipType" keyed_name="ConversionServerConverterType" config_id="3DE6132F8F0A4C0DADBD9F751E61C6DE">
-  <property __name="label" en="Converters" zc="" />
+  <property __name="label" en="Converters" zc="转换器" />
  </Item>
  <Item type="RelationshipType" keyed_name="ConversionTaskDependency" config_id="87DC85A196994AB59F1D675ED584F1AB">
-  <property __name="label" en="Dependencies" zc="" />
+  <property __name="label" en="Dependencies" zc="依赖关系" />
  </Item>
  <Item type="RelationshipType" keyed_name="ConversionTaskEventHandler" config_id="C38637BA3A9A446BBB16F884089B1E9D">
-  <property __name="label" en="Event Handlers" zc="" />
+  <property __name="label" en="Event Handlers" zc="事件处理" />
  </Item>
  <Item type="RelationshipType" keyed_name="ConversionTaskResult" config_id="10D12AC0673746CAAAD08298B2F5C91A">
-  <property __name="label" en="Results" zc="" />
+  <property __name="label" en="Results" zc="结果" />
  </Item>
  <Item type="RelationshipType" keyed_name="Access_ExplicitDefine" config_id="701AA04C2D7A44DD8CE61525AE93EB9E">
-  <property __name="label" en="Access" zc="" />
+  <property __name="label" en="Access" zc="访问" />
  </Item>
  <Item type="RelationshipType" keyed_name="qry_QueryItem" config_id="176932A703754E3F849E2EBCFFAE945B"></Item>
  <Item type="RelationshipType" keyed_name="qry_QueryParameter" config_id="D591B7307764410299C2A1D791A91A1D"></Item>
@@ -56,13 +56,13 @@
   <property __name="label" en="Signoffs" zc="签审" />
  </Item>
  <Item type="RelationshipType" keyed_name="ConversionRuleEventHandler" config_id="EAD647F08E0B45C2823C26FCD560B7FB">
-  <property __name="label" en="Rule Events" zc="" />
+  <property __name="label" en="Rule Events" zc="规则事件" />
  </Item>
  <Item type="RelationshipType" keyed_name="ConversionRuleEventTemplate" config_id="C0E3A054539D43DA9896D3C907EBFC30">
-  <property __name="label" en="Task Event Templates" zc="" />
+  <property __name="label" en="Task Event Templates" zc="任务事件模板" />
  </Item>
  <Item type="RelationshipType" keyed_name="ConversionRuleFileType" config_id="B63375A2F5A24BBFB28C8AE87678C6B8">
-  <property __name="label" en="File Types" zc="" />
+  <property __name="label" en="File Types" zc="文件类型" />
  </Item>
  <Item type="RelationshipType" keyed_name="History" config_id="0757FE2F153F42E0854AADBB813339EC"></Item>
  <Item type="RelationshipType" keyed_name="PPAP Package" config_id="6B834364B4544690A4CC26826D17BE4F">
@@ -83,13 +83,13 @@
   <property __name="label" en="" zc="浏览工具" />
  </Item>
  <Item type="RelationshipType" keyed_name="WMSettingContent" config_id="F1662D37A693451AA1AC458B979C053C">
-  <property __name="label" en="Methods" zc="" />
+  <property __name="label" en="Methods" zc="服务端方法" />
  </Item>
  <Item type="RelationshipType" keyed_name="WMSettingLCStates" config_id="295ED8ECB16D49299265934EA36D5442">
-  <property __name="label" en="States" zc="" />
+  <property __name="label" en="States" zc="状态" />
  </Item>
  <Item type="RelationshipType" keyed_name="Help See Also" config_id="1EB10F2599644CBC85029BCF9E6B7248">
-  <property __name="label" en="See Also" zc="" />
+  <property __name="label" en="See Also" zc="另请参阅" />
  </Item>
  <Item type="RelationshipType" keyed_name="RB_CAD_Related" config_id="2E97B9BFF03F48DBB1D3DCEE21B42C29"></Item>
  <Item type="RelationshipType" keyed_name="RB_Part_Related" config_id="247EBB4E09DB4C7DB0735766B6E3DC0F"></Item>

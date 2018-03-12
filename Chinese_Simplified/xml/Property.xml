@@ -266,13 +266,13 @@
  <Item type="Property" keyed_name="css" name="css" source_id="0300B828CBEE4610B77C41377209C900"></Item>
  <Item type="Property" keyed_name="current_state" name="current_state" source_id="0300B828CBEE4610B77C41377209C900"></Item>
  <Item type="Property" keyed_name="error" name="error" source_id="0300B828CBEE4610B77C41377209C900">
-  <property __name="label" en="Error" zc="" />
+  <property __name="label" en="Error" zc="错误" />
  </Item>
  <Item type="Property" keyed_name="file_id" name="file_id" source_id="0300B828CBEE4610B77C41377209C900">
-  <property __name="label" en="File" zc="" />
+  <property __name="label" en="File" zc="文件" />
  </Item>
  <Item type="Property" keyed_name="file_type" name="file_type" source_id="0300B828CBEE4610B77C41377209C900">
-  <property __name="label" en="File Type" zc="" />
+  <property __name="label" en="File Type" zc="文件类型" />
  </Item>
  <Item type="Property" keyed_name="finished_on" name="finished_on" source_id="0300B828CBEE4610B77C41377209C900">
   <property __name="label" en="Finished On" zc="" />
@@ -292,7 +292,7 @@
  <Item type="Property" keyed_name="modified_on" name="modified_on" source_id="0300B828CBEE4610B77C41377209C900"></Item>
  <Item type="Property" keyed_name="new_version" name="new_version" source_id="0300B828CBEE4610B77C41377209C900"></Item>
  <Item type="Property" keyed_name="not_lockable" name="not_lockable" source_id="0300B828CBEE4610B77C41377209C900">
-  <property __name="label" en="Not Lockable" zc="" />
+  <property __name="label" en="Not Lockable" zc="没有可锁定的" />
  </Item>
  <Item type="Property" keyed_name="owned_by_id" name="owned_by_id" source_id="0300B828CBEE4610B77C41377209C900"></Item>
  <Item type="Property" keyed_name="permission_id" name="permission_id" source_id="0300B828CBEE4610B77C41377209C900"></Item>
@@ -520,7 +520,7 @@
  <Item type="Property" keyed_name="source_id" name="source_id" source_id="05A68B0BC74C47A6A2FD4404A73C815F"></Item>
  <Item type="Property" keyed_name="state" name="state" source_id="05A68B0BC74C47A6A2FD4404A73C815F"></Item>
  <Item type="Property" keyed_name="team_id" name="team_id" source_id="05A68B0BC74C47A6A2FD4404A73C815F">
-  <property __name="label" en="Team" zc="" />
+  <property __name="label" en="Team" zc="团队" />
  </Item>
  <Item type="Property" keyed_name="change_category" name="change_category" source_id="05C2AC1EB54742FF95CBB12FE12F5EDB">
   <property __name="label" en="Change Category" zc="变更种类" />

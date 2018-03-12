@@ -674,7 +674,7 @@ Would you like to switch to {1} search mode?"/>
 	<!-- +++++ Client/Scripts/login.aspx +++++ -->
 	<resource key="login.login_page_title_sfx" value="登录"/>
 	<resource key="login.login_name_html" value="登录名"/>
-	<resource key="login.default_link_html" value="Find the latest version of Aras Innovator"/>
+	<resource key="login.default_link_html" value="目前有最新版本！了解详情"/>
 	<resource key="login.pwd_html" value="密码"/>
 	<resource key="login.db_html" value="数据库"/>
 	<resource key="login.server_html" value="Server"/>

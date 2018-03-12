@@ -3,25 +3,25 @@
   <property __name="message" en="An ECR has been submitted, please review it" zc="" />
  </Item>
  <Item type="Activity Template" keyed_name="Update Documents" config_id="059D32A19ADC4C589494AF197D8A6423">
-  <property __name="message" en="Update Documents" zc="" />
+  <property __name="message" en="Update Documents" zc="更新文档" />
  </Item>
  <Item type="Activity Template" keyed_name="Prepare Change" config_id="098E20E506704A37993AAE56E688F1FB">
-  <property __name="message" en="Prepare the change for submission" zc="" />
+  <property __name="message" en="Prepare the change for submission" zc="准备提交的变更" />
  </Item>
  <Item type="Activity Template" keyed_name="Start" config_id="0AE0620A571B46D78B4B17AAC8B1F490">
   <property __name="label" en="Start" zc="" />
-  <property __name="message" en="Workflow Start" zc="" />
+  <property __name="message" en="Workflow Start" zc="流程开始" />
  </Item>
  <Item type="Activity Template" keyed_name="Draft Changes" config_id="1C62DA2A77BA4D78A30A4C41B9D2B4AE">
   <property __name="label" en="Draft Changes" zc="" />
-  <property __name="message" en="Update affected parts" zc="" />
+  <property __name="message" en="Update affected parts" zc="更新受影响零部件" />
  </Item>
  <Item type="Activity Template" keyed_name="Draft Changes" config_id="2882A4C073ED4FAAAF70F17A3EBEE323">
   <property __name="label" en="Draft Changes" zc="" />
-  <property __name="message" en="Update affected documents" zc="" />
+  <property __name="message" en="Update affected documents" zc="更新受影响文档" />
  </Item>
  <Item type="Activity Template" keyed_name="Draft Changes" config_id="29DB24C928874F3EBDA662CE7053BF05">
-  <property __name="message" en="Please implement the change" zc="" />
+  <property __name="message" en="Please implement the change" zc="请实现变更" />
  </Item>
  <Item type="Activity Template" keyed_name="Online CRB" config_id="2E383D87F94942B48DAE4D2692B465CF">
   <property __name="message" en="Change Review Board" zc="" />

@@ -291,7 +291,7 @@
   <property __name="label" en="ItemType" zc="对象类" />
  </Item>
  <Item type="Value" keyed_name="URL" config_id="A149F1756D484FB58474E1D648ED1E72">
-  <property __name="label" en="URL" zc="" />
+  <property __name="label" en="URL" zc="链接" />
  </Item>
  <Item type="Value" keyed_name="A209304AB9454595A590D3C666AE4AE0" config_id="A209304AB9454595A590D3C666AE4AE0">
   <property __name="label" en="Izenda" zc="" />
@@ -303,7 +303,7 @@
   <property __name="label" en="As Saved" zc="" />
  </Item>
  <Item type="Value" keyed_name="8DC83D0A7A52416ABD373AF3A8516245" config_id="8DC83D0A7A52416ABD373AF3A8516245">
-  <property __name="label" en="Current" zc="" />
+  <property __name="label" en="Current" zc="当前" />
  </Item>
  <Item type="Value" keyed_name="EB2E2AEBB3C04CB68BCADFAE8C68F8A6" config_id="EB2E2AEBB3C04CB68BCADFAE8C68F8A6">
   <property __name="label" en="Force Current" zc="" />
