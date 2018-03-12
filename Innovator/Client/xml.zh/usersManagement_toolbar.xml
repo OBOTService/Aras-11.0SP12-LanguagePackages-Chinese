@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <toolbarapplet on_load="onToolbarAppletLoad" on_click="onBtnClick" buttonstyle="windows" buttonsize="26,25">
 	<toolbar id="tb1">
-		<button image="../images/ExecuteSearch.svg" id="update" tooltip="Update Information">Update</button>
-		<button image="../images/ClearSearchCriteria.svg" id="newsearch" tooltip="Clear Search Criteria">Clear Criteria</button>
-		<button disabled="false" image="../images/SelectAll.svg" id="select_all" tooltip="Select all items">Select all items</button>
-		<button image="../images/Delete.svg" id="terminate" tooltip="Terminate Selected Sessions">Terminate</button>
+		<button image="../images/ExecuteSearch.svg" id="update" tooltip="刷新" statusmsg="刷新">刷新</button>
+		<button image="../images/ClearSearchCriteria.svg" id="newsearch" tooltip="清除搜索条件" statusmsg="清除搜索条件">清除条件</button>
+		<button disabled="false" image="../images/SelectAll.svg" id="select_all" tooltip="全选" statusmsg="全选"/>
+		<button image="../images/Delete.svg" id="terminate" tooltip="结束使用者登录" statusmsg="结束使用者登录">结束</button>
 	</toolbar>
 </toolbarapplet>

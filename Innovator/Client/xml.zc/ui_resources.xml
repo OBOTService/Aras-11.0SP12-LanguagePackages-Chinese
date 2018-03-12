@@ -23,7 +23,7 @@
 	<resource key="common.unclaim" value="Unclaim Task"/>
 	<resource key="common.unknown_user" value="无此使用者!!!"/>
 	<resource key="common.remove_from_desktop" value="从我的工作桌面移除"/>
-	<resource key="common.whereused" value="Where Used"/>
+	<resource key="common.whereused" value="用于何处"/>
 	<resource key="common.ready" value="完成"/>
 	<resource key="common.cntxt_menu.add_break" value="添加转折点"/>
 	<resource key="common.cntxt_menu.remove_break" value="移除转折点"/>
@@ -60,6 +60,7 @@
 	<resource key="common.contents" value="Contents"/>
 	<resource key="common.corporateTime" value="Corporate time"/>
 	<resource key="common.localTime" value="Local time"/>
+	<resource key="common.logout" value="注销" />
 	<resource key="common.properties" value="Properties"/>
 	<resource key="common.showMainTreeTooltip" value="Show Contents"/>
 	<resource key="common.web_request_error" value="Error {0} on requesting {1}: {2}"/>
@@ -390,7 +391,7 @@ Would you like to switch to {1} search mode?"/>
 	<resource key="item_info_table.generation_txt" value="版次 :"/>
 	<resource key="item_info_table.state_txt" value="状态 :"/>
 	<resource key="item_info_table.id_txt" value="编号:"/>
-	<resource key="item_info_table.claimed_by_id_txt" value="Claimed By:"/>
+	<resource key="item_info_table.claimed_by_id_txt" value="认领者:"/>
 	<resource key="ui_methods_ex.itemtype_label_item_keyed_name" value="{0} - {1}"/>
 	<resource key="ui_methods_ex.itemtype_label_item_keyed_name_readonly" value="{0} - {1} (只读)"/>
 	<resource key="ui_methods_ex.itemtype_label_item_keyed_name_print_view" value="{0} - {1}"/>
@@ -674,7 +675,7 @@ Would you like to switch to {1} search mode?"/>
 	<!-- +++++ Client/Scripts/login.aspx +++++ -->
 	<resource key="login.login_page_title_sfx" value="登录"/>
 	<resource key="login.login_name_html" value="登录名"/>
-	<resource key="login.default_link_html" value="目前有最新版本！了解详情"/>
+	<resource key="login.default_link_html" value="Find the latest version of Aras Innovator"/>
 	<resource key="login.pwd_html" value="密码"/>
 	<resource key="login.db_html" value="数据库"/>
 	<resource key="login.server_html" value="Server"/>

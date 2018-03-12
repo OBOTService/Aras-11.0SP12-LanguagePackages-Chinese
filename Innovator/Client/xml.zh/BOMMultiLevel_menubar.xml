@@ -5,8 +5,8 @@
   show        = "main_menubar">
 
   <menubar id="main_menubar">
-    <menu id="file_menu" name="File">
-      <item id="exit" name="Exit"/>
+    <menu id="file_menu" name="文件">
+      <item id="exit" name="退出"/>
     </menu>
   </menubar>
 </menuapplet>

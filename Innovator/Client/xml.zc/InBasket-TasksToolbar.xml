@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<toolbarapplet on_load="onToolbarLoad" on_click="onClickTb" buttonstyle="windows" buttonsize="26,25">
-	<toolbar id="wfltoolbar">
-		<button text="完成工作" id="complete_task" image="../images/Checkmark.svg" tooltip="查看附加对象"/>
-		<button text="回至工作清单 " id="exit" image="../images/CloseWindow.svg" tooltip="查看程序"/>
-	</toolbar>
-</toolbarapplet>

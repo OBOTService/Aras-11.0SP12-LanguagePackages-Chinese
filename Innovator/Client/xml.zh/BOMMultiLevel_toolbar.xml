@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <toolbarapplet on_load="onToolbarLoad" on_click="onClickItem" on_change="onChoiceChanged" buttonstyle="windows" buttonsize="26,25">
 	<toolbar id="swtoolbar">
-		<button text="View" id="view" image="../images/ViewItem.svg" tooltip="View Item"/>
-		<button text="Print" id="print" image="../images/Print.svg" tooltip="Print Multi-Level BOM"/>
-		<button text="Load All" id="load_all" image="../images/ExpandAll.svg" tooltip="Print Multi-Level BOM"/>
+		<button text="查看" id="view" image="../images/ViewItem.svg" tooltip="查看"/>
+		<button text="打印" id="print" image="../images/Print.svg" tooltip="打印多阶 BOM"/>
+		<button text="加载全部" id="load_all" image="../images/ExpandAll.svg" tooltip="加载全部"/>
 	</toolbar>
 </toolbarapplet>

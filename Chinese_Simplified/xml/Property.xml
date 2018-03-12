@@ -8632,24 +8632,24 @@
   <property __name="label" en="Team" zc="" />
  </Item>
  <Item type="Property" keyed_name="classification" name="classification" source_id="4F1AC04A2B484F3ABA4E20DB63808A88">
-  <property __name="label" en="Type" zc="" />
+  <property __name="label" en="Type" zc="类型" />
  </Item>
  <Item type="Property" keyed_name="config_id" name="config_id" source_id="4F1AC04A2B484F3ABA4E20DB63808A88"></Item>
  <Item type="Property" keyed_name="cost" name="cost" source_id="4F1AC04A2B484F3ABA4E20DB63808A88">
   <property __name="label" en="Cost" zc="成本" />
  </Item>
  <Item type="Property" keyed_name="cost_basis" name="cost_basis" source_id="4F1AC04A2B484F3ABA4E20DB63808A88">
-  <property __name="label" en="Cost Basis" zc="" />
+  <property __name="label" en="Cost Basis" zc="基础成本" />
  </Item>
  <Item type="Property" keyed_name="created_by_id" name="created_by_id" source_id="4F1AC04A2B484F3ABA4E20DB63808A88"></Item>
  <Item type="Property" keyed_name="created_on" name="created_on" source_id="4F1AC04A2B484F3ABA4E20DB63808A88"></Item>
  <Item type="Property" keyed_name="css" name="css" source_id="4F1AC04A2B484F3ABA4E20DB63808A88"></Item>
  <Item type="Property" keyed_name="current_state" name="current_state" source_id="4F1AC04A2B484F3ABA4E20DB63808A88"></Item>
  <Item type="Property" keyed_name="description" name="description" source_id="4F1AC04A2B484F3ABA4E20DB63808A88">
-  <property __name="label" en="Description" zc="Description" />
+  <property __name="label" en="Description" zc="描述" />
  </Item>
  <Item type="Property" keyed_name="effective_date" name="effective_date" source_id="4F1AC04A2B484F3ABA4E20DB63808A88">
-  <property __name="label" en="Effective Date" zc="" />
+  <property __name="label" en="Effective Date" zc="生效日期" />
  </Item>
  <Item type="Property" keyed_name="external_id" name="external_id" source_id="4F1AC04A2B484F3ABA4E20DB63808A88">
   <property __name="label" en="External ID" zc="" />
@@ -8662,12 +8662,12 @@
  </Item>
  <Item type="Property" keyed_name="generation" name="generation" source_id="4F1AC04A2B484F3ABA4E20DB63808A88"></Item>
  <Item type="Property" keyed_name="has_change_pending" name="has_change_pending" source_id="4F1AC04A2B484F3ABA4E20DB63808A88">
-  <property __name="label" en="Changes" zc="" />
+  <property __name="label" en="Changes" zc="变更中" />
  </Item>
  <Item type="Property" keyed_name="id" name="id" source_id="4F1AC04A2B484F3ABA4E20DB63808A88"></Item>
  <Item type="Property" keyed_name="is_current" name="is_current" source_id="4F1AC04A2B484F3ABA4E20DB63808A88"></Item>
  <Item type="Property" keyed_name="is_released" name="is_released" source_id="4F1AC04A2B484F3ABA4E20DB63808A88">
-  <property __name="label" en="Released" zc="" />
+  <property __name="label" en="Released" zc="已发布" />
  </Item>
  <Item type="Property" keyed_name="item_number" name="item_number" source_id="4F1AC04A2B484F3ABA4E20DB63808A88">
   <property __name="label" en="Part Number" zc="零部件编号" />
@@ -8675,11 +8675,11 @@
  <Item type="Property" keyed_name="keyed_name" name="keyed_name" source_id="4F1AC04A2B484F3ABA4E20DB63808A88"></Item>
  <Item type="Property" keyed_name="locked_by_id" name="locked_by_id" source_id="4F1AC04A2B484F3ABA4E20DB63808A88"></Item>
  <Item type="Property" keyed_name="major_rev" name="major_rev" source_id="4F1AC04A2B484F3ABA4E20DB63808A88">
-  <property __name="label" en="Revision" zc="" />
+  <property __name="label" en="Revision" zc="版本" />
  </Item>
  <Item type="Property" keyed_name="make_buy" name="make_buy" source_id="4F1AC04A2B484F3ABA4E20DB63808A88">
-  <property __name="label" en="Make / Buy" zc="" />
-  <property __name="default_value" en="Make" zc="" />
+  <property __name="label" en="Make / Buy" zc="标记/购买" />
+  <property __name="default_value" en="Make" zc="标记" />
  </Item>
  <Item type="Property" keyed_name="managed_by_id" name="managed_by_id" source_id="4F1AC04A2B484F3ABA4E20DB63808A88"></Item>
  <Item type="Property" keyed_name="minor_rev" name="minor_rev" source_id="4F1AC04A2B484F3ABA4E20DB63808A88"></Item>
@@ -8695,29 +8695,29 @@
  <Item type="Property" keyed_name="owned_by_id" name="owned_by_id" source_id="4F1AC04A2B484F3ABA4E20DB63808A88"></Item>
  <Item type="Property" keyed_name="permission_id" name="permission_id" source_id="4F1AC04A2B484F3ABA4E20DB63808A88"></Item>
  <Item type="Property" keyed_name="release_date" name="release_date" source_id="4F1AC04A2B484F3ABA4E20DB63808A88">
-  <property __name="label" en="Release Date" zc="" />
+  <property __name="label" en="Release Date" zc="发行日期" />
  </Item>
  <Item type="Property" keyed_name="state" name="state" source_id="4F1AC04A2B484F3ABA4E20DB63808A88">
-  <property __name="label" en="State" zc="" />
+  <property __name="label" en="State" zc="状态" />
  </Item>
  <Item type="Property" keyed_name="superseded_date" name="superseded_date" source_id="4F1AC04A2B484F3ABA4E20DB63808A88">
-  <property __name="label" en="Superseded Date" zc="" />
+  <property __name="label" en="Superseded Date" zc="替换日期" />
  </Item>
  <Item type="Property" keyed_name="team_id" name="team_id" source_id="4F1AC04A2B484F3ABA4E20DB63808A88">
-  <property __name="label" en="Team" zc="" />
+  <property __name="label" en="Team" zc="团队" />
  </Item>
  <Item type="Property" keyed_name="thumbnail" name="thumbnail" source_id="4F1AC04A2B484F3ABA4E20DB63808A88">
-  <property __name="label" en="Thumbnail" zc="" />
+  <property __name="label" en="Thumbnail" zc="缩略图" />
  </Item>
  <Item type="Property" keyed_name="unit" name="unit" source_id="4F1AC04A2B484F3ABA4E20DB63808A88">
   <property __name="label" en="Unit" zc="单位" />
   <property __name="default_value" en="EA" zc="EA" />
  </Item>
  <Item type="Property" keyed_name="weight" name="weight" source_id="4F1AC04A2B484F3ABA4E20DB63808A88">
-  <property __name="label" en="Weight" zc="" />
+  <property __name="label" en="Weight" zc="重量" />
  </Item>
  <Item type="Property" keyed_name="weight_basis" name="weight_basis" source_id="4F1AC04A2B484F3ABA4E20DB63808A88">
-  <property __name="label" en="Weight Basis" zc="" />
+  <property __name="label" en="Weight Basis" zc="基础重量" />
  </Item>
  <Item type="Property" keyed_name="classification" name="classification" source_id="508A62C48ED64BEBB3931384B726AF94">
   <property __name="label" en="Classification" zc="" />
@@ -18894,13 +18894,13 @@
   <property __name="label" en="Team" zc="" />
  </Item>
  <Item type="Property" keyed_name="authoring_tool" name="authoring_tool" source_id="B88C14B99EF449828C5D926E39EE8B89">
-  <property __name="label" en="Authoring Tool" zc="" />
+  <property __name="label" en="Authoring Tool" zc="编辑工具" />
  </Item>
  <Item type="Property" keyed_name="authoring_tool_version" name="authoring_tool_version" source_id="B88C14B99EF449828C5D926E39EE8B89">
-  <property __name="label" en="Authoring Tool Version" zc="" />
+  <property __name="label" en="Authoring Tool Version" zc="工具版本" />
  </Item>
  <Item type="Property" keyed_name="classification" name="classification" source_id="B88C14B99EF449828C5D926E39EE8B89">
-  <property __name="label" en="Type" zc="" />
+  <property __name="label" en="Type" zc="类型" />
  </Item>
  <Item type="Property" keyed_name="config_id" name="config_id" source_id="B88C14B99EF449828C5D926E39EE8B89"></Item>
  <Item type="Property" keyed_name="created_by_id" name="created_by_id" source_id="B88C14B99EF449828C5D926E39EE8B89"></Item>
@@ -18908,40 +18908,40 @@
  <Item type="Property" keyed_name="css" name="css" source_id="B88C14B99EF449828C5D926E39EE8B89"></Item>
  <Item type="Property" keyed_name="current_state" name="current_state" source_id="B88C14B99EF449828C5D926E39EE8B89"></Item>
  <Item type="Property" keyed_name="description" name="description" source_id="B88C14B99EF449828C5D926E39EE8B89">
-  <property __name="label" en="Description" zc="" />
+  <property __name="label" en="Description" zc="描述" />
  </Item>
  <Item type="Property" keyed_name="drawing_size" name="drawing_size" source_id="B88C14B99EF449828C5D926E39EE8B89">
-  <property __name="label" en="Drawing Size" zc="" />
+  <property __name="label" en="Drawing Size" zc="图纸尺寸" />
  </Item>
  <Item type="Property" keyed_name="effective_date" name="effective_date" source_id="B88C14B99EF449828C5D926E39EE8B89">
-  <property __name="label" en="Effective Date" zc="" />
+  <property __name="label" en="Effective Date" zc="生效日期" />
  </Item>
  <Item type="Property" keyed_name="external_id" name="external_id" source_id="B88C14B99EF449828C5D926E39EE8B89">
-  <property __name="label" en="External Id" zc="" />
+  <property __name="label" en="External Id" zc="外部ID" />
  </Item>
  <Item type="Property" keyed_name="external_owner" name="external_owner" source_id="B88C14B99EF449828C5D926E39EE8B89">
-  <property __name="label" en="External Owner" zc="" />
+  <property __name="label" en="External Owner" zc="外部拥有者" />
  </Item>
  <Item type="Property" keyed_name="external_type" name="external_type" source_id="B88C14B99EF449828C5D926E39EE8B89">
-  <property __name="label" en="External Type" zc="" />
+  <property __name="label" en="External Type" zc="外部类型" />
  </Item>
  <Item type="Property" keyed_name="from_template" name="from_template" source_id="B88C14B99EF449828C5D926E39EE8B89">
-  <property __name="label" en="From Template" zc="" />
+  <property __name="label" en="From Template" zc="模板来源" />
  </Item>
  <Item type="Property" keyed_name="generation" name="generation" source_id="B88C14B99EF449828C5D926E39EE8B89"></Item>
  <Item type="Property" keyed_name="has_change_pending" name="has_change_pending" source_id="B88C14B99EF449828C5D926E39EE8B89">
-  <property __name="label" en="Changes" zc="" />
+  <property __name="label" en="Changes" zc="变更中" />
  </Item>
  <Item type="Property" keyed_name="has_files" name="has_files" source_id="B88C14B99EF449828C5D926E39EE8B89">
-  <property __name="label" en="Files" zc="" />
+  <property __name="label" en="Files" zc="附加文件" />
  </Item>
  <Item type="Property" keyed_name="id" name="id" source_id="B88C14B99EF449828C5D926E39EE8B89"></Item>
  <Item type="Property" keyed_name="is_current" name="is_current" source_id="B88C14B99EF449828C5D926E39EE8B89"></Item>
  <Item type="Property" keyed_name="is_released" name="is_released" source_id="B88C14B99EF449828C5D926E39EE8B89">
-  <property __name="label" en="Released" zc="" />
+  <property __name="label" en="Released" zc="已发布" />
  </Item>
  <Item type="Property" keyed_name="is_template" name="is_template" source_id="B88C14B99EF449828C5D926E39EE8B89">
-  <property __name="label" en="Template" zc="" />
+  <property __name="label" en="Template" zc="模板" />
  </Item>
  <Item type="Property" keyed_name="item_number" name="item_number" source_id="B88C14B99EF449828C5D926E39EE8B89">
   <property __name="label" en="Document Number" zc="文档编号" />
@@ -18949,7 +18949,7 @@
  <Item type="Property" keyed_name="keyed_name" name="keyed_name" source_id="B88C14B99EF449828C5D926E39EE8B89"></Item>
  <Item type="Property" keyed_name="locked_by_id" name="locked_by_id" source_id="B88C14B99EF449828C5D926E39EE8B89"></Item>
  <Item type="Property" keyed_name="major_rev" name="major_rev" source_id="B88C14B99EF449828C5D926E39EE8B89">
-  <property __name="label" en="Revision" zc="" />
+  <property __name="label" en="Revision" zc="版本" />
  </Item>
  <Item type="Property" keyed_name="managed_by_id" name="managed_by_id" source_id="B88C14B99EF449828C5D926E39EE8B89"></Item>
  <Item type="Property" keyed_name="minor_rev" name="minor_rev" source_id="B88C14B99EF449828C5D926E39EE8B89"></Item>
@@ -18965,28 +18965,28 @@
  <Item type="Property" keyed_name="owned_by_id" name="owned_by_id" source_id="B88C14B99EF449828C5D926E39EE8B89"></Item>
  <Item type="Property" keyed_name="permission_id" name="permission_id" source_id="B88C14B99EF449828C5D926E39EE8B89"></Item>
  <Item type="Property" keyed_name="release_date" name="release_date" source_id="B88C14B99EF449828C5D926E39EE8B89">
-  <property __name="label" en="Release Date" zc="" />
+  <property __name="label" en="Release Date" zc="发行日期" />
  </Item>
  <Item type="Property" keyed_name="scale" name="scale" source_id="B88C14B99EF449828C5D926E39EE8B89">
-  <property __name="label" en="Scale" zc="" />
+  <property __name="label" en="Scale" zc="规模" />
  </Item>
  <Item type="Property" keyed_name="specification_type" name="specification_type" source_id="B88C14B99EF449828C5D926E39EE8B89">
-  <property __name="label" en="Specification Type" zc="" />
+  <property __name="label" en="Specification Type" zc="规范类型" />
  </Item>
  <Item type="Property" keyed_name="state" name="state" source_id="B88C14B99EF449828C5D926E39EE8B89">
-  <property __name="label" en="State" zc="" />
+  <property __name="label" en="State" zc="状态" />
  </Item>
  <Item type="Property" keyed_name="superseded_date" name="superseded_date" source_id="B88C14B99EF449828C5D926E39EE8B89">
-  <property __name="label" en="Superseded Date" zc="" />
+  <property __name="label" en="Superseded Date" zc="淘汰日期" />
  </Item>
  <Item type="Property" keyed_name="team_id" name="team_id" source_id="B88C14B99EF449828C5D926E39EE8B89">
-  <property __name="label" en="Team" zc="" />
+  <property __name="label" en="Team" zc="团队" />
  </Item>
  <Item type="Property" keyed_name="thumbnail" name="thumbnail" source_id="B88C14B99EF449828C5D926E39EE8B89">
-  <property __name="label" en="Thumbnail" zc="" />
+  <property __name="label" en="Thumbnail" zc="缩略图" />
  </Item>
  <Item type="Property" keyed_name="classification" name="classification" source_id="B8940FB948604232B27FC1263FC7E203">
-  <property __name="label" en="Classification" zc="" />
+  <property __name="label" en="Classification" zc="分类" />
  </Item>
  <Item type="Property" keyed_name="config_id" name="config_id" source_id="B8940FB948604232B27FC1263FC7E203"></Item>
  <Item type="Property" keyed_name="created_by_id" name="created_by_id" source_id="B8940FB948604232B27FC1263FC7E203"></Item>
@@ -19164,14 +19164,14 @@
   <property __name="label" en="Team" zc="" />
  </Item>
  <Item type="Property" keyed_name="assigned_to" name="assigned_to" source_id="BC7977377FFF40D59FF14205914E9C71">
-  <property __name="label" en="Assigned To" zc="" />
+  <property __name="label" en="Assigned To" zc="指派人" />
  </Item>
  <Item type="Property" keyed_name="classification" name="classification" source_id="BC7977377FFF40D59FF14205914E9C71">
-  <property __name="label" en="Classification" zc="" />
+  <property __name="label" en="Classification" zc="类型" />
  </Item>
  <Item type="Property" keyed_name="config_id" name="config_id" source_id="BC7977377FFF40D59FF14205914E9C71"></Item>
  <Item type="Property" keyed_name="container" name="container" source_id="BC7977377FFF40D59FF14205914E9C71">
-  <property __name="label" en="Source Item" zc="" />
+  <property __name="label" en="Source Item" zc="工作流程图" />
  </Item>
  <Item type="Property" keyed_name="container_type_id" name="container_type_id" source_id="BC7977377FFF40D59FF14205914E9C71">
   <property __name="label" en="Container Type" zc="" />
@@ -19181,7 +19181,7 @@
  <Item type="Property" keyed_name="css" name="css" source_id="BC7977377FFF40D59FF14205914E9C71"></Item>
  <Item type="Property" keyed_name="current_state" name="current_state" source_id="BC7977377FFF40D59FF14205914E9C71"></Item>
  <Item type="Property" keyed_name="due_date" name="due_date" source_id="BC7977377FFF40D59FF14205914E9C71">
-  <property __name="label" en="Due Date" zc="" />
+  <property __name="label" en="Due Date" zc="截止日期" />
  </Item>
  <Item type="Property" keyed_name="generation" name="generation" source_id="BC7977377FFF40D59FF14205914E9C71"></Item>
  <Item type="Property" keyed_name="icon" name="icon" source_id="BC7977377FFF40D59FF14205914E9C71">
@@ -19189,20 +19189,20 @@
  </Item>
  <Item type="Property" keyed_name="id" name="id" source_id="BC7977377FFF40D59FF14205914E9C71"></Item>
  <Item type="Property" keyed_name="instructions" name="instructions" source_id="BC7977377FFF40D59FF14205914E9C71">
-  <property __name="label" en="Instructions" zc="" />
+  <property __name="label" en="Instructions" zc="描述" />
  </Item>
  <Item type="Property" keyed_name="is_current" name="is_current" source_id="BC7977377FFF40D59FF14205914E9C71"></Item>
  <Item type="Property" keyed_name="is_released" name="is_released" source_id="BC7977377FFF40D59FF14205914E9C71">
   <property __name="label" en="Released" zc="" />
  </Item>
  <Item type="Property" keyed_name="item" name="item" source_id="BC7977377FFF40D59FF14205914E9C71">
-  <property __name="label" en="Work Item" zc="" />
+  <property __name="label" en="Work Item" zc="影响对象" />
  </Item>
  <Item type="Property" keyed_name="item_type_id" name="item_type_id" source_id="BC7977377FFF40D59FF14205914E9C71">
-  <property __name="label" en="Item Type" zc="" />
+  <property __name="label" en="Item Type" zc="对象类" />
  </Item>
  <Item type="Property" keyed_name="itemtype" name="itemtype" source_id="BC7977377FFF40D59FF14205914E9C71">
-  <property __name="label" en="Type" zc="" />
+  <property __name="label" en="Type" zc="任务分类" />
  </Item>
  <Item type="Property" keyed_name="keyed_name" name="keyed_name" source_id="BC7977377FFF40D59FF14205914E9C71"></Item>
  <Item type="Property" keyed_name="language_code_filter" name="language_code_filter" source_id="BC7977377FFF40D59FF14205914E9C71"></Item>
@@ -19213,10 +19213,10 @@
  <Item type="Property" keyed_name="modified_by_id" name="modified_by_id" source_id="BC7977377FFF40D59FF14205914E9C71"></Item>
  <Item type="Property" keyed_name="modified_on" name="modified_on" source_id="BC7977377FFF40D59FF14205914E9C71"></Item>
  <Item type="Property" keyed_name="my_assignment" name="my_assignment" source_id="BC7977377FFF40D59FF14205914E9C71">
-  <property __name="label" en="My Assignment" zc="" />
+  <property __name="label" en="My Assignment" zc="我的指派" />
  </Item>
  <Item type="Property" keyed_name="name" name="name" source_id="BC7977377FFF40D59FF14205914E9C71">
-  <property __name="label" en="Activity" zc="" />
+  <property __name="label" en="Activity" zc="当前节点" />
  </Item>
  <Item type="Property" keyed_name="new_version" name="new_version" source_id="BC7977377FFF40D59FF14205914E9C71"></Item>
  <Item type="Property" keyed_name="not_lockable" name="not_lockable" source_id="BC7977377FFF40D59FF14205914E9C71">
@@ -19225,17 +19225,17 @@
  <Item type="Property" keyed_name="owned_by_id" name="owned_by_id" source_id="BC7977377FFF40D59FF14205914E9C71"></Item>
  <Item type="Property" keyed_name="permission_id" name="permission_id" source_id="BC7977377FFF40D59FF14205914E9C71"></Item>
  <Item type="Property" keyed_name="start_date" name="start_date" source_id="BC7977377FFF40D59FF14205914E9C71">
-  <property __name="label" en="Start Date" zc="" />
+  <property __name="label" en="Start Date" zc="开始日期" />
  </Item>
  <Item type="Property" keyed_name="state" name="state" source_id="BC7977377FFF40D59FF14205914E9C71"></Item>
  <Item type="Property" keyed_name="status" name="status" source_id="BC7977377FFF40D59FF14205914E9C71">
-  <property __name="label" en="Status" zc="" />
+  <property __name="label" en="Status" zc="状态" />
  </Item>
  <Item type="Property" keyed_name="team_id" name="team_id" source_id="BC7977377FFF40D59FF14205914E9C71">
-  <property __name="label" en="Team" zc="" />
+  <property __name="label" en="Team" zc="团队" />
  </Item>
  <Item type="Property" keyed_name="behavior" name="behavior" source_id="BCC8053D365143A18B033850EFE56F3C">
-  <property __name="label" en="Behavior" zc="" />
+  <property __name="label" en="Behavior" zc="行为" />
  </Item>
  <Item type="Property" keyed_name="classification" name="classification" source_id="BCC8053D365143A18B033850EFE56F3C">
   <property __name="label" en="Classification" zc="" />
@@ -20885,24 +20885,24 @@
   <property __name="label" en="Authoring Tool Version" zc="编辑工具版本" />
  </Item>
  <Item type="Property" keyed_name="classification" name="classification" source_id="CCF205347C814DD1AF056875E0A880AC">
-  <property __name="label" en="Type" zc="" />
+  <property __name="label" en="Type" zc="类型" />
  </Item>
  <Item type="Property" keyed_name="config_id" name="config_id" source_id="CCF205347C814DD1AF056875E0A880AC"></Item>
  <Item type="Property" keyed_name="created_by_id" name="created_by_id" source_id="CCF205347C814DD1AF056875E0A880AC">
-  <property __name="label" en="Created By" zc="" />
+  <property __name="label" en="Created By" zc="创建者" />
  </Item>
  <Item type="Property" keyed_name="created_on" name="created_on" source_id="CCF205347C814DD1AF056875E0A880AC">
-  <property __name="label" en="Created" zc="" />
+  <property __name="label" en="Created" zc="创建日期" />
  </Item>
  <Item type="Property" keyed_name="css" name="css" source_id="CCF205347C814DD1AF056875E0A880AC"></Item>
  <Item type="Property" keyed_name="current_state" name="current_state" source_id="CCF205347C814DD1AF056875E0A880AC">
-  <property __name="label" en="State" zc="" />
+  <property __name="label" en="State" zc="状态" />
  </Item>
  <Item type="Property" keyed_name="description" name="description" source_id="CCF205347C814DD1AF056875E0A880AC">
   <property __name="label" en="Description" zc="描述" />
  </Item>
  <Item type="Property" keyed_name="effective_date" name="effective_date" source_id="CCF205347C814DD1AF056875E0A880AC">
-  <property __name="label" en="Effective Date" zc="" />
+  <property __name="label" en="Effective Date" zc="生效日期" />
  </Item>
  <Item type="Property" keyed_name="external_id" name="external_id" source_id="CCF205347C814DD1AF056875E0A880AC">
   <property __name="label" en="External ID" zc="" />
@@ -20914,10 +20914,10 @@
   <property __name="label" en="External Type" zc="" />
  </Item>
  <Item type="Property" keyed_name="from_template" name="from_template" source_id="CCF205347C814DD1AF056875E0A880AC">
-  <property __name="label" en="From Template" zc="" />
+  <property __name="label" en="From Template" zc="来源模板" />
  </Item>
  <Item type="Property" keyed_name="generation" name="generation" source_id="CCF205347C814DD1AF056875E0A880AC">
-  <property __name="label" en="Gen" zc="" />
+  <property __name="label" en="Gen" zc="版次" />
  </Item>
  <Item type="Property" keyed_name="has_change_pending" name="has_change_pending" source_id="CCF205347C814DD1AF056875E0A880AC">
   <property __name="label" en="Changes" zc="待审核" />
@@ -20925,36 +20925,36 @@
  <Item type="Property" keyed_name="id" name="id" source_id="CCF205347C814DD1AF056875E0A880AC"></Item>
  <Item type="Property" keyed_name="is_current" name="is_current" source_id="CCF205347C814DD1AF056875E0A880AC"></Item>
  <Item type="Property" keyed_name="is_released" name="is_released" source_id="CCF205347C814DD1AF056875E0A880AC">
-  <property __name="label" en="Released" zc="" />
+  <property __name="label" en="Released" zc="已发布" />
  </Item>
  <Item type="Property" keyed_name="is_standard" name="is_standard" source_id="CCF205347C814DD1AF056875E0A880AC">
-  <property __name="label" en="Standard" zc="" />
+  <property __name="label" en="Standard" zc="标准" />
  </Item>
  <Item type="Property" keyed_name="is_template" name="is_template" source_id="CCF205347C814DD1AF056875E0A880AC">
-  <property __name="label" en="Template" zc="" />
+  <property __name="label" en="Template" zc="模板" />
  </Item>
  <Item type="Property" keyed_name="item_number" name="item_number" source_id="CCF205347C814DD1AF056875E0A880AC">
   <property __name="label" en="Document Number" zc="编号" />
  </Item>
  <Item type="Property" keyed_name="keyed_name" name="keyed_name" source_id="CCF205347C814DD1AF056875E0A880AC"></Item>
  <Item type="Property" keyed_name="locked_by_id" name="locked_by_id" source_id="CCF205347C814DD1AF056875E0A880AC">
-  <property __name="label" en="Locked By" zc="" />
+  <property __name="label" en="Locked By" zc="锁定者" />
  </Item>
  <Item type="Property" keyed_name="major_rev" name="major_rev" source_id="CCF205347C814DD1AF056875E0A880AC">
-  <property __name="label" en="Revision" zc="" />
+  <property __name="label" en="Revision" zc="版本" />
  </Item>
  <Item type="Property" keyed_name="managed_by_id" name="managed_by_id" source_id="CCF205347C814DD1AF056875E0A880AC">
-  <property __name="label" en="Designated User" zc="" />
+  <property __name="label" en="Designated User" zc="管理员" />
  </Item>
  <Item type="Property" keyed_name="minor_rev" name="minor_rev" source_id="CCF205347C814DD1AF056875E0A880AC"></Item>
  <Item type="Property" keyed_name="modified_by_id" name="modified_by_id" source_id="CCF205347C814DD1AF056875E0A880AC">
-  <property __name="label" en="Last Modified By" zc="" />
+  <property __name="label" en="Last Modified By" zc="最后修订者" />
  </Item>
  <Item type="Property" keyed_name="modified_on" name="modified_on" source_id="CCF205347C814DD1AF056875E0A880AC">
-  <property __name="label" en="Last Modified" zc="" />
+  <property __name="label" en="Last Modified" zc="最后修改日期" />
  </Item>
  <Item type="Property" keyed_name="monolithic_model_file" name="monolithic_model_file" source_id="CCF205347C814DD1AF056875E0A880AC">
-  <property __name="label" en="Monolithic Model file" zc="" />
+  <property __name="label" en="Monolithic Model file" zc="整体模型文件" />
  </Item>
  <Item type="Property" keyed_name="name" name="name" source_id="CCF205347C814DD1AF056875E0A880AC">
   <property __name="label" en="Name" zc="名称" />
@@ -20967,29 +20967,29 @@
   <property __name="label" en="Not Lockable" zc="" />
  </Item>
  <Item type="Property" keyed_name="owned_by_id" name="owned_by_id" source_id="CCF205347C814DD1AF056875E0A880AC">
-  <property __name="label" en="Assigned Creator" zc="" />
+  <property __name="label" en="Assigned Creator" zc="拥有者" />
  </Item>
  <Item type="Property" keyed_name="permission_id" name="permission_id" source_id="CCF205347C814DD1AF056875E0A880AC"></Item>
  <Item type="Property" keyed_name="release_date" name="release_date" source_id="CCF205347C814DD1AF056875E0A880AC">
-  <property __name="label" en="Release Date" zc="" />
+  <property __name="label" en="Release Date" zc="发行日期" />
  </Item>
  <Item type="Property" keyed_name="shattered_model_file" name="shattered_model_file" source_id="CCF205347C814DD1AF056875E0A880AC">
-  <property __name="label" en="Shattered Model File" zc="" />
+  <property __name="label" en="Shattered Model File" zc="破碎的模型文件" />
  </Item>
  <Item type="Property" keyed_name="state" name="state" source_id="CCF205347C814DD1AF056875E0A880AC">
-  <property __name="label" en="State" zc="" />
+  <property __name="label" en="State" zc="状态" />
  </Item>
  <Item type="Property" keyed_name="superseded_date" name="superseded_date" source_id="CCF205347C814DD1AF056875E0A880AC">
-  <property __name="label" en="Superseded Date" zc="" />
+  <property __name="label" en="Superseded Date" zc="淘汰日期" />
  </Item>
  <Item type="Property" keyed_name="team_id" name="team_id" source_id="CCF205347C814DD1AF056875E0A880AC">
-  <property __name="label" en="Team" zc="" />
+  <property __name="label" en="Team" zc="团队" />
  </Item>
  <Item type="Property" keyed_name="thumbnail" name="thumbnail" source_id="CCF205347C814DD1AF056875E0A880AC">
-  <property __name="label" en="Thumbnail" zc="" />
+  <property __name="label" en="Thumbnail" zc="缩略图" />
  </Item>
  <Item type="Property" keyed_name="view_file" name="view_file" source_id="CCF205347C814DD1AF056875E0A880AC">
-  <property __name="label" en="View File" zc="" />
+  <property __name="label" en="View File" zc="预览文件" />
  </Item>
  <Item type="Property" keyed_name="viewable_file" name="viewable_file" source_id="CCF205347C814DD1AF056875E0A880AC">
   <property __name="label" en="Viewable File" zc="预览文件" />

@@ -119,10 +119,10 @@
  <Item type="Value" keyed_name="C1F15402389546B5A7F19A23AE73D285" config_id="C1F15402389546B5A7F19A23AE73D285">
   <property __name="label" en="Existing" zc="" />
  </Item>
- <Item type="Value" keyed_name="0A158C5BE37C4BCBBBA3FC3AAF259AE0" config_id="0A158C5BE37C4BCBBBA3FC3AAF259AE0">
+ <Item type="Value" keyed_name="D7FB776425944A1487CD58C041836CB8" config_id="D7FB776425944A1487CD58C041836CB8">
   <property __name="label" en="Workflow Task" zc="工作流任务" />
  </Item>
- <Item type="Value" keyed_name="5B06792F3C7E491E8ABEEF2B09D0D8E1" config_id="5B06792F3C7E491E8ABEEF2B09D0D8E1">
+ <Item type="Value" keyed_name="9E79A1837B93439FA430E5149E416BAE" config_id="9E79A1837B93439FA430E5149E416BAE">
   <property __name="label" en="Project Task" zc="项目任务" />
  </Item>
  <Item type="Value" keyed_name="6673DF45F307459AAB6C266D5583F757" config_id="6673DF45F307459AAB6C266D5583F757">

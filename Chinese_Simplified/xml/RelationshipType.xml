@@ -127,7 +127,7 @@
   <property __name="label" en="Affected Relationship Properties" zc="" />
  </Item>
  <Item type="RelationshipType" keyed_name="CAD Instance" config_id="C40317E258D146F89DC0FD9455B5D32F">
-  <property __name="label" en="Instances" zc="" />
+  <property __name="label" en="Instances" zc="实例" />
  </Item>
  <Item type="RelationshipType" keyed_name="Simple MCO File" config_id="F0A553248B4D42F6AF0074EAB2D7B100">
   <property __name="label" en="Attachments" zc="文件" />
@@ -292,7 +292,7 @@
   <property __name="label" en="BOM" zc="" />
  </Item>
  <Item type="RelationshipType" keyed_name="Part CAD" config_id="C65FB7DC8C3A4EFC97A6EE8196C0B448">
-  <property __name="label" en="CAD Documents" zc="" />
+  <property __name="label" en="CAD Documents" zc="文档" />
  </Item>
  <Item type="RelationshipType" keyed_name="Part Changes" config_id="199974B1330640319AD3A39569359E7B">
   <property __name="label" en="Changes" zc="变更" />
@@ -304,7 +304,7 @@
   <property __name="label" en="Goals" zc="目标" />
  </Item>
  <Item type="RelationshipType" keyed_name="Part MultiLevel BOM" config_id="567E4149FBF74DACA0B0C4C9B1E79A3B">
-  <property __name="label" en="BOM Structure" zc="" />
+  <property __name="label" en="BOM Structure" zc="BOM 结构" />
  </Item>
  <Item type="RelationshipType" keyed_name="Part PSW" config_id="DAE45E16B97644EDB5C736AE494AC0B0">
   <property __name="label" en="Part Submission Warrants" zc="零件提交保证书" />
@@ -316,7 +316,7 @@
   <property __name="label" en="" zc="包元素" />
  </Item>
  <Item type="RelationshipType" keyed_name="cmf_TabularViewColumn" config_id="D5AA538EFE2C44A9920CCA136621FD3C">
-  <property __name="label" en="Columns" zc="" />
+  <property __name="label" en="Columns" zc="列" />
  </Item>
  <Item type="RelationshipType" keyed_name="cmf_TabularViewHeaderRows" config_id="AC4BEC3467CD4E6C8E790B5DA45C552F">
   <property __name="label" en="Additional Header Rows" zc="" />
@@ -340,7 +340,7 @@
   <property __name="label" en="PM Project Column Description" zc="" />
  </Item>
  <Item type="RelationshipType" keyed_name="Access_ItemClassification" config_id="FF2004260B83457E9B8811143381039F">
-  <property __name="label" en="Access" zc="" />
+  <property __name="label" en="Access" zc="访问" />
  </Item>
  <Item type="RelationshipType" keyed_name="mpo_MassPromotionRecord" config_id="4186BD8CAD4B48BFA5F9FC34098A2CE7"></Item>
  <Item type="RelationshipType" keyed_name="PackageReferencedElement" config_id="A6680DD3EF8A4BA8AE76670F0865E400">
@@ -558,32 +558,32 @@
   <property __name="label" en="Pre Methods" zc="预先方法" />
  </Item>
  <Item type="RelationshipType" keyed_name="cmf_ComputedProperty" config_id="BAA3A142A4EE4C70929050B63E2A0691">
-  <property __name="label" en="Computed Properties" zc="" />
+  <property __name="label" en="Computed Properties" zc="电脑属性" />
  </Item>
  <Item type="RelationshipType" keyed_name="cmf_PropertyAllowedPermission" config_id="A9A723AD1D284F358FF70CC848AEB983">
-  <property __name="label" en="Allowed Permissions" zc="" />
+  <property __name="label" en="Allowed Permissions" zc="允许权限" />
  </Item>
  <Item type="RelationshipType" keyed_name="ES_CrawlerState" config_id="681C4B7B9F324D5AAD62540686AE3B42">
-  <property __name="label" en="Crawler State" zc="" />
+  <property __name="label" en="Crawler State" zc="爬虫状态" />
  </Item>
  <Item type="RelationshipType" keyed_name="Vendor Part" config_id="D7F2AAA8A14041888BAF4C8EE702C08E">
   <property __name="label" en="Parts" zc="零部件" />
  </Item>
  <Item type="RelationshipType" keyed_name="SelfServiceReportFeatured" config_id="D36E717B22DF49EE94C1B0515089EEEE">
-  <property __name="label" en="Featured Settings" zc="" />
+  <property __name="label" en="Featured Settings" zc="特性设置" />
  </Item>
  <Item type="RelationshipType" keyed_name="RB_CAD_Node_1" config_id="681614B031524F4893C4A617CB799CA2"></Item>
  <Item type="RelationshipType" keyed_name="ReplicationRuleFileType" config_id="7F31C5CA282E4F4F9FE750D7B98CA714">
-  <property __name="label" en="File Types" zc="" />
+  <property __name="label" en="File Types" zc="文件类型" />
  </Item>
  <Item type="RelationshipType" keyed_name="ReplicationRuleTargetVault" config_id="D37AE0EF8ADA4FE3B72F7B8AE4A11853">
-  <property __name="label" en="Target Vaults" zc="" />
+  <property __name="label" en="Target Vaults" zc="目标值" />
  </Item>
  <Item type="RelationshipType" keyed_name="RunReportByUser" config_id="479D74194E674D70A9F3FC35CC2717CF">
   <property __name="label" en="Report Runs By User" zc="" />
  </Item>
  <Item type="RelationshipType" keyed_name="SelfServiceReportSharedWith" config_id="60717005153341B79EF9935A68D9A67D">
-  <property __name="label" en="Shared With" zc="" />
+  <property __name="label" en="Shared With" zc="分享" />
  </Item>
  <Item type="RelationshipType" keyed_name="Life Cycle State" config_id="63D1EF1C149B4A05A75B4FDE0E027ACD">
   <property __name="label" en="State" zc="状态" />
@@ -601,13 +601,13 @@
   <property __name="label" en="Process Variables" zc="流程变量" />
  </Item>
  <Item type="RelationshipType" keyed_name="cmf_ExportToExcelViewConfig" config_id="262557FC1464464ABE8BB7990F75E886">
-  <property __name="label" en="View Configuration" zc="" />
+  <property __name="label" en="View Configuration" zc="查看配置" />
  </Item>
  <Item type="RelationshipType" keyed_name="SystemEventHandler" config_id="6F481B46293145D09FF3647C81F8330D">
-  <property __name="label" en="System Event Handlers" zc="" />
+  <property __name="label" en="System Event Handlers" zc="系统事件处理程序" />
  </Item>
  <Item type="RelationshipType" keyed_name="Project Template Docs" config_id="5F7B368DBC2E41968F83A68B9002D830">
-  <property __name="label" en="Deliverables" zc="" />
+  <property __name="label" en="Deliverables" zc="可交付成果" />
  </Item>
  <Item type="RelationshipType" keyed_name="Project Template Tree" config_id="B62A703513E54471ADCA4CE758F44AF4">
   <property __name="label" en="Project Plan" zc="项目计划" />
@@ -682,7 +682,7 @@
   <property __name="label" en="SignOffs" zc="签审/签审记录" />
  </Item>
  <Item type="RelationshipType" keyed_name="Team Identity" config_id="ECD7C1A4E4464658A99C24B6154F0B15">
-  <property __name="label" en="Team Members" zc="" />
+  <property __name="label" en="Team Members" zc="团队成员" />
  </Item>
  <Item type="RelationshipType" keyed_name="CAD Changes" config_id="D6400AB252214DEBB68D9E6A4D2A78D2">
   <property __name="label" en="Changes" zc="工程图变更信息" />
@@ -691,13 +691,13 @@
   <property __name="label" en="Parents" zc="父阶工程图" />
  </Item>
  <Item type="RelationshipType" keyed_name="CAD Part" config_id="7B6A83878B184D86A09472D856219D81">
-  <property __name="label" en="Parts" zc="" />
+  <property __name="label" en="Parts" zc="零部件" />
  </Item>
  <Item type="RelationshipType" keyed_name="CAD Structure" config_id="70A43676987743D9B82A1751A314C2C8">
   <property __name="label" en="Structure" zc="子阶工程图" />
  </Item>
  <Item type="RelationshipType" keyed_name="CADFiles" config_id="6D93CB6029D141C1998CD833EAA1A0C0">
-  <property __name="label" en="Files" zc="" />
+  <property __name="label" en="Files" zc="文件" />
  </Item>
  <Item type="RelationshipType" keyed_name="cmf_TabularViewColumnGroups" config_id="329BF2C8C947428D8D89464384BA0247">
   <property __name="label" en="Groups" zc="" />

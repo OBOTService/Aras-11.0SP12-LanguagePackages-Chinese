@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <toolbarapplet on_click="onToolbarButtonClick" on_load="onToolbarLoad" buttonstyle="windows" buttonsize="26,25">
 	<toolbar id="normal">
-		<button image="../images/Promote.svg" id="promote" tooltip="Promote Item"/>
+		<button image="../images/Promote.svg" id="promote" tooltip="提升对象"/>
 		<choice id="promote_choice">
 			<choiceitem/>
 		</choice>

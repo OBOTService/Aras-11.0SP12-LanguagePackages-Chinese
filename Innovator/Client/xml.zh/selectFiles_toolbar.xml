@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <toolbarapplet on_load="onToolbarAppletLoad" on_click="onClickItem" buttonstyle="windows" buttonsize="26,25">
 	<toolbar id="toolbar">
-	<button image="../images/ExpandAll.svg" id="expand" tooltip="Expand all">Expand all</button>
-	<button image="../images/CollapseAll.svg" id="collapse" tooltip="Collapse all">Collapse all</button>
+	<button image="../images/ExpandAll.svg" id="expand" tooltip="全部展开">全部展开</button>
+	<button image="../images/CollapseAll.svg" id="collapse" tooltip="全部折叠">全部折叠</button>
 	<separator/>
-	<button image="../images/Checkmark.svg" id="select" tooltip="Select">Select</button>
+	<button image="../images/Checkmark.svg" id="select" tooltip="选择">选择</button>
 	</toolbar>
 </toolbarapplet>

@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<toolbarapplet on_load="onToolbarLoad" on_click="onClickItem" on_change="onChoiceChanged" buttonstyle="windows" buttonsize="26,25">
-	<toolbar id="swtoolbar">
-		<button text="检视" id="view" image="../images/ViewItem.svg" tooltip="检视"/>
-		<button text="打印" id="print" image="../images/Print.svg" tooltip="打印多阶 BOM"/>
-		<button text="上载全部" id="load_all" image="../images/ExpandAll.svg" tooltip="上载全部"/>
-	</toolbar>
-</toolbarapplet>

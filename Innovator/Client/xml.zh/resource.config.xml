@@ -10,6 +10,7 @@
 
 		<resource culture="neutral"/>
 		<resource culture="ja"/>
+                <resource culture="zc"/>
 		<!--resource culture="ru"/--> 
 	</satelliteresources>
 </configuration>

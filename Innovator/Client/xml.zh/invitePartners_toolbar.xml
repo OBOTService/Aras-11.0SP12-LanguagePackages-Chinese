@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <toolbarapplet on_load="onToolbarAppletLoad" on_click="onClickItem" buttonstyle="windows" buttonsize="26,25">
 	<toolbar id="toolbar">
-		<button image="../images/SendEmail.svg" id="send" tooltip="Send invitations">Send invitations</button>
-		<button image="../images/AddEmailAddress.svg" id="add" tooltip="Add email address">Add email address</button>
+		<button image="../images/SendEmail.svg" id="send" tooltip="发送邀请函">发送邀请函</button>
+		<button image="../images/AddEmailAddress.svg" id="add" tooltip="添加电子邮件地址">添加电子邮件地址</button>
 	</toolbar>
 </toolbarapplet>

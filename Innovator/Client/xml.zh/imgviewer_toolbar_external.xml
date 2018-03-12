@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <toolbarapplet on_click="onToolbarBtnClick" on_load="onToolbarLoad" buttonstyle="windows" buttonsize="26,25">
 	<toolbar id="toolbar">
-		<button image="../images/BrowseFolder.svg" id="open" tooltip="Open file" />
-		<edit id="filename" label="File name:" text="" size="35"/>
-		<button image="../images/Refresh.svg" id="refresh" tooltip="Refresh file" />
+		<button image="../images/BrowseFolder.svg" id="open" tooltip="打开文件" />
+		<edit id="filename" label="文件名:" text="" size="35"/>
+		<button image="../images/Refresh.svg" id="refresh" tooltip="刷新" />
 		<separator />
-		<button image="../images/Checkmark.svg" id="ready_btn" tooltip="Return Selected"/>
-		<button image="../images/Delete.svg" id="set_nothing" tooltip="Clear Selection"/>
+		<button image="../images/Checkmark.svg" id="ready_btn" tooltip="确认选中文件"/>
+		<button image="../images/Delete.svg" id="set_nothing" tooltip="清除选中项"/>
 	</toolbar>
 </toolbarapplet>

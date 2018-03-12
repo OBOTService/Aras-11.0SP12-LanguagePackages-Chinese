@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <toolbarapplet on_load="onToolbarLoad" on_click="onClickItem" on_change="onChoiceChanged" buttonstyle="windows" buttonsize="26,25">
 	<toolbar id="swtoolbar">
-		<edit id="source" label="Source Part:" text="" size="15"/>
-		<button text="" id="change_source" image="../images/ExecuteSearch.svg" tooltip="Change Source Part"/>
+		<edit id="source" label="来源料号:" text="" size="15"/>
+		<button text="" id="change_source" image="../images/ExecuteSearch.svg" tooltip="变更来源料号"/>
 		<separator/>
-		<edit id="compare" label="Compare to Part:" text="" size="15"/>
-		<button text="" id="change_compare" image="../images/ExecuteSearch.svg" tooltip="Change Compare Part"/>
+		<edit id="compare" label="比较料号：" text="" size="15"/>
+		<button text="" id="change_compare" image="../images/ExecuteSearch.svg" tooltip="变更比较料号"/>
 		<separator/>
-		<button text="Side by Side" state="0" image="../imagesLegacy/layout0.gif" id="sidebyside"/>
-		<button text="Color Coded" state="0" image="../imagesLegacy/layout1.gif" id="colorcoded"/>
+		<button text="一个对一个比较" state="0" image="../imagesLegacy/layout0.gif" id="sidebyside"/>
+		<button text="颜色代码" state="0" image="../imagesLegacy/layout1.gif" id="colorcoded"/>
 	</toolbar>
 </toolbarapplet>

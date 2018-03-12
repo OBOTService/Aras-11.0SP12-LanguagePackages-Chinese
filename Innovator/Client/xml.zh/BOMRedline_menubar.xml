@@ -5,13 +5,13 @@
   show        = "main_menubar">
 
   <menubar id="main_menubar">
-    <menu id="file_menu" name="File">
-      <item id="exit" name="Exit"/>
+    <menu id="file_menu" name="文件">
+      <item id="exit" name="退出"/>
     </menu>
-    <menu id="view_menu" name="View">
-      <item id="view_redline" name="Redline View"/>
-      <item id="view_existing" name="Existing View"/>
-      <item id="view_proposed" name="Proposed View"/>
+    <menu id="view_menu" name="检视">
+      <item id="view_redline" name="检视红线注记"/>
+      <item id="view_existing" name="检视已存在注记"/>
+      <item id="view_proposed" name="检视计划注记"/>
     </menu>
   </menubar>
 </menuapplet>
