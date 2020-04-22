@@ -3,9 +3,9 @@
 </br>
 效果图
 </br>
-<img src="https://www.obotservice.com/wp-content/uploads/2018/03/obotservice.com_2018-03-07_18-20-50.jpg" alt=""/>
+<img src="https://www.obotservice.com/wp-content/uploads/2019/07/hanhua2-1024x387.png" alt=""/>
 </br>
-<a href="https://www.obotservice.com/archives/742">点击查看汉化视频</a>
+<a href="https://www.obotservice.com/?p=135">点击查看汉化视频</a>
 </br>
 
 如果你已经执行过汉化了，
